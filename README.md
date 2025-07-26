@@ -6,9 +6,9 @@ This project explores global patterns in marriage data based on gender, age grou
 
 Analyze how marriage trends vary across:
 - Different age groups
-- Genders (Male/Female)
+- Genders
 - Countries and regions
-- Time periods (start year – end year)
+- Time periods
 
 This project uses a complete modern data stack:
 
