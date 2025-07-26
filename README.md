@@ -23,7 +23,7 @@ This project uses a complete modern data stack:
 ```
 world-marriage-analysis/
 │
-├── data/                      # Cleaned and raw datasets (not pushed)
+├── data/                      # Cleaned and raw datasets
 ├── notebooks/                 # Jupyter Notebooks for exploration and EDA
 ├── sql/                       # SQL queries for PostgreSQL
 ├── dbt_project/               # dbt models and configs
