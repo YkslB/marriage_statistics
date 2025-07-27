@@ -1,4 +1,4 @@
-entity,code,year,mean_age_of_women_at_first_marriage
+country,code,year,mean_age_of_women_at_first_marriage
 Australia,AUS,1990,24.3
 Australia,AUS,1991,24.5
 Australia,AUS,1992,24.7
