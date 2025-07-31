@@ -26,7 +26,6 @@ world-marriage-analysis/
 ├── data/                      # Cleaned and raw datasets
 ├── notebooks/                 # Jupyter Notebooks for exploration and EDA
 ├── sql/                       # SQL queries for PostgreSQL
-├── dbt_project/               # dbt models and configs
 ├── tableau/                   # Tableau workbooks/screenshots
 ├── scripts/                   # Python scripts for cleaning and loading
 ├── README.md
@@ -37,9 +36,8 @@ world-marriage-analysis/
 
 1. **Clean and prepare the dataset** using Python (pandas)
 2. **Import cleaned data** into PostgreSQL
-3. **Build dbt models** for transforming the data into insights (e.g. summary tables)
-4. **Create Tableau dashboards** visualizing patterns by country, gender, age
-5. **Version control** the entire project with Git and GitHub
+3. **Create Tableau dashboards** visualizing patterns by country, gender, age
+4. **Version control** the entire project with Git and GitHub
 
 ## 💡 Sample Questions
 
@@ -54,7 +52,6 @@ world-marriage-analysis/
 |------------|----------------------------|
 | Python     | Data cleaning and export   |
 | PostgreSQL | Data storage and queries   |
-| dbt        | Data modeling and logic    |
 | Tableau    | Data visualization         |
 | GitHub     | Collaboration & versioning |
 | VSCode     | Code development           |
