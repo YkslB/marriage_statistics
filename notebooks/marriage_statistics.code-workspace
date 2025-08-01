@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../nf-da-onl-en-270525-da-sql-module"
+		},
+		{
+			"path": "../../nf-da-onl-en-270525-analytics-engineering"
+		}
+	],
+	"settings": {}
+}
