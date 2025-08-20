@@ -1,50 +1,3137 @@
-country,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,1985,1986,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
-Australia,3.45,3.55,3.43,3.34,3.15,2.97,2.89,2.85,2.89,2.89,2.86,2.95,2.74,2.49,2.32,2.15,2.06,2.01,1.95,1.91,1.89,1.94,1.93,1.92,1.84,1.92,1.87,1.85,1.83,1.84,1.9,1.85,1.89,1.86,1.84,1.82,1.8,1.78,1.76,1.76,1.76,1.73,1.77,1.77,1.78,1.85,1.88,1.99,2.02,1.97,1.95,1.92,1.93,1.88,1.79,1.79,1.79,1.74,1.74,1.67,1.59,1.7,1.63,1.5
-Austria,2.69,2.78,2.8,2.82,2.79,2.7,2.66,2.62,2.58,2.49,2.29,2.2,2.08,1.94,1.91,1.83,1.69,1.63,1.6,1.6,1.65,1.67,1.66,1.56,1.52,1.47,1.45,1.43,1.45,1.45,1.46,1.51,1.51,1.5,1.47,1.42,1.45,1.39,1.37,1.34,1.36,1.33,1.39,1.38,1.42,1.41,1.41,1.39,1.42,1.4,1.44,1.43,1.44,1.44,1.46,1.49,1.53,1.52,1.48,1.46,1.44,1.48,1.41,1.32
-Belgium,2.54,2.63,2.59,2.68,2.71,2.61,2.52,2.41,2.31,2.27,2.25,2.21,2.09,1.95,1.83,1.74,1.73,1.71,1.69,1.69,1.68,1.66,1.61,1.57,1.54,1.51,1.54,1.54,1.57,1.58,1.62,1.66,1.65,1.61,1.56,1.56,1.59,1.6,1.6,1.62,1.67,1.67,1.65,1.67,1.72,1.76,1.8,1.82,1.85,1.84,1.86,1.81,1.8,1.76,1.74,1.7,1.68,1.65,1.62,1.6,1.55,1.6,1.53,1.47
-Canada,3.9,3.84,3.76,3.67,3.5,3.15,2.81,2.6,2.45,2.41,2.33,2.19,2.02,1.93,1.82,1.8,1.76,1.75,1.7,1.7,1.68,1.65,1.64,1.63,1.63,1.61,1.59,1.58,1.6,1.66,1.71,1.72,1.71,1.69,1.69,1.67,1.63,1.57,1.56,1.55,1.51,1.54,1.52,1.55,1.56,1.58,1.63,1.67,1.7,1.69,1.65,1.63,1.63,1.61,1.61,1.6,1.59,1.55,1.51,1.47,1.41,1.44,1.33,1.26
-Chile,4.7,4.66,4.6,4.54,4.46,4.36,4.26,4.14,4.03,3.9,3.78,3.65,3.53,3.41,3.29,3.18,3.08,2.98,2.89,2.81,2.74,2.69,2.65,2.62,2.6,2.59,2.59,2.59,2.59,2.59,2.58,2.56,2.53,2.48,2.43,2.37,2.31,2.24,2.17,2.11,2.06,2.01,1.97,1.94,1.92,1.91,1.9,1.9,1.9,1.89,1.88,1.82,1.8,1.79,1.77,1.74,1.69,1.56,1.54,1.43,1.31,1.18,1.26,1.17
-Colombia,6.74,6.71,6.66,6.58,6.48,6.33,6.16,5.96,5.74,5.51,5.28,5.06,4.86,4.68,4.53,4.4,4.29,4.16,4.0,3.89,3.8,3.71,3.62,3.5,3.35,3.23,3.15,3.09,3.04,3.01,3.0,2.98,2.98,2.98,2.94,2.85,2.77,2.74,2.72,2.64,2.57,2.52,2.49,2.45,2.38,2.31,2.24,2.2,2.16,2.1,2.01,1.94,1.9,1.86,1.82,1.77,1.72,1.72,1.72,1.71,1.69,1.68,1.66,1.65
-Costa Rica,6.71,6.65,6.54,6.39,6.19,5.96,5.7,5.42,5.03,4.84,4.59,4.36,4.16,3.99,3.89,3.8,3.75,3.7,3.66,3.65,3.58,3.56,3.54,3.53,3.52,3.51,3.45,3.38,3.31,3.24,3.17,3.08,3.0,2.93,2.86,2.78,2.68,2.59,2.53,2.48,2.41,2.31,2.16,2.08,2.03,2.04,1.94,1.95,1.98,1.95,1.83,1.88,1.85,1.78,1.8,1.8,1.75,1.71,1.71,1.6,1.45,1.35,1.34,1.33
-Czechia,2.11,2.13,2.14,2.33,2.36,2.18,2.01,1.9,1.83,1.86,1.91,1.98,2.07,2.29,2.43,2.4,2.36,2.32,2.32,2.29,2.1,2.02,2.01,1.96,1.97,1.96,1.94,1.91,1.94,1.87,1.89,1.86,1.72,1.67,1.44,1.28,1.19,1.17,1.16,1.13,1.14,1.15,1.17,1.18,1.23,1.28,1.33,1.44,1.5,1.49,1.49,1.43,1.45,1.46,1.53,1.57,1.63,1.69,1.71,1.71,1.71,1.83,1.62,1.45
-Denmark,2.54,2.55,2.54,2.64,2.6,2.61,2.62,2.35,2.12,2.0,1.95,2.04,2.03,1.92,1.9,1.92,1.75,1.66,1.67,1.6,1.55,1.44,1.43,1.38,1.4,1.45,1.48,1.5,1.56,1.62,1.67,1.68,1.76,1.75,1.81,1.81,1.75,1.76,1.73,1.74,1.77,1.75,1.72,1.76,1.79,1.8,1.85,1.84,1.89,1.84,1.87,1.75,1.73,1.67,1.69,1.71,1.79,1.75,1.73,1.7,1.67,1.72,1.55,1.5
-Estonia,1.98,1.98,1.95,1.89,1.94,1.88,1.87,1.9,2.03,2.13,2.17,2.19,2.13,2.06,2.07,2.04,2.07,2.06,2.02,2.0,2.02,2.07,2.08,2.16,2.17,2.12,2.17,2.26,2.26,2.22,2.05,1.8,1.71,1.49,1.42,1.38,1.37,1.32,1.28,1.3,1.36,1.32,1.36,1.36,1.47,1.52,1.58,1.69,1.72,1.7,1.72,1.61,1.56,1.52,1.54,1.58,1.6,1.59,1.67,1.66,1.58,1.61,1.41,1.31
-Finland,2.71,2.65,2.66,2.66,2.58,2.46,2.41,2.32,2.15,1.94,1.83,1.7,1.59,1.5,1.62,1.69,1.72,1.69,1.65,1.64,1.63,1.65,1.72,1.74,1.7,1.64,1.6,1.59,1.7,1.71,1.79,1.8,1.85,1.81,1.85,1.81,1.76,1.75,1.71,1.73,1.73,1.73,1.72,1.76,1.8,1.8,1.84,1.83,1.85,1.86,1.87,1.83,1.8,1.75,1.71,1.65,1.57,1.49,1.41,1.35,1.37,1.46,1.32,1.26
-France,2.74,2.82,2.8,2.9,2.91,2.85,2.8,2.67,2.59,2.53,2.48,2.5,2.42,2.31,2.11,1.93,1.83,1.86,1.82,1.86,1.95,1.95,1.91,1.78,1.8,1.81,1.83,1.8,1.81,1.79,1.78,1.77,1.73,1.66,1.68,1.73,1.75,1.75,1.78,1.81,1.89,1.9,1.88,1.89,1.92,1.94,2.0,1.98,2.01,2.0,2.03,2.01,2.01,1.99,2.0,1.96,1.92,1.89,1.87,1.86,1.82,1.83,1.78,1.66
-Germany,2.37,2.44,2.44,2.51,2.53,2.5,2.51,2.45,2.36,2.21,2.03,1.97,1.74,1.56,1.53,1.48,1.51,1.51,1.5,1.5,1.56,1.53,1.51,1.43,1.39,1.37,1.41,1.43,1.46,1.42,1.45,1.33,1.29,1.28,1.24,1.25,1.32,1.37,1.36,1.36,1.38,1.35,1.34,1.34,1.36,1.34,1.33,1.37,1.38,1.36,1.39,1.39,1.41,1.42,1.47,1.5,1.59,1.57,1.57,1.54,1.53,1.58,1.46,1.35
-Greece,2.23,2.13,2.16,2.14,2.24,2.25,2.32,2.45,2.42,2.36,2.4,2.32,2.32,2.27,2.38,2.33,2.35,2.27,2.28,2.26,2.23,2.1,2.03,1.94,1.82,1.68,1.6,1.5,1.5,1.4,1.39,1.37,1.36,1.32,1.33,1.28,1.26,1.27,1.24,1.23,1.25,1.25,1.28,1.29,1.31,1.34,1.4,1.41,1.5,1.5,1.48,1.4,1.34,1.29,1.3,1.33,1.38,1.35,1.35,1.34,1.39,1.43,1.32,1.26
-Hungary,2.02,1.94,1.79,1.82,1.8,1.81,1.88,2.01,2.06,2.04,1.97,1.92,1.93,1.95,2.3,2.38,2.26,2.17,2.08,2.02,1.92,1.88,1.78,1.73,1.73,1.83,1.83,1.81,1.79,1.78,1.84,1.86,1.77,1.69,1.64,1.57,1.46,1.38,1.33,1.29,1.33,1.31,1.3,1.27,1.27,1.3,1.34,1.31,1.35,1.32,1.25,1.23,1.34,1.34,1.42,1.45,1.51,1.51,1.5,1.51,1.59,1.61,1.55,1.51
-Iceland,4.27,3.88,3.98,3.98,3.86,3.71,3.58,3.28,3.07,2.99,2.81,2.92,3.09,2.95,2.66,2.65,2.52,2.31,2.35,2.49,2.48,2.33,2.26,2.24,2.08,1.93,1.93,2.07,2.27,2.2,2.31,2.19,2.21,2.22,2.14,2.08,2.12,2.04,2.05,1.99,2.08,1.95,1.93,1.99,2.03,2.05,2.07,2.09,2.14,2.22,2.2,2.01,2.11,2.0,1.99,1.86,1.8,1.76,1.76,1.81,1.79,1.9,1.67,1.59
-Ireland,3.76,3.79,3.92,4.01,4.06,4.03,3.95,3.84,3.78,3.85,3.87,3.98,3.88,3.74,3.62,3.4,3.31,3.27,3.24,3.23,3.23,3.07,2.96,2.76,2.59,2.5,2.44,2.31,2.17,2.08,2.12,2.09,1.99,1.91,1.85,1.85,1.89,1.94,1.95,1.91,1.9,1.96,1.98,1.98,1.95,1.88,1.94,2.01,2.06,2.06,2.05,2.03,1.98,1.93,1.89,1.85,1.82,1.78,1.75,1.7,1.63,1.72,1.7,1.5
-Italy,2.41,2.41,2.46,2.56,2.7,2.67,2.63,2.54,2.49,2.51,2.43,2.41,2.36,2.34,2.33,2.21,2.11,1.97,1.87,1.76,1.68,1.6,1.6,1.54,1.48,1.45,1.37,1.35,1.38,1.35,1.36,1.33,1.32,1.26,1.22,1.19,1.22,1.23,1.21,1.23,1.26,1.25,1.27,1.29,1.34,1.33,1.37,1.39,1.44,1.44,1.44,1.42,1.42,1.39,1.38,1.36,1.36,1.34,1.31,1.27,1.24,1.25,1.24,1.2
-Japan,2.0,1.96,1.98,2.0,2.05,2.14,1.58,2.23,2.13,2.13,2.13,2.16,2.14,2.14,2.05,1.91,1.85,1.8,1.79,1.77,1.75,1.74,1.77,1.8,1.81,1.76,1.72,1.69,1.66,1.57,1.54,1.53,1.5,1.46,1.5,1.42,1.43,1.39,1.38,1.34,1.36,1.33,1.32,1.29,1.29,1.26,1.32,1.34,1.37,1.37,1.39,1.39,1.41,1.43,1.42,1.45,1.44,1.43,1.42,1.36,1.33,1.3,1.26,1.2
-Korea,6.0,5.8,5.6,5.4,5.2,5.0,4.8,4.66,4.52,4.53,4.53,4.54,4.12,4.07,3.77,3.43,3.0,2.99,2.64,2.9,2.82,2.57,2.39,2.06,1.74,1.66,1.58,1.53,1.55,1.56,1.57,1.71,1.76,1.65,1.66,1.63,1.57,1.54,1.46,1.43,1.48,1.31,1.18,1.19,1.16,1.09,1.13,1.26,1.19,1.15,1.23,1.24,1.3,1.19,1.21,1.24,1.17,1.05,0.98,0.92,0.84,0.81,0.78,0.72
-Latvia,1.94,1.94,1.91,1.85,1.79,1.74,1.76,1.8,1.83,1.88,2.02,2.04,2.03,1.96,2.0,1.97,1.93,1.89,1.87,1.87,1.9,1.9,1.98,2.13,2.15,2.09,2.21,2.21,2.16,2.05,2.01,1.86,1.73,1.51,1.39,1.26,1.16,1.11,1.1,1.18,1.25,1.22,1.26,1.32,1.29,1.39,1.46,1.54,1.58,1.46,1.36,1.33,1.44,1.52,1.65,1.7,1.74,1.69,1.6,1.61,1.55,1.57,1.47,1.36
-Lithuania,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.41,2.34,2.22,2.21,2.18,2.18,2.14,2.08,2.05,1.99,1.98,1.97,2.1,2.07,2.08,2.12,2.11,2.02,1.98,2.03,2.01,1.97,1.74,1.57,1.55,1.49,1.47,1.46,1.46,1.39,1.29,1.23,1.26,1.27,1.29,1.33,1.36,1.45,1.5,1.5,1.55,1.6,1.59,1.57,1.63,1.63,1.57,1.53,1.43,1.36,1.36,1.27,1.18
-Luxembourg,2.28,2.33,2.35,2.33,2.38,2.42,2.37,2.25,2.13,2.02,1.98,1.96,1.75,1.58,1.58,1.55,1.48,1.49,1.47,1.47,1.5,1.55,1.49,1.44,1.42,1.38,1.44,1.39,1.51,1.52,1.62,1.6,1.67,1.69,1.72,1.67,1.76,1.71,1.67,1.71,1.78,1.66,1.63,1.62,1.66,1.62,1.64,1.61,1.6,1.59,1.63,1.51,1.57,1.55,1.5,1.47,1.41,1.39,1.38,1.34,1.36,1.38,1.31,1.25
-Mexico,6.77,6.76,6.76,6.75,6.75,6.76,6.77,6.79,6.81,6.83,6.83,6.79,6.7,6.56,6.37,6.13,5.86,5.59,5.32,5.06,4.84,4.64,4.46,4.3,4.15,4.02,3.9,3.79,3.68,3.57,3.47,3.37,3.27,3.18,3.1,3.02,2.95,2.88,2.82,2.77,2.72,2.67,2.62,2.58,2.54,2.5,2.46,2.42,2.39,2.36,2.34,2.32,2.29,2.27,2.21,2.14,2.09,2.04,2.03,2.02,1.99,1.97,1.94,1.91
-Netherlands,3.12,3.22,3.18,3.19,3.17,3.04,2.9,2.81,2.72,2.75,2.57,2.36,2.15,1.9,1.77,1.66,1.63,1.58,1.58,1.56,1.6,1.56,1.5,1.47,1.49,1.51,1.55,1.56,1.55,1.55,1.62,1.61,1.59,1.57,1.57,1.53,1.53,1.56,1.63,1.65,1.72,1.71,1.73,1.75,1.73,1.71,1.72,1.72,1.77,1.79,1.8,1.76,1.72,1.68,1.71,1.66,1.66,1.62,1.59,1.57,1.54,1.62,1.48,1.43
-New Zealand,4.24,4.31,4.19,4.05,3.8,3.54,3.41,3.35,3.34,3.28,3.17,3.18,3.0,2.76,2.58,2.37,2.27,2.21,2.07,2.12,2.03,2.01,1.95,1.92,1.93,1.93,1.96,2.03,2.1,2.12,2.18,2.09,2.06,2.04,1.98,1.98,1.96,1.96,1.89,1.97,1.98,1.97,1.89,1.93,1.98,1.97,2.01,2.18,2.19,2.13,2.17,2.09,2.1,2.01,1.92,1.99,1.87,1.81,1.71,1.72,1.61,1.64,1.66,1.56
-Norway,2.91,2.94,2.91,2.93,2.98,2.94,2.9,2.81,2.75,2.69,2.5,2.49,2.38,2.23,2.13,1.98,1.86,1.75,1.77,1.75,1.72,1.7,1.71,1.66,1.66,1.68,1.71,1.75,1.84,1.89,1.93,1.92,1.89,1.86,1.87,1.87,1.89,1.86,1.81,1.85,1.85,1.78,1.75,1.8,1.83,1.84,1.9,1.9,1.96,1.98,1.95,1.88,1.85,1.78,1.76,1.73,1.71,1.62,1.56,1.53,1.48,1.55,1.41,1.4
-Poland,2.98,2.83,2.72,2.7,2.57,2.52,2.34,2.33,2.24,2.2,2.2,2.25,2.24,2.26,2.26,2.27,2.3,2.23,2.21,2.28,2.28,2.24,2.34,2.42,2.37,2.33,2.22,2.15,2.13,2.07,1.99,1.98,1.85,1.77,1.72,1.55,1.53,1.47,1.41,1.37,1.37,1.32,1.25,1.22,1.23,1.24,1.27,1.31,1.39,1.4,1.38,1.3,1.3,1.26,1.29,1.29,1.36,1.45,1.44,1.42,1.39,1.33,1.26,1.16
-Portugal,3.1,3.16,3.21,3.11,3.21,3.14,3.12,3.08,3.0,2.95,2.83,2.78,2.69,2.65,2.6,2.58,2.58,2.48,2.28,2.17,2.18,2.13,2.07,1.95,1.9,1.72,1.66,1.62,1.62,1.58,1.56,1.56,1.53,1.51,1.44,1.41,1.44,1.47,1.48,1.51,1.56,1.46,1.47,1.44,1.41,1.42,1.38,1.35,1.4,1.35,1.39,1.35,1.29,1.21,1.23,1.31,1.36,1.38,1.42,1.43,1.41,1.35,1.42,1.44
-Slovak Republic,3.07,2.96,2.83,2.93,2.91,2.8,2.67,2.49,2.4,2.43,2.4,2.43,2.49,2.56,2.6,2.53,2.52,2.47,2.45,2.44,2.31,2.28,2.27,2.27,2.25,2.25,2.2,2.14,2.15,2.08,2.09,2.05,1.99,1.93,1.67,1.52,1.47,1.43,1.37,1.33,1.29,1.2,1.19,1.2,1.24,1.25,1.24,1.25,1.32,1.41,1.4,1.45,1.34,1.34,1.37,1.4,1.48,1.52,1.54,1.57,1.59,1.63,1.57,1.49
-Slovenia,2.18,2.26,2.27,2.28,2.32,2.45,2.48,2.38,2.28,2.17,2.21,2.16,2.14,2.18,2.1,2.16,2.17,2.16,2.19,2.22,2.11,1.96,1.93,1.82,1.75,1.72,1.65,1.64,1.63,1.52,1.46,1.42,1.34,1.33,1.32,1.29,1.28,1.25,1.23,1.21,1.26,1.21,1.21,1.2,1.25,1.26,1.31,1.38,1.53,1.53,1.57,1.56,1.58,1.55,1.58,1.57,1.58,1.62,1.6,1.61,1.59,1.64,1.55,1.51
-Spain,2.86,2.76,2.8,2.88,3.01,2.94,2.99,3.03,2.96,2.93,2.9,2.88,2.86,2.84,2.89,2.8,2.8,2.67,2.55,2.37,2.22,2.04,1.94,1.8,1.73,1.64,1.56,1.5,1.45,1.4,1.36,1.33,1.32,1.27,1.2,1.17,1.16,1.18,1.16,1.19,1.23,1.24,1.25,1.3,1.31,1.33,1.36,1.38,1.45,1.38,1.37,1.34,1.32,1.27,1.32,1.33,1.34,1.31,1.26,1.23,1.19,1.19,1.16,1.12
-Sweden,2.2,2.23,2.26,2.34,2.48,2.42,2.36,2.27,2.07,1.93,1.94,1.96,1.91,1.86,1.87,1.77,1.68,1.64,1.6,1.66,1.68,1.63,1.62,1.61,1.65,1.73,1.79,1.84,1.96,2.02,2.14,2.12,2.09,2.0,1.89,1.74,1.61,1.53,1.51,1.5,1.55,1.57,1.65,1.72,1.75,1.77,1.85,1.88,1.91,1.94,1.98,1.9,1.91,1.89,1.88,1.85,1.85,1.78,1.75,1.7,1.66,1.67,1.52,1.45
-Switzerland,2.44,2.53,2.6,2.67,2.68,2.61,2.52,2.41,2.3,2.19,2.1,2.04,1.91,1.81,1.73,1.61,1.55,1.53,1.51,1.52,1.55,1.55,1.56,1.52,1.53,1.52,1.53,1.52,1.57,1.56,1.59,1.58,1.58,1.51,1.49,1.48,1.5,1.48,1.47,1.48,1.5,1.38,1.39,1.39,1.42,1.42,1.44,1.46,1.48,1.5,1.54,1.52,1.53,1.52,1.54,1.54,1.54,1.52,1.52,1.48,1.46,1.52,1.39,1.33
-Türkiye,6.4,6.33,6.26,6.19,6.01,5.84,5.66,5.49,5.31,5.18,5.0,5.0,5.0,5.59,5.46,5.32,5.19,4.9,5.05,4.84,4.63,4.41,4.2,4.11,3.93,3.76,3.58,3.4,3.29,3.39,3.07,3.0,2.93,2.87,2.81,2.75,2.69,2.63,2.56,2.48,2.27,2.37,2.17,2.09,2.11,2.12,2.12,2.16,2.15,2.1,2.08,2.05,2.11,2.11,2.19,2.16,2.11,2.08,2.0,1.89,1.77,1.71,1.63,1.51
-United States,3.65,3.62,3.46,3.32,3.19,2.91,2.72,2.56,2.46,2.46,2.48,2.27,2.01,1.88,1.84,1.77,1.74,1.79,1.76,1.81,1.84,1.81,1.83,1.8,1.81,1.84,1.84,1.87,1.93,2.01,2.08,2.06,2.05,2.02,2.0,1.98,1.98,1.97,2.0,2.01,2.06,2.03,2.01,2.04,2.05,2.06,2.11,2.12,2.07,2.0,1.93,1.89,1.88,1.86,1.86,1.84,1.82,1.77,1.73,1.71,1.64,1.66,1.66,1.62
-OECD-38,3.34,3.33,3.3,3.3,3.28,3.2,3.1,3.03,2.95,2.89,2.84,2.8,2.71,2.63,2.58,2.5,2.43,2.36,2.3,2.28,2.25,2.19,2.15,2.11,2.06,2.03,2.01,1.99,2.0,1.98,1.98,1.95,1.92,1.86,1.81,1.77,1.75,1.72,1.7,1.69,1.7,1.66,1.65,1.66,1.67,1.67,1.7,1.73,1.76,1.75,1.75,1.71,1.71,1.68,1.68,1.68,1.68,1.65,1.63,1.59,1.55,1.57,1.5,1.43
-Brazil,6.05,6.02,5.98,5.93,5.82,5.68,5.52,5.34,5.17,5.04,4.93,4.84,4.74,4.64,4.5,4.42,4.34,4.27,4.2,4.12,4.04,3.94,3.84,3.72,3.6,3.48,3.36,3.23,3.11,3.01,2.9,2.81,2.71,2.66,2.6,2.57,2.51,2.47,2.42,2.34,2.25,2.16,2.08,2.01,1.97,1.94,1.9,1.85,1.82,1.8,1.79,1.78,1.77,1.76,1.78,1.78,1.73,1.74,1.74,1.71,1.65,1.64,1.63,1.62
-China,4.45,3.86,6.09,7.51,6.67,6.61,6.31,5.81,6.51,6.18,6.09,5.52,5.11,4.73,4.17,3.57,3.24,2.84,2.72,2.75,2.74,2.79,2.97,2.56,2.61,2.63,2.72,2.76,2.54,2.52,2.51,1.93,1.78,1.69,1.63,1.59,1.55,1.53,1.52,1.53,1.63,1.56,1.57,1.57,1.61,1.62,1.64,1.67,1.7,1.71,1.69,1.67,1.8,1.71,1.77,1.67,1.77,1.8,1.54,1.5,1.24,1.12,1.03,1.0
-India,5.92,5.94,5.95,5.97,5.98,5.94,5.88,5.83,5.76,5.68,5.62,5.57,5.48,5.4,5.33,5.2,5.13,5.01,4.89,4.81,4.78,4.7,4.62,4.57,4.52,4.43,4.4,4.31,4.22,4.13,4.05,3.96,3.88,3.8,3.72,3.65,3.58,3.51,3.45,3.38,3.35,3.3,3.22,3.12,3.05,2.96,2.87,2.78,2.71,2.67,2.6,2.53,2.47,2.4,2.29,2.29,2.28,2.19,2.18,2.12,2.05,2.01,1.99,1.98
-Indonesia,5.51,5.52,5.53,5.55,5.57,5.59,5.59,5.58,5.57,5.55,5.49,5.4,5.32,5.25,5.09,5.03,4.92,4.81,4.73,4.63,4.5,4.36,4.25,4.11,3.96,3.73,3.53,3.42,3.35,3.25,3.11,3.06,2.95,2.9,2.85,2.81,2.78,2.74,2.66,2.57,2.5,2.47,2.44,2.41,2.42,2.45,2.46,2.48,2.44,2.44,2.46,2.52,2.51,2.44,2.39,2.35,2.31,2.25,2.22,2.21,2.19,2.17,2.15,2.13
-Peru,6.94,6.92,6.9,6.86,6.81,6.75,6.68,6.6,6.51,6.42,6.32,6.21,6.09,5.97,5.84,5.71,5.58,5.44,5.31,5.17,5.04,4.92,4.8,4.68,4.57,4.46,4.35,4.25,4.14,4.03,3.91,3.79,3.67,3.55,3.43,3.32,3.2,3.1,3.0,2.92,2.85,2.74,2.69,2.66,2.67,2.64,2.62,2.58,2.53,2.48,2.42,2.41,2.36,2.32,2.27,2.23,2.19,2.15,2.12,2.09,2.06,2.03,2.0,1.98
-South Africa,6.11,6.08,6.05,6.01,5.96,5.89,5.91,5.85,5.78,5.72,5.63,5.57,5.49,5.41,5.3,5.19,5.07,4.94,4.85,4.82,4.78,4.71,4.7,4.63,4.57,4.5,4.41,4.35,4.18,3.98,3.72,3.62,3.48,3.37,3.26,3.17,2.99,2.73,2.63,2.56,2.41,2.37,2.32,2.36,2.44,2.51,2.55,2.55,2.68,2.5,2.45,2.44,2.45,2.43,2.42,2.36,2.26,2.28,2.27,2.26,2.26,2.25,2.23,2.22
-Thailand,6.33,6.32,6.33,6.34,6.31,6.26,6.18,6.08,5.93,5.7,5.45,5.25,5.08,4.85,4.6,4.36,4.12,3.87,3.62,3.45,3.29,3.13,2.94,2.76,2.58,2.45,2.36,2.26,2.17,2.14,2.07,2.04,2.01,1.97,1.93,1.89,1.87,1.85,1.82,1.77,1.73,1.71,1.69,1.67,1.67,1.64,1.63,1.62,1.59,1.57,1.56,1.57,1.56,1.53,1.48,1.45,1.4,1.36,1.32,1.29,1.26,1.23,1.22,1.21
-Argentina,3.14,3.12,3.13,3.11,3.08,3.01,2.97,2.98,3.01,3.05,3.09,3.11,3.14,3.17,3.22,3.27,3.32,3.36,3.36,3.34,3.3,3.25,3.2,3.15,3.12,3.07,3.05,3.04,3.05,3.02,3.03,3.01,2.99,2.97,2.94,2.86,2.78,2.71,2.66,2.64,2.59,2.53,2.49,2.45,2.43,2.43,2.4,2.37,2.43,2.4,2.41,2.39,2.3,2.34,2.39,2.35,2.24,2.17,2.07,1.88,1.6,1.59,1.48,1.5
-Saudi Arabia,7.63,7.63,7.64,7.65,7.67,7.66,7.66,7.66,7.63,7.6,7.58,7.56,7.54,7.48,7.43,7.37,7.33,7.3,7.26,7.23,7.15,7.07,6.98,6.88,6.78,6.65,6.52,6.34,6.15,5.98,5.8,5.64,5.49,5.33,5.16,4.99,4.81,4.66,4.52,4.35,4.21,3.96,3.71,3.47,3.26,3.16,3.18,3.19,3.07,2.95,2.81,2.8,2.78,2.67,2.68,2.63,2.65,2.67,2.67,2.49,2.27,2.17,2.14,2.28
-Bulgaria,2.31,2.29,2.24,2.21,2.19,2.09,2.03,2.02,2.27,2.27,2.17,2.1,2.03,2.15,2.29,2.23,2.24,2.21,2.15,2.16,2.05,2.0,2.01,2.01,2.01,1.97,2.02,1.96,1.97,1.9,1.82,1.66,1.55,1.46,1.37,1.23,1.23,1.09,1.11,1.23,1.26,1.21,1.21,1.23,1.29,1.32,1.38,1.49,1.56,1.66,1.57,1.51,1.5,1.54,1.62,1.64,1.67,1.71,1.73,1.79,1.77,1.8,1.78,1.81
-Croatia,2.2,2.19,2.17,2.12,2.12,2.21,2.21,2.07,1.99,1.91,1.83,1.95,1.97,1.98,1.95,1.92,1.9,1.91,1.92,1.94,1.92,1.91,1.9,1.88,1.87,1.81,1.76,1.74,1.74,1.67,1.67,1.55,1.39,1.43,1.43,1.5,1.64,1.69,1.45,1.38,1.39,1.46,1.42,1.41,1.43,1.5,1.47,1.48,1.55,1.58,1.55,1.48,1.51,1.46,1.46,1.4,1.42,1.42,1.47,1.47,1.56,1.63,1.53,1.47
-EU-27 average,2.62,2.62,2.61,2.65,2.67,2.62,2.58,2.53,2.45,2.41,2.37,2.36,2.29,2.23,2.23,2.18,2.14,2.09,2.05,2.03,2.0,1.95,1.93,1.89,1.87,1.84,1.84,1.82,1.83,1.79,1.78,1.73,1.7,1.62,1.57,1.51,1.5,1.48,1.45,1.45,1.47,1.44,1.44,1.45,1.47,1.48,1.51,1.54,1.59,1.59,1.58,1.54,1.54,1.52,1.54,1.54,1.57,1.55,1.54,1.52,1.51,1.54,1.46,1.39
+country,year,indicator,unit,value,source
+Australia,1960,total_fertility_rate,%,3.45,OECD
+Austria,1960,total_fertility_rate,%,2.69,OECD
+Belgium,1960,total_fertility_rate,%,2.54,OECD
+Canada,1960,total_fertility_rate,%,3.9,OECD
+Chile,1960,total_fertility_rate,%,4.7,OECD
+Colombia,1960,total_fertility_rate,%,6.74,OECD
+Costa Rica,1960,total_fertility_rate,%,6.71,OECD
+Czechia,1960,total_fertility_rate,%,2.11,OECD
+Denmark,1960,total_fertility_rate,%,2.54,OECD
+Estonia,1960,total_fertility_rate,%,1.98,OECD
+Finland,1960,total_fertility_rate,%,2.71,OECD
+France,1960,total_fertility_rate,%,2.74,OECD
+Germany,1960,total_fertility_rate,%,2.37,OECD
+Greece,1960,total_fertility_rate,%,2.23,OECD
+Hungary,1960,total_fertility_rate,%,2.02,OECD
+Iceland,1960,total_fertility_rate,%,4.27,OECD
+Ireland,1960,total_fertility_rate,%,3.76,OECD
+Italy,1960,total_fertility_rate,%,2.41,OECD
+Japan,1960,total_fertility_rate,%,2.0,OECD
+Korea,1960,total_fertility_rate,%,6.0,OECD
+Latvia,1960,total_fertility_rate,%,1.94,OECD
+Lithuania,1960,total_fertility_rate,%,2.4,OECD
+Luxembourg,1960,total_fertility_rate,%,2.28,OECD
+Mexico,1960,total_fertility_rate,%,6.77,OECD
+Netherlands,1960,total_fertility_rate,%,3.12,OECD
+New Zealand,1960,total_fertility_rate,%,4.24,OECD
+Norway,1960,total_fertility_rate,%,2.91,OECD
+Poland,1960,total_fertility_rate,%,2.98,OECD
+Portugal,1960,total_fertility_rate,%,3.1,OECD
+Slovak Republic,1960,total_fertility_rate,%,3.07,OECD
+Slovenia,1960,total_fertility_rate,%,2.18,OECD
+Spain,1960,total_fertility_rate,%,2.86,OECD
+Sweden,1960,total_fertility_rate,%,2.2,OECD
+Switzerland,1960,total_fertility_rate,%,2.44,OECD
+Türkiye,1960,total_fertility_rate,%,6.4,OECD
+United States,1960,total_fertility_rate,%,3.65,OECD
+OECD-38,1960,total_fertility_rate,%,3.34,OECD
+Brazil,1960,total_fertility_rate,%,6.05,OECD
+China,1960,total_fertility_rate,%,4.45,OECD
+India,1960,total_fertility_rate,%,5.92,OECD
+Indonesia,1960,total_fertility_rate,%,5.51,OECD
+Peru,1960,total_fertility_rate,%,6.94,OECD
+South Africa,1960,total_fertility_rate,%,6.11,OECD
+Thailand,1960,total_fertility_rate,%,6.33,OECD
+Argentina,1960,total_fertility_rate,%,3.14,OECD
+Saudi Arabia,1960,total_fertility_rate,%,7.63,OECD
+Bulgaria,1960,total_fertility_rate,%,2.31,OECD
+Croatia,1960,total_fertility_rate,%,2.2,OECD
+EU-27 average,1960,total_fertility_rate,%,2.62,OECD
+Australia,1961,total_fertility_rate,%,3.55,OECD
+Austria,1961,total_fertility_rate,%,2.78,OECD
+Belgium,1961,total_fertility_rate,%,2.63,OECD
+Canada,1961,total_fertility_rate,%,3.84,OECD
+Chile,1961,total_fertility_rate,%,4.66,OECD
+Colombia,1961,total_fertility_rate,%,6.71,OECD
+Costa Rica,1961,total_fertility_rate,%,6.65,OECD
+Czechia,1961,total_fertility_rate,%,2.13,OECD
+Denmark,1961,total_fertility_rate,%,2.55,OECD
+Estonia,1961,total_fertility_rate,%,1.98,OECD
+Finland,1961,total_fertility_rate,%,2.65,OECD
+France,1961,total_fertility_rate,%,2.82,OECD
+Germany,1961,total_fertility_rate,%,2.44,OECD
+Greece,1961,total_fertility_rate,%,2.13,OECD
+Hungary,1961,total_fertility_rate,%,1.94,OECD
+Iceland,1961,total_fertility_rate,%,3.88,OECD
+Ireland,1961,total_fertility_rate,%,3.79,OECD
+Italy,1961,total_fertility_rate,%,2.41,OECD
+Japan,1961,total_fertility_rate,%,1.96,OECD
+Korea,1961,total_fertility_rate,%,5.8,OECD
+Latvia,1961,total_fertility_rate,%,1.94,OECD
+Lithuania,1961,total_fertility_rate,%,2.4,OECD
+Luxembourg,1961,total_fertility_rate,%,2.33,OECD
+Mexico,1961,total_fertility_rate,%,6.76,OECD
+Netherlands,1961,total_fertility_rate,%,3.22,OECD
+New Zealand,1961,total_fertility_rate,%,4.31,OECD
+Norway,1961,total_fertility_rate,%,2.94,OECD
+Poland,1961,total_fertility_rate,%,2.83,OECD
+Portugal,1961,total_fertility_rate,%,3.16,OECD
+Slovak Republic,1961,total_fertility_rate,%,2.96,OECD
+Slovenia,1961,total_fertility_rate,%,2.26,OECD
+Spain,1961,total_fertility_rate,%,2.76,OECD
+Sweden,1961,total_fertility_rate,%,2.23,OECD
+Switzerland,1961,total_fertility_rate,%,2.53,OECD
+Türkiye,1961,total_fertility_rate,%,6.33,OECD
+United States,1961,total_fertility_rate,%,3.62,OECD
+OECD-38,1961,total_fertility_rate,%,3.33,OECD
+Brazil,1961,total_fertility_rate,%,6.02,OECD
+China,1961,total_fertility_rate,%,3.86,OECD
+India,1961,total_fertility_rate,%,5.94,OECD
+Indonesia,1961,total_fertility_rate,%,5.52,OECD
+Peru,1961,total_fertility_rate,%,6.92,OECD
+South Africa,1961,total_fertility_rate,%,6.08,OECD
+Thailand,1961,total_fertility_rate,%,6.32,OECD
+Argentina,1961,total_fertility_rate,%,3.12,OECD
+Saudi Arabia,1961,total_fertility_rate,%,7.63,OECD
+Bulgaria,1961,total_fertility_rate,%,2.29,OECD
+Croatia,1961,total_fertility_rate,%,2.19,OECD
+EU-27 average,1961,total_fertility_rate,%,2.62,OECD
+Australia,1962,total_fertility_rate,%,3.43,OECD
+Austria,1962,total_fertility_rate,%,2.8,OECD
+Belgium,1962,total_fertility_rate,%,2.59,OECD
+Canada,1962,total_fertility_rate,%,3.76,OECD
+Chile,1962,total_fertility_rate,%,4.6,OECD
+Colombia,1962,total_fertility_rate,%,6.66,OECD
+Costa Rica,1962,total_fertility_rate,%,6.54,OECD
+Czechia,1962,total_fertility_rate,%,2.14,OECD
+Denmark,1962,total_fertility_rate,%,2.54,OECD
+Estonia,1962,total_fertility_rate,%,1.95,OECD
+Finland,1962,total_fertility_rate,%,2.66,OECD
+France,1962,total_fertility_rate,%,2.8,OECD
+Germany,1962,total_fertility_rate,%,2.44,OECD
+Greece,1962,total_fertility_rate,%,2.16,OECD
+Hungary,1962,total_fertility_rate,%,1.79,OECD
+Iceland,1962,total_fertility_rate,%,3.98,OECD
+Ireland,1962,total_fertility_rate,%,3.92,OECD
+Italy,1962,total_fertility_rate,%,2.46,OECD
+Japan,1962,total_fertility_rate,%,1.98,OECD
+Korea,1962,total_fertility_rate,%,5.6,OECD
+Latvia,1962,total_fertility_rate,%,1.91,OECD
+Lithuania,1962,total_fertility_rate,%,2.4,OECD
+Luxembourg,1962,total_fertility_rate,%,2.35,OECD
+Mexico,1962,total_fertility_rate,%,6.76,OECD
+Netherlands,1962,total_fertility_rate,%,3.18,OECD
+New Zealand,1962,total_fertility_rate,%,4.19,OECD
+Norway,1962,total_fertility_rate,%,2.91,OECD
+Poland,1962,total_fertility_rate,%,2.72,OECD
+Portugal,1962,total_fertility_rate,%,3.21,OECD
+Slovak Republic,1962,total_fertility_rate,%,2.83,OECD
+Slovenia,1962,total_fertility_rate,%,2.27,OECD
+Spain,1962,total_fertility_rate,%,2.8,OECD
+Sweden,1962,total_fertility_rate,%,2.26,OECD
+Switzerland,1962,total_fertility_rate,%,2.6,OECD
+Türkiye,1962,total_fertility_rate,%,6.26,OECD
+United States,1962,total_fertility_rate,%,3.46,OECD
+OECD-38,1962,total_fertility_rate,%,3.3,OECD
+Brazil,1962,total_fertility_rate,%,5.98,OECD
+China,1962,total_fertility_rate,%,6.09,OECD
+India,1962,total_fertility_rate,%,5.95,OECD
+Indonesia,1962,total_fertility_rate,%,5.53,OECD
+Peru,1962,total_fertility_rate,%,6.9,OECD
+South Africa,1962,total_fertility_rate,%,6.05,OECD
+Thailand,1962,total_fertility_rate,%,6.33,OECD
+Argentina,1962,total_fertility_rate,%,3.13,OECD
+Saudi Arabia,1962,total_fertility_rate,%,7.64,OECD
+Bulgaria,1962,total_fertility_rate,%,2.24,OECD
+Croatia,1962,total_fertility_rate,%,2.17,OECD
+EU-27 average,1962,total_fertility_rate,%,2.61,OECD
+Australia,1963,total_fertility_rate,%,3.34,OECD
+Austria,1963,total_fertility_rate,%,2.82,OECD
+Belgium,1963,total_fertility_rate,%,2.68,OECD
+Canada,1963,total_fertility_rate,%,3.67,OECD
+Chile,1963,total_fertility_rate,%,4.54,OECD
+Colombia,1963,total_fertility_rate,%,6.58,OECD
+Costa Rica,1963,total_fertility_rate,%,6.39,OECD
+Czechia,1963,total_fertility_rate,%,2.33,OECD
+Denmark,1963,total_fertility_rate,%,2.64,OECD
+Estonia,1963,total_fertility_rate,%,1.89,OECD
+Finland,1963,total_fertility_rate,%,2.66,OECD
+France,1963,total_fertility_rate,%,2.9,OECD
+Germany,1963,total_fertility_rate,%,2.51,OECD
+Greece,1963,total_fertility_rate,%,2.14,OECD
+Hungary,1963,total_fertility_rate,%,1.82,OECD
+Iceland,1963,total_fertility_rate,%,3.98,OECD
+Ireland,1963,total_fertility_rate,%,4.01,OECD
+Italy,1963,total_fertility_rate,%,2.56,OECD
+Japan,1963,total_fertility_rate,%,2.0,OECD
+Korea,1963,total_fertility_rate,%,5.4,OECD
+Latvia,1963,total_fertility_rate,%,1.85,OECD
+Lithuania,1963,total_fertility_rate,%,2.4,OECD
+Luxembourg,1963,total_fertility_rate,%,2.33,OECD
+Mexico,1963,total_fertility_rate,%,6.75,OECD
+Netherlands,1963,total_fertility_rate,%,3.19,OECD
+New Zealand,1963,total_fertility_rate,%,4.05,OECD
+Norway,1963,total_fertility_rate,%,2.93,OECD
+Poland,1963,total_fertility_rate,%,2.7,OECD
+Portugal,1963,total_fertility_rate,%,3.11,OECD
+Slovak Republic,1963,total_fertility_rate,%,2.93,OECD
+Slovenia,1963,total_fertility_rate,%,2.28,OECD
+Spain,1963,total_fertility_rate,%,2.88,OECD
+Sweden,1963,total_fertility_rate,%,2.34,OECD
+Switzerland,1963,total_fertility_rate,%,2.67,OECD
+Türkiye,1963,total_fertility_rate,%,6.19,OECD
+United States,1963,total_fertility_rate,%,3.32,OECD
+OECD-38,1963,total_fertility_rate,%,3.3,OECD
+Brazil,1963,total_fertility_rate,%,5.93,OECD
+China,1963,total_fertility_rate,%,7.51,OECD
+India,1963,total_fertility_rate,%,5.97,OECD
+Indonesia,1963,total_fertility_rate,%,5.55,OECD
+Peru,1963,total_fertility_rate,%,6.86,OECD
+South Africa,1963,total_fertility_rate,%,6.01,OECD
+Thailand,1963,total_fertility_rate,%,6.34,OECD
+Argentina,1963,total_fertility_rate,%,3.11,OECD
+Saudi Arabia,1963,total_fertility_rate,%,7.65,OECD
+Bulgaria,1963,total_fertility_rate,%,2.21,OECD
+Croatia,1963,total_fertility_rate,%,2.12,OECD
+EU-27 average,1963,total_fertility_rate,%,2.65,OECD
+Australia,1964,total_fertility_rate,%,3.15,OECD
+Austria,1964,total_fertility_rate,%,2.79,OECD
+Belgium,1964,total_fertility_rate,%,2.71,OECD
+Canada,1964,total_fertility_rate,%,3.5,OECD
+Chile,1964,total_fertility_rate,%,4.46,OECD
+Colombia,1964,total_fertility_rate,%,6.48,OECD
+Costa Rica,1964,total_fertility_rate,%,6.19,OECD
+Czechia,1964,total_fertility_rate,%,2.36,OECD
+Denmark,1964,total_fertility_rate,%,2.6,OECD
+Estonia,1964,total_fertility_rate,%,1.94,OECD
+Finland,1964,total_fertility_rate,%,2.58,OECD
+France,1964,total_fertility_rate,%,2.91,OECD
+Germany,1964,total_fertility_rate,%,2.53,OECD
+Greece,1964,total_fertility_rate,%,2.24,OECD
+Hungary,1964,total_fertility_rate,%,1.8,OECD
+Iceland,1964,total_fertility_rate,%,3.86,OECD
+Ireland,1964,total_fertility_rate,%,4.06,OECD
+Italy,1964,total_fertility_rate,%,2.7,OECD
+Japan,1964,total_fertility_rate,%,2.05,OECD
+Korea,1964,total_fertility_rate,%,5.2,OECD
+Latvia,1964,total_fertility_rate,%,1.79,OECD
+Lithuania,1964,total_fertility_rate,%,2.4,OECD
+Luxembourg,1964,total_fertility_rate,%,2.38,OECD
+Mexico,1964,total_fertility_rate,%,6.75,OECD
+Netherlands,1964,total_fertility_rate,%,3.17,OECD
+New Zealand,1964,total_fertility_rate,%,3.8,OECD
+Norway,1964,total_fertility_rate,%,2.98,OECD
+Poland,1964,total_fertility_rate,%,2.57,OECD
+Portugal,1964,total_fertility_rate,%,3.21,OECD
+Slovak Republic,1964,total_fertility_rate,%,2.91,OECD
+Slovenia,1964,total_fertility_rate,%,2.32,OECD
+Spain,1964,total_fertility_rate,%,3.01,OECD
+Sweden,1964,total_fertility_rate,%,2.48,OECD
+Switzerland,1964,total_fertility_rate,%,2.68,OECD
+Türkiye,1964,total_fertility_rate,%,6.01,OECD
+United States,1964,total_fertility_rate,%,3.19,OECD
+OECD-38,1964,total_fertility_rate,%,3.28,OECD
+Brazil,1964,total_fertility_rate,%,5.82,OECD
+China,1964,total_fertility_rate,%,6.67,OECD
+India,1964,total_fertility_rate,%,5.98,OECD
+Indonesia,1964,total_fertility_rate,%,5.57,OECD
+Peru,1964,total_fertility_rate,%,6.81,OECD
+South Africa,1964,total_fertility_rate,%,5.96,OECD
+Thailand,1964,total_fertility_rate,%,6.31,OECD
+Argentina,1964,total_fertility_rate,%,3.08,OECD
+Saudi Arabia,1964,total_fertility_rate,%,7.67,OECD
+Bulgaria,1964,total_fertility_rate,%,2.19,OECD
+Croatia,1964,total_fertility_rate,%,2.12,OECD
+EU-27 average,1964,total_fertility_rate,%,2.67,OECD
+Australia,1965,total_fertility_rate,%,2.97,OECD
+Austria,1965,total_fertility_rate,%,2.7,OECD
+Belgium,1965,total_fertility_rate,%,2.61,OECD
+Canada,1965,total_fertility_rate,%,3.15,OECD
+Chile,1965,total_fertility_rate,%,4.36,OECD
+Colombia,1965,total_fertility_rate,%,6.33,OECD
+Costa Rica,1965,total_fertility_rate,%,5.96,OECD
+Czechia,1965,total_fertility_rate,%,2.18,OECD
+Denmark,1965,total_fertility_rate,%,2.61,OECD
+Estonia,1965,total_fertility_rate,%,1.88,OECD
+Finland,1965,total_fertility_rate,%,2.46,OECD
+France,1965,total_fertility_rate,%,2.85,OECD
+Germany,1965,total_fertility_rate,%,2.5,OECD
+Greece,1965,total_fertility_rate,%,2.25,OECD
+Hungary,1965,total_fertility_rate,%,1.81,OECD
+Iceland,1965,total_fertility_rate,%,3.71,OECD
+Ireland,1965,total_fertility_rate,%,4.03,OECD
+Italy,1965,total_fertility_rate,%,2.67,OECD
+Japan,1965,total_fertility_rate,%,2.14,OECD
+Korea,1965,total_fertility_rate,%,5.0,OECD
+Latvia,1965,total_fertility_rate,%,1.74,OECD
+Lithuania,1965,total_fertility_rate,%,2.4,OECD
+Luxembourg,1965,total_fertility_rate,%,2.42,OECD
+Mexico,1965,total_fertility_rate,%,6.76,OECD
+Netherlands,1965,total_fertility_rate,%,3.04,OECD
+New Zealand,1965,total_fertility_rate,%,3.54,OECD
+Norway,1965,total_fertility_rate,%,2.94,OECD
+Poland,1965,total_fertility_rate,%,2.52,OECD
+Portugal,1965,total_fertility_rate,%,3.14,OECD
+Slovak Republic,1965,total_fertility_rate,%,2.8,OECD
+Slovenia,1965,total_fertility_rate,%,2.45,OECD
+Spain,1965,total_fertility_rate,%,2.94,OECD
+Sweden,1965,total_fertility_rate,%,2.42,OECD
+Switzerland,1965,total_fertility_rate,%,2.61,OECD
+Türkiye,1965,total_fertility_rate,%,5.84,OECD
+United States,1965,total_fertility_rate,%,2.91,OECD
+OECD-38,1965,total_fertility_rate,%,3.2,OECD
+Brazil,1965,total_fertility_rate,%,5.68,OECD
+China,1965,total_fertility_rate,%,6.61,OECD
+India,1965,total_fertility_rate,%,5.94,OECD
+Indonesia,1965,total_fertility_rate,%,5.59,OECD
+Peru,1965,total_fertility_rate,%,6.75,OECD
+South Africa,1965,total_fertility_rate,%,5.89,OECD
+Thailand,1965,total_fertility_rate,%,6.26,OECD
+Argentina,1965,total_fertility_rate,%,3.01,OECD
+Saudi Arabia,1965,total_fertility_rate,%,7.66,OECD
+Bulgaria,1965,total_fertility_rate,%,2.09,OECD
+Croatia,1965,total_fertility_rate,%,2.21,OECD
+EU-27 average,1965,total_fertility_rate,%,2.62,OECD
+Australia,1966,total_fertility_rate,%,2.89,OECD
+Austria,1966,total_fertility_rate,%,2.66,OECD
+Belgium,1966,total_fertility_rate,%,2.52,OECD
+Canada,1966,total_fertility_rate,%,2.81,OECD
+Chile,1966,total_fertility_rate,%,4.26,OECD
+Colombia,1966,total_fertility_rate,%,6.16,OECD
+Costa Rica,1966,total_fertility_rate,%,5.7,OECD
+Czechia,1966,total_fertility_rate,%,2.01,OECD
+Denmark,1966,total_fertility_rate,%,2.62,OECD
+Estonia,1966,total_fertility_rate,%,1.87,OECD
+Finland,1966,total_fertility_rate,%,2.41,OECD
+France,1966,total_fertility_rate,%,2.8,OECD
+Germany,1966,total_fertility_rate,%,2.51,OECD
+Greece,1966,total_fertility_rate,%,2.32,OECD
+Hungary,1966,total_fertility_rate,%,1.88,OECD
+Iceland,1966,total_fertility_rate,%,3.58,OECD
+Ireland,1966,total_fertility_rate,%,3.95,OECD
+Italy,1966,total_fertility_rate,%,2.63,OECD
+Japan,1966,total_fertility_rate,%,1.58,OECD
+Korea,1966,total_fertility_rate,%,4.8,OECD
+Latvia,1966,total_fertility_rate,%,1.76,OECD
+Lithuania,1966,total_fertility_rate,%,2.4,OECD
+Luxembourg,1966,total_fertility_rate,%,2.37,OECD
+Mexico,1966,total_fertility_rate,%,6.77,OECD
+Netherlands,1966,total_fertility_rate,%,2.9,OECD
+New Zealand,1966,total_fertility_rate,%,3.41,OECD
+Norway,1966,total_fertility_rate,%,2.9,OECD
+Poland,1966,total_fertility_rate,%,2.34,OECD
+Portugal,1966,total_fertility_rate,%,3.12,OECD
+Slovak Republic,1966,total_fertility_rate,%,2.67,OECD
+Slovenia,1966,total_fertility_rate,%,2.48,OECD
+Spain,1966,total_fertility_rate,%,2.99,OECD
+Sweden,1966,total_fertility_rate,%,2.36,OECD
+Switzerland,1966,total_fertility_rate,%,2.52,OECD
+Türkiye,1966,total_fertility_rate,%,5.66,OECD
+United States,1966,total_fertility_rate,%,2.72,OECD
+OECD-38,1966,total_fertility_rate,%,3.1,OECD
+Brazil,1966,total_fertility_rate,%,5.52,OECD
+China,1966,total_fertility_rate,%,6.31,OECD
+India,1966,total_fertility_rate,%,5.88,OECD
+Indonesia,1966,total_fertility_rate,%,5.59,OECD
+Peru,1966,total_fertility_rate,%,6.68,OECD
+South Africa,1966,total_fertility_rate,%,5.91,OECD
+Thailand,1966,total_fertility_rate,%,6.18,OECD
+Argentina,1966,total_fertility_rate,%,2.97,OECD
+Saudi Arabia,1966,total_fertility_rate,%,7.66,OECD
+Bulgaria,1966,total_fertility_rate,%,2.03,OECD
+Croatia,1966,total_fertility_rate,%,2.21,OECD
+EU-27 average,1966,total_fertility_rate,%,2.58,OECD
+Australia,1967,total_fertility_rate,%,2.85,OECD
+Austria,1967,total_fertility_rate,%,2.62,OECD
+Belgium,1967,total_fertility_rate,%,2.41,OECD
+Canada,1967,total_fertility_rate,%,2.6,OECD
+Chile,1967,total_fertility_rate,%,4.14,OECD
+Colombia,1967,total_fertility_rate,%,5.96,OECD
+Costa Rica,1967,total_fertility_rate,%,5.42,OECD
+Czechia,1967,total_fertility_rate,%,1.9,OECD
+Denmark,1967,total_fertility_rate,%,2.35,OECD
+Estonia,1967,total_fertility_rate,%,1.9,OECD
+Finland,1967,total_fertility_rate,%,2.32,OECD
+France,1967,total_fertility_rate,%,2.67,OECD
+Germany,1967,total_fertility_rate,%,2.45,OECD
+Greece,1967,total_fertility_rate,%,2.45,OECD
+Hungary,1967,total_fertility_rate,%,2.01,OECD
+Iceland,1967,total_fertility_rate,%,3.28,OECD
+Ireland,1967,total_fertility_rate,%,3.84,OECD
+Italy,1967,total_fertility_rate,%,2.54,OECD
+Japan,1967,total_fertility_rate,%,2.23,OECD
+Korea,1967,total_fertility_rate,%,4.66,OECD
+Latvia,1967,total_fertility_rate,%,1.8,OECD
+Lithuania,1967,total_fertility_rate,%,2.4,OECD
+Luxembourg,1967,total_fertility_rate,%,2.25,OECD
+Mexico,1967,total_fertility_rate,%,6.79,OECD
+Netherlands,1967,total_fertility_rate,%,2.81,OECD
+New Zealand,1967,total_fertility_rate,%,3.35,OECD
+Norway,1967,total_fertility_rate,%,2.81,OECD
+Poland,1967,total_fertility_rate,%,2.33,OECD
+Portugal,1967,total_fertility_rate,%,3.08,OECD
+Slovak Republic,1967,total_fertility_rate,%,2.49,OECD
+Slovenia,1967,total_fertility_rate,%,2.38,OECD
+Spain,1967,total_fertility_rate,%,3.03,OECD
+Sweden,1967,total_fertility_rate,%,2.27,OECD
+Switzerland,1967,total_fertility_rate,%,2.41,OECD
+Türkiye,1967,total_fertility_rate,%,5.49,OECD
+United States,1967,total_fertility_rate,%,2.56,OECD
+OECD-38,1967,total_fertility_rate,%,3.03,OECD
+Brazil,1967,total_fertility_rate,%,5.34,OECD
+China,1967,total_fertility_rate,%,5.81,OECD
+India,1967,total_fertility_rate,%,5.83,OECD
+Indonesia,1967,total_fertility_rate,%,5.58,OECD
+Peru,1967,total_fertility_rate,%,6.6,OECD
+South Africa,1967,total_fertility_rate,%,5.85,OECD
+Thailand,1967,total_fertility_rate,%,6.08,OECD
+Argentina,1967,total_fertility_rate,%,2.98,OECD
+Saudi Arabia,1967,total_fertility_rate,%,7.66,OECD
+Bulgaria,1967,total_fertility_rate,%,2.02,OECD
+Croatia,1967,total_fertility_rate,%,2.07,OECD
+EU-27 average,1967,total_fertility_rate,%,2.53,OECD
+Australia,1968,total_fertility_rate,%,2.89,OECD
+Austria,1968,total_fertility_rate,%,2.58,OECD
+Belgium,1968,total_fertility_rate,%,2.31,OECD
+Canada,1968,total_fertility_rate,%,2.45,OECD
+Chile,1968,total_fertility_rate,%,4.03,OECD
+Colombia,1968,total_fertility_rate,%,5.74,OECD
+Costa Rica,1968,total_fertility_rate,%,5.03,OECD
+Czechia,1968,total_fertility_rate,%,1.83,OECD
+Denmark,1968,total_fertility_rate,%,2.12,OECD
+Estonia,1968,total_fertility_rate,%,2.03,OECD
+Finland,1968,total_fertility_rate,%,2.15,OECD
+France,1968,total_fertility_rate,%,2.59,OECD
+Germany,1968,total_fertility_rate,%,2.36,OECD
+Greece,1968,total_fertility_rate,%,2.42,OECD
+Hungary,1968,total_fertility_rate,%,2.06,OECD
+Iceland,1968,total_fertility_rate,%,3.07,OECD
+Ireland,1968,total_fertility_rate,%,3.78,OECD
+Italy,1968,total_fertility_rate,%,2.49,OECD
+Japan,1968,total_fertility_rate,%,2.13,OECD
+Korea,1968,total_fertility_rate,%,4.52,OECD
+Latvia,1968,total_fertility_rate,%,1.83,OECD
+Lithuania,1968,total_fertility_rate,%,2.4,OECD
+Luxembourg,1968,total_fertility_rate,%,2.13,OECD
+Mexico,1968,total_fertility_rate,%,6.81,OECD
+Netherlands,1968,total_fertility_rate,%,2.72,OECD
+New Zealand,1968,total_fertility_rate,%,3.34,OECD
+Norway,1968,total_fertility_rate,%,2.75,OECD
+Poland,1968,total_fertility_rate,%,2.24,OECD
+Portugal,1968,total_fertility_rate,%,3.0,OECD
+Slovak Republic,1968,total_fertility_rate,%,2.4,OECD
+Slovenia,1968,total_fertility_rate,%,2.28,OECD
+Spain,1968,total_fertility_rate,%,2.96,OECD
+Sweden,1968,total_fertility_rate,%,2.07,OECD
+Switzerland,1968,total_fertility_rate,%,2.3,OECD
+Türkiye,1968,total_fertility_rate,%,5.31,OECD
+United States,1968,total_fertility_rate,%,2.46,OECD
+OECD-38,1968,total_fertility_rate,%,2.95,OECD
+Brazil,1968,total_fertility_rate,%,5.17,OECD
+China,1968,total_fertility_rate,%,6.51,OECD
+India,1968,total_fertility_rate,%,5.76,OECD
+Indonesia,1968,total_fertility_rate,%,5.57,OECD
+Peru,1968,total_fertility_rate,%,6.51,OECD
+South Africa,1968,total_fertility_rate,%,5.78,OECD
+Thailand,1968,total_fertility_rate,%,5.93,OECD
+Argentina,1968,total_fertility_rate,%,3.01,OECD
+Saudi Arabia,1968,total_fertility_rate,%,7.63,OECD
+Bulgaria,1968,total_fertility_rate,%,2.27,OECD
+Croatia,1968,total_fertility_rate,%,1.99,OECD
+EU-27 average,1968,total_fertility_rate,%,2.45,OECD
+Australia,1969,total_fertility_rate,%,2.89,OECD
+Austria,1969,total_fertility_rate,%,2.49,OECD
+Belgium,1969,total_fertility_rate,%,2.27,OECD
+Canada,1969,total_fertility_rate,%,2.41,OECD
+Chile,1969,total_fertility_rate,%,3.9,OECD
+Colombia,1969,total_fertility_rate,%,5.51,OECD
+Costa Rica,1969,total_fertility_rate,%,4.84,OECD
+Czechia,1969,total_fertility_rate,%,1.86,OECD
+Denmark,1969,total_fertility_rate,%,2.0,OECD
+Estonia,1969,total_fertility_rate,%,2.13,OECD
+Finland,1969,total_fertility_rate,%,1.94,OECD
+France,1969,total_fertility_rate,%,2.53,OECD
+Germany,1969,total_fertility_rate,%,2.21,OECD
+Greece,1969,total_fertility_rate,%,2.36,OECD
+Hungary,1969,total_fertility_rate,%,2.04,OECD
+Iceland,1969,total_fertility_rate,%,2.99,OECD
+Ireland,1969,total_fertility_rate,%,3.85,OECD
+Italy,1969,total_fertility_rate,%,2.51,OECD
+Japan,1969,total_fertility_rate,%,2.13,OECD
+Korea,1969,total_fertility_rate,%,4.53,OECD
+Latvia,1969,total_fertility_rate,%,1.88,OECD
+Lithuania,1969,total_fertility_rate,%,2.4,OECD
+Luxembourg,1969,total_fertility_rate,%,2.02,OECD
+Mexico,1969,total_fertility_rate,%,6.83,OECD
+Netherlands,1969,total_fertility_rate,%,2.75,OECD
+New Zealand,1969,total_fertility_rate,%,3.28,OECD
+Norway,1969,total_fertility_rate,%,2.69,OECD
+Poland,1969,total_fertility_rate,%,2.2,OECD
+Portugal,1969,total_fertility_rate,%,2.95,OECD
+Slovak Republic,1969,total_fertility_rate,%,2.43,OECD
+Slovenia,1969,total_fertility_rate,%,2.17,OECD
+Spain,1969,total_fertility_rate,%,2.93,OECD
+Sweden,1969,total_fertility_rate,%,1.93,OECD
+Switzerland,1969,total_fertility_rate,%,2.19,OECD
+Türkiye,1969,total_fertility_rate,%,5.18,OECD
+United States,1969,total_fertility_rate,%,2.46,OECD
+OECD-38,1969,total_fertility_rate,%,2.89,OECD
+Brazil,1969,total_fertility_rate,%,5.04,OECD
+China,1969,total_fertility_rate,%,6.18,OECD
+India,1969,total_fertility_rate,%,5.68,OECD
+Indonesia,1969,total_fertility_rate,%,5.55,OECD
+Peru,1969,total_fertility_rate,%,6.42,OECD
+South Africa,1969,total_fertility_rate,%,5.72,OECD
+Thailand,1969,total_fertility_rate,%,5.7,OECD
+Argentina,1969,total_fertility_rate,%,3.05,OECD
+Saudi Arabia,1969,total_fertility_rate,%,7.6,OECD
+Bulgaria,1969,total_fertility_rate,%,2.27,OECD
+Croatia,1969,total_fertility_rate,%,1.91,OECD
+EU-27 average,1969,total_fertility_rate,%,2.41,OECD
+Australia,1970,total_fertility_rate,%,2.86,OECD
+Austria,1970,total_fertility_rate,%,2.29,OECD
+Belgium,1970,total_fertility_rate,%,2.25,OECD
+Canada,1970,total_fertility_rate,%,2.33,OECD
+Chile,1970,total_fertility_rate,%,3.78,OECD
+Colombia,1970,total_fertility_rate,%,5.28,OECD
+Costa Rica,1970,total_fertility_rate,%,4.59,OECD
+Czechia,1970,total_fertility_rate,%,1.91,OECD
+Denmark,1970,total_fertility_rate,%,1.95,OECD
+Estonia,1970,total_fertility_rate,%,2.17,OECD
+Finland,1970,total_fertility_rate,%,1.83,OECD
+France,1970,total_fertility_rate,%,2.48,OECD
+Germany,1970,total_fertility_rate,%,2.03,OECD
+Greece,1970,total_fertility_rate,%,2.4,OECD
+Hungary,1970,total_fertility_rate,%,1.97,OECD
+Iceland,1970,total_fertility_rate,%,2.81,OECD
+Ireland,1970,total_fertility_rate,%,3.87,OECD
+Italy,1970,total_fertility_rate,%,2.43,OECD
+Japan,1970,total_fertility_rate,%,2.13,OECD
+Korea,1970,total_fertility_rate,%,4.53,OECD
+Latvia,1970,total_fertility_rate,%,2.02,OECD
+Lithuania,1970,total_fertility_rate,%,2.4,OECD
+Luxembourg,1970,total_fertility_rate,%,1.98,OECD
+Mexico,1970,total_fertility_rate,%,6.83,OECD
+Netherlands,1970,total_fertility_rate,%,2.57,OECD
+New Zealand,1970,total_fertility_rate,%,3.17,OECD
+Norway,1970,total_fertility_rate,%,2.5,OECD
+Poland,1970,total_fertility_rate,%,2.2,OECD
+Portugal,1970,total_fertility_rate,%,2.83,OECD
+Slovak Republic,1970,total_fertility_rate,%,2.4,OECD
+Slovenia,1970,total_fertility_rate,%,2.21,OECD
+Spain,1970,total_fertility_rate,%,2.9,OECD
+Sweden,1970,total_fertility_rate,%,1.94,OECD
+Switzerland,1970,total_fertility_rate,%,2.1,OECD
+Türkiye,1970,total_fertility_rate,%,5.0,OECD
+United States,1970,total_fertility_rate,%,2.48,OECD
+OECD-38,1970,total_fertility_rate,%,2.84,OECD
+Brazil,1970,total_fertility_rate,%,4.93,OECD
+China,1970,total_fertility_rate,%,6.09,OECD
+India,1970,total_fertility_rate,%,5.62,OECD
+Indonesia,1970,total_fertility_rate,%,5.49,OECD
+Peru,1970,total_fertility_rate,%,6.32,OECD
+South Africa,1970,total_fertility_rate,%,5.63,OECD
+Thailand,1970,total_fertility_rate,%,5.45,OECD
+Argentina,1970,total_fertility_rate,%,3.09,OECD
+Saudi Arabia,1970,total_fertility_rate,%,7.58,OECD
+Bulgaria,1970,total_fertility_rate,%,2.17,OECD
+Croatia,1970,total_fertility_rate,%,1.83,OECD
+EU-27 average,1970,total_fertility_rate,%,2.37,OECD
+Australia,1971,total_fertility_rate,%,2.95,OECD
+Austria,1971,total_fertility_rate,%,2.2,OECD
+Belgium,1971,total_fertility_rate,%,2.21,OECD
+Canada,1971,total_fertility_rate,%,2.19,OECD
+Chile,1971,total_fertility_rate,%,3.65,OECD
+Colombia,1971,total_fertility_rate,%,5.06,OECD
+Costa Rica,1971,total_fertility_rate,%,4.36,OECD
+Czechia,1971,total_fertility_rate,%,1.98,OECD
+Denmark,1971,total_fertility_rate,%,2.04,OECD
+Estonia,1971,total_fertility_rate,%,2.19,OECD
+Finland,1971,total_fertility_rate,%,1.7,OECD
+France,1971,total_fertility_rate,%,2.5,OECD
+Germany,1971,total_fertility_rate,%,1.97,OECD
+Greece,1971,total_fertility_rate,%,2.32,OECD
+Hungary,1971,total_fertility_rate,%,1.92,OECD
+Iceland,1971,total_fertility_rate,%,2.92,OECD
+Ireland,1971,total_fertility_rate,%,3.98,OECD
+Italy,1971,total_fertility_rate,%,2.41,OECD
+Japan,1971,total_fertility_rate,%,2.16,OECD
+Korea,1971,total_fertility_rate,%,4.54,OECD
+Latvia,1971,total_fertility_rate,%,2.04,OECD
+Lithuania,1971,total_fertility_rate,%,2.41,OECD
+Luxembourg,1971,total_fertility_rate,%,1.96,OECD
+Mexico,1971,total_fertility_rate,%,6.79,OECD
+Netherlands,1971,total_fertility_rate,%,2.36,OECD
+New Zealand,1971,total_fertility_rate,%,3.18,OECD
+Norway,1971,total_fertility_rate,%,2.49,OECD
+Poland,1971,total_fertility_rate,%,2.25,OECD
+Portugal,1971,total_fertility_rate,%,2.78,OECD
+Slovak Republic,1971,total_fertility_rate,%,2.43,OECD
+Slovenia,1971,total_fertility_rate,%,2.16,OECD
+Spain,1971,total_fertility_rate,%,2.88,OECD
+Sweden,1971,total_fertility_rate,%,1.96,OECD
+Switzerland,1971,total_fertility_rate,%,2.04,OECD
+Türkiye,1971,total_fertility_rate,%,5.0,OECD
+United States,1971,total_fertility_rate,%,2.27,OECD
+OECD-38,1971,total_fertility_rate,%,2.8,OECD
+Brazil,1971,total_fertility_rate,%,4.84,OECD
+China,1971,total_fertility_rate,%,5.52,OECD
+India,1971,total_fertility_rate,%,5.57,OECD
+Indonesia,1971,total_fertility_rate,%,5.4,OECD
+Peru,1971,total_fertility_rate,%,6.21,OECD
+South Africa,1971,total_fertility_rate,%,5.57,OECD
+Thailand,1971,total_fertility_rate,%,5.25,OECD
+Argentina,1971,total_fertility_rate,%,3.11,OECD
+Saudi Arabia,1971,total_fertility_rate,%,7.56,OECD
+Bulgaria,1971,total_fertility_rate,%,2.1,OECD
+Croatia,1971,total_fertility_rate,%,1.95,OECD
+EU-27 average,1971,total_fertility_rate,%,2.36,OECD
+Australia,1972,total_fertility_rate,%,2.74,OECD
+Austria,1972,total_fertility_rate,%,2.08,OECD
+Belgium,1972,total_fertility_rate,%,2.09,OECD
+Canada,1972,total_fertility_rate,%,2.02,OECD
+Chile,1972,total_fertility_rate,%,3.53,OECD
+Colombia,1972,total_fertility_rate,%,4.86,OECD
+Costa Rica,1972,total_fertility_rate,%,4.16,OECD
+Czechia,1972,total_fertility_rate,%,2.07,OECD
+Denmark,1972,total_fertility_rate,%,2.03,OECD
+Estonia,1972,total_fertility_rate,%,2.13,OECD
+Finland,1972,total_fertility_rate,%,1.59,OECD
+France,1972,total_fertility_rate,%,2.42,OECD
+Germany,1972,total_fertility_rate,%,1.74,OECD
+Greece,1972,total_fertility_rate,%,2.32,OECD
+Hungary,1972,total_fertility_rate,%,1.93,OECD
+Iceland,1972,total_fertility_rate,%,3.09,OECD
+Ireland,1972,total_fertility_rate,%,3.88,OECD
+Italy,1972,total_fertility_rate,%,2.36,OECD
+Japan,1972,total_fertility_rate,%,2.14,OECD
+Korea,1972,total_fertility_rate,%,4.12,OECD
+Latvia,1972,total_fertility_rate,%,2.03,OECD
+Lithuania,1972,total_fertility_rate,%,2.34,OECD
+Luxembourg,1972,total_fertility_rate,%,1.75,OECD
+Mexico,1972,total_fertility_rate,%,6.7,OECD
+Netherlands,1972,total_fertility_rate,%,2.15,OECD
+New Zealand,1972,total_fertility_rate,%,3.0,OECD
+Norway,1972,total_fertility_rate,%,2.38,OECD
+Poland,1972,total_fertility_rate,%,2.24,OECD
+Portugal,1972,total_fertility_rate,%,2.69,OECD
+Slovak Republic,1972,total_fertility_rate,%,2.49,OECD
+Slovenia,1972,total_fertility_rate,%,2.14,OECD
+Spain,1972,total_fertility_rate,%,2.86,OECD
+Sweden,1972,total_fertility_rate,%,1.91,OECD
+Switzerland,1972,total_fertility_rate,%,1.91,OECD
+Türkiye,1972,total_fertility_rate,%,5.0,OECD
+United States,1972,total_fertility_rate,%,2.01,OECD
+OECD-38,1972,total_fertility_rate,%,2.71,OECD
+Brazil,1972,total_fertility_rate,%,4.74,OECD
+China,1972,total_fertility_rate,%,5.11,OECD
+India,1972,total_fertility_rate,%,5.48,OECD
+Indonesia,1972,total_fertility_rate,%,5.32,OECD
+Peru,1972,total_fertility_rate,%,6.09,OECD
+South Africa,1972,total_fertility_rate,%,5.49,OECD
+Thailand,1972,total_fertility_rate,%,5.08,OECD
+Argentina,1972,total_fertility_rate,%,3.14,OECD
+Saudi Arabia,1972,total_fertility_rate,%,7.54,OECD
+Bulgaria,1972,total_fertility_rate,%,2.03,OECD
+Croatia,1972,total_fertility_rate,%,1.97,OECD
+EU-27 average,1972,total_fertility_rate,%,2.29,OECD
+Australia,1973,total_fertility_rate,%,2.49,OECD
+Austria,1973,total_fertility_rate,%,1.94,OECD
+Belgium,1973,total_fertility_rate,%,1.95,OECD
+Canada,1973,total_fertility_rate,%,1.93,OECD
+Chile,1973,total_fertility_rate,%,3.41,OECD
+Colombia,1973,total_fertility_rate,%,4.68,OECD
+Costa Rica,1973,total_fertility_rate,%,3.99,OECD
+Czechia,1973,total_fertility_rate,%,2.29,OECD
+Denmark,1973,total_fertility_rate,%,1.92,OECD
+Estonia,1973,total_fertility_rate,%,2.06,OECD
+Finland,1973,total_fertility_rate,%,1.5,OECD
+France,1973,total_fertility_rate,%,2.31,OECD
+Germany,1973,total_fertility_rate,%,1.56,OECD
+Greece,1973,total_fertility_rate,%,2.27,OECD
+Hungary,1973,total_fertility_rate,%,1.95,OECD
+Iceland,1973,total_fertility_rate,%,2.95,OECD
+Ireland,1973,total_fertility_rate,%,3.74,OECD
+Italy,1973,total_fertility_rate,%,2.34,OECD
+Japan,1973,total_fertility_rate,%,2.14,OECD
+Korea,1973,total_fertility_rate,%,4.07,OECD
+Latvia,1973,total_fertility_rate,%,1.96,OECD
+Lithuania,1973,total_fertility_rate,%,2.22,OECD
+Luxembourg,1973,total_fertility_rate,%,1.58,OECD
+Mexico,1973,total_fertility_rate,%,6.56,OECD
+Netherlands,1973,total_fertility_rate,%,1.9,OECD
+New Zealand,1973,total_fertility_rate,%,2.76,OECD
+Norway,1973,total_fertility_rate,%,2.23,OECD
+Poland,1973,total_fertility_rate,%,2.26,OECD
+Portugal,1973,total_fertility_rate,%,2.65,OECD
+Slovak Republic,1973,total_fertility_rate,%,2.56,OECD
+Slovenia,1973,total_fertility_rate,%,2.18,OECD
+Spain,1973,total_fertility_rate,%,2.84,OECD
+Sweden,1973,total_fertility_rate,%,1.86,OECD
+Switzerland,1973,total_fertility_rate,%,1.81,OECD
+Türkiye,1973,total_fertility_rate,%,5.59,OECD
+United States,1973,total_fertility_rate,%,1.88,OECD
+OECD-38,1973,total_fertility_rate,%,2.63,OECD
+Brazil,1973,total_fertility_rate,%,4.64,OECD
+China,1973,total_fertility_rate,%,4.73,OECD
+India,1973,total_fertility_rate,%,5.4,OECD
+Indonesia,1973,total_fertility_rate,%,5.25,OECD
+Peru,1973,total_fertility_rate,%,5.97,OECD
+South Africa,1973,total_fertility_rate,%,5.41,OECD
+Thailand,1973,total_fertility_rate,%,4.85,OECD
+Argentina,1973,total_fertility_rate,%,3.17,OECD
+Saudi Arabia,1973,total_fertility_rate,%,7.48,OECD
+Bulgaria,1973,total_fertility_rate,%,2.15,OECD
+Croatia,1973,total_fertility_rate,%,1.98,OECD
+EU-27 average,1973,total_fertility_rate,%,2.23,OECD
+Australia,1974,total_fertility_rate,%,2.32,OECD
+Austria,1974,total_fertility_rate,%,1.91,OECD
+Belgium,1974,total_fertility_rate,%,1.83,OECD
+Canada,1974,total_fertility_rate,%,1.82,OECD
+Chile,1974,total_fertility_rate,%,3.29,OECD
+Colombia,1974,total_fertility_rate,%,4.53,OECD
+Costa Rica,1974,total_fertility_rate,%,3.89,OECD
+Czechia,1974,total_fertility_rate,%,2.43,OECD
+Denmark,1974,total_fertility_rate,%,1.9,OECD
+Estonia,1974,total_fertility_rate,%,2.07,OECD
+Finland,1974,total_fertility_rate,%,1.62,OECD
+France,1974,total_fertility_rate,%,2.11,OECD
+Germany,1974,total_fertility_rate,%,1.53,OECD
+Greece,1974,total_fertility_rate,%,2.38,OECD
+Hungary,1974,total_fertility_rate,%,2.3,OECD
+Iceland,1974,total_fertility_rate,%,2.66,OECD
+Ireland,1974,total_fertility_rate,%,3.62,OECD
+Italy,1974,total_fertility_rate,%,2.33,OECD
+Japan,1974,total_fertility_rate,%,2.05,OECD
+Korea,1974,total_fertility_rate,%,3.77,OECD
+Latvia,1974,total_fertility_rate,%,2.0,OECD
+Lithuania,1974,total_fertility_rate,%,2.21,OECD
+Luxembourg,1974,total_fertility_rate,%,1.58,OECD
+Mexico,1974,total_fertility_rate,%,6.37,OECD
+Netherlands,1974,total_fertility_rate,%,1.77,OECD
+New Zealand,1974,total_fertility_rate,%,2.58,OECD
+Norway,1974,total_fertility_rate,%,2.13,OECD
+Poland,1974,total_fertility_rate,%,2.26,OECD
+Portugal,1974,total_fertility_rate,%,2.6,OECD
+Slovak Republic,1974,total_fertility_rate,%,2.6,OECD
+Slovenia,1974,total_fertility_rate,%,2.1,OECD
+Spain,1974,total_fertility_rate,%,2.89,OECD
+Sweden,1974,total_fertility_rate,%,1.87,OECD
+Switzerland,1974,total_fertility_rate,%,1.73,OECD
+Türkiye,1974,total_fertility_rate,%,5.46,OECD
+United States,1974,total_fertility_rate,%,1.84,OECD
+OECD-38,1974,total_fertility_rate,%,2.58,OECD
+Brazil,1974,total_fertility_rate,%,4.5,OECD
+China,1974,total_fertility_rate,%,4.17,OECD
+India,1974,total_fertility_rate,%,5.33,OECD
+Indonesia,1974,total_fertility_rate,%,5.09,OECD
+Peru,1974,total_fertility_rate,%,5.84,OECD
+South Africa,1974,total_fertility_rate,%,5.3,OECD
+Thailand,1974,total_fertility_rate,%,4.6,OECD
+Argentina,1974,total_fertility_rate,%,3.22,OECD
+Saudi Arabia,1974,total_fertility_rate,%,7.43,OECD
+Bulgaria,1974,total_fertility_rate,%,2.29,OECD
+Croatia,1974,total_fertility_rate,%,1.95,OECD
+EU-27 average,1974,total_fertility_rate,%,2.23,OECD
+Australia,1975,total_fertility_rate,%,2.15,OECD
+Austria,1975,total_fertility_rate,%,1.83,OECD
+Belgium,1975,total_fertility_rate,%,1.74,OECD
+Canada,1975,total_fertility_rate,%,1.8,OECD
+Chile,1975,total_fertility_rate,%,3.18,OECD
+Colombia,1975,total_fertility_rate,%,4.4,OECD
+Costa Rica,1975,total_fertility_rate,%,3.8,OECD
+Czechia,1975,total_fertility_rate,%,2.4,OECD
+Denmark,1975,total_fertility_rate,%,1.92,OECD
+Estonia,1975,total_fertility_rate,%,2.04,OECD
+Finland,1975,total_fertility_rate,%,1.69,OECD
+France,1975,total_fertility_rate,%,1.93,OECD
+Germany,1975,total_fertility_rate,%,1.48,OECD
+Greece,1975,total_fertility_rate,%,2.33,OECD
+Hungary,1975,total_fertility_rate,%,2.38,OECD
+Iceland,1975,total_fertility_rate,%,2.65,OECD
+Ireland,1975,total_fertility_rate,%,3.4,OECD
+Italy,1975,total_fertility_rate,%,2.21,OECD
+Japan,1975,total_fertility_rate,%,1.91,OECD
+Korea,1975,total_fertility_rate,%,3.43,OECD
+Latvia,1975,total_fertility_rate,%,1.97,OECD
+Lithuania,1975,total_fertility_rate,%,2.18,OECD
+Luxembourg,1975,total_fertility_rate,%,1.55,OECD
+Mexico,1975,total_fertility_rate,%,6.13,OECD
+Netherlands,1975,total_fertility_rate,%,1.66,OECD
+New Zealand,1975,total_fertility_rate,%,2.37,OECD
+Norway,1975,total_fertility_rate,%,1.98,OECD
+Poland,1975,total_fertility_rate,%,2.27,OECD
+Portugal,1975,total_fertility_rate,%,2.58,OECD
+Slovak Republic,1975,total_fertility_rate,%,2.53,OECD
+Slovenia,1975,total_fertility_rate,%,2.16,OECD
+Spain,1975,total_fertility_rate,%,2.8,OECD
+Sweden,1975,total_fertility_rate,%,1.77,OECD
+Switzerland,1975,total_fertility_rate,%,1.61,OECD
+Türkiye,1975,total_fertility_rate,%,5.32,OECD
+United States,1975,total_fertility_rate,%,1.77,OECD
+OECD-38,1975,total_fertility_rate,%,2.5,OECD
+Brazil,1975,total_fertility_rate,%,4.42,OECD
+China,1975,total_fertility_rate,%,3.57,OECD
+India,1975,total_fertility_rate,%,5.2,OECD
+Indonesia,1975,total_fertility_rate,%,5.03,OECD
+Peru,1975,total_fertility_rate,%,5.71,OECD
+South Africa,1975,total_fertility_rate,%,5.19,OECD
+Thailand,1975,total_fertility_rate,%,4.36,OECD
+Argentina,1975,total_fertility_rate,%,3.27,OECD
+Saudi Arabia,1975,total_fertility_rate,%,7.37,OECD
+Bulgaria,1975,total_fertility_rate,%,2.23,OECD
+Croatia,1975,total_fertility_rate,%,1.92,OECD
+EU-27 average,1975,total_fertility_rate,%,2.18,OECD
+Australia,1976,total_fertility_rate,%,2.06,OECD
+Austria,1976,total_fertility_rate,%,1.69,OECD
+Belgium,1976,total_fertility_rate,%,1.73,OECD
+Canada,1976,total_fertility_rate,%,1.76,OECD
+Chile,1976,total_fertility_rate,%,3.08,OECD
+Colombia,1976,total_fertility_rate,%,4.29,OECD
+Costa Rica,1976,total_fertility_rate,%,3.75,OECD
+Czechia,1976,total_fertility_rate,%,2.36,OECD
+Denmark,1976,total_fertility_rate,%,1.75,OECD
+Estonia,1976,total_fertility_rate,%,2.07,OECD
+Finland,1976,total_fertility_rate,%,1.72,OECD
+France,1976,total_fertility_rate,%,1.83,OECD
+Germany,1976,total_fertility_rate,%,1.51,OECD
+Greece,1976,total_fertility_rate,%,2.35,OECD
+Hungary,1976,total_fertility_rate,%,2.26,OECD
+Iceland,1976,total_fertility_rate,%,2.52,OECD
+Ireland,1976,total_fertility_rate,%,3.31,OECD
+Italy,1976,total_fertility_rate,%,2.11,OECD
+Japan,1976,total_fertility_rate,%,1.85,OECD
+Korea,1976,total_fertility_rate,%,3.0,OECD
+Latvia,1976,total_fertility_rate,%,1.93,OECD
+Lithuania,1976,total_fertility_rate,%,2.18,OECD
+Luxembourg,1976,total_fertility_rate,%,1.48,OECD
+Mexico,1976,total_fertility_rate,%,5.86,OECD
+Netherlands,1976,total_fertility_rate,%,1.63,OECD
+New Zealand,1976,total_fertility_rate,%,2.27,OECD
+Norway,1976,total_fertility_rate,%,1.86,OECD
+Poland,1976,total_fertility_rate,%,2.3,OECD
+Portugal,1976,total_fertility_rate,%,2.58,OECD
+Slovak Republic,1976,total_fertility_rate,%,2.52,OECD
+Slovenia,1976,total_fertility_rate,%,2.17,OECD
+Spain,1976,total_fertility_rate,%,2.8,OECD
+Sweden,1976,total_fertility_rate,%,1.68,OECD
+Switzerland,1976,total_fertility_rate,%,1.55,OECD
+Türkiye,1976,total_fertility_rate,%,5.19,OECD
+United States,1976,total_fertility_rate,%,1.74,OECD
+OECD-38,1976,total_fertility_rate,%,2.43,OECD
+Brazil,1976,total_fertility_rate,%,4.34,OECD
+China,1976,total_fertility_rate,%,3.24,OECD
+India,1976,total_fertility_rate,%,5.13,OECD
+Indonesia,1976,total_fertility_rate,%,4.92,OECD
+Peru,1976,total_fertility_rate,%,5.58,OECD
+South Africa,1976,total_fertility_rate,%,5.07,OECD
+Thailand,1976,total_fertility_rate,%,4.12,OECD
+Argentina,1976,total_fertility_rate,%,3.32,OECD
+Saudi Arabia,1976,total_fertility_rate,%,7.33,OECD
+Bulgaria,1976,total_fertility_rate,%,2.24,OECD
+Croatia,1976,total_fertility_rate,%,1.9,OECD
+EU-27 average,1976,total_fertility_rate,%,2.14,OECD
+Australia,1977,total_fertility_rate,%,2.01,OECD
+Austria,1977,total_fertility_rate,%,1.63,OECD
+Belgium,1977,total_fertility_rate,%,1.71,OECD
+Canada,1977,total_fertility_rate,%,1.75,OECD
+Chile,1977,total_fertility_rate,%,2.98,OECD
+Colombia,1977,total_fertility_rate,%,4.16,OECD
+Costa Rica,1977,total_fertility_rate,%,3.7,OECD
+Czechia,1977,total_fertility_rate,%,2.32,OECD
+Denmark,1977,total_fertility_rate,%,1.66,OECD
+Estonia,1977,total_fertility_rate,%,2.06,OECD
+Finland,1977,total_fertility_rate,%,1.69,OECD
+France,1977,total_fertility_rate,%,1.86,OECD
+Germany,1977,total_fertility_rate,%,1.51,OECD
+Greece,1977,total_fertility_rate,%,2.27,OECD
+Hungary,1977,total_fertility_rate,%,2.17,OECD
+Iceland,1977,total_fertility_rate,%,2.31,OECD
+Ireland,1977,total_fertility_rate,%,3.27,OECD
+Italy,1977,total_fertility_rate,%,1.97,OECD
+Japan,1977,total_fertility_rate,%,1.8,OECD
+Korea,1977,total_fertility_rate,%,2.99,OECD
+Latvia,1977,total_fertility_rate,%,1.89,OECD
+Lithuania,1977,total_fertility_rate,%,2.14,OECD
+Luxembourg,1977,total_fertility_rate,%,1.49,OECD
+Mexico,1977,total_fertility_rate,%,5.59,OECD
+Netherlands,1977,total_fertility_rate,%,1.58,OECD
+New Zealand,1977,total_fertility_rate,%,2.21,OECD
+Norway,1977,total_fertility_rate,%,1.75,OECD
+Poland,1977,total_fertility_rate,%,2.23,OECD
+Portugal,1977,total_fertility_rate,%,2.48,OECD
+Slovak Republic,1977,total_fertility_rate,%,2.47,OECD
+Slovenia,1977,total_fertility_rate,%,2.16,OECD
+Spain,1977,total_fertility_rate,%,2.67,OECD
+Sweden,1977,total_fertility_rate,%,1.64,OECD
+Switzerland,1977,total_fertility_rate,%,1.53,OECD
+Türkiye,1977,total_fertility_rate,%,4.9,OECD
+United States,1977,total_fertility_rate,%,1.79,OECD
+OECD-38,1977,total_fertility_rate,%,2.36,OECD
+Brazil,1977,total_fertility_rate,%,4.27,OECD
+China,1977,total_fertility_rate,%,2.84,OECD
+India,1977,total_fertility_rate,%,5.01,OECD
+Indonesia,1977,total_fertility_rate,%,4.81,OECD
+Peru,1977,total_fertility_rate,%,5.44,OECD
+South Africa,1977,total_fertility_rate,%,4.94,OECD
+Thailand,1977,total_fertility_rate,%,3.87,OECD
+Argentina,1977,total_fertility_rate,%,3.36,OECD
+Saudi Arabia,1977,total_fertility_rate,%,7.3,OECD
+Bulgaria,1977,total_fertility_rate,%,2.21,OECD
+Croatia,1977,total_fertility_rate,%,1.91,OECD
+EU-27 average,1977,total_fertility_rate,%,2.09,OECD
+Australia,1978,total_fertility_rate,%,1.95,OECD
+Austria,1978,total_fertility_rate,%,1.6,OECD
+Belgium,1978,total_fertility_rate,%,1.69,OECD
+Canada,1978,total_fertility_rate,%,1.7,OECD
+Chile,1978,total_fertility_rate,%,2.89,OECD
+Colombia,1978,total_fertility_rate,%,4.0,OECD
+Costa Rica,1978,total_fertility_rate,%,3.66,OECD
+Czechia,1978,total_fertility_rate,%,2.32,OECD
+Denmark,1978,total_fertility_rate,%,1.67,OECD
+Estonia,1978,total_fertility_rate,%,2.02,OECD
+Finland,1978,total_fertility_rate,%,1.65,OECD
+France,1978,total_fertility_rate,%,1.82,OECD
+Germany,1978,total_fertility_rate,%,1.5,OECD
+Greece,1978,total_fertility_rate,%,2.28,OECD
+Hungary,1978,total_fertility_rate,%,2.08,OECD
+Iceland,1978,total_fertility_rate,%,2.35,OECD
+Ireland,1978,total_fertility_rate,%,3.24,OECD
+Italy,1978,total_fertility_rate,%,1.87,OECD
+Japan,1978,total_fertility_rate,%,1.79,OECD
+Korea,1978,total_fertility_rate,%,2.64,OECD
+Latvia,1978,total_fertility_rate,%,1.87,OECD
+Lithuania,1978,total_fertility_rate,%,2.08,OECD
+Luxembourg,1978,total_fertility_rate,%,1.47,OECD
+Mexico,1978,total_fertility_rate,%,5.32,OECD
+Netherlands,1978,total_fertility_rate,%,1.58,OECD
+New Zealand,1978,total_fertility_rate,%,2.07,OECD
+Norway,1978,total_fertility_rate,%,1.77,OECD
+Poland,1978,total_fertility_rate,%,2.21,OECD
+Portugal,1978,total_fertility_rate,%,2.28,OECD
+Slovak Republic,1978,total_fertility_rate,%,2.45,OECD
+Slovenia,1978,total_fertility_rate,%,2.19,OECD
+Spain,1978,total_fertility_rate,%,2.55,OECD
+Sweden,1978,total_fertility_rate,%,1.6,OECD
+Switzerland,1978,total_fertility_rate,%,1.51,OECD
+Türkiye,1978,total_fertility_rate,%,5.05,OECD
+United States,1978,total_fertility_rate,%,1.76,OECD
+OECD-38,1978,total_fertility_rate,%,2.3,OECD
+Brazil,1978,total_fertility_rate,%,4.2,OECD
+China,1978,total_fertility_rate,%,2.72,OECD
+India,1978,total_fertility_rate,%,4.89,OECD
+Indonesia,1978,total_fertility_rate,%,4.73,OECD
+Peru,1978,total_fertility_rate,%,5.31,OECD
+South Africa,1978,total_fertility_rate,%,4.85,OECD
+Thailand,1978,total_fertility_rate,%,3.62,OECD
+Argentina,1978,total_fertility_rate,%,3.36,OECD
+Saudi Arabia,1978,total_fertility_rate,%,7.26,OECD
+Bulgaria,1978,total_fertility_rate,%,2.15,OECD
+Croatia,1978,total_fertility_rate,%,1.92,OECD
+EU-27 average,1978,total_fertility_rate,%,2.05,OECD
+Australia,1979,total_fertility_rate,%,1.91,OECD
+Austria,1979,total_fertility_rate,%,1.6,OECD
+Belgium,1979,total_fertility_rate,%,1.69,OECD
+Canada,1979,total_fertility_rate,%,1.7,OECD
+Chile,1979,total_fertility_rate,%,2.81,OECD
+Colombia,1979,total_fertility_rate,%,3.89,OECD
+Costa Rica,1979,total_fertility_rate,%,3.65,OECD
+Czechia,1979,total_fertility_rate,%,2.29,OECD
+Denmark,1979,total_fertility_rate,%,1.6,OECD
+Estonia,1979,total_fertility_rate,%,2.0,OECD
+Finland,1979,total_fertility_rate,%,1.64,OECD
+France,1979,total_fertility_rate,%,1.86,OECD
+Germany,1979,total_fertility_rate,%,1.5,OECD
+Greece,1979,total_fertility_rate,%,2.26,OECD
+Hungary,1979,total_fertility_rate,%,2.02,OECD
+Iceland,1979,total_fertility_rate,%,2.49,OECD
+Ireland,1979,total_fertility_rate,%,3.23,OECD
+Italy,1979,total_fertility_rate,%,1.76,OECD
+Japan,1979,total_fertility_rate,%,1.77,OECD
+Korea,1979,total_fertility_rate,%,2.9,OECD
+Latvia,1979,total_fertility_rate,%,1.87,OECD
+Lithuania,1979,total_fertility_rate,%,2.05,OECD
+Luxembourg,1979,total_fertility_rate,%,1.47,OECD
+Mexico,1979,total_fertility_rate,%,5.06,OECD
+Netherlands,1979,total_fertility_rate,%,1.56,OECD
+New Zealand,1979,total_fertility_rate,%,2.12,OECD
+Norway,1979,total_fertility_rate,%,1.75,OECD
+Poland,1979,total_fertility_rate,%,2.28,OECD
+Portugal,1979,total_fertility_rate,%,2.17,OECD
+Slovak Republic,1979,total_fertility_rate,%,2.44,OECD
+Slovenia,1979,total_fertility_rate,%,2.22,OECD
+Spain,1979,total_fertility_rate,%,2.37,OECD
+Sweden,1979,total_fertility_rate,%,1.66,OECD
+Switzerland,1979,total_fertility_rate,%,1.52,OECD
+Türkiye,1979,total_fertility_rate,%,4.84,OECD
+United States,1979,total_fertility_rate,%,1.81,OECD
+OECD-38,1979,total_fertility_rate,%,2.28,OECD
+Brazil,1979,total_fertility_rate,%,4.12,OECD
+China,1979,total_fertility_rate,%,2.75,OECD
+India,1979,total_fertility_rate,%,4.81,OECD
+Indonesia,1979,total_fertility_rate,%,4.63,OECD
+Peru,1979,total_fertility_rate,%,5.17,OECD
+South Africa,1979,total_fertility_rate,%,4.82,OECD
+Thailand,1979,total_fertility_rate,%,3.45,OECD
+Argentina,1979,total_fertility_rate,%,3.34,OECD
+Saudi Arabia,1979,total_fertility_rate,%,7.23,OECD
+Bulgaria,1979,total_fertility_rate,%,2.16,OECD
+Croatia,1979,total_fertility_rate,%,1.94,OECD
+EU-27 average,1979,total_fertility_rate,%,2.03,OECD
+Australia,1980,total_fertility_rate,%,1.89,OECD
+Austria,1980,total_fertility_rate,%,1.65,OECD
+Belgium,1980,total_fertility_rate,%,1.68,OECD
+Canada,1980,total_fertility_rate,%,1.68,OECD
+Chile,1980,total_fertility_rate,%,2.74,OECD
+Colombia,1980,total_fertility_rate,%,3.8,OECD
+Costa Rica,1980,total_fertility_rate,%,3.58,OECD
+Czechia,1980,total_fertility_rate,%,2.1,OECD
+Denmark,1980,total_fertility_rate,%,1.55,OECD
+Estonia,1980,total_fertility_rate,%,2.02,OECD
+Finland,1980,total_fertility_rate,%,1.63,OECD
+France,1980,total_fertility_rate,%,1.95,OECD
+Germany,1980,total_fertility_rate,%,1.56,OECD
+Greece,1980,total_fertility_rate,%,2.23,OECD
+Hungary,1980,total_fertility_rate,%,1.92,OECD
+Iceland,1980,total_fertility_rate,%,2.48,OECD
+Ireland,1980,total_fertility_rate,%,3.23,OECD
+Italy,1980,total_fertility_rate,%,1.68,OECD
+Japan,1980,total_fertility_rate,%,1.75,OECD
+Korea,1980,total_fertility_rate,%,2.82,OECD
+Latvia,1980,total_fertility_rate,%,1.9,OECD
+Lithuania,1980,total_fertility_rate,%,1.99,OECD
+Luxembourg,1980,total_fertility_rate,%,1.5,OECD
+Mexico,1980,total_fertility_rate,%,4.84,OECD
+Netherlands,1980,total_fertility_rate,%,1.6,OECD
+New Zealand,1980,total_fertility_rate,%,2.03,OECD
+Norway,1980,total_fertility_rate,%,1.72,OECD
+Poland,1980,total_fertility_rate,%,2.28,OECD
+Portugal,1980,total_fertility_rate,%,2.18,OECD
+Slovak Republic,1980,total_fertility_rate,%,2.31,OECD
+Slovenia,1980,total_fertility_rate,%,2.11,OECD
+Spain,1980,total_fertility_rate,%,2.22,OECD
+Sweden,1980,total_fertility_rate,%,1.68,OECD
+Switzerland,1980,total_fertility_rate,%,1.55,OECD
+Türkiye,1980,total_fertility_rate,%,4.63,OECD
+United States,1980,total_fertility_rate,%,1.84,OECD
+OECD-38,1980,total_fertility_rate,%,2.25,OECD
+Brazil,1980,total_fertility_rate,%,4.04,OECD
+China,1980,total_fertility_rate,%,2.74,OECD
+India,1980,total_fertility_rate,%,4.78,OECD
+Indonesia,1980,total_fertility_rate,%,4.5,OECD
+Peru,1980,total_fertility_rate,%,5.04,OECD
+South Africa,1980,total_fertility_rate,%,4.78,OECD
+Thailand,1980,total_fertility_rate,%,3.29,OECD
+Argentina,1980,total_fertility_rate,%,3.3,OECD
+Saudi Arabia,1980,total_fertility_rate,%,7.15,OECD
+Bulgaria,1980,total_fertility_rate,%,2.05,OECD
+Croatia,1980,total_fertility_rate,%,1.92,OECD
+EU-27 average,1980,total_fertility_rate,%,2.0,OECD
+Australia,1981,total_fertility_rate,%,1.94,OECD
+Austria,1981,total_fertility_rate,%,1.67,OECD
+Belgium,1981,total_fertility_rate,%,1.66,OECD
+Canada,1981,total_fertility_rate,%,1.65,OECD
+Chile,1981,total_fertility_rate,%,2.69,OECD
+Colombia,1981,total_fertility_rate,%,3.71,OECD
+Costa Rica,1981,total_fertility_rate,%,3.56,OECD
+Czechia,1981,total_fertility_rate,%,2.02,OECD
+Denmark,1981,total_fertility_rate,%,1.44,OECD
+Estonia,1981,total_fertility_rate,%,2.07,OECD
+Finland,1981,total_fertility_rate,%,1.65,OECD
+France,1981,total_fertility_rate,%,1.95,OECD
+Germany,1981,total_fertility_rate,%,1.53,OECD
+Greece,1981,total_fertility_rate,%,2.1,OECD
+Hungary,1981,total_fertility_rate,%,1.88,OECD
+Iceland,1981,total_fertility_rate,%,2.33,OECD
+Ireland,1981,total_fertility_rate,%,3.07,OECD
+Italy,1981,total_fertility_rate,%,1.6,OECD
+Japan,1981,total_fertility_rate,%,1.74,OECD
+Korea,1981,total_fertility_rate,%,2.57,OECD
+Latvia,1981,total_fertility_rate,%,1.9,OECD
+Lithuania,1981,total_fertility_rate,%,1.98,OECD
+Luxembourg,1981,total_fertility_rate,%,1.55,OECD
+Mexico,1981,total_fertility_rate,%,4.64,OECD
+Netherlands,1981,total_fertility_rate,%,1.56,OECD
+New Zealand,1981,total_fertility_rate,%,2.01,OECD
+Norway,1981,total_fertility_rate,%,1.7,OECD
+Poland,1981,total_fertility_rate,%,2.24,OECD
+Portugal,1981,total_fertility_rate,%,2.13,OECD
+Slovak Republic,1981,total_fertility_rate,%,2.28,OECD
+Slovenia,1981,total_fertility_rate,%,1.96,OECD
+Spain,1981,total_fertility_rate,%,2.04,OECD
+Sweden,1981,total_fertility_rate,%,1.63,OECD
+Switzerland,1981,total_fertility_rate,%,1.55,OECD
+Türkiye,1981,total_fertility_rate,%,4.41,OECD
+United States,1981,total_fertility_rate,%,1.81,OECD
+OECD-38,1981,total_fertility_rate,%,2.19,OECD
+Brazil,1981,total_fertility_rate,%,3.94,OECD
+China,1981,total_fertility_rate,%,2.79,OECD
+India,1981,total_fertility_rate,%,4.7,OECD
+Indonesia,1981,total_fertility_rate,%,4.36,OECD
+Peru,1981,total_fertility_rate,%,4.92,OECD
+South Africa,1981,total_fertility_rate,%,4.71,OECD
+Thailand,1981,total_fertility_rate,%,3.13,OECD
+Argentina,1981,total_fertility_rate,%,3.25,OECD
+Saudi Arabia,1981,total_fertility_rate,%,7.07,OECD
+Bulgaria,1981,total_fertility_rate,%,2.0,OECD
+Croatia,1981,total_fertility_rate,%,1.91,OECD
+EU-27 average,1981,total_fertility_rate,%,1.95,OECD
+Australia,1982,total_fertility_rate,%,1.93,OECD
+Austria,1982,total_fertility_rate,%,1.66,OECD
+Belgium,1982,total_fertility_rate,%,1.61,OECD
+Canada,1982,total_fertility_rate,%,1.64,OECD
+Chile,1982,total_fertility_rate,%,2.65,OECD
+Colombia,1982,total_fertility_rate,%,3.62,OECD
+Costa Rica,1982,total_fertility_rate,%,3.54,OECD
+Czechia,1982,total_fertility_rate,%,2.01,OECD
+Denmark,1982,total_fertility_rate,%,1.43,OECD
+Estonia,1982,total_fertility_rate,%,2.08,OECD
+Finland,1982,total_fertility_rate,%,1.72,OECD
+France,1982,total_fertility_rate,%,1.91,OECD
+Germany,1982,total_fertility_rate,%,1.51,OECD
+Greece,1982,total_fertility_rate,%,2.03,OECD
+Hungary,1982,total_fertility_rate,%,1.78,OECD
+Iceland,1982,total_fertility_rate,%,2.26,OECD
+Ireland,1982,total_fertility_rate,%,2.96,OECD
+Italy,1982,total_fertility_rate,%,1.6,OECD
+Japan,1982,total_fertility_rate,%,1.77,OECD
+Korea,1982,total_fertility_rate,%,2.39,OECD
+Latvia,1982,total_fertility_rate,%,1.98,OECD
+Lithuania,1982,total_fertility_rate,%,1.97,OECD
+Luxembourg,1982,total_fertility_rate,%,1.49,OECD
+Mexico,1982,total_fertility_rate,%,4.46,OECD
+Netherlands,1982,total_fertility_rate,%,1.5,OECD
+New Zealand,1982,total_fertility_rate,%,1.95,OECD
+Norway,1982,total_fertility_rate,%,1.71,OECD
+Poland,1982,total_fertility_rate,%,2.34,OECD
+Portugal,1982,total_fertility_rate,%,2.07,OECD
+Slovak Republic,1982,total_fertility_rate,%,2.27,OECD
+Slovenia,1982,total_fertility_rate,%,1.93,OECD
+Spain,1982,total_fertility_rate,%,1.94,OECD
+Sweden,1982,total_fertility_rate,%,1.62,OECD
+Switzerland,1982,total_fertility_rate,%,1.56,OECD
+Türkiye,1982,total_fertility_rate,%,4.2,OECD
+United States,1982,total_fertility_rate,%,1.83,OECD
+OECD-38,1982,total_fertility_rate,%,2.15,OECD
+Brazil,1982,total_fertility_rate,%,3.84,OECD
+China,1982,total_fertility_rate,%,2.97,OECD
+India,1982,total_fertility_rate,%,4.62,OECD
+Indonesia,1982,total_fertility_rate,%,4.25,OECD
+Peru,1982,total_fertility_rate,%,4.8,OECD
+South Africa,1982,total_fertility_rate,%,4.7,OECD
+Thailand,1982,total_fertility_rate,%,2.94,OECD
+Argentina,1982,total_fertility_rate,%,3.2,OECD
+Saudi Arabia,1982,total_fertility_rate,%,6.98,OECD
+Bulgaria,1982,total_fertility_rate,%,2.01,OECD
+Croatia,1982,total_fertility_rate,%,1.9,OECD
+EU-27 average,1982,total_fertility_rate,%,1.93,OECD
+Australia,1983,total_fertility_rate,%,1.92,OECD
+Austria,1983,total_fertility_rate,%,1.56,OECD
+Belgium,1983,total_fertility_rate,%,1.57,OECD
+Canada,1983,total_fertility_rate,%,1.63,OECD
+Chile,1983,total_fertility_rate,%,2.62,OECD
+Colombia,1983,total_fertility_rate,%,3.5,OECD
+Costa Rica,1983,total_fertility_rate,%,3.53,OECD
+Czechia,1983,total_fertility_rate,%,1.96,OECD
+Denmark,1983,total_fertility_rate,%,1.38,OECD
+Estonia,1983,total_fertility_rate,%,2.16,OECD
+Finland,1983,total_fertility_rate,%,1.74,OECD
+France,1983,total_fertility_rate,%,1.78,OECD
+Germany,1983,total_fertility_rate,%,1.43,OECD
+Greece,1983,total_fertility_rate,%,1.94,OECD
+Hungary,1983,total_fertility_rate,%,1.73,OECD
+Iceland,1983,total_fertility_rate,%,2.24,OECD
+Ireland,1983,total_fertility_rate,%,2.76,OECD
+Italy,1983,total_fertility_rate,%,1.54,OECD
+Japan,1983,total_fertility_rate,%,1.8,OECD
+Korea,1983,total_fertility_rate,%,2.06,OECD
+Latvia,1983,total_fertility_rate,%,2.13,OECD
+Lithuania,1983,total_fertility_rate,%,2.1,OECD
+Luxembourg,1983,total_fertility_rate,%,1.44,OECD
+Mexico,1983,total_fertility_rate,%,4.3,OECD
+Netherlands,1983,total_fertility_rate,%,1.47,OECD
+New Zealand,1983,total_fertility_rate,%,1.92,OECD
+Norway,1983,total_fertility_rate,%,1.66,OECD
+Poland,1983,total_fertility_rate,%,2.42,OECD
+Portugal,1983,total_fertility_rate,%,1.95,OECD
+Slovak Republic,1983,total_fertility_rate,%,2.27,OECD
+Slovenia,1983,total_fertility_rate,%,1.82,OECD
+Spain,1983,total_fertility_rate,%,1.8,OECD
+Sweden,1983,total_fertility_rate,%,1.61,OECD
+Switzerland,1983,total_fertility_rate,%,1.52,OECD
+Türkiye,1983,total_fertility_rate,%,4.11,OECD
+United States,1983,total_fertility_rate,%,1.8,OECD
+OECD-38,1983,total_fertility_rate,%,2.11,OECD
+Brazil,1983,total_fertility_rate,%,3.72,OECD
+China,1983,total_fertility_rate,%,2.56,OECD
+India,1983,total_fertility_rate,%,4.57,OECD
+Indonesia,1983,total_fertility_rate,%,4.11,OECD
+Peru,1983,total_fertility_rate,%,4.68,OECD
+South Africa,1983,total_fertility_rate,%,4.63,OECD
+Thailand,1983,total_fertility_rate,%,2.76,OECD
+Argentina,1983,total_fertility_rate,%,3.15,OECD
+Saudi Arabia,1983,total_fertility_rate,%,6.88,OECD
+Bulgaria,1983,total_fertility_rate,%,2.01,OECD
+Croatia,1983,total_fertility_rate,%,1.88,OECD
+EU-27 average,1983,total_fertility_rate,%,1.89,OECD
+Australia,1984,total_fertility_rate,%,1.84,OECD
+Austria,1984,total_fertility_rate,%,1.52,OECD
+Belgium,1984,total_fertility_rate,%,1.54,OECD
+Canada,1984,total_fertility_rate,%,1.63,OECD
+Chile,1984,total_fertility_rate,%,2.6,OECD
+Colombia,1984,total_fertility_rate,%,3.35,OECD
+Costa Rica,1984,total_fertility_rate,%,3.52,OECD
+Czechia,1984,total_fertility_rate,%,1.97,OECD
+Denmark,1984,total_fertility_rate,%,1.4,OECD
+Estonia,1984,total_fertility_rate,%,2.17,OECD
+Finland,1984,total_fertility_rate,%,1.7,OECD
+France,1984,total_fertility_rate,%,1.8,OECD
+Germany,1984,total_fertility_rate,%,1.39,OECD
+Greece,1984,total_fertility_rate,%,1.82,OECD
+Hungary,1984,total_fertility_rate,%,1.73,OECD
+Iceland,1984,total_fertility_rate,%,2.08,OECD
+Ireland,1984,total_fertility_rate,%,2.59,OECD
+Italy,1984,total_fertility_rate,%,1.48,OECD
+Japan,1984,total_fertility_rate,%,1.81,OECD
+Korea,1984,total_fertility_rate,%,1.74,OECD
+Latvia,1984,total_fertility_rate,%,2.15,OECD
+Lithuania,1984,total_fertility_rate,%,2.07,OECD
+Luxembourg,1984,total_fertility_rate,%,1.42,OECD
+Mexico,1984,total_fertility_rate,%,4.15,OECD
+Netherlands,1984,total_fertility_rate,%,1.49,OECD
+New Zealand,1984,total_fertility_rate,%,1.93,OECD
+Norway,1984,total_fertility_rate,%,1.66,OECD
+Poland,1984,total_fertility_rate,%,2.37,OECD
+Portugal,1984,total_fertility_rate,%,1.9,OECD
+Slovak Republic,1984,total_fertility_rate,%,2.25,OECD
+Slovenia,1984,total_fertility_rate,%,1.75,OECD
+Spain,1984,total_fertility_rate,%,1.73,OECD
+Sweden,1984,total_fertility_rate,%,1.65,OECD
+Switzerland,1984,total_fertility_rate,%,1.53,OECD
+Türkiye,1984,total_fertility_rate,%,3.93,OECD
+United States,1984,total_fertility_rate,%,1.81,OECD
+OECD-38,1984,total_fertility_rate,%,2.06,OECD
+Brazil,1984,total_fertility_rate,%,3.6,OECD
+China,1984,total_fertility_rate,%,2.61,OECD
+India,1984,total_fertility_rate,%,4.52,OECD
+Indonesia,1984,total_fertility_rate,%,3.96,OECD
+Peru,1984,total_fertility_rate,%,4.57,OECD
+South Africa,1984,total_fertility_rate,%,4.57,OECD
+Thailand,1984,total_fertility_rate,%,2.58,OECD
+Argentina,1984,total_fertility_rate,%,3.12,OECD
+Saudi Arabia,1984,total_fertility_rate,%,6.78,OECD
+Bulgaria,1984,total_fertility_rate,%,2.01,OECD
+Croatia,1984,total_fertility_rate,%,1.87,OECD
+EU-27 average,1984,total_fertility_rate,%,1.87,OECD
+Australia,1985,total_fertility_rate,%,1.92,OECD
+Austria,1985,total_fertility_rate,%,1.47,OECD
+Belgium,1985,total_fertility_rate,%,1.51,OECD
+Canada,1985,total_fertility_rate,%,1.61,OECD
+Chile,1985,total_fertility_rate,%,2.59,OECD
+Colombia,1985,total_fertility_rate,%,3.23,OECD
+Costa Rica,1985,total_fertility_rate,%,3.51,OECD
+Czechia,1985,total_fertility_rate,%,1.96,OECD
+Denmark,1985,total_fertility_rate,%,1.45,OECD
+Estonia,1985,total_fertility_rate,%,2.12,OECD
+Finland,1985,total_fertility_rate,%,1.64,OECD
+France,1985,total_fertility_rate,%,1.81,OECD
+Germany,1985,total_fertility_rate,%,1.37,OECD
+Greece,1985,total_fertility_rate,%,1.68,OECD
+Hungary,1985,total_fertility_rate,%,1.83,OECD
+Iceland,1985,total_fertility_rate,%,1.93,OECD
+Ireland,1985,total_fertility_rate,%,2.5,OECD
+Italy,1985,total_fertility_rate,%,1.45,OECD
+Japan,1985,total_fertility_rate,%,1.76,OECD
+Korea,1985,total_fertility_rate,%,1.66,OECD
+Latvia,1985,total_fertility_rate,%,2.09,OECD
+Lithuania,1985,total_fertility_rate,%,2.08,OECD
+Luxembourg,1985,total_fertility_rate,%,1.38,OECD
+Mexico,1985,total_fertility_rate,%,4.02,OECD
+Netherlands,1985,total_fertility_rate,%,1.51,OECD
+New Zealand,1985,total_fertility_rate,%,1.93,OECD
+Norway,1985,total_fertility_rate,%,1.68,OECD
+Poland,1985,total_fertility_rate,%,2.33,OECD
+Portugal,1985,total_fertility_rate,%,1.72,OECD
+Slovak Republic,1985,total_fertility_rate,%,2.25,OECD
+Slovenia,1985,total_fertility_rate,%,1.72,OECD
+Spain,1985,total_fertility_rate,%,1.64,OECD
+Sweden,1985,total_fertility_rate,%,1.73,OECD
+Switzerland,1985,total_fertility_rate,%,1.52,OECD
+Türkiye,1985,total_fertility_rate,%,3.76,OECD
+United States,1985,total_fertility_rate,%,1.84,OECD
+OECD-38,1985,total_fertility_rate,%,2.03,OECD
+Brazil,1985,total_fertility_rate,%,3.48,OECD
+China,1985,total_fertility_rate,%,2.63,OECD
+India,1985,total_fertility_rate,%,4.43,OECD
+Indonesia,1985,total_fertility_rate,%,3.73,OECD
+Peru,1985,total_fertility_rate,%,4.46,OECD
+South Africa,1985,total_fertility_rate,%,4.5,OECD
+Thailand,1985,total_fertility_rate,%,2.45,OECD
+Argentina,1985,total_fertility_rate,%,3.07,OECD
+Saudi Arabia,1985,total_fertility_rate,%,6.65,OECD
+Bulgaria,1985,total_fertility_rate,%,1.97,OECD
+Croatia,1985,total_fertility_rate,%,1.81,OECD
+EU-27 average,1985,total_fertility_rate,%,1.84,OECD
+Australia,1986,total_fertility_rate,%,1.87,OECD
+Austria,1986,total_fertility_rate,%,1.45,OECD
+Belgium,1986,total_fertility_rate,%,1.54,OECD
+Canada,1986,total_fertility_rate,%,1.59,OECD
+Chile,1986,total_fertility_rate,%,2.59,OECD
+Colombia,1986,total_fertility_rate,%,3.15,OECD
+Costa Rica,1986,total_fertility_rate,%,3.45,OECD
+Czechia,1986,total_fertility_rate,%,1.94,OECD
+Denmark,1986,total_fertility_rate,%,1.48,OECD
+Estonia,1986,total_fertility_rate,%,2.17,OECD
+Finland,1986,total_fertility_rate,%,1.6,OECD
+France,1986,total_fertility_rate,%,1.83,OECD
+Germany,1986,total_fertility_rate,%,1.41,OECD
+Greece,1986,total_fertility_rate,%,1.6,OECD
+Hungary,1986,total_fertility_rate,%,1.83,OECD
+Iceland,1986,total_fertility_rate,%,1.93,OECD
+Ireland,1986,total_fertility_rate,%,2.44,OECD
+Italy,1986,total_fertility_rate,%,1.37,OECD
+Japan,1986,total_fertility_rate,%,1.72,OECD
+Korea,1986,total_fertility_rate,%,1.58,OECD
+Latvia,1986,total_fertility_rate,%,2.21,OECD
+Lithuania,1986,total_fertility_rate,%,2.12,OECD
+Luxembourg,1986,total_fertility_rate,%,1.44,OECD
+Mexico,1986,total_fertility_rate,%,3.9,OECD
+Netherlands,1986,total_fertility_rate,%,1.55,OECD
+New Zealand,1986,total_fertility_rate,%,1.96,OECD
+Norway,1986,total_fertility_rate,%,1.71,OECD
+Poland,1986,total_fertility_rate,%,2.22,OECD
+Portugal,1986,total_fertility_rate,%,1.66,OECD
+Slovak Republic,1986,total_fertility_rate,%,2.2,OECD
+Slovenia,1986,total_fertility_rate,%,1.65,OECD
+Spain,1986,total_fertility_rate,%,1.56,OECD
+Sweden,1986,total_fertility_rate,%,1.79,OECD
+Switzerland,1986,total_fertility_rate,%,1.53,OECD
+Türkiye,1986,total_fertility_rate,%,3.58,OECD
+United States,1986,total_fertility_rate,%,1.84,OECD
+OECD-38,1986,total_fertility_rate,%,2.01,OECD
+Brazil,1986,total_fertility_rate,%,3.36,OECD
+China,1986,total_fertility_rate,%,2.72,OECD
+India,1986,total_fertility_rate,%,4.4,OECD
+Indonesia,1986,total_fertility_rate,%,3.53,OECD
+Peru,1986,total_fertility_rate,%,4.35,OECD
+South Africa,1986,total_fertility_rate,%,4.41,OECD
+Thailand,1986,total_fertility_rate,%,2.36,OECD
+Argentina,1986,total_fertility_rate,%,3.05,OECD
+Saudi Arabia,1986,total_fertility_rate,%,6.52,OECD
+Bulgaria,1986,total_fertility_rate,%,2.02,OECD
+Croatia,1986,total_fertility_rate,%,1.76,OECD
+EU-27 average,1986,total_fertility_rate,%,1.84,OECD
+Australia,1987,total_fertility_rate,%,1.85,OECD
+Austria,1987,total_fertility_rate,%,1.43,OECD
+Belgium,1987,total_fertility_rate,%,1.54,OECD
+Canada,1987,total_fertility_rate,%,1.58,OECD
+Chile,1987,total_fertility_rate,%,2.59,OECD
+Colombia,1987,total_fertility_rate,%,3.09,OECD
+Costa Rica,1987,total_fertility_rate,%,3.38,OECD
+Czechia,1987,total_fertility_rate,%,1.91,OECD
+Denmark,1987,total_fertility_rate,%,1.5,OECD
+Estonia,1987,total_fertility_rate,%,2.26,OECD
+Finland,1987,total_fertility_rate,%,1.59,OECD
+France,1987,total_fertility_rate,%,1.8,OECD
+Germany,1987,total_fertility_rate,%,1.43,OECD
+Greece,1987,total_fertility_rate,%,1.5,OECD
+Hungary,1987,total_fertility_rate,%,1.81,OECD
+Iceland,1987,total_fertility_rate,%,2.07,OECD
+Ireland,1987,total_fertility_rate,%,2.31,OECD
+Italy,1987,total_fertility_rate,%,1.35,OECD
+Japan,1987,total_fertility_rate,%,1.69,OECD
+Korea,1987,total_fertility_rate,%,1.53,OECD
+Latvia,1987,total_fertility_rate,%,2.21,OECD
+Lithuania,1987,total_fertility_rate,%,2.11,OECD
+Luxembourg,1987,total_fertility_rate,%,1.39,OECD
+Mexico,1987,total_fertility_rate,%,3.79,OECD
+Netherlands,1987,total_fertility_rate,%,1.56,OECD
+New Zealand,1987,total_fertility_rate,%,2.03,OECD
+Norway,1987,total_fertility_rate,%,1.75,OECD
+Poland,1987,total_fertility_rate,%,2.15,OECD
+Portugal,1987,total_fertility_rate,%,1.62,OECD
+Slovak Republic,1987,total_fertility_rate,%,2.14,OECD
+Slovenia,1987,total_fertility_rate,%,1.64,OECD
+Spain,1987,total_fertility_rate,%,1.5,OECD
+Sweden,1987,total_fertility_rate,%,1.84,OECD
+Switzerland,1987,total_fertility_rate,%,1.52,OECD
+Türkiye,1987,total_fertility_rate,%,3.4,OECD
+United States,1987,total_fertility_rate,%,1.87,OECD
+OECD-38,1987,total_fertility_rate,%,1.99,OECD
+Brazil,1987,total_fertility_rate,%,3.23,OECD
+China,1987,total_fertility_rate,%,2.76,OECD
+India,1987,total_fertility_rate,%,4.31,OECD
+Indonesia,1987,total_fertility_rate,%,3.42,OECD
+Peru,1987,total_fertility_rate,%,4.25,OECD
+South Africa,1987,total_fertility_rate,%,4.35,OECD
+Thailand,1987,total_fertility_rate,%,2.26,OECD
+Argentina,1987,total_fertility_rate,%,3.04,OECD
+Saudi Arabia,1987,total_fertility_rate,%,6.34,OECD
+Bulgaria,1987,total_fertility_rate,%,1.96,OECD
+Croatia,1987,total_fertility_rate,%,1.74,OECD
+EU-27 average,1987,total_fertility_rate,%,1.82,OECD
+Australia,1988,total_fertility_rate,%,1.83,OECD
+Austria,1988,total_fertility_rate,%,1.45,OECD
+Belgium,1988,total_fertility_rate,%,1.57,OECD
+Canada,1988,total_fertility_rate,%,1.6,OECD
+Chile,1988,total_fertility_rate,%,2.59,OECD
+Colombia,1988,total_fertility_rate,%,3.04,OECD
+Costa Rica,1988,total_fertility_rate,%,3.31,OECD
+Czechia,1988,total_fertility_rate,%,1.94,OECD
+Denmark,1988,total_fertility_rate,%,1.56,OECD
+Estonia,1988,total_fertility_rate,%,2.26,OECD
+Finland,1988,total_fertility_rate,%,1.7,OECD
+France,1988,total_fertility_rate,%,1.81,OECD
+Germany,1988,total_fertility_rate,%,1.46,OECD
+Greece,1988,total_fertility_rate,%,1.5,OECD
+Hungary,1988,total_fertility_rate,%,1.79,OECD
+Iceland,1988,total_fertility_rate,%,2.27,OECD
+Ireland,1988,total_fertility_rate,%,2.17,OECD
+Italy,1988,total_fertility_rate,%,1.38,OECD
+Japan,1988,total_fertility_rate,%,1.66,OECD
+Korea,1988,total_fertility_rate,%,1.55,OECD
+Latvia,1988,total_fertility_rate,%,2.16,OECD
+Lithuania,1988,total_fertility_rate,%,2.02,OECD
+Luxembourg,1988,total_fertility_rate,%,1.51,OECD
+Mexico,1988,total_fertility_rate,%,3.68,OECD
+Netherlands,1988,total_fertility_rate,%,1.55,OECD
+New Zealand,1988,total_fertility_rate,%,2.1,OECD
+Norway,1988,total_fertility_rate,%,1.84,OECD
+Poland,1988,total_fertility_rate,%,2.13,OECD
+Portugal,1988,total_fertility_rate,%,1.62,OECD
+Slovak Republic,1988,total_fertility_rate,%,2.15,OECD
+Slovenia,1988,total_fertility_rate,%,1.63,OECD
+Spain,1988,total_fertility_rate,%,1.45,OECD
+Sweden,1988,total_fertility_rate,%,1.96,OECD
+Switzerland,1988,total_fertility_rate,%,1.57,OECD
+Türkiye,1988,total_fertility_rate,%,3.29,OECD
+United States,1988,total_fertility_rate,%,1.93,OECD
+OECD-38,1988,total_fertility_rate,%,2.0,OECD
+Brazil,1988,total_fertility_rate,%,3.11,OECD
+China,1988,total_fertility_rate,%,2.54,OECD
+India,1988,total_fertility_rate,%,4.22,OECD
+Indonesia,1988,total_fertility_rate,%,3.35,OECD
+Peru,1988,total_fertility_rate,%,4.14,OECD
+South Africa,1988,total_fertility_rate,%,4.18,OECD
+Thailand,1988,total_fertility_rate,%,2.17,OECD
+Argentina,1988,total_fertility_rate,%,3.05,OECD
+Saudi Arabia,1988,total_fertility_rate,%,6.15,OECD
+Bulgaria,1988,total_fertility_rate,%,1.97,OECD
+Croatia,1988,total_fertility_rate,%,1.74,OECD
+EU-27 average,1988,total_fertility_rate,%,1.83,OECD
+Australia,1989,total_fertility_rate,%,1.84,OECD
+Austria,1989,total_fertility_rate,%,1.45,OECD
+Belgium,1989,total_fertility_rate,%,1.58,OECD
+Canada,1989,total_fertility_rate,%,1.66,OECD
+Chile,1989,total_fertility_rate,%,2.59,OECD
+Colombia,1989,total_fertility_rate,%,3.01,OECD
+Costa Rica,1989,total_fertility_rate,%,3.24,OECD
+Czechia,1989,total_fertility_rate,%,1.87,OECD
+Denmark,1989,total_fertility_rate,%,1.62,OECD
+Estonia,1989,total_fertility_rate,%,2.22,OECD
+Finland,1989,total_fertility_rate,%,1.71,OECD
+France,1989,total_fertility_rate,%,1.79,OECD
+Germany,1989,total_fertility_rate,%,1.42,OECD
+Greece,1989,total_fertility_rate,%,1.4,OECD
+Hungary,1989,total_fertility_rate,%,1.78,OECD
+Iceland,1989,total_fertility_rate,%,2.2,OECD
+Ireland,1989,total_fertility_rate,%,2.08,OECD
+Italy,1989,total_fertility_rate,%,1.35,OECD
+Japan,1989,total_fertility_rate,%,1.57,OECD
+Korea,1989,total_fertility_rate,%,1.56,OECD
+Latvia,1989,total_fertility_rate,%,2.05,OECD
+Lithuania,1989,total_fertility_rate,%,1.98,OECD
+Luxembourg,1989,total_fertility_rate,%,1.52,OECD
+Mexico,1989,total_fertility_rate,%,3.57,OECD
+Netherlands,1989,total_fertility_rate,%,1.55,OECD
+New Zealand,1989,total_fertility_rate,%,2.12,OECD
+Norway,1989,total_fertility_rate,%,1.89,OECD
+Poland,1989,total_fertility_rate,%,2.07,OECD
+Portugal,1989,total_fertility_rate,%,1.58,OECD
+Slovak Republic,1989,total_fertility_rate,%,2.08,OECD
+Slovenia,1989,total_fertility_rate,%,1.52,OECD
+Spain,1989,total_fertility_rate,%,1.4,OECD
+Sweden,1989,total_fertility_rate,%,2.02,OECD
+Switzerland,1989,total_fertility_rate,%,1.56,OECD
+Türkiye,1989,total_fertility_rate,%,3.39,OECD
+United States,1989,total_fertility_rate,%,2.01,OECD
+OECD-38,1989,total_fertility_rate,%,1.98,OECD
+Brazil,1989,total_fertility_rate,%,3.01,OECD
+China,1989,total_fertility_rate,%,2.52,OECD
+India,1989,total_fertility_rate,%,4.13,OECD
+Indonesia,1989,total_fertility_rate,%,3.25,OECD
+Peru,1989,total_fertility_rate,%,4.03,OECD
+South Africa,1989,total_fertility_rate,%,3.98,OECD
+Thailand,1989,total_fertility_rate,%,2.14,OECD
+Argentina,1989,total_fertility_rate,%,3.02,OECD
+Saudi Arabia,1989,total_fertility_rate,%,5.98,OECD
+Bulgaria,1989,total_fertility_rate,%,1.9,OECD
+Croatia,1989,total_fertility_rate,%,1.67,OECD
+EU-27 average,1989,total_fertility_rate,%,1.79,OECD
+Australia,1990,total_fertility_rate,%,1.9,OECD
+Austria,1990,total_fertility_rate,%,1.46,OECD
+Belgium,1990,total_fertility_rate,%,1.62,OECD
+Canada,1990,total_fertility_rate,%,1.71,OECD
+Chile,1990,total_fertility_rate,%,2.58,OECD
+Colombia,1990,total_fertility_rate,%,3.0,OECD
+Costa Rica,1990,total_fertility_rate,%,3.17,OECD
+Czechia,1990,total_fertility_rate,%,1.89,OECD
+Denmark,1990,total_fertility_rate,%,1.67,OECD
+Estonia,1990,total_fertility_rate,%,2.05,OECD
+Finland,1990,total_fertility_rate,%,1.79,OECD
+France,1990,total_fertility_rate,%,1.78,OECD
+Germany,1990,total_fertility_rate,%,1.45,OECD
+Greece,1990,total_fertility_rate,%,1.39,OECD
+Hungary,1990,total_fertility_rate,%,1.84,OECD
+Iceland,1990,total_fertility_rate,%,2.31,OECD
+Ireland,1990,total_fertility_rate,%,2.12,OECD
+Italy,1990,total_fertility_rate,%,1.36,OECD
+Japan,1990,total_fertility_rate,%,1.54,OECD
+Korea,1990,total_fertility_rate,%,1.57,OECD
+Latvia,1990,total_fertility_rate,%,2.01,OECD
+Lithuania,1990,total_fertility_rate,%,2.03,OECD
+Luxembourg,1990,total_fertility_rate,%,1.62,OECD
+Mexico,1990,total_fertility_rate,%,3.47,OECD
+Netherlands,1990,total_fertility_rate,%,1.62,OECD
+New Zealand,1990,total_fertility_rate,%,2.18,OECD
+Norway,1990,total_fertility_rate,%,1.93,OECD
+Poland,1990,total_fertility_rate,%,1.99,OECD
+Portugal,1990,total_fertility_rate,%,1.56,OECD
+Slovak Republic,1990,total_fertility_rate,%,2.09,OECD
+Slovenia,1990,total_fertility_rate,%,1.46,OECD
+Spain,1990,total_fertility_rate,%,1.36,OECD
+Sweden,1990,total_fertility_rate,%,2.14,OECD
+Switzerland,1990,total_fertility_rate,%,1.59,OECD
+Türkiye,1990,total_fertility_rate,%,3.07,OECD
+United States,1990,total_fertility_rate,%,2.08,OECD
+OECD-38,1990,total_fertility_rate,%,1.98,OECD
+Brazil,1990,total_fertility_rate,%,2.9,OECD
+China,1990,total_fertility_rate,%,2.51,OECD
+India,1990,total_fertility_rate,%,4.05,OECD
+Indonesia,1990,total_fertility_rate,%,3.11,OECD
+Peru,1990,total_fertility_rate,%,3.91,OECD
+South Africa,1990,total_fertility_rate,%,3.72,OECD
+Thailand,1990,total_fertility_rate,%,2.07,OECD
+Argentina,1990,total_fertility_rate,%,3.03,OECD
+Saudi Arabia,1990,total_fertility_rate,%,5.8,OECD
+Bulgaria,1990,total_fertility_rate,%,1.82,OECD
+Croatia,1990,total_fertility_rate,%,1.67,OECD
+EU-27 average,1990,total_fertility_rate,%,1.78,OECD
+Australia,1991,total_fertility_rate,%,1.85,OECD
+Austria,1991,total_fertility_rate,%,1.51,OECD
+Belgium,1991,total_fertility_rate,%,1.66,OECD
+Canada,1991,total_fertility_rate,%,1.72,OECD
+Chile,1991,total_fertility_rate,%,2.56,OECD
+Colombia,1991,total_fertility_rate,%,2.98,OECD
+Costa Rica,1991,total_fertility_rate,%,3.08,OECD
+Czechia,1991,total_fertility_rate,%,1.86,OECD
+Denmark,1991,total_fertility_rate,%,1.68,OECD
+Estonia,1991,total_fertility_rate,%,1.8,OECD
+Finland,1991,total_fertility_rate,%,1.8,OECD
+France,1991,total_fertility_rate,%,1.77,OECD
+Germany,1991,total_fertility_rate,%,1.33,OECD
+Greece,1991,total_fertility_rate,%,1.37,OECD
+Hungary,1991,total_fertility_rate,%,1.86,OECD
+Iceland,1991,total_fertility_rate,%,2.19,OECD
+Ireland,1991,total_fertility_rate,%,2.09,OECD
+Italy,1991,total_fertility_rate,%,1.33,OECD
+Japan,1991,total_fertility_rate,%,1.53,OECD
+Korea,1991,total_fertility_rate,%,1.71,OECD
+Latvia,1991,total_fertility_rate,%,1.86,OECD
+Lithuania,1991,total_fertility_rate,%,2.01,OECD
+Luxembourg,1991,total_fertility_rate,%,1.6,OECD
+Mexico,1991,total_fertility_rate,%,3.37,OECD
+Netherlands,1991,total_fertility_rate,%,1.61,OECD
+New Zealand,1991,total_fertility_rate,%,2.09,OECD
+Norway,1991,total_fertility_rate,%,1.92,OECD
+Poland,1991,total_fertility_rate,%,1.98,OECD
+Portugal,1991,total_fertility_rate,%,1.56,OECD
+Slovak Republic,1991,total_fertility_rate,%,2.05,OECD
+Slovenia,1991,total_fertility_rate,%,1.42,OECD
+Spain,1991,total_fertility_rate,%,1.33,OECD
+Sweden,1991,total_fertility_rate,%,2.12,OECD
+Switzerland,1991,total_fertility_rate,%,1.58,OECD
+Türkiye,1991,total_fertility_rate,%,3.0,OECD
+United States,1991,total_fertility_rate,%,2.06,OECD
+OECD-38,1991,total_fertility_rate,%,1.95,OECD
+Brazil,1991,total_fertility_rate,%,2.81,OECD
+China,1991,total_fertility_rate,%,1.93,OECD
+India,1991,total_fertility_rate,%,3.96,OECD
+Indonesia,1991,total_fertility_rate,%,3.06,OECD
+Peru,1991,total_fertility_rate,%,3.79,OECD
+South Africa,1991,total_fertility_rate,%,3.62,OECD
+Thailand,1991,total_fertility_rate,%,2.04,OECD
+Argentina,1991,total_fertility_rate,%,3.01,OECD
+Saudi Arabia,1991,total_fertility_rate,%,5.64,OECD
+Bulgaria,1991,total_fertility_rate,%,1.66,OECD
+Croatia,1991,total_fertility_rate,%,1.55,OECD
+EU-27 average,1991,total_fertility_rate,%,1.73,OECD
+Australia,1992,total_fertility_rate,%,1.89,OECD
+Austria,1992,total_fertility_rate,%,1.51,OECD
+Belgium,1992,total_fertility_rate,%,1.65,OECD
+Canada,1992,total_fertility_rate,%,1.71,OECD
+Chile,1992,total_fertility_rate,%,2.53,OECD
+Colombia,1992,total_fertility_rate,%,2.98,OECD
+Costa Rica,1992,total_fertility_rate,%,3.0,OECD
+Czechia,1992,total_fertility_rate,%,1.72,OECD
+Denmark,1992,total_fertility_rate,%,1.76,OECD
+Estonia,1992,total_fertility_rate,%,1.71,OECD
+Finland,1992,total_fertility_rate,%,1.85,OECD
+France,1992,total_fertility_rate,%,1.73,OECD
+Germany,1992,total_fertility_rate,%,1.29,OECD
+Greece,1992,total_fertility_rate,%,1.36,OECD
+Hungary,1992,total_fertility_rate,%,1.77,OECD
+Iceland,1992,total_fertility_rate,%,2.21,OECD
+Ireland,1992,total_fertility_rate,%,1.99,OECD
+Italy,1992,total_fertility_rate,%,1.32,OECD
+Japan,1992,total_fertility_rate,%,1.5,OECD
+Korea,1992,total_fertility_rate,%,1.76,OECD
+Latvia,1992,total_fertility_rate,%,1.73,OECD
+Lithuania,1992,total_fertility_rate,%,1.97,OECD
+Luxembourg,1992,total_fertility_rate,%,1.67,OECD
+Mexico,1992,total_fertility_rate,%,3.27,OECD
+Netherlands,1992,total_fertility_rate,%,1.59,OECD
+New Zealand,1992,total_fertility_rate,%,2.06,OECD
+Norway,1992,total_fertility_rate,%,1.89,OECD
+Poland,1992,total_fertility_rate,%,1.85,OECD
+Portugal,1992,total_fertility_rate,%,1.53,OECD
+Slovak Republic,1992,total_fertility_rate,%,1.99,OECD
+Slovenia,1992,total_fertility_rate,%,1.34,OECD
+Spain,1992,total_fertility_rate,%,1.32,OECD
+Sweden,1992,total_fertility_rate,%,2.09,OECD
+Switzerland,1992,total_fertility_rate,%,1.58,OECD
+Türkiye,1992,total_fertility_rate,%,2.93,OECD
+United States,1992,total_fertility_rate,%,2.05,OECD
+OECD-38,1992,total_fertility_rate,%,1.92,OECD
+Brazil,1992,total_fertility_rate,%,2.71,OECD
+China,1992,total_fertility_rate,%,1.78,OECD
+India,1992,total_fertility_rate,%,3.88,OECD
+Indonesia,1992,total_fertility_rate,%,2.95,OECD
+Peru,1992,total_fertility_rate,%,3.67,OECD
+South Africa,1992,total_fertility_rate,%,3.48,OECD
+Thailand,1992,total_fertility_rate,%,2.01,OECD
+Argentina,1992,total_fertility_rate,%,2.99,OECD
+Saudi Arabia,1992,total_fertility_rate,%,5.49,OECD
+Bulgaria,1992,total_fertility_rate,%,1.55,OECD
+Croatia,1992,total_fertility_rate,%,1.39,OECD
+EU-27 average,1992,total_fertility_rate,%,1.7,OECD
+Australia,1993,total_fertility_rate,%,1.86,OECD
+Austria,1993,total_fertility_rate,%,1.5,OECD
+Belgium,1993,total_fertility_rate,%,1.61,OECD
+Canada,1993,total_fertility_rate,%,1.69,OECD
+Chile,1993,total_fertility_rate,%,2.48,OECD
+Colombia,1993,total_fertility_rate,%,2.98,OECD
+Costa Rica,1993,total_fertility_rate,%,2.93,OECD
+Czechia,1993,total_fertility_rate,%,1.67,OECD
+Denmark,1993,total_fertility_rate,%,1.75,OECD
+Estonia,1993,total_fertility_rate,%,1.49,OECD
+Finland,1993,total_fertility_rate,%,1.81,OECD
+France,1993,total_fertility_rate,%,1.66,OECD
+Germany,1993,total_fertility_rate,%,1.28,OECD
+Greece,1993,total_fertility_rate,%,1.32,OECD
+Hungary,1993,total_fertility_rate,%,1.69,OECD
+Iceland,1993,total_fertility_rate,%,2.22,OECD
+Ireland,1993,total_fertility_rate,%,1.91,OECD
+Italy,1993,total_fertility_rate,%,1.26,OECD
+Japan,1993,total_fertility_rate,%,1.46,OECD
+Korea,1993,total_fertility_rate,%,1.65,OECD
+Latvia,1993,total_fertility_rate,%,1.51,OECD
+Lithuania,1993,total_fertility_rate,%,1.74,OECD
+Luxembourg,1993,total_fertility_rate,%,1.69,OECD
+Mexico,1993,total_fertility_rate,%,3.18,OECD
+Netherlands,1993,total_fertility_rate,%,1.57,OECD
+New Zealand,1993,total_fertility_rate,%,2.04,OECD
+Norway,1993,total_fertility_rate,%,1.86,OECD
+Poland,1993,total_fertility_rate,%,1.77,OECD
+Portugal,1993,total_fertility_rate,%,1.51,OECD
+Slovak Republic,1993,total_fertility_rate,%,1.93,OECD
+Slovenia,1993,total_fertility_rate,%,1.33,OECD
+Spain,1993,total_fertility_rate,%,1.27,OECD
+Sweden,1993,total_fertility_rate,%,2.0,OECD
+Switzerland,1993,total_fertility_rate,%,1.51,OECD
+Türkiye,1993,total_fertility_rate,%,2.87,OECD
+United States,1993,total_fertility_rate,%,2.02,OECD
+OECD-38,1993,total_fertility_rate,%,1.86,OECD
+Brazil,1993,total_fertility_rate,%,2.66,OECD
+China,1993,total_fertility_rate,%,1.69,OECD
+India,1993,total_fertility_rate,%,3.8,OECD
+Indonesia,1993,total_fertility_rate,%,2.9,OECD
+Peru,1993,total_fertility_rate,%,3.55,OECD
+South Africa,1993,total_fertility_rate,%,3.37,OECD
+Thailand,1993,total_fertility_rate,%,1.97,OECD
+Argentina,1993,total_fertility_rate,%,2.97,OECD
+Saudi Arabia,1993,total_fertility_rate,%,5.33,OECD
+Bulgaria,1993,total_fertility_rate,%,1.46,OECD
+Croatia,1993,total_fertility_rate,%,1.43,OECD
+EU-27 average,1993,total_fertility_rate,%,1.62,OECD
+Australia,1994,total_fertility_rate,%,1.84,OECD
+Austria,1994,total_fertility_rate,%,1.47,OECD
+Belgium,1994,total_fertility_rate,%,1.56,OECD
+Canada,1994,total_fertility_rate,%,1.69,OECD
+Chile,1994,total_fertility_rate,%,2.43,OECD
+Colombia,1994,total_fertility_rate,%,2.94,OECD
+Costa Rica,1994,total_fertility_rate,%,2.86,OECD
+Czechia,1994,total_fertility_rate,%,1.44,OECD
+Denmark,1994,total_fertility_rate,%,1.81,OECD
+Estonia,1994,total_fertility_rate,%,1.42,OECD
+Finland,1994,total_fertility_rate,%,1.85,OECD
+France,1994,total_fertility_rate,%,1.68,OECD
+Germany,1994,total_fertility_rate,%,1.24,OECD
+Greece,1994,total_fertility_rate,%,1.33,OECD
+Hungary,1994,total_fertility_rate,%,1.64,OECD
+Iceland,1994,total_fertility_rate,%,2.14,OECD
+Ireland,1994,total_fertility_rate,%,1.85,OECD
+Italy,1994,total_fertility_rate,%,1.22,OECD
+Japan,1994,total_fertility_rate,%,1.5,OECD
+Korea,1994,total_fertility_rate,%,1.66,OECD
+Latvia,1994,total_fertility_rate,%,1.39,OECD
+Lithuania,1994,total_fertility_rate,%,1.57,OECD
+Luxembourg,1994,total_fertility_rate,%,1.72,OECD
+Mexico,1994,total_fertility_rate,%,3.1,OECD
+Netherlands,1994,total_fertility_rate,%,1.57,OECD
+New Zealand,1994,total_fertility_rate,%,1.98,OECD
+Norway,1994,total_fertility_rate,%,1.87,OECD
+Poland,1994,total_fertility_rate,%,1.72,OECD
+Portugal,1994,total_fertility_rate,%,1.44,OECD
+Slovak Republic,1994,total_fertility_rate,%,1.67,OECD
+Slovenia,1994,total_fertility_rate,%,1.32,OECD
+Spain,1994,total_fertility_rate,%,1.2,OECD
+Sweden,1994,total_fertility_rate,%,1.89,OECD
+Switzerland,1994,total_fertility_rate,%,1.49,OECD
+Türkiye,1994,total_fertility_rate,%,2.81,OECD
+United States,1994,total_fertility_rate,%,2.0,OECD
+OECD-38,1994,total_fertility_rate,%,1.81,OECD
+Brazil,1994,total_fertility_rate,%,2.6,OECD
+China,1994,total_fertility_rate,%,1.63,OECD
+India,1994,total_fertility_rate,%,3.72,OECD
+Indonesia,1994,total_fertility_rate,%,2.85,OECD
+Peru,1994,total_fertility_rate,%,3.43,OECD
+South Africa,1994,total_fertility_rate,%,3.26,OECD
+Thailand,1994,total_fertility_rate,%,1.93,OECD
+Argentina,1994,total_fertility_rate,%,2.94,OECD
+Saudi Arabia,1994,total_fertility_rate,%,5.16,OECD
+Bulgaria,1994,total_fertility_rate,%,1.37,OECD
+Croatia,1994,total_fertility_rate,%,1.43,OECD
+EU-27 average,1994,total_fertility_rate,%,1.57,OECD
+Australia,1995,total_fertility_rate,%,1.82,OECD
+Austria,1995,total_fertility_rate,%,1.42,OECD
+Belgium,1995,total_fertility_rate,%,1.56,OECD
+Canada,1995,total_fertility_rate,%,1.67,OECD
+Chile,1995,total_fertility_rate,%,2.37,OECD
+Colombia,1995,total_fertility_rate,%,2.85,OECD
+Costa Rica,1995,total_fertility_rate,%,2.78,OECD
+Czechia,1995,total_fertility_rate,%,1.28,OECD
+Denmark,1995,total_fertility_rate,%,1.81,OECD
+Estonia,1995,total_fertility_rate,%,1.38,OECD
+Finland,1995,total_fertility_rate,%,1.81,OECD
+France,1995,total_fertility_rate,%,1.73,OECD
+Germany,1995,total_fertility_rate,%,1.25,OECD
+Greece,1995,total_fertility_rate,%,1.28,OECD
+Hungary,1995,total_fertility_rate,%,1.57,OECD
+Iceland,1995,total_fertility_rate,%,2.08,OECD
+Ireland,1995,total_fertility_rate,%,1.85,OECD
+Italy,1995,total_fertility_rate,%,1.19,OECD
+Japan,1995,total_fertility_rate,%,1.42,OECD
+Korea,1995,total_fertility_rate,%,1.63,OECD
+Latvia,1995,total_fertility_rate,%,1.26,OECD
+Lithuania,1995,total_fertility_rate,%,1.55,OECD
+Luxembourg,1995,total_fertility_rate,%,1.67,OECD
+Mexico,1995,total_fertility_rate,%,3.02,OECD
+Netherlands,1995,total_fertility_rate,%,1.53,OECD
+New Zealand,1995,total_fertility_rate,%,1.98,OECD
+Norway,1995,total_fertility_rate,%,1.87,OECD
+Poland,1995,total_fertility_rate,%,1.55,OECD
+Portugal,1995,total_fertility_rate,%,1.41,OECD
+Slovak Republic,1995,total_fertility_rate,%,1.52,OECD
+Slovenia,1995,total_fertility_rate,%,1.29,OECD
+Spain,1995,total_fertility_rate,%,1.17,OECD
+Sweden,1995,total_fertility_rate,%,1.74,OECD
+Switzerland,1995,total_fertility_rate,%,1.48,OECD
+Türkiye,1995,total_fertility_rate,%,2.75,OECD
+United States,1995,total_fertility_rate,%,1.98,OECD
+OECD-38,1995,total_fertility_rate,%,1.77,OECD
+Brazil,1995,total_fertility_rate,%,2.57,OECD
+China,1995,total_fertility_rate,%,1.59,OECD
+India,1995,total_fertility_rate,%,3.65,OECD
+Indonesia,1995,total_fertility_rate,%,2.81,OECD
+Peru,1995,total_fertility_rate,%,3.32,OECD
+South Africa,1995,total_fertility_rate,%,3.17,OECD
+Thailand,1995,total_fertility_rate,%,1.89,OECD
+Argentina,1995,total_fertility_rate,%,2.86,OECD
+Saudi Arabia,1995,total_fertility_rate,%,4.99,OECD
+Bulgaria,1995,total_fertility_rate,%,1.23,OECD
+Croatia,1995,total_fertility_rate,%,1.5,OECD
+EU-27 average,1995,total_fertility_rate,%,1.51,OECD
+Australia,1996,total_fertility_rate,%,1.8,OECD
+Austria,1996,total_fertility_rate,%,1.45,OECD
+Belgium,1996,total_fertility_rate,%,1.59,OECD
+Canada,1996,total_fertility_rate,%,1.63,OECD
+Chile,1996,total_fertility_rate,%,2.31,OECD
+Colombia,1996,total_fertility_rate,%,2.77,OECD
+Costa Rica,1996,total_fertility_rate,%,2.68,OECD
+Czechia,1996,total_fertility_rate,%,1.19,OECD
+Denmark,1996,total_fertility_rate,%,1.75,OECD
+Estonia,1996,total_fertility_rate,%,1.37,OECD
+Finland,1996,total_fertility_rate,%,1.76,OECD
+France,1996,total_fertility_rate,%,1.75,OECD
+Germany,1996,total_fertility_rate,%,1.32,OECD
+Greece,1996,total_fertility_rate,%,1.26,OECD
+Hungary,1996,total_fertility_rate,%,1.46,OECD
+Iceland,1996,total_fertility_rate,%,2.12,OECD
+Ireland,1996,total_fertility_rate,%,1.89,OECD
+Italy,1996,total_fertility_rate,%,1.22,OECD
+Japan,1996,total_fertility_rate,%,1.43,OECD
+Korea,1996,total_fertility_rate,%,1.57,OECD
+Latvia,1996,total_fertility_rate,%,1.16,OECD
+Lithuania,1996,total_fertility_rate,%,1.49,OECD
+Luxembourg,1996,total_fertility_rate,%,1.76,OECD
+Mexico,1996,total_fertility_rate,%,2.95,OECD
+Netherlands,1996,total_fertility_rate,%,1.53,OECD
+New Zealand,1996,total_fertility_rate,%,1.96,OECD
+Norway,1996,total_fertility_rate,%,1.89,OECD
+Poland,1996,total_fertility_rate,%,1.53,OECD
+Portugal,1996,total_fertility_rate,%,1.44,OECD
+Slovak Republic,1996,total_fertility_rate,%,1.47,OECD
+Slovenia,1996,total_fertility_rate,%,1.28,OECD
+Spain,1996,total_fertility_rate,%,1.16,OECD
+Sweden,1996,total_fertility_rate,%,1.61,OECD
+Switzerland,1996,total_fertility_rate,%,1.5,OECD
+Türkiye,1996,total_fertility_rate,%,2.69,OECD
+United States,1996,total_fertility_rate,%,1.98,OECD
+OECD-38,1996,total_fertility_rate,%,1.75,OECD
+Brazil,1996,total_fertility_rate,%,2.51,OECD
+China,1996,total_fertility_rate,%,1.55,OECD
+India,1996,total_fertility_rate,%,3.58,OECD
+Indonesia,1996,total_fertility_rate,%,2.78,OECD
+Peru,1996,total_fertility_rate,%,3.2,OECD
+South Africa,1996,total_fertility_rate,%,2.99,OECD
+Thailand,1996,total_fertility_rate,%,1.87,OECD
+Argentina,1996,total_fertility_rate,%,2.78,OECD
+Saudi Arabia,1996,total_fertility_rate,%,4.81,OECD
+Bulgaria,1996,total_fertility_rate,%,1.23,OECD
+Croatia,1996,total_fertility_rate,%,1.64,OECD
+EU-27 average,1996,total_fertility_rate,%,1.5,OECD
+Australia,1997,total_fertility_rate,%,1.78,OECD
+Austria,1997,total_fertility_rate,%,1.39,OECD
+Belgium,1997,total_fertility_rate,%,1.6,OECD
+Canada,1997,total_fertility_rate,%,1.57,OECD
+Chile,1997,total_fertility_rate,%,2.24,OECD
+Colombia,1997,total_fertility_rate,%,2.74,OECD
+Costa Rica,1997,total_fertility_rate,%,2.59,OECD
+Czechia,1997,total_fertility_rate,%,1.17,OECD
+Denmark,1997,total_fertility_rate,%,1.76,OECD
+Estonia,1997,total_fertility_rate,%,1.32,OECD
+Finland,1997,total_fertility_rate,%,1.75,OECD
+France,1997,total_fertility_rate,%,1.75,OECD
+Germany,1997,total_fertility_rate,%,1.37,OECD
+Greece,1997,total_fertility_rate,%,1.27,OECD
+Hungary,1997,total_fertility_rate,%,1.38,OECD
+Iceland,1997,total_fertility_rate,%,2.04,OECD
+Ireland,1997,total_fertility_rate,%,1.94,OECD
+Italy,1997,total_fertility_rate,%,1.23,OECD
+Japan,1997,total_fertility_rate,%,1.39,OECD
+Korea,1997,total_fertility_rate,%,1.54,OECD
+Latvia,1997,total_fertility_rate,%,1.11,OECD
+Lithuania,1997,total_fertility_rate,%,1.47,OECD
+Luxembourg,1997,total_fertility_rate,%,1.71,OECD
+Mexico,1997,total_fertility_rate,%,2.88,OECD
+Netherlands,1997,total_fertility_rate,%,1.56,OECD
+New Zealand,1997,total_fertility_rate,%,1.96,OECD
+Norway,1997,total_fertility_rate,%,1.86,OECD
+Poland,1997,total_fertility_rate,%,1.47,OECD
+Portugal,1997,total_fertility_rate,%,1.47,OECD
+Slovak Republic,1997,total_fertility_rate,%,1.43,OECD
+Slovenia,1997,total_fertility_rate,%,1.25,OECD
+Spain,1997,total_fertility_rate,%,1.18,OECD
+Sweden,1997,total_fertility_rate,%,1.53,OECD
+Switzerland,1997,total_fertility_rate,%,1.48,OECD
+Türkiye,1997,total_fertility_rate,%,2.63,OECD
+United States,1997,total_fertility_rate,%,1.97,OECD
+OECD-38,1997,total_fertility_rate,%,1.72,OECD
+Brazil,1997,total_fertility_rate,%,2.47,OECD
+China,1997,total_fertility_rate,%,1.53,OECD
+India,1997,total_fertility_rate,%,3.51,OECD
+Indonesia,1997,total_fertility_rate,%,2.74,OECD
+Peru,1997,total_fertility_rate,%,3.1,OECD
+South Africa,1997,total_fertility_rate,%,2.73,OECD
+Thailand,1997,total_fertility_rate,%,1.85,OECD
+Argentina,1997,total_fertility_rate,%,2.71,OECD
+Saudi Arabia,1997,total_fertility_rate,%,4.66,OECD
+Bulgaria,1997,total_fertility_rate,%,1.09,OECD
+Croatia,1997,total_fertility_rate,%,1.69,OECD
+EU-27 average,1997,total_fertility_rate,%,1.48,OECD
+Australia,1998,total_fertility_rate,%,1.76,OECD
+Austria,1998,total_fertility_rate,%,1.37,OECD
+Belgium,1998,total_fertility_rate,%,1.6,OECD
+Canada,1998,total_fertility_rate,%,1.56,OECD
+Chile,1998,total_fertility_rate,%,2.17,OECD
+Colombia,1998,total_fertility_rate,%,2.72,OECD
+Costa Rica,1998,total_fertility_rate,%,2.53,OECD
+Czechia,1998,total_fertility_rate,%,1.16,OECD
+Denmark,1998,total_fertility_rate,%,1.73,OECD
+Estonia,1998,total_fertility_rate,%,1.28,OECD
+Finland,1998,total_fertility_rate,%,1.71,OECD
+France,1998,total_fertility_rate,%,1.78,OECD
+Germany,1998,total_fertility_rate,%,1.36,OECD
+Greece,1998,total_fertility_rate,%,1.24,OECD
+Hungary,1998,total_fertility_rate,%,1.33,OECD
+Iceland,1998,total_fertility_rate,%,2.05,OECD
+Ireland,1998,total_fertility_rate,%,1.95,OECD
+Italy,1998,total_fertility_rate,%,1.21,OECD
+Japan,1998,total_fertility_rate,%,1.38,OECD
+Korea,1998,total_fertility_rate,%,1.46,OECD
+Latvia,1998,total_fertility_rate,%,1.1,OECD
+Lithuania,1998,total_fertility_rate,%,1.46,OECD
+Luxembourg,1998,total_fertility_rate,%,1.67,OECD
+Mexico,1998,total_fertility_rate,%,2.82,OECD
+Netherlands,1998,total_fertility_rate,%,1.63,OECD
+New Zealand,1998,total_fertility_rate,%,1.89,OECD
+Norway,1998,total_fertility_rate,%,1.81,OECD
+Poland,1998,total_fertility_rate,%,1.41,OECD
+Portugal,1998,total_fertility_rate,%,1.48,OECD
+Slovak Republic,1998,total_fertility_rate,%,1.37,OECD
+Slovenia,1998,total_fertility_rate,%,1.23,OECD
+Spain,1998,total_fertility_rate,%,1.16,OECD
+Sweden,1998,total_fertility_rate,%,1.51,OECD
+Switzerland,1998,total_fertility_rate,%,1.47,OECD
+Türkiye,1998,total_fertility_rate,%,2.56,OECD
+United States,1998,total_fertility_rate,%,2.0,OECD
+OECD-38,1998,total_fertility_rate,%,1.7,OECD
+Brazil,1998,total_fertility_rate,%,2.42,OECD
+China,1998,total_fertility_rate,%,1.52,OECD
+India,1998,total_fertility_rate,%,3.45,OECD
+Indonesia,1998,total_fertility_rate,%,2.66,OECD
+Peru,1998,total_fertility_rate,%,3.0,OECD
+South Africa,1998,total_fertility_rate,%,2.63,OECD
+Thailand,1998,total_fertility_rate,%,1.82,OECD
+Argentina,1998,total_fertility_rate,%,2.66,OECD
+Saudi Arabia,1998,total_fertility_rate,%,4.52,OECD
+Bulgaria,1998,total_fertility_rate,%,1.11,OECD
+Croatia,1998,total_fertility_rate,%,1.45,OECD
+EU-27 average,1998,total_fertility_rate,%,1.45,OECD
+Australia,1999,total_fertility_rate,%,1.76,OECD
+Austria,1999,total_fertility_rate,%,1.34,OECD
+Belgium,1999,total_fertility_rate,%,1.62,OECD
+Canada,1999,total_fertility_rate,%,1.55,OECD
+Chile,1999,total_fertility_rate,%,2.11,OECD
+Colombia,1999,total_fertility_rate,%,2.64,OECD
+Costa Rica,1999,total_fertility_rate,%,2.48,OECD
+Czechia,1999,total_fertility_rate,%,1.13,OECD
+Denmark,1999,total_fertility_rate,%,1.74,OECD
+Estonia,1999,total_fertility_rate,%,1.3,OECD
+Finland,1999,total_fertility_rate,%,1.73,OECD
+France,1999,total_fertility_rate,%,1.81,OECD
+Germany,1999,total_fertility_rate,%,1.36,OECD
+Greece,1999,total_fertility_rate,%,1.23,OECD
+Hungary,1999,total_fertility_rate,%,1.29,OECD
+Iceland,1999,total_fertility_rate,%,1.99,OECD
+Ireland,1999,total_fertility_rate,%,1.91,OECD
+Italy,1999,total_fertility_rate,%,1.23,OECD
+Japan,1999,total_fertility_rate,%,1.34,OECD
+Korea,1999,total_fertility_rate,%,1.43,OECD
+Latvia,1999,total_fertility_rate,%,1.18,OECD
+Lithuania,1999,total_fertility_rate,%,1.46,OECD
+Luxembourg,1999,total_fertility_rate,%,1.71,OECD
+Mexico,1999,total_fertility_rate,%,2.77,OECD
+Netherlands,1999,total_fertility_rate,%,1.65,OECD
+New Zealand,1999,total_fertility_rate,%,1.97,OECD
+Norway,1999,total_fertility_rate,%,1.85,OECD
+Poland,1999,total_fertility_rate,%,1.37,OECD
+Portugal,1999,total_fertility_rate,%,1.51,OECD
+Slovak Republic,1999,total_fertility_rate,%,1.33,OECD
+Slovenia,1999,total_fertility_rate,%,1.21,OECD
+Spain,1999,total_fertility_rate,%,1.19,OECD
+Sweden,1999,total_fertility_rate,%,1.5,OECD
+Switzerland,1999,total_fertility_rate,%,1.48,OECD
+Türkiye,1999,total_fertility_rate,%,2.48,OECD
+United States,1999,total_fertility_rate,%,2.01,OECD
+OECD-38,1999,total_fertility_rate,%,1.69,OECD
+Brazil,1999,total_fertility_rate,%,2.34,OECD
+China,1999,total_fertility_rate,%,1.53,OECD
+India,1999,total_fertility_rate,%,3.38,OECD
+Indonesia,1999,total_fertility_rate,%,2.57,OECD
+Peru,1999,total_fertility_rate,%,2.92,OECD
+South Africa,1999,total_fertility_rate,%,2.56,OECD
+Thailand,1999,total_fertility_rate,%,1.77,OECD
+Argentina,1999,total_fertility_rate,%,2.64,OECD
+Saudi Arabia,1999,total_fertility_rate,%,4.35,OECD
+Bulgaria,1999,total_fertility_rate,%,1.23,OECD
+Croatia,1999,total_fertility_rate,%,1.38,OECD
+EU-27 average,1999,total_fertility_rate,%,1.45,OECD
+Australia,2000,total_fertility_rate,%,1.76,OECD
+Austria,2000,total_fertility_rate,%,1.36,OECD
+Belgium,2000,total_fertility_rate,%,1.67,OECD
+Canada,2000,total_fertility_rate,%,1.51,OECD
+Chile,2000,total_fertility_rate,%,2.06,OECD
+Colombia,2000,total_fertility_rate,%,2.57,OECD
+Costa Rica,2000,total_fertility_rate,%,2.41,OECD
+Czechia,2000,total_fertility_rate,%,1.14,OECD
+Denmark,2000,total_fertility_rate,%,1.77,OECD
+Estonia,2000,total_fertility_rate,%,1.36,OECD
+Finland,2000,total_fertility_rate,%,1.73,OECD
+France,2000,total_fertility_rate,%,1.89,OECD
+Germany,2000,total_fertility_rate,%,1.38,OECD
+Greece,2000,total_fertility_rate,%,1.25,OECD
+Hungary,2000,total_fertility_rate,%,1.33,OECD
+Iceland,2000,total_fertility_rate,%,2.08,OECD
+Ireland,2000,total_fertility_rate,%,1.9,OECD
+Italy,2000,total_fertility_rate,%,1.26,OECD
+Japan,2000,total_fertility_rate,%,1.36,OECD
+Korea,2000,total_fertility_rate,%,1.48,OECD
+Latvia,2000,total_fertility_rate,%,1.25,OECD
+Lithuania,2000,total_fertility_rate,%,1.39,OECD
+Luxembourg,2000,total_fertility_rate,%,1.78,OECD
+Mexico,2000,total_fertility_rate,%,2.72,OECD
+Netherlands,2000,total_fertility_rate,%,1.72,OECD
+New Zealand,2000,total_fertility_rate,%,1.98,OECD
+Norway,2000,total_fertility_rate,%,1.85,OECD
+Poland,2000,total_fertility_rate,%,1.37,OECD
+Portugal,2000,total_fertility_rate,%,1.56,OECD
+Slovak Republic,2000,total_fertility_rate,%,1.29,OECD
+Slovenia,2000,total_fertility_rate,%,1.26,OECD
+Spain,2000,total_fertility_rate,%,1.23,OECD
+Sweden,2000,total_fertility_rate,%,1.55,OECD
+Switzerland,2000,total_fertility_rate,%,1.5,OECD
+Türkiye,2000,total_fertility_rate,%,2.27,OECD
+United States,2000,total_fertility_rate,%,2.06,OECD
+OECD-38,2000,total_fertility_rate,%,1.7,OECD
+Brazil,2000,total_fertility_rate,%,2.25,OECD
+China,2000,total_fertility_rate,%,1.63,OECD
+India,2000,total_fertility_rate,%,3.35,OECD
+Indonesia,2000,total_fertility_rate,%,2.5,OECD
+Peru,2000,total_fertility_rate,%,2.85,OECD
+South Africa,2000,total_fertility_rate,%,2.41,OECD
+Thailand,2000,total_fertility_rate,%,1.73,OECD
+Argentina,2000,total_fertility_rate,%,2.59,OECD
+Saudi Arabia,2000,total_fertility_rate,%,4.21,OECD
+Bulgaria,2000,total_fertility_rate,%,1.26,OECD
+Croatia,2000,total_fertility_rate,%,1.39,OECD
+EU-27 average,2000,total_fertility_rate,%,1.47,OECD
+Australia,2001,total_fertility_rate,%,1.73,OECD
+Austria,2001,total_fertility_rate,%,1.33,OECD
+Belgium,2001,total_fertility_rate,%,1.67,OECD
+Canada,2001,total_fertility_rate,%,1.54,OECD
+Chile,2001,total_fertility_rate,%,2.01,OECD
+Colombia,2001,total_fertility_rate,%,2.52,OECD
+Costa Rica,2001,total_fertility_rate,%,2.31,OECD
+Czechia,2001,total_fertility_rate,%,1.15,OECD
+Denmark,2001,total_fertility_rate,%,1.75,OECD
+Estonia,2001,total_fertility_rate,%,1.32,OECD
+Finland,2001,total_fertility_rate,%,1.73,OECD
+France,2001,total_fertility_rate,%,1.9,OECD
+Germany,2001,total_fertility_rate,%,1.35,OECD
+Greece,2001,total_fertility_rate,%,1.25,OECD
+Hungary,2001,total_fertility_rate,%,1.31,OECD
+Iceland,2001,total_fertility_rate,%,1.95,OECD
+Ireland,2001,total_fertility_rate,%,1.96,OECD
+Italy,2001,total_fertility_rate,%,1.25,OECD
+Japan,2001,total_fertility_rate,%,1.33,OECD
+Korea,2001,total_fertility_rate,%,1.31,OECD
+Latvia,2001,total_fertility_rate,%,1.22,OECD
+Lithuania,2001,total_fertility_rate,%,1.29,OECD
+Luxembourg,2001,total_fertility_rate,%,1.66,OECD
+Mexico,2001,total_fertility_rate,%,2.67,OECD
+Netherlands,2001,total_fertility_rate,%,1.71,OECD
+New Zealand,2001,total_fertility_rate,%,1.97,OECD
+Norway,2001,total_fertility_rate,%,1.78,OECD
+Poland,2001,total_fertility_rate,%,1.32,OECD
+Portugal,2001,total_fertility_rate,%,1.46,OECD
+Slovak Republic,2001,total_fertility_rate,%,1.2,OECD
+Slovenia,2001,total_fertility_rate,%,1.21,OECD
+Spain,2001,total_fertility_rate,%,1.24,OECD
+Sweden,2001,total_fertility_rate,%,1.57,OECD
+Switzerland,2001,total_fertility_rate,%,1.38,OECD
+Türkiye,2001,total_fertility_rate,%,2.37,OECD
+United States,2001,total_fertility_rate,%,2.03,OECD
+OECD-38,2001,total_fertility_rate,%,1.66,OECD
+Brazil,2001,total_fertility_rate,%,2.16,OECD
+China,2001,total_fertility_rate,%,1.56,OECD
+India,2001,total_fertility_rate,%,3.3,OECD
+Indonesia,2001,total_fertility_rate,%,2.47,OECD
+Peru,2001,total_fertility_rate,%,2.74,OECD
+South Africa,2001,total_fertility_rate,%,2.37,OECD
+Thailand,2001,total_fertility_rate,%,1.71,OECD
+Argentina,2001,total_fertility_rate,%,2.53,OECD
+Saudi Arabia,2001,total_fertility_rate,%,3.96,OECD
+Bulgaria,2001,total_fertility_rate,%,1.21,OECD
+Croatia,2001,total_fertility_rate,%,1.46,OECD
+EU-27 average,2001,total_fertility_rate,%,1.44,OECD
+Australia,2002,total_fertility_rate,%,1.77,OECD
+Austria,2002,total_fertility_rate,%,1.39,OECD
+Belgium,2002,total_fertility_rate,%,1.65,OECD
+Canada,2002,total_fertility_rate,%,1.52,OECD
+Chile,2002,total_fertility_rate,%,1.97,OECD
+Colombia,2002,total_fertility_rate,%,2.49,OECD
+Costa Rica,2002,total_fertility_rate,%,2.16,OECD
+Czechia,2002,total_fertility_rate,%,1.17,OECD
+Denmark,2002,total_fertility_rate,%,1.72,OECD
+Estonia,2002,total_fertility_rate,%,1.36,OECD
+Finland,2002,total_fertility_rate,%,1.72,OECD
+France,2002,total_fertility_rate,%,1.88,OECD
+Germany,2002,total_fertility_rate,%,1.34,OECD
+Greece,2002,total_fertility_rate,%,1.28,OECD
+Hungary,2002,total_fertility_rate,%,1.3,OECD
+Iceland,2002,total_fertility_rate,%,1.93,OECD
+Ireland,2002,total_fertility_rate,%,1.98,OECD
+Italy,2002,total_fertility_rate,%,1.27,OECD
+Japan,2002,total_fertility_rate,%,1.32,OECD
+Korea,2002,total_fertility_rate,%,1.18,OECD
+Latvia,2002,total_fertility_rate,%,1.26,OECD
+Lithuania,2002,total_fertility_rate,%,1.23,OECD
+Luxembourg,2002,total_fertility_rate,%,1.63,OECD
+Mexico,2002,total_fertility_rate,%,2.62,OECD
+Netherlands,2002,total_fertility_rate,%,1.73,OECD
+New Zealand,2002,total_fertility_rate,%,1.89,OECD
+Norway,2002,total_fertility_rate,%,1.75,OECD
+Poland,2002,total_fertility_rate,%,1.25,OECD
+Portugal,2002,total_fertility_rate,%,1.47,OECD
+Slovak Republic,2002,total_fertility_rate,%,1.19,OECD
+Slovenia,2002,total_fertility_rate,%,1.21,OECD
+Spain,2002,total_fertility_rate,%,1.25,OECD
+Sweden,2002,total_fertility_rate,%,1.65,OECD
+Switzerland,2002,total_fertility_rate,%,1.39,OECD
+Türkiye,2002,total_fertility_rate,%,2.17,OECD
+United States,2002,total_fertility_rate,%,2.01,OECD
+OECD-38,2002,total_fertility_rate,%,1.65,OECD
+Brazil,2002,total_fertility_rate,%,2.08,OECD
+China,2002,total_fertility_rate,%,1.57,OECD
+India,2002,total_fertility_rate,%,3.22,OECD
+Indonesia,2002,total_fertility_rate,%,2.44,OECD
+Peru,2002,total_fertility_rate,%,2.69,OECD
+South Africa,2002,total_fertility_rate,%,2.32,OECD
+Thailand,2002,total_fertility_rate,%,1.69,OECD
+Argentina,2002,total_fertility_rate,%,2.49,OECD
+Saudi Arabia,2002,total_fertility_rate,%,3.71,OECD
+Bulgaria,2002,total_fertility_rate,%,1.21,OECD
+Croatia,2002,total_fertility_rate,%,1.42,OECD
+EU-27 average,2002,total_fertility_rate,%,1.44,OECD
+Australia,2003,total_fertility_rate,%,1.77,OECD
+Austria,2003,total_fertility_rate,%,1.38,OECD
+Belgium,2003,total_fertility_rate,%,1.67,OECD
+Canada,2003,total_fertility_rate,%,1.55,OECD
+Chile,2003,total_fertility_rate,%,1.94,OECD
+Colombia,2003,total_fertility_rate,%,2.45,OECD
+Costa Rica,2003,total_fertility_rate,%,2.08,OECD
+Czechia,2003,total_fertility_rate,%,1.18,OECD
+Denmark,2003,total_fertility_rate,%,1.76,OECD
+Estonia,2003,total_fertility_rate,%,1.36,OECD
+Finland,2003,total_fertility_rate,%,1.76,OECD
+France,2003,total_fertility_rate,%,1.89,OECD
+Germany,2003,total_fertility_rate,%,1.34,OECD
+Greece,2003,total_fertility_rate,%,1.29,OECD
+Hungary,2003,total_fertility_rate,%,1.27,OECD
+Iceland,2003,total_fertility_rate,%,1.99,OECD
+Ireland,2003,total_fertility_rate,%,1.98,OECD
+Italy,2003,total_fertility_rate,%,1.29,OECD
+Japan,2003,total_fertility_rate,%,1.29,OECD
+Korea,2003,total_fertility_rate,%,1.19,OECD
+Latvia,2003,total_fertility_rate,%,1.32,OECD
+Lithuania,2003,total_fertility_rate,%,1.26,OECD
+Luxembourg,2003,total_fertility_rate,%,1.62,OECD
+Mexico,2003,total_fertility_rate,%,2.58,OECD
+Netherlands,2003,total_fertility_rate,%,1.75,OECD
+New Zealand,2003,total_fertility_rate,%,1.93,OECD
+Norway,2003,total_fertility_rate,%,1.8,OECD
+Poland,2003,total_fertility_rate,%,1.22,OECD
+Portugal,2003,total_fertility_rate,%,1.44,OECD
+Slovak Republic,2003,total_fertility_rate,%,1.2,OECD
+Slovenia,2003,total_fertility_rate,%,1.2,OECD
+Spain,2003,total_fertility_rate,%,1.3,OECD
+Sweden,2003,total_fertility_rate,%,1.72,OECD
+Switzerland,2003,total_fertility_rate,%,1.39,OECD
+Türkiye,2003,total_fertility_rate,%,2.09,OECD
+United States,2003,total_fertility_rate,%,2.04,OECD
+OECD-38,2003,total_fertility_rate,%,1.66,OECD
+Brazil,2003,total_fertility_rate,%,2.01,OECD
+China,2003,total_fertility_rate,%,1.57,OECD
+India,2003,total_fertility_rate,%,3.12,OECD
+Indonesia,2003,total_fertility_rate,%,2.41,OECD
+Peru,2003,total_fertility_rate,%,2.66,OECD
+South Africa,2003,total_fertility_rate,%,2.36,OECD
+Thailand,2003,total_fertility_rate,%,1.67,OECD
+Argentina,2003,total_fertility_rate,%,2.45,OECD
+Saudi Arabia,2003,total_fertility_rate,%,3.47,OECD
+Bulgaria,2003,total_fertility_rate,%,1.23,OECD
+Croatia,2003,total_fertility_rate,%,1.41,OECD
+EU-27 average,2003,total_fertility_rate,%,1.45,OECD
+Australia,2004,total_fertility_rate,%,1.78,OECD
+Austria,2004,total_fertility_rate,%,1.42,OECD
+Belgium,2004,total_fertility_rate,%,1.72,OECD
+Canada,2004,total_fertility_rate,%,1.56,OECD
+Chile,2004,total_fertility_rate,%,1.92,OECD
+Colombia,2004,total_fertility_rate,%,2.38,OECD
+Costa Rica,2004,total_fertility_rate,%,2.03,OECD
+Czechia,2004,total_fertility_rate,%,1.23,OECD
+Denmark,2004,total_fertility_rate,%,1.79,OECD
+Estonia,2004,total_fertility_rate,%,1.47,OECD
+Finland,2004,total_fertility_rate,%,1.8,OECD
+France,2004,total_fertility_rate,%,1.92,OECD
+Germany,2004,total_fertility_rate,%,1.36,OECD
+Greece,2004,total_fertility_rate,%,1.31,OECD
+Hungary,2004,total_fertility_rate,%,1.27,OECD
+Iceland,2004,total_fertility_rate,%,2.03,OECD
+Ireland,2004,total_fertility_rate,%,1.95,OECD
+Italy,2004,total_fertility_rate,%,1.34,OECD
+Japan,2004,total_fertility_rate,%,1.29,OECD
+Korea,2004,total_fertility_rate,%,1.16,OECD
+Latvia,2004,total_fertility_rate,%,1.29,OECD
+Lithuania,2004,total_fertility_rate,%,1.27,OECD
+Luxembourg,2004,total_fertility_rate,%,1.66,OECD
+Mexico,2004,total_fertility_rate,%,2.54,OECD
+Netherlands,2004,total_fertility_rate,%,1.73,OECD
+New Zealand,2004,total_fertility_rate,%,1.98,OECD
+Norway,2004,total_fertility_rate,%,1.83,OECD
+Poland,2004,total_fertility_rate,%,1.23,OECD
+Portugal,2004,total_fertility_rate,%,1.41,OECD
+Slovak Republic,2004,total_fertility_rate,%,1.24,OECD
+Slovenia,2004,total_fertility_rate,%,1.25,OECD
+Spain,2004,total_fertility_rate,%,1.31,OECD
+Sweden,2004,total_fertility_rate,%,1.75,OECD
+Switzerland,2004,total_fertility_rate,%,1.42,OECD
+Türkiye,2004,total_fertility_rate,%,2.11,OECD
+United States,2004,total_fertility_rate,%,2.05,OECD
+OECD-38,2004,total_fertility_rate,%,1.67,OECD
+Brazil,2004,total_fertility_rate,%,1.97,OECD
+China,2004,total_fertility_rate,%,1.61,OECD
+India,2004,total_fertility_rate,%,3.05,OECD
+Indonesia,2004,total_fertility_rate,%,2.42,OECD
+Peru,2004,total_fertility_rate,%,2.67,OECD
+South Africa,2004,total_fertility_rate,%,2.44,OECD
+Thailand,2004,total_fertility_rate,%,1.67,OECD
+Argentina,2004,total_fertility_rate,%,2.43,OECD
+Saudi Arabia,2004,total_fertility_rate,%,3.26,OECD
+Bulgaria,2004,total_fertility_rate,%,1.29,OECD
+Croatia,2004,total_fertility_rate,%,1.43,OECD
+EU-27 average,2004,total_fertility_rate,%,1.47,OECD
+Australia,2005,total_fertility_rate,%,1.85,OECD
+Austria,2005,total_fertility_rate,%,1.41,OECD
+Belgium,2005,total_fertility_rate,%,1.76,OECD
+Canada,2005,total_fertility_rate,%,1.58,OECD
+Chile,2005,total_fertility_rate,%,1.91,OECD
+Colombia,2005,total_fertility_rate,%,2.31,OECD
+Costa Rica,2005,total_fertility_rate,%,2.04,OECD
+Czechia,2005,total_fertility_rate,%,1.28,OECD
+Denmark,2005,total_fertility_rate,%,1.8,OECD
+Estonia,2005,total_fertility_rate,%,1.52,OECD
+Finland,2005,total_fertility_rate,%,1.8,OECD
+France,2005,total_fertility_rate,%,1.94,OECD
+Germany,2005,total_fertility_rate,%,1.34,OECD
+Greece,2005,total_fertility_rate,%,1.34,OECD
+Hungary,2005,total_fertility_rate,%,1.3,OECD
+Iceland,2005,total_fertility_rate,%,2.05,OECD
+Ireland,2005,total_fertility_rate,%,1.88,OECD
+Italy,2005,total_fertility_rate,%,1.33,OECD
+Japan,2005,total_fertility_rate,%,1.26,OECD
+Korea,2005,total_fertility_rate,%,1.09,OECD
+Latvia,2005,total_fertility_rate,%,1.39,OECD
+Lithuania,2005,total_fertility_rate,%,1.29,OECD
+Luxembourg,2005,total_fertility_rate,%,1.62,OECD
+Mexico,2005,total_fertility_rate,%,2.5,OECD
+Netherlands,2005,total_fertility_rate,%,1.71,OECD
+New Zealand,2005,total_fertility_rate,%,1.97,OECD
+Norway,2005,total_fertility_rate,%,1.84,OECD
+Poland,2005,total_fertility_rate,%,1.24,OECD
+Portugal,2005,total_fertility_rate,%,1.42,OECD
+Slovak Republic,2005,total_fertility_rate,%,1.25,OECD
+Slovenia,2005,total_fertility_rate,%,1.26,OECD
+Spain,2005,total_fertility_rate,%,1.33,OECD
+Sweden,2005,total_fertility_rate,%,1.77,OECD
+Switzerland,2005,total_fertility_rate,%,1.42,OECD
+Türkiye,2005,total_fertility_rate,%,2.12,OECD
+United States,2005,total_fertility_rate,%,2.06,OECD
+OECD-38,2005,total_fertility_rate,%,1.67,OECD
+Brazil,2005,total_fertility_rate,%,1.94,OECD
+China,2005,total_fertility_rate,%,1.62,OECD
+India,2005,total_fertility_rate,%,2.96,OECD
+Indonesia,2005,total_fertility_rate,%,2.45,OECD
+Peru,2005,total_fertility_rate,%,2.64,OECD
+South Africa,2005,total_fertility_rate,%,2.51,OECD
+Thailand,2005,total_fertility_rate,%,1.64,OECD
+Argentina,2005,total_fertility_rate,%,2.43,OECD
+Saudi Arabia,2005,total_fertility_rate,%,3.16,OECD
+Bulgaria,2005,total_fertility_rate,%,1.32,OECD
+Croatia,2005,total_fertility_rate,%,1.5,OECD
+EU-27 average,2005,total_fertility_rate,%,1.48,OECD
+Australia,2006,total_fertility_rate,%,1.88,OECD
+Austria,2006,total_fertility_rate,%,1.41,OECD
+Belgium,2006,total_fertility_rate,%,1.8,OECD
+Canada,2006,total_fertility_rate,%,1.63,OECD
+Chile,2006,total_fertility_rate,%,1.9,OECD
+Colombia,2006,total_fertility_rate,%,2.24,OECD
+Costa Rica,2006,total_fertility_rate,%,1.94,OECD
+Czechia,2006,total_fertility_rate,%,1.33,OECD
+Denmark,2006,total_fertility_rate,%,1.85,OECD
+Estonia,2006,total_fertility_rate,%,1.58,OECD
+Finland,2006,total_fertility_rate,%,1.84,OECD
+France,2006,total_fertility_rate,%,2.0,OECD
+Germany,2006,total_fertility_rate,%,1.33,OECD
+Greece,2006,total_fertility_rate,%,1.4,OECD
+Hungary,2006,total_fertility_rate,%,1.34,OECD
+Iceland,2006,total_fertility_rate,%,2.07,OECD
+Ireland,2006,total_fertility_rate,%,1.94,OECD
+Italy,2006,total_fertility_rate,%,1.37,OECD
+Japan,2006,total_fertility_rate,%,1.32,OECD
+Korea,2006,total_fertility_rate,%,1.13,OECD
+Latvia,2006,total_fertility_rate,%,1.46,OECD
+Lithuania,2006,total_fertility_rate,%,1.33,OECD
+Luxembourg,2006,total_fertility_rate,%,1.64,OECD
+Mexico,2006,total_fertility_rate,%,2.46,OECD
+Netherlands,2006,total_fertility_rate,%,1.72,OECD
+New Zealand,2006,total_fertility_rate,%,2.01,OECD
+Norway,2006,total_fertility_rate,%,1.9,OECD
+Poland,2006,total_fertility_rate,%,1.27,OECD
+Portugal,2006,total_fertility_rate,%,1.38,OECD
+Slovak Republic,2006,total_fertility_rate,%,1.24,OECD
+Slovenia,2006,total_fertility_rate,%,1.31,OECD
+Spain,2006,total_fertility_rate,%,1.36,OECD
+Sweden,2006,total_fertility_rate,%,1.85,OECD
+Switzerland,2006,total_fertility_rate,%,1.44,OECD
+Türkiye,2006,total_fertility_rate,%,2.12,OECD
+United States,2006,total_fertility_rate,%,2.11,OECD
+OECD-38,2006,total_fertility_rate,%,1.7,OECD
+Brazil,2006,total_fertility_rate,%,1.9,OECD
+China,2006,total_fertility_rate,%,1.64,OECD
+India,2006,total_fertility_rate,%,2.87,OECD
+Indonesia,2006,total_fertility_rate,%,2.46,OECD
+Peru,2006,total_fertility_rate,%,2.62,OECD
+South Africa,2006,total_fertility_rate,%,2.55,OECD
+Thailand,2006,total_fertility_rate,%,1.63,OECD
+Argentina,2006,total_fertility_rate,%,2.4,OECD
+Saudi Arabia,2006,total_fertility_rate,%,3.18,OECD
+Bulgaria,2006,total_fertility_rate,%,1.38,OECD
+Croatia,2006,total_fertility_rate,%,1.47,OECD
+EU-27 average,2006,total_fertility_rate,%,1.51,OECD
+Australia,2007,total_fertility_rate,%,1.99,OECD
+Austria,2007,total_fertility_rate,%,1.39,OECD
+Belgium,2007,total_fertility_rate,%,1.82,OECD
+Canada,2007,total_fertility_rate,%,1.67,OECD
+Chile,2007,total_fertility_rate,%,1.9,OECD
+Colombia,2007,total_fertility_rate,%,2.2,OECD
+Costa Rica,2007,total_fertility_rate,%,1.95,OECD
+Czechia,2007,total_fertility_rate,%,1.44,OECD
+Denmark,2007,total_fertility_rate,%,1.84,OECD
+Estonia,2007,total_fertility_rate,%,1.69,OECD
+Finland,2007,total_fertility_rate,%,1.83,OECD
+France,2007,total_fertility_rate,%,1.98,OECD
+Germany,2007,total_fertility_rate,%,1.37,OECD
+Greece,2007,total_fertility_rate,%,1.41,OECD
+Hungary,2007,total_fertility_rate,%,1.31,OECD
+Iceland,2007,total_fertility_rate,%,2.09,OECD
+Ireland,2007,total_fertility_rate,%,2.01,OECD
+Italy,2007,total_fertility_rate,%,1.39,OECD
+Japan,2007,total_fertility_rate,%,1.34,OECD
+Korea,2007,total_fertility_rate,%,1.26,OECD
+Latvia,2007,total_fertility_rate,%,1.54,OECD
+Lithuania,2007,total_fertility_rate,%,1.36,OECD
+Luxembourg,2007,total_fertility_rate,%,1.61,OECD
+Mexico,2007,total_fertility_rate,%,2.42,OECD
+Netherlands,2007,total_fertility_rate,%,1.72,OECD
+New Zealand,2007,total_fertility_rate,%,2.18,OECD
+Norway,2007,total_fertility_rate,%,1.9,OECD
+Poland,2007,total_fertility_rate,%,1.31,OECD
+Portugal,2007,total_fertility_rate,%,1.35,OECD
+Slovak Republic,2007,total_fertility_rate,%,1.25,OECD
+Slovenia,2007,total_fertility_rate,%,1.38,OECD
+Spain,2007,total_fertility_rate,%,1.38,OECD
+Sweden,2007,total_fertility_rate,%,1.88,OECD
+Switzerland,2007,total_fertility_rate,%,1.46,OECD
+Türkiye,2007,total_fertility_rate,%,2.16,OECD
+United States,2007,total_fertility_rate,%,2.12,OECD
+OECD-38,2007,total_fertility_rate,%,1.73,OECD
+Brazil,2007,total_fertility_rate,%,1.85,OECD
+China,2007,total_fertility_rate,%,1.67,OECD
+India,2007,total_fertility_rate,%,2.78,OECD
+Indonesia,2007,total_fertility_rate,%,2.48,OECD
+Peru,2007,total_fertility_rate,%,2.58,OECD
+South Africa,2007,total_fertility_rate,%,2.55,OECD
+Thailand,2007,total_fertility_rate,%,1.62,OECD
+Argentina,2007,total_fertility_rate,%,2.37,OECD
+Saudi Arabia,2007,total_fertility_rate,%,3.19,OECD
+Bulgaria,2007,total_fertility_rate,%,1.49,OECD
+Croatia,2007,total_fertility_rate,%,1.48,OECD
+EU-27 average,2007,total_fertility_rate,%,1.54,OECD
+Australia,2008,total_fertility_rate,%,2.02,OECD
+Austria,2008,total_fertility_rate,%,1.42,OECD
+Belgium,2008,total_fertility_rate,%,1.85,OECD
+Canada,2008,total_fertility_rate,%,1.7,OECD
+Chile,2008,total_fertility_rate,%,1.9,OECD
+Colombia,2008,total_fertility_rate,%,2.16,OECD
+Costa Rica,2008,total_fertility_rate,%,1.98,OECD
+Czechia,2008,total_fertility_rate,%,1.5,OECD
+Denmark,2008,total_fertility_rate,%,1.89,OECD
+Estonia,2008,total_fertility_rate,%,1.72,OECD
+Finland,2008,total_fertility_rate,%,1.85,OECD
+France,2008,total_fertility_rate,%,2.01,OECD
+Germany,2008,total_fertility_rate,%,1.38,OECD
+Greece,2008,total_fertility_rate,%,1.5,OECD
+Hungary,2008,total_fertility_rate,%,1.35,OECD
+Iceland,2008,total_fertility_rate,%,2.14,OECD
+Ireland,2008,total_fertility_rate,%,2.06,OECD
+Italy,2008,total_fertility_rate,%,1.44,OECD
+Japan,2008,total_fertility_rate,%,1.37,OECD
+Korea,2008,total_fertility_rate,%,1.19,OECD
+Latvia,2008,total_fertility_rate,%,1.58,OECD
+Lithuania,2008,total_fertility_rate,%,1.45,OECD
+Luxembourg,2008,total_fertility_rate,%,1.6,OECD
+Mexico,2008,total_fertility_rate,%,2.39,OECD
+Netherlands,2008,total_fertility_rate,%,1.77,OECD
+New Zealand,2008,total_fertility_rate,%,2.19,OECD
+Norway,2008,total_fertility_rate,%,1.96,OECD
+Poland,2008,total_fertility_rate,%,1.39,OECD
+Portugal,2008,total_fertility_rate,%,1.4,OECD
+Slovak Republic,2008,total_fertility_rate,%,1.32,OECD
+Slovenia,2008,total_fertility_rate,%,1.53,OECD
+Spain,2008,total_fertility_rate,%,1.45,OECD
+Sweden,2008,total_fertility_rate,%,1.91,OECD
+Switzerland,2008,total_fertility_rate,%,1.48,OECD
+Türkiye,2008,total_fertility_rate,%,2.15,OECD
+United States,2008,total_fertility_rate,%,2.07,OECD
+OECD-38,2008,total_fertility_rate,%,1.76,OECD
+Brazil,2008,total_fertility_rate,%,1.82,OECD
+China,2008,total_fertility_rate,%,1.7,OECD
+India,2008,total_fertility_rate,%,2.71,OECD
+Indonesia,2008,total_fertility_rate,%,2.44,OECD
+Peru,2008,total_fertility_rate,%,2.53,OECD
+South Africa,2008,total_fertility_rate,%,2.68,OECD
+Thailand,2008,total_fertility_rate,%,1.59,OECD
+Argentina,2008,total_fertility_rate,%,2.43,OECD
+Saudi Arabia,2008,total_fertility_rate,%,3.07,OECD
+Bulgaria,2008,total_fertility_rate,%,1.56,OECD
+Croatia,2008,total_fertility_rate,%,1.55,OECD
+EU-27 average,2008,total_fertility_rate,%,1.59,OECD
+Australia,2009,total_fertility_rate,%,1.97,OECD
+Austria,2009,total_fertility_rate,%,1.4,OECD
+Belgium,2009,total_fertility_rate,%,1.84,OECD
+Canada,2009,total_fertility_rate,%,1.69,OECD
+Chile,2009,total_fertility_rate,%,1.89,OECD
+Colombia,2009,total_fertility_rate,%,2.1,OECD
+Costa Rica,2009,total_fertility_rate,%,1.95,OECD
+Czechia,2009,total_fertility_rate,%,1.49,OECD
+Denmark,2009,total_fertility_rate,%,1.84,OECD
+Estonia,2009,total_fertility_rate,%,1.7,OECD
+Finland,2009,total_fertility_rate,%,1.86,OECD
+France,2009,total_fertility_rate,%,2.0,OECD
+Germany,2009,total_fertility_rate,%,1.36,OECD
+Greece,2009,total_fertility_rate,%,1.5,OECD
+Hungary,2009,total_fertility_rate,%,1.32,OECD
+Iceland,2009,total_fertility_rate,%,2.22,OECD
+Ireland,2009,total_fertility_rate,%,2.06,OECD
+Italy,2009,total_fertility_rate,%,1.44,OECD
+Japan,2009,total_fertility_rate,%,1.37,OECD
+Korea,2009,total_fertility_rate,%,1.15,OECD
+Latvia,2009,total_fertility_rate,%,1.46,OECD
+Lithuania,2009,total_fertility_rate,%,1.5,OECD
+Luxembourg,2009,total_fertility_rate,%,1.59,OECD
+Mexico,2009,total_fertility_rate,%,2.36,OECD
+Netherlands,2009,total_fertility_rate,%,1.79,OECD
+New Zealand,2009,total_fertility_rate,%,2.13,OECD
+Norway,2009,total_fertility_rate,%,1.98,OECD
+Poland,2009,total_fertility_rate,%,1.4,OECD
+Portugal,2009,total_fertility_rate,%,1.35,OECD
+Slovak Republic,2009,total_fertility_rate,%,1.41,OECD
+Slovenia,2009,total_fertility_rate,%,1.53,OECD
+Spain,2009,total_fertility_rate,%,1.38,OECD
+Sweden,2009,total_fertility_rate,%,1.94,OECD
+Switzerland,2009,total_fertility_rate,%,1.5,OECD
+Türkiye,2009,total_fertility_rate,%,2.1,OECD
+United States,2009,total_fertility_rate,%,2.0,OECD
+OECD-38,2009,total_fertility_rate,%,1.75,OECD
+Brazil,2009,total_fertility_rate,%,1.8,OECD
+China,2009,total_fertility_rate,%,1.71,OECD
+India,2009,total_fertility_rate,%,2.67,OECD
+Indonesia,2009,total_fertility_rate,%,2.44,OECD
+Peru,2009,total_fertility_rate,%,2.48,OECD
+South Africa,2009,total_fertility_rate,%,2.5,OECD
+Thailand,2009,total_fertility_rate,%,1.57,OECD
+Argentina,2009,total_fertility_rate,%,2.4,OECD
+Saudi Arabia,2009,total_fertility_rate,%,2.95,OECD
+Bulgaria,2009,total_fertility_rate,%,1.66,OECD
+Croatia,2009,total_fertility_rate,%,1.58,OECD
+EU-27 average,2009,total_fertility_rate,%,1.59,OECD
+Australia,2010,total_fertility_rate,%,1.95,OECD
+Austria,2010,total_fertility_rate,%,1.44,OECD
+Belgium,2010,total_fertility_rate,%,1.86,OECD
+Canada,2010,total_fertility_rate,%,1.65,OECD
+Chile,2010,total_fertility_rate,%,1.88,OECD
+Colombia,2010,total_fertility_rate,%,2.01,OECD
+Costa Rica,2010,total_fertility_rate,%,1.83,OECD
+Czechia,2010,total_fertility_rate,%,1.49,OECD
+Denmark,2010,total_fertility_rate,%,1.87,OECD
+Estonia,2010,total_fertility_rate,%,1.72,OECD
+Finland,2010,total_fertility_rate,%,1.87,OECD
+France,2010,total_fertility_rate,%,2.03,OECD
+Germany,2010,total_fertility_rate,%,1.39,OECD
+Greece,2010,total_fertility_rate,%,1.48,OECD
+Hungary,2010,total_fertility_rate,%,1.25,OECD
+Iceland,2010,total_fertility_rate,%,2.2,OECD
+Ireland,2010,total_fertility_rate,%,2.05,OECD
+Italy,2010,total_fertility_rate,%,1.44,OECD
+Japan,2010,total_fertility_rate,%,1.39,OECD
+Korea,2010,total_fertility_rate,%,1.23,OECD
+Latvia,2010,total_fertility_rate,%,1.36,OECD
+Lithuania,2010,total_fertility_rate,%,1.5,OECD
+Luxembourg,2010,total_fertility_rate,%,1.63,OECD
+Mexico,2010,total_fertility_rate,%,2.34,OECD
+Netherlands,2010,total_fertility_rate,%,1.8,OECD
+New Zealand,2010,total_fertility_rate,%,2.17,OECD
+Norway,2010,total_fertility_rate,%,1.95,OECD
+Poland,2010,total_fertility_rate,%,1.38,OECD
+Portugal,2010,total_fertility_rate,%,1.39,OECD
+Slovak Republic,2010,total_fertility_rate,%,1.4,OECD
+Slovenia,2010,total_fertility_rate,%,1.57,OECD
+Spain,2010,total_fertility_rate,%,1.37,OECD
+Sweden,2010,total_fertility_rate,%,1.98,OECD
+Switzerland,2010,total_fertility_rate,%,1.54,OECD
+Türkiye,2010,total_fertility_rate,%,2.08,OECD
+United States,2010,total_fertility_rate,%,1.93,OECD
+OECD-38,2010,total_fertility_rate,%,1.75,OECD
+Brazil,2010,total_fertility_rate,%,1.79,OECD
+China,2010,total_fertility_rate,%,1.69,OECD
+India,2010,total_fertility_rate,%,2.6,OECD
+Indonesia,2010,total_fertility_rate,%,2.46,OECD
+Peru,2010,total_fertility_rate,%,2.42,OECD
+South Africa,2010,total_fertility_rate,%,2.45,OECD
+Thailand,2010,total_fertility_rate,%,1.56,OECD
+Argentina,2010,total_fertility_rate,%,2.41,OECD
+Saudi Arabia,2010,total_fertility_rate,%,2.81,OECD
+Bulgaria,2010,total_fertility_rate,%,1.57,OECD
+Croatia,2010,total_fertility_rate,%,1.55,OECD
+EU-27 average,2010,total_fertility_rate,%,1.58,OECD
+Australia,2011,total_fertility_rate,%,1.92,OECD
+Austria,2011,total_fertility_rate,%,1.43,OECD
+Belgium,2011,total_fertility_rate,%,1.81,OECD
+Canada,2011,total_fertility_rate,%,1.63,OECD
+Chile,2011,total_fertility_rate,%,1.82,OECD
+Colombia,2011,total_fertility_rate,%,1.94,OECD
+Costa Rica,2011,total_fertility_rate,%,1.88,OECD
+Czechia,2011,total_fertility_rate,%,1.43,OECD
+Denmark,2011,total_fertility_rate,%,1.75,OECD
+Estonia,2011,total_fertility_rate,%,1.61,OECD
+Finland,2011,total_fertility_rate,%,1.83,OECD
+France,2011,total_fertility_rate,%,2.01,OECD
+Germany,2011,total_fertility_rate,%,1.39,OECD
+Greece,2011,total_fertility_rate,%,1.4,OECD
+Hungary,2011,total_fertility_rate,%,1.23,OECD
+Iceland,2011,total_fertility_rate,%,2.01,OECD
+Ireland,2011,total_fertility_rate,%,2.03,OECD
+Italy,2011,total_fertility_rate,%,1.42,OECD
+Japan,2011,total_fertility_rate,%,1.39,OECD
+Korea,2011,total_fertility_rate,%,1.24,OECD
+Latvia,2011,total_fertility_rate,%,1.33,OECD
+Lithuania,2011,total_fertility_rate,%,1.55,OECD
+Luxembourg,2011,total_fertility_rate,%,1.51,OECD
+Mexico,2011,total_fertility_rate,%,2.32,OECD
+Netherlands,2011,total_fertility_rate,%,1.76,OECD
+New Zealand,2011,total_fertility_rate,%,2.09,OECD
+Norway,2011,total_fertility_rate,%,1.88,OECD
+Poland,2011,total_fertility_rate,%,1.3,OECD
+Portugal,2011,total_fertility_rate,%,1.35,OECD
+Slovak Republic,2011,total_fertility_rate,%,1.45,OECD
+Slovenia,2011,total_fertility_rate,%,1.56,OECD
+Spain,2011,total_fertility_rate,%,1.34,OECD
+Sweden,2011,total_fertility_rate,%,1.9,OECD
+Switzerland,2011,total_fertility_rate,%,1.52,OECD
+Türkiye,2011,total_fertility_rate,%,2.05,OECD
+United States,2011,total_fertility_rate,%,1.89,OECD
+OECD-38,2011,total_fertility_rate,%,1.71,OECD
+Brazil,2011,total_fertility_rate,%,1.78,OECD
+China,2011,total_fertility_rate,%,1.67,OECD
+India,2011,total_fertility_rate,%,2.53,OECD
+Indonesia,2011,total_fertility_rate,%,2.52,OECD
+Peru,2011,total_fertility_rate,%,2.41,OECD
+South Africa,2011,total_fertility_rate,%,2.44,OECD
+Thailand,2011,total_fertility_rate,%,1.57,OECD
+Argentina,2011,total_fertility_rate,%,2.39,OECD
+Saudi Arabia,2011,total_fertility_rate,%,2.8,OECD
+Bulgaria,2011,total_fertility_rate,%,1.51,OECD
+Croatia,2011,total_fertility_rate,%,1.48,OECD
+EU-27 average,2011,total_fertility_rate,%,1.54,OECD
+Australia,2012,total_fertility_rate,%,1.93,OECD
+Austria,2012,total_fertility_rate,%,1.44,OECD
+Belgium,2012,total_fertility_rate,%,1.8,OECD
+Canada,2012,total_fertility_rate,%,1.63,OECD
+Chile,2012,total_fertility_rate,%,1.8,OECD
+Colombia,2012,total_fertility_rate,%,1.9,OECD
+Costa Rica,2012,total_fertility_rate,%,1.85,OECD
+Czechia,2012,total_fertility_rate,%,1.45,OECD
+Denmark,2012,total_fertility_rate,%,1.73,OECD
+Estonia,2012,total_fertility_rate,%,1.56,OECD
+Finland,2012,total_fertility_rate,%,1.8,OECD
+France,2012,total_fertility_rate,%,2.01,OECD
+Germany,2012,total_fertility_rate,%,1.41,OECD
+Greece,2012,total_fertility_rate,%,1.34,OECD
+Hungary,2012,total_fertility_rate,%,1.34,OECD
+Iceland,2012,total_fertility_rate,%,2.11,OECD
+Ireland,2012,total_fertility_rate,%,1.98,OECD
+Italy,2012,total_fertility_rate,%,1.42,OECD
+Japan,2012,total_fertility_rate,%,1.41,OECD
+Korea,2012,total_fertility_rate,%,1.3,OECD
+Latvia,2012,total_fertility_rate,%,1.44,OECD
+Lithuania,2012,total_fertility_rate,%,1.6,OECD
+Luxembourg,2012,total_fertility_rate,%,1.57,OECD
+Mexico,2012,total_fertility_rate,%,2.29,OECD
+Netherlands,2012,total_fertility_rate,%,1.72,OECD
+New Zealand,2012,total_fertility_rate,%,2.1,OECD
+Norway,2012,total_fertility_rate,%,1.85,OECD
+Poland,2012,total_fertility_rate,%,1.3,OECD
+Portugal,2012,total_fertility_rate,%,1.29,OECD
+Slovak Republic,2012,total_fertility_rate,%,1.34,OECD
+Slovenia,2012,total_fertility_rate,%,1.58,OECD
+Spain,2012,total_fertility_rate,%,1.32,OECD
+Sweden,2012,total_fertility_rate,%,1.91,OECD
+Switzerland,2012,total_fertility_rate,%,1.53,OECD
+Türkiye,2012,total_fertility_rate,%,2.11,OECD
+United States,2012,total_fertility_rate,%,1.88,OECD
+OECD-38,2012,total_fertility_rate,%,1.71,OECD
+Brazil,2012,total_fertility_rate,%,1.77,OECD
+China,2012,total_fertility_rate,%,1.8,OECD
+India,2012,total_fertility_rate,%,2.47,OECD
+Indonesia,2012,total_fertility_rate,%,2.51,OECD
+Peru,2012,total_fertility_rate,%,2.36,OECD
+South Africa,2012,total_fertility_rate,%,2.45,OECD
+Thailand,2012,total_fertility_rate,%,1.56,OECD
+Argentina,2012,total_fertility_rate,%,2.3,OECD
+Saudi Arabia,2012,total_fertility_rate,%,2.78,OECD
+Bulgaria,2012,total_fertility_rate,%,1.5,OECD
+Croatia,2012,total_fertility_rate,%,1.51,OECD
+EU-27 average,2012,total_fertility_rate,%,1.54,OECD
+Australia,2013,total_fertility_rate,%,1.88,OECD
+Austria,2013,total_fertility_rate,%,1.44,OECD
+Belgium,2013,total_fertility_rate,%,1.76,OECD
+Canada,2013,total_fertility_rate,%,1.61,OECD
+Chile,2013,total_fertility_rate,%,1.79,OECD
+Colombia,2013,total_fertility_rate,%,1.86,OECD
+Costa Rica,2013,total_fertility_rate,%,1.78,OECD
+Czechia,2013,total_fertility_rate,%,1.46,OECD
+Denmark,2013,total_fertility_rate,%,1.67,OECD
+Estonia,2013,total_fertility_rate,%,1.52,OECD
+Finland,2013,total_fertility_rate,%,1.75,OECD
+France,2013,total_fertility_rate,%,1.99,OECD
+Germany,2013,total_fertility_rate,%,1.42,OECD
+Greece,2013,total_fertility_rate,%,1.29,OECD
+Hungary,2013,total_fertility_rate,%,1.34,OECD
+Iceland,2013,total_fertility_rate,%,2.0,OECD
+Ireland,2013,total_fertility_rate,%,1.93,OECD
+Italy,2013,total_fertility_rate,%,1.39,OECD
+Japan,2013,total_fertility_rate,%,1.43,OECD
+Korea,2013,total_fertility_rate,%,1.19,OECD
+Latvia,2013,total_fertility_rate,%,1.52,OECD
+Lithuania,2013,total_fertility_rate,%,1.59,OECD
+Luxembourg,2013,total_fertility_rate,%,1.55,OECD
+Mexico,2013,total_fertility_rate,%,2.27,OECD
+Netherlands,2013,total_fertility_rate,%,1.68,OECD
+New Zealand,2013,total_fertility_rate,%,2.01,OECD
+Norway,2013,total_fertility_rate,%,1.78,OECD
+Poland,2013,total_fertility_rate,%,1.26,OECD
+Portugal,2013,total_fertility_rate,%,1.21,OECD
+Slovak Republic,2013,total_fertility_rate,%,1.34,OECD
+Slovenia,2013,total_fertility_rate,%,1.55,OECD
+Spain,2013,total_fertility_rate,%,1.27,OECD
+Sweden,2013,total_fertility_rate,%,1.89,OECD
+Switzerland,2013,total_fertility_rate,%,1.52,OECD
+Türkiye,2013,total_fertility_rate,%,2.11,OECD
+United States,2013,total_fertility_rate,%,1.86,OECD
+OECD-38,2013,total_fertility_rate,%,1.68,OECD
+Brazil,2013,total_fertility_rate,%,1.76,OECD
+China,2013,total_fertility_rate,%,1.71,OECD
+India,2013,total_fertility_rate,%,2.4,OECD
+Indonesia,2013,total_fertility_rate,%,2.44,OECD
+Peru,2013,total_fertility_rate,%,2.32,OECD
+South Africa,2013,total_fertility_rate,%,2.43,OECD
+Thailand,2013,total_fertility_rate,%,1.53,OECD
+Argentina,2013,total_fertility_rate,%,2.34,OECD
+Saudi Arabia,2013,total_fertility_rate,%,2.67,OECD
+Bulgaria,2013,total_fertility_rate,%,1.54,OECD
+Croatia,2013,total_fertility_rate,%,1.46,OECD
+EU-27 average,2013,total_fertility_rate,%,1.52,OECD
+Australia,2014,total_fertility_rate,%,1.79,OECD
+Austria,2014,total_fertility_rate,%,1.46,OECD
+Belgium,2014,total_fertility_rate,%,1.74,OECD
+Canada,2014,total_fertility_rate,%,1.61,OECD
+Chile,2014,total_fertility_rate,%,1.77,OECD
+Colombia,2014,total_fertility_rate,%,1.82,OECD
+Costa Rica,2014,total_fertility_rate,%,1.8,OECD
+Czechia,2014,total_fertility_rate,%,1.53,OECD
+Denmark,2014,total_fertility_rate,%,1.69,OECD
+Estonia,2014,total_fertility_rate,%,1.54,OECD
+Finland,2014,total_fertility_rate,%,1.71,OECD
+France,2014,total_fertility_rate,%,2.0,OECD
+Germany,2014,total_fertility_rate,%,1.47,OECD
+Greece,2014,total_fertility_rate,%,1.3,OECD
+Hungary,2014,total_fertility_rate,%,1.42,OECD
+Iceland,2014,total_fertility_rate,%,1.99,OECD
+Ireland,2014,total_fertility_rate,%,1.89,OECD
+Italy,2014,total_fertility_rate,%,1.38,OECD
+Japan,2014,total_fertility_rate,%,1.42,OECD
+Korea,2014,total_fertility_rate,%,1.21,OECD
+Latvia,2014,total_fertility_rate,%,1.65,OECD
+Lithuania,2014,total_fertility_rate,%,1.57,OECD
+Luxembourg,2014,total_fertility_rate,%,1.5,OECD
+Mexico,2014,total_fertility_rate,%,2.21,OECD
+Netherlands,2014,total_fertility_rate,%,1.71,OECD
+New Zealand,2014,total_fertility_rate,%,1.92,OECD
+Norway,2014,total_fertility_rate,%,1.76,OECD
+Poland,2014,total_fertility_rate,%,1.29,OECD
+Portugal,2014,total_fertility_rate,%,1.23,OECD
+Slovak Republic,2014,total_fertility_rate,%,1.37,OECD
+Slovenia,2014,total_fertility_rate,%,1.58,OECD
+Spain,2014,total_fertility_rate,%,1.32,OECD
+Sweden,2014,total_fertility_rate,%,1.88,OECD
+Switzerland,2014,total_fertility_rate,%,1.54,OECD
+Türkiye,2014,total_fertility_rate,%,2.19,OECD
+United States,2014,total_fertility_rate,%,1.86,OECD
+OECD-38,2014,total_fertility_rate,%,1.68,OECD
+Brazil,2014,total_fertility_rate,%,1.78,OECD
+China,2014,total_fertility_rate,%,1.77,OECD
+India,2014,total_fertility_rate,%,2.29,OECD
+Indonesia,2014,total_fertility_rate,%,2.39,OECD
+Peru,2014,total_fertility_rate,%,2.27,OECD
+South Africa,2014,total_fertility_rate,%,2.42,OECD
+Thailand,2014,total_fertility_rate,%,1.48,OECD
+Argentina,2014,total_fertility_rate,%,2.39,OECD
+Saudi Arabia,2014,total_fertility_rate,%,2.68,OECD
+Bulgaria,2014,total_fertility_rate,%,1.62,OECD
+Croatia,2014,total_fertility_rate,%,1.46,OECD
+EU-27 average,2014,total_fertility_rate,%,1.54,OECD
+Australia,2015,total_fertility_rate,%,1.79,OECD
+Austria,2015,total_fertility_rate,%,1.49,OECD
+Belgium,2015,total_fertility_rate,%,1.7,OECD
+Canada,2015,total_fertility_rate,%,1.6,OECD
+Chile,2015,total_fertility_rate,%,1.74,OECD
+Colombia,2015,total_fertility_rate,%,1.77,OECD
+Costa Rica,2015,total_fertility_rate,%,1.8,OECD
+Czechia,2015,total_fertility_rate,%,1.57,OECD
+Denmark,2015,total_fertility_rate,%,1.71,OECD
+Estonia,2015,total_fertility_rate,%,1.58,OECD
+Finland,2015,total_fertility_rate,%,1.65,OECD
+France,2015,total_fertility_rate,%,1.96,OECD
+Germany,2015,total_fertility_rate,%,1.5,OECD
+Greece,2015,total_fertility_rate,%,1.33,OECD
+Hungary,2015,total_fertility_rate,%,1.45,OECD
+Iceland,2015,total_fertility_rate,%,1.86,OECD
+Ireland,2015,total_fertility_rate,%,1.85,OECD
+Italy,2015,total_fertility_rate,%,1.36,OECD
+Japan,2015,total_fertility_rate,%,1.45,OECD
+Korea,2015,total_fertility_rate,%,1.24,OECD
+Latvia,2015,total_fertility_rate,%,1.7,OECD
+Lithuania,2015,total_fertility_rate,%,1.63,OECD
+Luxembourg,2015,total_fertility_rate,%,1.47,OECD
+Mexico,2015,total_fertility_rate,%,2.14,OECD
+Netherlands,2015,total_fertility_rate,%,1.66,OECD
+New Zealand,2015,total_fertility_rate,%,1.99,OECD
+Norway,2015,total_fertility_rate,%,1.73,OECD
+Poland,2015,total_fertility_rate,%,1.29,OECD
+Portugal,2015,total_fertility_rate,%,1.31,OECD
+Slovak Republic,2015,total_fertility_rate,%,1.4,OECD
+Slovenia,2015,total_fertility_rate,%,1.57,OECD
+Spain,2015,total_fertility_rate,%,1.33,OECD
+Sweden,2015,total_fertility_rate,%,1.85,OECD
+Switzerland,2015,total_fertility_rate,%,1.54,OECD
+Türkiye,2015,total_fertility_rate,%,2.16,OECD
+United States,2015,total_fertility_rate,%,1.84,OECD
+OECD-38,2015,total_fertility_rate,%,1.68,OECD
+Brazil,2015,total_fertility_rate,%,1.78,OECD
+China,2015,total_fertility_rate,%,1.67,OECD
+India,2015,total_fertility_rate,%,2.29,OECD
+Indonesia,2015,total_fertility_rate,%,2.35,OECD
+Peru,2015,total_fertility_rate,%,2.23,OECD
+South Africa,2015,total_fertility_rate,%,2.36,OECD
+Thailand,2015,total_fertility_rate,%,1.45,OECD
+Argentina,2015,total_fertility_rate,%,2.35,OECD
+Saudi Arabia,2015,total_fertility_rate,%,2.63,OECD
+Bulgaria,2015,total_fertility_rate,%,1.64,OECD
+Croatia,2015,total_fertility_rate,%,1.4,OECD
+EU-27 average,2015,total_fertility_rate,%,1.54,OECD
+Australia,2016,total_fertility_rate,%,1.79,OECD
+Austria,2016,total_fertility_rate,%,1.53,OECD
+Belgium,2016,total_fertility_rate,%,1.68,OECD
+Canada,2016,total_fertility_rate,%,1.59,OECD
+Chile,2016,total_fertility_rate,%,1.69,OECD
+Colombia,2016,total_fertility_rate,%,1.72,OECD
+Costa Rica,2016,total_fertility_rate,%,1.75,OECD
+Czechia,2016,total_fertility_rate,%,1.63,OECD
+Denmark,2016,total_fertility_rate,%,1.79,OECD
+Estonia,2016,total_fertility_rate,%,1.6,OECD
+Finland,2016,total_fertility_rate,%,1.57,OECD
+France,2016,total_fertility_rate,%,1.92,OECD
+Germany,2016,total_fertility_rate,%,1.59,OECD
+Greece,2016,total_fertility_rate,%,1.38,OECD
+Hungary,2016,total_fertility_rate,%,1.51,OECD
+Iceland,2016,total_fertility_rate,%,1.8,OECD
+Ireland,2016,total_fertility_rate,%,1.82,OECD
+Italy,2016,total_fertility_rate,%,1.36,OECD
+Japan,2016,total_fertility_rate,%,1.44,OECD
+Korea,2016,total_fertility_rate,%,1.17,OECD
+Latvia,2016,total_fertility_rate,%,1.74,OECD
+Lithuania,2016,total_fertility_rate,%,1.63,OECD
+Luxembourg,2016,total_fertility_rate,%,1.41,OECD
+Mexico,2016,total_fertility_rate,%,2.09,OECD
+Netherlands,2016,total_fertility_rate,%,1.66,OECD
+New Zealand,2016,total_fertility_rate,%,1.87,OECD
+Norway,2016,total_fertility_rate,%,1.71,OECD
+Poland,2016,total_fertility_rate,%,1.36,OECD
+Portugal,2016,total_fertility_rate,%,1.36,OECD
+Slovak Republic,2016,total_fertility_rate,%,1.48,OECD
+Slovenia,2016,total_fertility_rate,%,1.58,OECD
+Spain,2016,total_fertility_rate,%,1.34,OECD
+Sweden,2016,total_fertility_rate,%,1.85,OECD
+Switzerland,2016,total_fertility_rate,%,1.54,OECD
+Türkiye,2016,total_fertility_rate,%,2.11,OECD
+United States,2016,total_fertility_rate,%,1.82,OECD
+OECD-38,2016,total_fertility_rate,%,1.68,OECD
+Brazil,2016,total_fertility_rate,%,1.73,OECD
+China,2016,total_fertility_rate,%,1.77,OECD
+India,2016,total_fertility_rate,%,2.28,OECD
+Indonesia,2016,total_fertility_rate,%,2.31,OECD
+Peru,2016,total_fertility_rate,%,2.19,OECD
+South Africa,2016,total_fertility_rate,%,2.26,OECD
+Thailand,2016,total_fertility_rate,%,1.4,OECD
+Argentina,2016,total_fertility_rate,%,2.24,OECD
+Saudi Arabia,2016,total_fertility_rate,%,2.65,OECD
+Bulgaria,2016,total_fertility_rate,%,1.67,OECD
+Croatia,2016,total_fertility_rate,%,1.42,OECD
+EU-27 average,2016,total_fertility_rate,%,1.57,OECD
+Australia,2017,total_fertility_rate,%,1.74,OECD
+Austria,2017,total_fertility_rate,%,1.52,OECD
+Belgium,2017,total_fertility_rate,%,1.65,OECD
+Canada,2017,total_fertility_rate,%,1.55,OECD
+Chile,2017,total_fertility_rate,%,1.56,OECD
+Colombia,2017,total_fertility_rate,%,1.72,OECD
+Costa Rica,2017,total_fertility_rate,%,1.71,OECD
+Czechia,2017,total_fertility_rate,%,1.69,OECD
+Denmark,2017,total_fertility_rate,%,1.75,OECD
+Estonia,2017,total_fertility_rate,%,1.59,OECD
+Finland,2017,total_fertility_rate,%,1.49,OECD
+France,2017,total_fertility_rate,%,1.89,OECD
+Germany,2017,total_fertility_rate,%,1.57,OECD
+Greece,2017,total_fertility_rate,%,1.35,OECD
+Hungary,2017,total_fertility_rate,%,1.51,OECD
+Iceland,2017,total_fertility_rate,%,1.76,OECD
+Ireland,2017,total_fertility_rate,%,1.78,OECD
+Italy,2017,total_fertility_rate,%,1.34,OECD
+Japan,2017,total_fertility_rate,%,1.43,OECD
+Korea,2017,total_fertility_rate,%,1.05,OECD
+Latvia,2017,total_fertility_rate,%,1.69,OECD
+Lithuania,2017,total_fertility_rate,%,1.57,OECD
+Luxembourg,2017,total_fertility_rate,%,1.39,OECD
+Mexico,2017,total_fertility_rate,%,2.04,OECD
+Netherlands,2017,total_fertility_rate,%,1.62,OECD
+New Zealand,2017,total_fertility_rate,%,1.81,OECD
+Norway,2017,total_fertility_rate,%,1.62,OECD
+Poland,2017,total_fertility_rate,%,1.45,OECD
+Portugal,2017,total_fertility_rate,%,1.38,OECD
+Slovak Republic,2017,total_fertility_rate,%,1.52,OECD
+Slovenia,2017,total_fertility_rate,%,1.62,OECD
+Spain,2017,total_fertility_rate,%,1.31,OECD
+Sweden,2017,total_fertility_rate,%,1.78,OECD
+Switzerland,2017,total_fertility_rate,%,1.52,OECD
+Türkiye,2017,total_fertility_rate,%,2.08,OECD
+United States,2017,total_fertility_rate,%,1.77,OECD
+OECD-38,2017,total_fertility_rate,%,1.65,OECD
+Brazil,2017,total_fertility_rate,%,1.74,OECD
+China,2017,total_fertility_rate,%,1.8,OECD
+India,2017,total_fertility_rate,%,2.19,OECD
+Indonesia,2017,total_fertility_rate,%,2.25,OECD
+Peru,2017,total_fertility_rate,%,2.15,OECD
+South Africa,2017,total_fertility_rate,%,2.28,OECD
+Thailand,2017,total_fertility_rate,%,1.36,OECD
+Argentina,2017,total_fertility_rate,%,2.17,OECD
+Saudi Arabia,2017,total_fertility_rate,%,2.67,OECD
+Bulgaria,2017,total_fertility_rate,%,1.71,OECD
+Croatia,2017,total_fertility_rate,%,1.42,OECD
+EU-27 average,2017,total_fertility_rate,%,1.55,OECD
+Australia,2018,total_fertility_rate,%,1.74,OECD
+Austria,2018,total_fertility_rate,%,1.48,OECD
+Belgium,2018,total_fertility_rate,%,1.62,OECD
+Canada,2018,total_fertility_rate,%,1.51,OECD
+Chile,2018,total_fertility_rate,%,1.54,OECD
+Colombia,2018,total_fertility_rate,%,1.72,OECD
+Costa Rica,2018,total_fertility_rate,%,1.71,OECD
+Czechia,2018,total_fertility_rate,%,1.71,OECD
+Denmark,2018,total_fertility_rate,%,1.73,OECD
+Estonia,2018,total_fertility_rate,%,1.67,OECD
+Finland,2018,total_fertility_rate,%,1.41,OECD
+France,2018,total_fertility_rate,%,1.87,OECD
+Germany,2018,total_fertility_rate,%,1.57,OECD
+Greece,2018,total_fertility_rate,%,1.35,OECD
+Hungary,2018,total_fertility_rate,%,1.5,OECD
+Iceland,2018,total_fertility_rate,%,1.76,OECD
+Ireland,2018,total_fertility_rate,%,1.75,OECD
+Italy,2018,total_fertility_rate,%,1.31,OECD
+Japan,2018,total_fertility_rate,%,1.42,OECD
+Korea,2018,total_fertility_rate,%,0.98,OECD
+Latvia,2018,total_fertility_rate,%,1.6,OECD
+Lithuania,2018,total_fertility_rate,%,1.53,OECD
+Luxembourg,2018,total_fertility_rate,%,1.38,OECD
+Mexico,2018,total_fertility_rate,%,2.03,OECD
+Netherlands,2018,total_fertility_rate,%,1.59,OECD
+New Zealand,2018,total_fertility_rate,%,1.71,OECD
+Norway,2018,total_fertility_rate,%,1.56,OECD
+Poland,2018,total_fertility_rate,%,1.44,OECD
+Portugal,2018,total_fertility_rate,%,1.42,OECD
+Slovak Republic,2018,total_fertility_rate,%,1.54,OECD
+Slovenia,2018,total_fertility_rate,%,1.6,OECD
+Spain,2018,total_fertility_rate,%,1.26,OECD
+Sweden,2018,total_fertility_rate,%,1.75,OECD
+Switzerland,2018,total_fertility_rate,%,1.52,OECD
+Türkiye,2018,total_fertility_rate,%,2.0,OECD
+United States,2018,total_fertility_rate,%,1.73,OECD
+OECD-38,2018,total_fertility_rate,%,1.63,OECD
+Brazil,2018,total_fertility_rate,%,1.74,OECD
+China,2018,total_fertility_rate,%,1.54,OECD
+India,2018,total_fertility_rate,%,2.18,OECD
+Indonesia,2018,total_fertility_rate,%,2.22,OECD
+Peru,2018,total_fertility_rate,%,2.12,OECD
+South Africa,2018,total_fertility_rate,%,2.27,OECD
+Thailand,2018,total_fertility_rate,%,1.32,OECD
+Argentina,2018,total_fertility_rate,%,2.07,OECD
+Saudi Arabia,2018,total_fertility_rate,%,2.67,OECD
+Bulgaria,2018,total_fertility_rate,%,1.73,OECD
+Croatia,2018,total_fertility_rate,%,1.47,OECD
+EU-27 average,2018,total_fertility_rate,%,1.54,OECD
+Australia,2019,total_fertility_rate,%,1.67,OECD
+Austria,2019,total_fertility_rate,%,1.46,OECD
+Belgium,2019,total_fertility_rate,%,1.6,OECD
+Canada,2019,total_fertility_rate,%,1.47,OECD
+Chile,2019,total_fertility_rate,%,1.43,OECD
+Colombia,2019,total_fertility_rate,%,1.71,OECD
+Costa Rica,2019,total_fertility_rate,%,1.6,OECD
+Czechia,2019,total_fertility_rate,%,1.71,OECD
+Denmark,2019,total_fertility_rate,%,1.7,OECD
+Estonia,2019,total_fertility_rate,%,1.66,OECD
+Finland,2019,total_fertility_rate,%,1.35,OECD
+France,2019,total_fertility_rate,%,1.86,OECD
+Germany,2019,total_fertility_rate,%,1.54,OECD
+Greece,2019,total_fertility_rate,%,1.34,OECD
+Hungary,2019,total_fertility_rate,%,1.51,OECD
+Iceland,2019,total_fertility_rate,%,1.81,OECD
+Ireland,2019,total_fertility_rate,%,1.7,OECD
+Italy,2019,total_fertility_rate,%,1.27,OECD
+Japan,2019,total_fertility_rate,%,1.36,OECD
+Korea,2019,total_fertility_rate,%,0.92,OECD
+Latvia,2019,total_fertility_rate,%,1.61,OECD
+Lithuania,2019,total_fertility_rate,%,1.43,OECD
+Luxembourg,2019,total_fertility_rate,%,1.34,OECD
+Mexico,2019,total_fertility_rate,%,2.02,OECD
+Netherlands,2019,total_fertility_rate,%,1.57,OECD
+New Zealand,2019,total_fertility_rate,%,1.72,OECD
+Norway,2019,total_fertility_rate,%,1.53,OECD
+Poland,2019,total_fertility_rate,%,1.42,OECD
+Portugal,2019,total_fertility_rate,%,1.43,OECD
+Slovak Republic,2019,total_fertility_rate,%,1.57,OECD
+Slovenia,2019,total_fertility_rate,%,1.61,OECD
+Spain,2019,total_fertility_rate,%,1.23,OECD
+Sweden,2019,total_fertility_rate,%,1.7,OECD
+Switzerland,2019,total_fertility_rate,%,1.48,OECD
+Türkiye,2019,total_fertility_rate,%,1.89,OECD
+United States,2019,total_fertility_rate,%,1.71,OECD
+OECD-38,2019,total_fertility_rate,%,1.59,OECD
+Brazil,2019,total_fertility_rate,%,1.71,OECD
+China,2019,total_fertility_rate,%,1.5,OECD
+India,2019,total_fertility_rate,%,2.12,OECD
+Indonesia,2019,total_fertility_rate,%,2.21,OECD
+Peru,2019,total_fertility_rate,%,2.09,OECD
+South Africa,2019,total_fertility_rate,%,2.26,OECD
+Thailand,2019,total_fertility_rate,%,1.29,OECD
+Argentina,2019,total_fertility_rate,%,1.88,OECD
+Saudi Arabia,2019,total_fertility_rate,%,2.49,OECD
+Bulgaria,2019,total_fertility_rate,%,1.79,OECD
+Croatia,2019,total_fertility_rate,%,1.47,OECD
+EU-27 average,2019,total_fertility_rate,%,1.52,OECD
+Australia,2020,total_fertility_rate,%,1.59,OECD
+Austria,2020,total_fertility_rate,%,1.44,OECD
+Belgium,2020,total_fertility_rate,%,1.55,OECD
+Canada,2020,total_fertility_rate,%,1.41,OECD
+Chile,2020,total_fertility_rate,%,1.31,OECD
+Colombia,2020,total_fertility_rate,%,1.69,OECD
+Costa Rica,2020,total_fertility_rate,%,1.45,OECD
+Czechia,2020,total_fertility_rate,%,1.71,OECD
+Denmark,2020,total_fertility_rate,%,1.67,OECD
+Estonia,2020,total_fertility_rate,%,1.58,OECD
+Finland,2020,total_fertility_rate,%,1.37,OECD
+France,2020,total_fertility_rate,%,1.82,OECD
+Germany,2020,total_fertility_rate,%,1.53,OECD
+Greece,2020,total_fertility_rate,%,1.39,OECD
+Hungary,2020,total_fertility_rate,%,1.59,OECD
+Iceland,2020,total_fertility_rate,%,1.79,OECD
+Ireland,2020,total_fertility_rate,%,1.63,OECD
+Italy,2020,total_fertility_rate,%,1.24,OECD
+Japan,2020,total_fertility_rate,%,1.33,OECD
+Korea,2020,total_fertility_rate,%,0.84,OECD
+Latvia,2020,total_fertility_rate,%,1.55,OECD
+Lithuania,2020,total_fertility_rate,%,1.36,OECD
+Luxembourg,2020,total_fertility_rate,%,1.36,OECD
+Mexico,2020,total_fertility_rate,%,1.99,OECD
+Netherlands,2020,total_fertility_rate,%,1.54,OECD
+New Zealand,2020,total_fertility_rate,%,1.61,OECD
+Norway,2020,total_fertility_rate,%,1.48,OECD
+Poland,2020,total_fertility_rate,%,1.39,OECD
+Portugal,2020,total_fertility_rate,%,1.41,OECD
+Slovak Republic,2020,total_fertility_rate,%,1.59,OECD
+Slovenia,2020,total_fertility_rate,%,1.59,OECD
+Spain,2020,total_fertility_rate,%,1.19,OECD
+Sweden,2020,total_fertility_rate,%,1.66,OECD
+Switzerland,2020,total_fertility_rate,%,1.46,OECD
+Türkiye,2020,total_fertility_rate,%,1.77,OECD
+United States,2020,total_fertility_rate,%,1.64,OECD
+OECD-38,2020,total_fertility_rate,%,1.55,OECD
+Brazil,2020,total_fertility_rate,%,1.65,OECD
+China,2020,total_fertility_rate,%,1.24,OECD
+India,2020,total_fertility_rate,%,2.05,OECD
+Indonesia,2020,total_fertility_rate,%,2.19,OECD
+Peru,2020,total_fertility_rate,%,2.06,OECD
+South Africa,2020,total_fertility_rate,%,2.26,OECD
+Thailand,2020,total_fertility_rate,%,1.26,OECD
+Argentina,2020,total_fertility_rate,%,1.6,OECD
+Saudi Arabia,2020,total_fertility_rate,%,2.27,OECD
+Bulgaria,2020,total_fertility_rate,%,1.77,OECD
+Croatia,2020,total_fertility_rate,%,1.56,OECD
+EU-27 average,2020,total_fertility_rate,%,1.51,OECD
+Australia,2021,total_fertility_rate,%,1.7,OECD
+Austria,2021,total_fertility_rate,%,1.48,OECD
+Belgium,2021,total_fertility_rate,%,1.6,OECD
+Canada,2021,total_fertility_rate,%,1.44,OECD
+Chile,2021,total_fertility_rate,%,1.18,OECD
+Colombia,2021,total_fertility_rate,%,1.68,OECD
+Costa Rica,2021,total_fertility_rate,%,1.35,OECD
+Czechia,2021,total_fertility_rate,%,1.83,OECD
+Denmark,2021,total_fertility_rate,%,1.72,OECD
+Estonia,2021,total_fertility_rate,%,1.61,OECD
+Finland,2021,total_fertility_rate,%,1.46,OECD
+France,2021,total_fertility_rate,%,1.83,OECD
+Germany,2021,total_fertility_rate,%,1.58,OECD
+Greece,2021,total_fertility_rate,%,1.43,OECD
+Hungary,2021,total_fertility_rate,%,1.61,OECD
+Iceland,2021,total_fertility_rate,%,1.9,OECD
+Ireland,2021,total_fertility_rate,%,1.72,OECD
+Italy,2021,total_fertility_rate,%,1.25,OECD
+Japan,2021,total_fertility_rate,%,1.3,OECD
+Korea,2021,total_fertility_rate,%,0.81,OECD
+Latvia,2021,total_fertility_rate,%,1.57,OECD
+Lithuania,2021,total_fertility_rate,%,1.36,OECD
+Luxembourg,2021,total_fertility_rate,%,1.38,OECD
+Mexico,2021,total_fertility_rate,%,1.97,OECD
+Netherlands,2021,total_fertility_rate,%,1.62,OECD
+New Zealand,2021,total_fertility_rate,%,1.64,OECD
+Norway,2021,total_fertility_rate,%,1.55,OECD
+Poland,2021,total_fertility_rate,%,1.33,OECD
+Portugal,2021,total_fertility_rate,%,1.35,OECD
+Slovak Republic,2021,total_fertility_rate,%,1.63,OECD
+Slovenia,2021,total_fertility_rate,%,1.64,OECD
+Spain,2021,total_fertility_rate,%,1.19,OECD
+Sweden,2021,total_fertility_rate,%,1.67,OECD
+Switzerland,2021,total_fertility_rate,%,1.52,OECD
+Türkiye,2021,total_fertility_rate,%,1.71,OECD
+United States,2021,total_fertility_rate,%,1.66,OECD
+OECD-38,2021,total_fertility_rate,%,1.57,OECD
+Brazil,2021,total_fertility_rate,%,1.64,OECD
+China,2021,total_fertility_rate,%,1.12,OECD
+India,2021,total_fertility_rate,%,2.01,OECD
+Indonesia,2021,total_fertility_rate,%,2.17,OECD
+Peru,2021,total_fertility_rate,%,2.03,OECD
+South Africa,2021,total_fertility_rate,%,2.25,OECD
+Thailand,2021,total_fertility_rate,%,1.23,OECD
+Argentina,2021,total_fertility_rate,%,1.59,OECD
+Saudi Arabia,2021,total_fertility_rate,%,2.17,OECD
+Bulgaria,2021,total_fertility_rate,%,1.8,OECD
+Croatia,2021,total_fertility_rate,%,1.63,OECD
+EU-27 average,2021,total_fertility_rate,%,1.54,OECD
+Australia,2022,total_fertility_rate,%,1.63,OECD
+Austria,2022,total_fertility_rate,%,1.41,OECD
+Belgium,2022,total_fertility_rate,%,1.53,OECD
+Canada,2022,total_fertility_rate,%,1.33,OECD
+Chile,2022,total_fertility_rate,%,1.26,OECD
+Colombia,2022,total_fertility_rate,%,1.66,OECD
+Costa Rica,2022,total_fertility_rate,%,1.34,OECD
+Czechia,2022,total_fertility_rate,%,1.62,OECD
+Denmark,2022,total_fertility_rate,%,1.55,OECD
+Estonia,2022,total_fertility_rate,%,1.41,OECD
+Finland,2022,total_fertility_rate,%,1.32,OECD
+France,2022,total_fertility_rate,%,1.78,OECD
+Germany,2022,total_fertility_rate,%,1.46,OECD
+Greece,2022,total_fertility_rate,%,1.32,OECD
+Hungary,2022,total_fertility_rate,%,1.55,OECD
+Iceland,2022,total_fertility_rate,%,1.67,OECD
+Ireland,2022,total_fertility_rate,%,1.7,OECD
+Italy,2022,total_fertility_rate,%,1.24,OECD
+Japan,2022,total_fertility_rate,%,1.26,OECD
+Korea,2022,total_fertility_rate,%,0.78,OECD
+Latvia,2022,total_fertility_rate,%,1.47,OECD
+Lithuania,2022,total_fertility_rate,%,1.27,OECD
+Luxembourg,2022,total_fertility_rate,%,1.31,OECD
+Mexico,2022,total_fertility_rate,%,1.94,OECD
+Netherlands,2022,total_fertility_rate,%,1.48,OECD
+New Zealand,2022,total_fertility_rate,%,1.66,OECD
+Norway,2022,total_fertility_rate,%,1.41,OECD
+Poland,2022,total_fertility_rate,%,1.26,OECD
+Portugal,2022,total_fertility_rate,%,1.42,OECD
+Slovak Republic,2022,total_fertility_rate,%,1.57,OECD
+Slovenia,2022,total_fertility_rate,%,1.55,OECD
+Spain,2022,total_fertility_rate,%,1.16,OECD
+Sweden,2022,total_fertility_rate,%,1.52,OECD
+Switzerland,2022,total_fertility_rate,%,1.39,OECD
+Türkiye,2022,total_fertility_rate,%,1.63,OECD
+United States,2022,total_fertility_rate,%,1.66,OECD
+OECD-38,2022,total_fertility_rate,%,1.5,OECD
+Brazil,2022,total_fertility_rate,%,1.63,OECD
+China,2022,total_fertility_rate,%,1.03,OECD
+India,2022,total_fertility_rate,%,1.99,OECD
+Indonesia,2022,total_fertility_rate,%,2.15,OECD
+Peru,2022,total_fertility_rate,%,2.0,OECD
+South Africa,2022,total_fertility_rate,%,2.23,OECD
+Thailand,2022,total_fertility_rate,%,1.22,OECD
+Argentina,2022,total_fertility_rate,%,1.48,OECD
+Saudi Arabia,2022,total_fertility_rate,%,2.14,OECD
+Bulgaria,2022,total_fertility_rate,%,1.78,OECD
+Croatia,2022,total_fertility_rate,%,1.53,OECD
+EU-27 average,2022,total_fertility_rate,%,1.46,OECD
+Australia,2023,total_fertility_rate,%,1.5,OECD
+Austria,2023,total_fertility_rate,%,1.32,OECD
+Belgium,2023,total_fertility_rate,%,1.47,OECD
+Canada,2023,total_fertility_rate,%,1.26,OECD
+Chile,2023,total_fertility_rate,%,1.17,OECD
+Colombia,2023,total_fertility_rate,%,1.65,OECD
+Costa Rica,2023,total_fertility_rate,%,1.33,OECD
+Czechia,2023,total_fertility_rate,%,1.45,OECD
+Denmark,2023,total_fertility_rate,%,1.5,OECD
+Estonia,2023,total_fertility_rate,%,1.31,OECD
+Finland,2023,total_fertility_rate,%,1.26,OECD
+France,2023,total_fertility_rate,%,1.66,OECD
+Germany,2023,total_fertility_rate,%,1.35,OECD
+Greece,2023,total_fertility_rate,%,1.26,OECD
+Hungary,2023,total_fertility_rate,%,1.51,OECD
+Iceland,2023,total_fertility_rate,%,1.59,OECD
+Ireland,2023,total_fertility_rate,%,1.5,OECD
+Italy,2023,total_fertility_rate,%,1.2,OECD
+Japan,2023,total_fertility_rate,%,1.2,OECD
+Korea,2023,total_fertility_rate,%,0.72,OECD
+Latvia,2023,total_fertility_rate,%,1.36,OECD
+Lithuania,2023,total_fertility_rate,%,1.18,OECD
+Luxembourg,2023,total_fertility_rate,%,1.25,OECD
+Mexico,2023,total_fertility_rate,%,1.91,OECD
+Netherlands,2023,total_fertility_rate,%,1.43,OECD
+New Zealand,2023,total_fertility_rate,%,1.56,OECD
+Norway,2023,total_fertility_rate,%,1.4,OECD
+Poland,2023,total_fertility_rate,%,1.16,OECD
+Portugal,2023,total_fertility_rate,%,1.44,OECD
+Slovak Republic,2023,total_fertility_rate,%,1.49,OECD
+Slovenia,2023,total_fertility_rate,%,1.51,OECD
+Spain,2023,total_fertility_rate,%,1.12,OECD
+Sweden,2023,total_fertility_rate,%,1.45,OECD
+Switzerland,2023,total_fertility_rate,%,1.33,OECD
+Türkiye,2023,total_fertility_rate,%,1.51,OECD
+United States,2023,total_fertility_rate,%,1.62,OECD
+OECD-38,2023,total_fertility_rate,%,1.43,OECD
+Brazil,2023,total_fertility_rate,%,1.62,OECD
+China,2023,total_fertility_rate,%,1.0,OECD
+India,2023,total_fertility_rate,%,1.98,OECD
+Indonesia,2023,total_fertility_rate,%,2.13,OECD
+Peru,2023,total_fertility_rate,%,1.98,OECD
+South Africa,2023,total_fertility_rate,%,2.22,OECD
+Thailand,2023,total_fertility_rate,%,1.21,OECD
+Argentina,2023,total_fertility_rate,%,1.5,OECD
+Saudi Arabia,2023,total_fertility_rate,%,2.28,OECD
+Bulgaria,2023,total_fertility_rate,%,1.81,OECD
+Croatia,2023,total_fertility_rate,%,1.47,OECD
+EU-27 average,2023,total_fertility_rate,%,1.39,OECD

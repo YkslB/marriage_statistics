@@ -1,52 +1,1888 @@
-country,birth_order,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
-Austria,First birth(%),47.6,47.8,46.7,46.2,46.5,46.1,45.2,44.5,44.5,44.4,45.1,44.8,45.4,45.5,46.0,45.7,45.8,46.1,46.3,46.6,46.2,46.8,47.1,47.3,48.0,48.1,48.1,48.0,48.3,47.3,47.5,47.1,47.2,47.7,47.6,48.4,48.1
-Austria,Second birth(%),33.7,33.7,34.3,34.9,34.5,34.8,35.8,36.4,36.4,36.5,35.8,36.3,35.7,36.0,35.4,35.3,35.1,35.0,34.8,34.8,35.1,35.0,34.7,35.2,34.8,35.1,35.6,35.5,35.3,35.6,35.3,35.3,35.1,35.3,35.5,34.9,35.1
-Austria,Third birth or higher(%),18.8,18.5,19.0,18.9,19.0,19.1,18.9,19.1,19.2,19.0,19.1,18.9,18.9,18.5,18.5,19.1,19.1,18.9,18.9,18.7,18.7,18.2,18.2,17.5,17.3,16.8,16.3,16.5,16.4,17.1,17.2,17.6,17.7,17.0,16.9,16.7,16.8
-Belgium,First birth(%),46.8,46.9,47.3,47.3,48.1,47.2,46.9,47.2,47.3,46.9,46.9,46.6,43.5,45.9,45.6,45.9,45.9,45.9,45.6,45.4,45.5,45.1,47.8,44.6,44.1,43.3,43.9,42.3,43.5,44.1,43.6,42.9,42.6,45.0,44.0,44.7,45.5
-Belgium,Second birth(%),33.0,32.9,32.7,32.8,32.3,32.8,33.5,33.0,33.1,33.1,32.8,32.0,34.5,33.2,33.5,33.7,33.6,33.1,33.7,34.2,34.1,34.3,32.6,33.9,34.4,34.8,34.9,35.1,34.8,34.5,34.6,34.5,34.7,34.2,35.1,34.3,34.1
-Belgium,Third birth or higher(%),20.2,20.2,19.9,19.9,19.6,20.0,19.6,19.8,19.7,20.0,20.3,21.4,22.0,20.9,21.0,20.4,20.5,21.0,20.7,20.4,20.4,20.6,19.6,21.6,21.5,21.9,21.2,22.6,21.8,21.4,21.9,22.6,22.6,20.8,20.9,20.9,20.4
-Czechia,First birth(%),46.7,46.6,47.4,47.8,50.1,49.8,48.5,47.7,46.3,46.6,47.2,47.6,48.1,48.3,47.8,48.2,48.4,49.2,48.8,49.0,47.2,47.6,47.4,46.4,46.9,47.4,48.0,47.4,48.1,48.7,48.7,48.0,47.8,47.6,46.4,46.3,46.3
-Czechia,Second birth(%),37.7,37.6,37.4,37.2,35.5,35.8,36.8,36.9,38.5,38.5,38.1,38.0,37.6,37.3,37.7,37.1,37.2,36.5,37.2,36.9,37.9,37.9,38.2,38.9,38.8,38.5,37.6,37.5,37.3,36.7,36.6,37.2,37.6,37.6,39.0,38.6,39.1
-Czechia,Third birth or higher(%),15.6,15.8,15.2,15.0,14.4,14.4,14.8,15.4,15.1,15.0,14.7,14.4,14.3,14.4,14.5,14.7,14.4,14.3,14.0,14.1,15.0,14.5,14.5,14.8,14.3,14.1,14.5,15.1,14.7,14.6,14.7,14.7,14.6,14.8,14.6,15.0,14.6
-Estonia,First birth(%),43.5,43.5,44.0,46.2,49.5,50.3,49.6,49.6,49.6,50.2,49.3,50.2,49.4,48.4,48.3,48.2,49.3,49.3,48.4,48.2,47.7,47.5,45.7,42.2,40.2,41.1,41.6,41.9,42.3,40.8,40.2,36.7,38.8,38.0,37.2,39.8,39.7
-Estonia,Second birth(%),38.0,36.2,34.7,32.8,31.2,30.8,31.2,31.3,31.9,30.9,32.4,31.3,32.4,32.1,32.5,33.1,32.6,32.3,33.6,34.4,34.3,34.5,35.2,37.5,38.7,37.9,37.5,37.2,37.0,37.3,36.8,37.3,34.6,34.9,35.9,33.8,33.9
-Estonia,Third birth or higher(%),18.5,20.4,21.3,21.0,19.3,18.9,19.2,19.1,18.4,18.9,18.4,18.6,18.3,19.5,19.2,18.7,18.1,18.3,18.0,17.4,18.0,18.1,19.0,20.3,21.2,21.0,20.9,21.0,20.7,21.9,23.0,26.0,26.6,27.1,26.9,26.4,26.4
-Finland,First birth(%),39.7,39.6,39.8,40.0,40.7,39.6,39.5,38.2,38.7,39.2,39.8,39.8,40.3,40.2,40.6,41.2,41.9,42.0,42.2,42.1,41.9,41.8,42.1,41.9,41.0,41.1,40.5,40.8,41.3,41.4,40.6,40.7,42.1,42.1,42.3,43.4,43.4
-Finland,Second birth(%),35.7,35.2,34.6,33.6,33.5,34.0,34.4,35.0,34.4,34.1,34.1,33.8,33.1,33.4,33.0,32.9,32.8,32.6,32.8,33.2,33.3,33.5,33.5,33.7,34.0,34.0,34.2,34.3,34.4,34.0,34.0,34.2,33.7,34.1,33.9,33.2,33.9
-Finland,Third birth or higher(%),24.6,25.2,25.6,26.5,25.8,26.3,26.1,26.8,26.9,26.7,26.1,26.4,26.6,26.4,26.4,25.9,25.3,25.5,25.0,24.7,24.8,24.7,24.5,24.4,25.0,24.9,25.3,25.0,24.3,24.6,25.3,25.1,24.2,23.9,23.8,23.5,22.6
-Greece,First birth(%),45.4,45.4,44.4,44.6,45.4,46.6,45.5,45.3,46.4,46.7,46.2,47.0,47.2,47.7,47.2,47.2,47.6,47.7,47.0,47.6,47.3,47.3,46.9,48.2,50.4,51.1,50.6,49.8,48.1,48.7,47.7,47.0,46.6,46.3,45.8,47.2,47.5
-Greece,Second birth(%),38.3,38.5,39.2,39.0,37.6,36.5,37.1,37.1,37.3,36.8,37.5,37.7,37.7,37.3,38.2,38.2,38.0,37.7,38.5,37.8,38.2,37.6,37.6,36.6,35.8,36.0,36.8,37.8,39.0,38.2,38.4,38.6,38.5,38.3,38.7,37.6,37.3
-Greece,Third birth or higher(%),16.3,16.2,16.5,16.4,17.0,17.0,17.4,17.6,16.4,16.5,16.3,15.3,15.1,15.0,14.6,14.6,14.4,14.6,14.5,14.6,14.5,15.1,15.5,15.2,13.8,12.9,12.6,12.4,12.9,13.1,13.9,14.4,14.8,15.4,15.6,15.2,15.2
-Iceland,First birth(%),35.5,35.5,35.6,36.1,35.9,36.5,35.0,35.9,37.0,35.5,39.1,38.3,39.0,41.1,41.1,39.0,40.2,38.3,38.9,40.4,40.3,40.0,39.9,38.9,38.1,39.6,39.0,39.9,39.4,38.6,41.3,44.7,45.7,47.1,40.0,41.5,41.9
-Iceland,Second birth(%),32.9,32.7,32.3,30.9,30.7,31.0,32.9,31.6,31.1,34.3,31.8,33.5,33.3,32.0,32.2,35.6,34.6,36.1,36.0,34.8,35.0,34.9,33.9,33.3,34.9,34.1,34.2,36.1,35.4,35.1,34.6,33.2,33.4,33.6,36.2,36.0,38.3
-Iceland,Third birth or higher(%),31.7,31.7,32.1,33.0,33.4,32.5,32.2,32.5,32.0,30.2,29.1,28.2,27.7,26.9,26.7,25.4,25.2,25.6,25.1,24.8,24.8,25.1,26.2,27.8,27.0,26.2,26.7,24.0,25.2,26.3,24.1,22.1,20.8,19.2,23.8,22.4,19.8
-Latvia,First birth(%),44.3,45.3,46.8,47.6,49.0,49.5,50.6,50.9,52.1,51.9,51.6,50.3,50.0,49.7,50.6,50.2,51.5,52.7,51.5,52.2,52.6,51.6,49.8,48.7,47.3,46.2,44.6,44.2,42.6,41.1,40.1,39.5,39.0,38.7,38.2,37.9,39.2
-Latvia,Second birth(%),37.1,36.0,34.4,32.8,31.8,31.8,30.5,30.9,30.0,30.0,30.6,31.2,31.9,32.0,31.6,32.3,31.3,31.0,31.8,31.8,32.6,33.2,34.0,34.5,35.6,36.3,37.2,37.5,37.5,38.3,37.9,37.8,37.7,37.3,37.6,36.6,35.3
-Latvia,Third birth or higher(%),18.6,18.7,18.8,19.6,19.2,18.7,18.9,18.2,17.9,18.1,17.8,18.5,18.1,18.3,17.7,17.5,17.2,16.3,16.7,16.0,14.7,15.2,16.3,16.8,17.1,17.4,18.2,18.3,19.9,20.6,22.0,22.6,23.3,24.1,24.2,25.5,25.5
-Lithuania,First birth(%),47.2,47.7,48.3,47.9,49.6,49.8,49.7,50.4,50.2,49.2,48.3,46.5,46.4,46.8,47.0,48.5,48.7,49.8,48.9,50.5,51.5,51.0,49.3,46.6,46.5,46.9,48.2,47.7,47.4,47.0,46.4,44.4,45.7,44.4,43.7,45.4,46.4
-Lithuania,Second birth(%),36.8,37.0,36.5,36.2,34.8,34.3,34.7,34.3,34.6,35.2,35.4,35.9,34.9,34.2,34.3,33.8,33.3,33.3,34.1,34.0,33.6,34.8,35.9,38.1,38.2,37.5,36.9,37.0,37.7,37.8,38.2,40.0,38.9,39.2,39.7,38.4,37.6
-Lithuania,Third birth or higher(%),16.0,15.2,15.2,15.9,15.6,15.8,15.6,15.3,15.2,15.6,16.4,17.6,18.6,19.0,18.8,17.6,18.0,16.9,17.0,15.4,14.8,14.2,14.7,15.3,15.3,15.6,14.9,15.3,14.9,15.2,15.4,15.6,15.4,16.5,16.6,16.2,16.0
-Luxembourg,First birth(%),41.0,40.2,40.1,39.4,39.7,39.7,39.5,37.8,36.7,35.0,35.2,33.9,33.8,31.4,31.2,32.0,31.0,30.4,31.0,50.3,50.3,49.4,50.4,51.6,51.7,51.5,53.8,54.3,54.5,54.6,53.4,52.3,52.6,53.4,53.2,54.4,54.5
-Luxembourg,Second birth(%),33.0,32.7,33.1,32.8,33.7,32.6,32.4,33.7,33.0,33.6,31.5,32.5,31.2,31.2,31.0,29.5,28.2,28.7,28.0,33.9,34.3,34.4,33.6,33.1,34.2,34.0,32.9,32.7,32.9,32.8,33.9,35.7,34.8,33.8,34.1,32.8,31.8
-Luxembourg,Third birth or higher(%),15.0,15.0,14.9,15.0,14.5,14.9,15.2,15.6,17.1,16.5,16.3,16.0,16.2,15.3,15.1,15.3,15.6,14.8,13.3,15.8,15.4,16.2,16.0,15.3,14.1,14.4,13.3,13.1,12.6,12.6,12.6,12.0,12.6,12.8,12.7,12.8,13.7
-Netherlands,First birth(%),43.8,44.6,44.3,45.1,45.3,44.3,44.4,44.5,44.6,45.3,46.4,47.1,46.8,46.4,46.2,45.8,45.5,45.6,45.2,44.8,45.2,45.1,46.1,46.3,46.4,46.4,46.4,46.1,45.5,45.3,45.0,44.8,45.5,45.5,45.4,46.7,46.0
-Netherlands,Second birth(%),35.7,34.9,35.1,34.4,34.7,35.4,35.9,35.7,36.5,36.1,35.4,35.0,35.6,35.8,36.3,36.7,36.9,36.8,37.1,37.4,36.9,36.9,36.1,36.0,36.3,36.6,36.7,36.5,36.8,36.7,36.7,36.6,36.1,36.4,36.3,35.3,36.5
-Netherlands,Third birth or higher(%),20.6,20.5,20.6,20.5,20.0,20.3,19.7,19.8,18.8,18.7,18.2,17.9,17.6,17.7,17.5,17.5,17.6,17.6,17.7,17.9,18.0,18.0,17.8,17.6,17.3,17.0,16.9,17.4,17.6,18.1,18.2,18.5,18.4,18.1,18.2,18.0,17.6
-Norway,First birth(%),43.3,44.0,43.5,42.9,42.9,42.0,41.2,40.6,40.6,41.2,41.2,41.7,40.3,40.3,40.5,40.8,41.2,41.8,41.6,42.3,42.2,43.5,43.3,43.6,42.7,42.6,43.1,43.1,43.2,43.3,42.7,43.0,43.2,43.5,42.8,43.7,44.1
-Norway,Second birth(%),35.5,34.6,34.8,34.8,34.4,35.3,35.8,36.3,36.3,34.5,33.3,33.8,35.8,35.9,36.2,36.8,36.2,35.9,36.3,36.5,36.3,35.4,35.9,35.9,36.6,37.3,37.4,37.5,37.4,37.6,37.9,38.2,38.2,38.0,38.4,37.8,38.3
-Norway,Third birth or higher(%),21.2,21.4,21.7,22.2,22.7,22.7,23.0,23.1,23.1,24.3,25.4,24.5,23.9,23.8,23.3,22.5,22.6,22.3,22.1,21.2,21.6,21.2,20.8,20.5,20.7,20.1,19.4,19.4,19.4,19.1,19.4,18.9,18.5,18.4,18.8,18.5,17.7
-Poland,First birth(%),37.3,37.3,37.8,39.5,39.7,39.5,38.8,39.3,40.8,42.1,43.8,45.3,46.5,47.8,48.1,48.7,50.3,50.7,51.2,51.3,50.8,50.8,51.0,50.1,49.2,48.7,48.6,47.4,47.3,46.0,43.1,42.7,42.9,44.3,44.2,44.5,44.8
-Poland,Second birth(%),34.0,33.8,33.5,32.1,31.2,31.1,30.7,30.3,30.6,30.7,30.7,30.6,30.3,30.4,30.8,31.1,30.9,31.4,32.1,32.7,33.5,34.3,34.4,35.1,35.9,36.3,36.4,37.5,37.8,38.5,40.3,38.0,35.9,35.1,34.3,33.3,33.5
-Poland,Third birth or higher(%),28.7,28.9,28.7,28.4,29.1,29.4,30.5,30.5,28.6,27.2,25.5,24.1,23.2,21.8,21.1,20.3,18.8,17.8,16.7,16.0,15.7,14.9,14.7,14.7,14.9,15.0,15.0,15.1,14.9,15.5,16.6,19.4,21.3,20.6,21.5,22.2,21.7
-Slovenia,First birth(%),47.4,47.6,47.9,47.7,47.3,49.3,47.4,46.8,46.3,46.7,47.7,48.5,49.5,50.2,49.2,51.2,50.1,49.9,50.4,49.6,48.7,49.5,49.1,49.2,48.5,48.0,49.6,48.0,47.9,47.4,45.8,45.5,46.0,46.6,45.1,46.8,46.4
-Slovenia,Second birth(%),39.8,39.4,38.9,39.5,39.4,37.9,39.1,39.6,39.4,39.2,37.7,37.4,36.5,36.0,36.5,34.9,36.3,35.8,35.7,35.8,36.5,36.3,36.4,36.7,37.9,38.6,37.5,38.2,38.0,38.3,39.5,39.2,38.5,38.2,39.4,37.7,37.6
-Slovenia,Third birth or higher(%),12.8,13.0,13.2,12.8,13.3,12.8,13.4,13.6,14.3,14.1,14.6,14.2,14.0,13.8,14.3,13.9,13.6,14.3,13.8,14.5,14.8,14.2,14.5,14.1,13.6,13.4,12.9,13.8,14.1,14.3,14.7,15.4,15.5,15.2,15.5,15.5,15.9
-Spain,First birth(%),48.1,49.3,50.0,50.3,51.3,51.9,52.1,51.8,51.2,49.7,50.9,51.5,52.1,53.0,54.3,55.3,55.5,55.7,55.8,55.7,57.4,53.3,53.5,52.6,52.4,52.1,52.7,52.0,51.2,50.3,49.7,49.1,49.5,50.8,49.9,50.5,50.3
-Spain,Second birth(%),33.2,33.4,34.0,34.6,34.7,34.8,35.1,35.7,36.5,37.8,37.4,37.1,36.9,36.3,35.7,34.9,34.9,34.8,34.8,34.9,32.5,36.4,36.1,36.8,37.3,37.4,36.8,37.3,37.9,38.2,38.1,38.0,37.0,35.7,36.2,35.4,36.1
-Spain,Third birth or higher(%),18.7,17.3,16.1,15.2,14.0,13.3,12.8,12.6,12.2,12.4,11.7,11.4,11.0,10.7,10.0,9.8,9.6,9.5,9.4,9.4,10.0,10.3,10.5,10.7,10.3,10.5,10.5,10.7,10.9,11.6,12.2,12.9,13.4,13.5,13.9,14.1,13.6
-Switzerland,First birth(%),42.1,42.4,42.6,42.2,42.6,42.1,42.2,41.2,41.1,41.3,40.7,40.0,40.3,40.0,41.0,40.5,40.8,40.9,41.3,49.9,49.2,48.8,48.9,49.3,49.2,48.5,48.4,48.7,48.7,49.1,48.5,47.9,48.5,48.3,47.6,48.2,48.5
-Switzerland,Second birth(%),35.4,35.0,34.6,34.4,34.1,34.7,34.6,35.6,35.4,35.0,35.0,34.8,34.1,33.9,34.3,33.8,32.9,32.6,31.9,35.4,36.3,36.3,36.3,36.2,36.4,37.1,37.2,36.8,36.7,36.4,36.9,37.3,36.8,36.6,37.4,37.1,37.1
-Switzerland,Third birth or higher(%),16.6,16.5,16.9,17.3,16.8,17.0,16.9,16.7,16.7,16.4,16.2,16.1,25.6,15.4,14.9,14.4,13.8,13.2,13.0,14.8,14.5,14.9,14.8,14.5,14.4,14.5,14.3,14.5,14.7,14.5,14.5,14.8,14.7,15.0,15.0,14.7,14.4
-Romania,First birth(%),36.4,37.8,39.2,43.5,51.8,53.9,56.0,54.5,54.4,54.2,53.8,53.1,52.3,51.6,51.1,50.7,50.8,52.4,52.0,53.3,52.4,53.4,53.0,52.4,51.9,51.0,51.0,53.5,54.6,53.7,54.4,53.6,54.1,53.9,52.4,51.6,49.9
-Romania,Second birth(%),28.4,28.8,28.8,29.0,27.3,26.3,26.0,27.2,27.7,28.2,28.6,29.2,29.5,29.4,29.6,30.1,30.1,29.4,30.6,29.9,30.4,29.7,30.3,30.6,29.9,30.5,30.4,29.6,29.2,30.0,29.6,30.4,30.1,29.5,30.3,30.5,30.8
-Romania,Third birth or higher(%),35.2,33.4,32.0,27.5,20.9,19.8,18.1,18.3,17.9,17.6,17.6,17.7,18.2,19.1,19.3,19.2,19.0,18.2,17.3,16.7,17.2,16.9,16.7,17.0,18.2,18.5,18.5,16.9,16.2,16.3,16.0,16.0,15.8,16.6,17.3,17.9,19.3
+country,year,indicator,birth_order,unit,value,source
+Austria,1987,births_by_birth_order,First birth,%,47.6,OECD
+Austria,1987,births_by_birth_order,Second birth,%,33.7,OECD
+Austria,1987,births_by_birth_order,Third birth or higher,%,18.8,OECD
+Belgium,1987,births_by_birth_order,First birth,%,46.8,OECD
+Belgium,1987,births_by_birth_order,Second birth,%,33.0,OECD
+Belgium,1987,births_by_birth_order,Third birth or higher,%,20.2,OECD
+Czechia,1987,births_by_birth_order,First birth,%,46.7,OECD
+Czechia,1987,births_by_birth_order,Second birth,%,37.7,OECD
+Czechia,1987,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Estonia,1987,births_by_birth_order,First birth,%,43.5,OECD
+Estonia,1987,births_by_birth_order,Second birth,%,38.0,OECD
+Estonia,1987,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Finland,1987,births_by_birth_order,First birth,%,39.7,OECD
+Finland,1987,births_by_birth_order,Second birth,%,35.7,OECD
+Finland,1987,births_by_birth_order,Third birth or higher,%,24.6,OECD
+Greece,1987,births_by_birth_order,First birth,%,45.4,OECD
+Greece,1987,births_by_birth_order,Second birth,%,38.3,OECD
+Greece,1987,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Iceland,1987,births_by_birth_order,First birth,%,35.5,OECD
+Iceland,1987,births_by_birth_order,Second birth,%,32.9,OECD
+Iceland,1987,births_by_birth_order,Third birth or higher,%,31.7,OECD
+Latvia,1987,births_by_birth_order,First birth,%,44.3,OECD
+Latvia,1987,births_by_birth_order,Second birth,%,37.1,OECD
+Latvia,1987,births_by_birth_order,Third birth or higher,%,18.6,OECD
+Lithuania,1987,births_by_birth_order,First birth,%,47.2,OECD
+Lithuania,1987,births_by_birth_order,Second birth,%,36.8,OECD
+Lithuania,1987,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Luxembourg,1987,births_by_birth_order,First birth,%,41.0,OECD
+Luxembourg,1987,births_by_birth_order,Second birth,%,33.0,OECD
+Luxembourg,1987,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Netherlands,1987,births_by_birth_order,First birth,%,43.8,OECD
+Netherlands,1987,births_by_birth_order,Second birth,%,35.7,OECD
+Netherlands,1987,births_by_birth_order,Third birth or higher,%,20.6,OECD
+Norway,1987,births_by_birth_order,First birth,%,43.3,OECD
+Norway,1987,births_by_birth_order,Second birth,%,35.5,OECD
+Norway,1987,births_by_birth_order,Third birth or higher,%,21.2,OECD
+Poland,1987,births_by_birth_order,First birth,%,37.3,OECD
+Poland,1987,births_by_birth_order,Second birth,%,34.0,OECD
+Poland,1987,births_by_birth_order,Third birth or higher,%,28.7,OECD
+Slovenia,1987,births_by_birth_order,First birth,%,47.4,OECD
+Slovenia,1987,births_by_birth_order,Second birth,%,39.8,OECD
+Slovenia,1987,births_by_birth_order,Third birth or higher,%,12.8,OECD
+Spain,1987,births_by_birth_order,First birth,%,48.1,OECD
+Spain,1987,births_by_birth_order,Second birth,%,33.2,OECD
+Spain,1987,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Switzerland,1987,births_by_birth_order,First birth,%,42.1,OECD
+Switzerland,1987,births_by_birth_order,Second birth,%,35.4,OECD
+Switzerland,1987,births_by_birth_order,Third birth or higher,%,16.6,OECD
+Romania,1987,births_by_birth_order,First birth,%,36.4,OECD
+Romania,1987,births_by_birth_order,Second birth,%,28.4,OECD
+Romania,1987,births_by_birth_order,Third birth or higher,%,35.2,OECD
+Austria,1988,births_by_birth_order,First birth,%,47.8,OECD
+Austria,1988,births_by_birth_order,Second birth,%,33.7,OECD
+Austria,1988,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Belgium,1988,births_by_birth_order,First birth,%,46.9,OECD
+Belgium,1988,births_by_birth_order,Second birth,%,32.9,OECD
+Belgium,1988,births_by_birth_order,Third birth or higher,%,20.2,OECD
+Czechia,1988,births_by_birth_order,First birth,%,46.6,OECD
+Czechia,1988,births_by_birth_order,Second birth,%,37.6,OECD
+Czechia,1988,births_by_birth_order,Third birth or higher,%,15.8,OECD
+Estonia,1988,births_by_birth_order,First birth,%,43.5,OECD
+Estonia,1988,births_by_birth_order,Second birth,%,36.2,OECD
+Estonia,1988,births_by_birth_order,Third birth or higher,%,20.4,OECD
+Finland,1988,births_by_birth_order,First birth,%,39.6,OECD
+Finland,1988,births_by_birth_order,Second birth,%,35.2,OECD
+Finland,1988,births_by_birth_order,Third birth or higher,%,25.2,OECD
+Greece,1988,births_by_birth_order,First birth,%,45.4,OECD
+Greece,1988,births_by_birth_order,Second birth,%,38.5,OECD
+Greece,1988,births_by_birth_order,Third birth or higher,%,16.2,OECD
+Iceland,1988,births_by_birth_order,First birth,%,35.5,OECD
+Iceland,1988,births_by_birth_order,Second birth,%,32.7,OECD
+Iceland,1988,births_by_birth_order,Third birth or higher,%,31.7,OECD
+Latvia,1988,births_by_birth_order,First birth,%,45.3,OECD
+Latvia,1988,births_by_birth_order,Second birth,%,36.0,OECD
+Latvia,1988,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Lithuania,1988,births_by_birth_order,First birth,%,47.7,OECD
+Lithuania,1988,births_by_birth_order,Second birth,%,37.0,OECD
+Lithuania,1988,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Luxembourg,1988,births_by_birth_order,First birth,%,40.2,OECD
+Luxembourg,1988,births_by_birth_order,Second birth,%,32.7,OECD
+Luxembourg,1988,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Netherlands,1988,births_by_birth_order,First birth,%,44.6,OECD
+Netherlands,1988,births_by_birth_order,Second birth,%,34.9,OECD
+Netherlands,1988,births_by_birth_order,Third birth or higher,%,20.5,OECD
+Norway,1988,births_by_birth_order,First birth,%,44.0,OECD
+Norway,1988,births_by_birth_order,Second birth,%,34.6,OECD
+Norway,1988,births_by_birth_order,Third birth or higher,%,21.4,OECD
+Poland,1988,births_by_birth_order,First birth,%,37.3,OECD
+Poland,1988,births_by_birth_order,Second birth,%,33.8,OECD
+Poland,1988,births_by_birth_order,Third birth or higher,%,28.9,OECD
+Slovenia,1988,births_by_birth_order,First birth,%,47.6,OECD
+Slovenia,1988,births_by_birth_order,Second birth,%,39.4,OECD
+Slovenia,1988,births_by_birth_order,Third birth or higher,%,13.0,OECD
+Spain,1988,births_by_birth_order,First birth,%,49.3,OECD
+Spain,1988,births_by_birth_order,Second birth,%,33.4,OECD
+Spain,1988,births_by_birth_order,Third birth or higher,%,17.3,OECD
+Switzerland,1988,births_by_birth_order,First birth,%,42.4,OECD
+Switzerland,1988,births_by_birth_order,Second birth,%,35.0,OECD
+Switzerland,1988,births_by_birth_order,Third birth or higher,%,16.5,OECD
+Romania,1988,births_by_birth_order,First birth,%,37.8,OECD
+Romania,1988,births_by_birth_order,Second birth,%,28.8,OECD
+Romania,1988,births_by_birth_order,Third birth or higher,%,33.4,OECD
+Austria,1989,births_by_birth_order,First birth,%,46.7,OECD
+Austria,1989,births_by_birth_order,Second birth,%,34.3,OECD
+Austria,1989,births_by_birth_order,Third birth or higher,%,19.0,OECD
+Belgium,1989,births_by_birth_order,First birth,%,47.3,OECD
+Belgium,1989,births_by_birth_order,Second birth,%,32.7,OECD
+Belgium,1989,births_by_birth_order,Third birth or higher,%,19.9,OECD
+Czechia,1989,births_by_birth_order,First birth,%,47.4,OECD
+Czechia,1989,births_by_birth_order,Second birth,%,37.4,OECD
+Czechia,1989,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Estonia,1989,births_by_birth_order,First birth,%,44.0,OECD
+Estonia,1989,births_by_birth_order,Second birth,%,34.7,OECD
+Estonia,1989,births_by_birth_order,Third birth or higher,%,21.3,OECD
+Finland,1989,births_by_birth_order,First birth,%,39.8,OECD
+Finland,1989,births_by_birth_order,Second birth,%,34.6,OECD
+Finland,1989,births_by_birth_order,Third birth or higher,%,25.6,OECD
+Greece,1989,births_by_birth_order,First birth,%,44.4,OECD
+Greece,1989,births_by_birth_order,Second birth,%,39.2,OECD
+Greece,1989,births_by_birth_order,Third birth or higher,%,16.5,OECD
+Iceland,1989,births_by_birth_order,First birth,%,35.6,OECD
+Iceland,1989,births_by_birth_order,Second birth,%,32.3,OECD
+Iceland,1989,births_by_birth_order,Third birth or higher,%,32.1,OECD
+Latvia,1989,births_by_birth_order,First birth,%,46.8,OECD
+Latvia,1989,births_by_birth_order,Second birth,%,34.4,OECD
+Latvia,1989,births_by_birth_order,Third birth or higher,%,18.8,OECD
+Lithuania,1989,births_by_birth_order,First birth,%,48.3,OECD
+Lithuania,1989,births_by_birth_order,Second birth,%,36.5,OECD
+Lithuania,1989,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Luxembourg,1989,births_by_birth_order,First birth,%,40.1,OECD
+Luxembourg,1989,births_by_birth_order,Second birth,%,33.1,OECD
+Luxembourg,1989,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Netherlands,1989,births_by_birth_order,First birth,%,44.3,OECD
+Netherlands,1989,births_by_birth_order,Second birth,%,35.1,OECD
+Netherlands,1989,births_by_birth_order,Third birth or higher,%,20.6,OECD
+Norway,1989,births_by_birth_order,First birth,%,43.5,OECD
+Norway,1989,births_by_birth_order,Second birth,%,34.8,OECD
+Norway,1989,births_by_birth_order,Third birth or higher,%,21.7,OECD
+Poland,1989,births_by_birth_order,First birth,%,37.8,OECD
+Poland,1989,births_by_birth_order,Second birth,%,33.5,OECD
+Poland,1989,births_by_birth_order,Third birth or higher,%,28.7,OECD
+Slovenia,1989,births_by_birth_order,First birth,%,47.9,OECD
+Slovenia,1989,births_by_birth_order,Second birth,%,38.9,OECD
+Slovenia,1989,births_by_birth_order,Third birth or higher,%,13.2,OECD
+Spain,1989,births_by_birth_order,First birth,%,50.0,OECD
+Spain,1989,births_by_birth_order,Second birth,%,34.0,OECD
+Spain,1989,births_by_birth_order,Third birth or higher,%,16.1,OECD
+Switzerland,1989,births_by_birth_order,First birth,%,42.6,OECD
+Switzerland,1989,births_by_birth_order,Second birth,%,34.6,OECD
+Switzerland,1989,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Romania,1989,births_by_birth_order,First birth,%,39.2,OECD
+Romania,1989,births_by_birth_order,Second birth,%,28.8,OECD
+Romania,1989,births_by_birth_order,Third birth or higher,%,32.0,OECD
+Austria,1990,births_by_birth_order,First birth,%,46.2,OECD
+Austria,1990,births_by_birth_order,Second birth,%,34.9,OECD
+Austria,1990,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Belgium,1990,births_by_birth_order,First birth,%,47.3,OECD
+Belgium,1990,births_by_birth_order,Second birth,%,32.8,OECD
+Belgium,1990,births_by_birth_order,Third birth or higher,%,19.9,OECD
+Czechia,1990,births_by_birth_order,First birth,%,47.8,OECD
+Czechia,1990,births_by_birth_order,Second birth,%,37.2,OECD
+Czechia,1990,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Estonia,1990,births_by_birth_order,First birth,%,46.2,OECD
+Estonia,1990,births_by_birth_order,Second birth,%,32.8,OECD
+Estonia,1990,births_by_birth_order,Third birth or higher,%,21.0,OECD
+Finland,1990,births_by_birth_order,First birth,%,40.0,OECD
+Finland,1990,births_by_birth_order,Second birth,%,33.6,OECD
+Finland,1990,births_by_birth_order,Third birth or higher,%,26.5,OECD
+Greece,1990,births_by_birth_order,First birth,%,44.6,OECD
+Greece,1990,births_by_birth_order,Second birth,%,39.0,OECD
+Greece,1990,births_by_birth_order,Third birth or higher,%,16.4,OECD
+Iceland,1990,births_by_birth_order,First birth,%,36.1,OECD
+Iceland,1990,births_by_birth_order,Second birth,%,30.9,OECD
+Iceland,1990,births_by_birth_order,Third birth or higher,%,33.0,OECD
+Latvia,1990,births_by_birth_order,First birth,%,47.6,OECD
+Latvia,1990,births_by_birth_order,Second birth,%,32.8,OECD
+Latvia,1990,births_by_birth_order,Third birth or higher,%,19.6,OECD
+Lithuania,1990,births_by_birth_order,First birth,%,47.9,OECD
+Lithuania,1990,births_by_birth_order,Second birth,%,36.2,OECD
+Lithuania,1990,births_by_birth_order,Third birth or higher,%,15.9,OECD
+Luxembourg,1990,births_by_birth_order,First birth,%,39.4,OECD
+Luxembourg,1990,births_by_birth_order,Second birth,%,32.8,OECD
+Luxembourg,1990,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Netherlands,1990,births_by_birth_order,First birth,%,45.1,OECD
+Netherlands,1990,births_by_birth_order,Second birth,%,34.4,OECD
+Netherlands,1990,births_by_birth_order,Third birth or higher,%,20.5,OECD
+Norway,1990,births_by_birth_order,First birth,%,42.9,OECD
+Norway,1990,births_by_birth_order,Second birth,%,34.8,OECD
+Norway,1990,births_by_birth_order,Third birth or higher,%,22.2,OECD
+Poland,1990,births_by_birth_order,First birth,%,39.5,OECD
+Poland,1990,births_by_birth_order,Second birth,%,32.1,OECD
+Poland,1990,births_by_birth_order,Third birth or higher,%,28.4,OECD
+Slovenia,1990,births_by_birth_order,First birth,%,47.7,OECD
+Slovenia,1990,births_by_birth_order,Second birth,%,39.5,OECD
+Slovenia,1990,births_by_birth_order,Third birth or higher,%,12.8,OECD
+Spain,1990,births_by_birth_order,First birth,%,50.3,OECD
+Spain,1990,births_by_birth_order,Second birth,%,34.6,OECD
+Spain,1990,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Switzerland,1990,births_by_birth_order,First birth,%,42.2,OECD
+Switzerland,1990,births_by_birth_order,Second birth,%,34.4,OECD
+Switzerland,1990,births_by_birth_order,Third birth or higher,%,17.3,OECD
+Romania,1990,births_by_birth_order,First birth,%,43.5,OECD
+Romania,1990,births_by_birth_order,Second birth,%,29.0,OECD
+Romania,1990,births_by_birth_order,Third birth or higher,%,27.5,OECD
+Austria,1991,births_by_birth_order,First birth,%,46.5,OECD
+Austria,1991,births_by_birth_order,Second birth,%,34.5,OECD
+Austria,1991,births_by_birth_order,Third birth or higher,%,19.0,OECD
+Belgium,1991,births_by_birth_order,First birth,%,48.1,OECD
+Belgium,1991,births_by_birth_order,Second birth,%,32.3,OECD
+Belgium,1991,births_by_birth_order,Third birth or higher,%,19.6,OECD
+Czechia,1991,births_by_birth_order,First birth,%,50.1,OECD
+Czechia,1991,births_by_birth_order,Second birth,%,35.5,OECD
+Czechia,1991,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Estonia,1991,births_by_birth_order,First birth,%,49.5,OECD
+Estonia,1991,births_by_birth_order,Second birth,%,31.2,OECD
+Estonia,1991,births_by_birth_order,Third birth or higher,%,19.3,OECD
+Finland,1991,births_by_birth_order,First birth,%,40.7,OECD
+Finland,1991,births_by_birth_order,Second birth,%,33.5,OECD
+Finland,1991,births_by_birth_order,Third birth or higher,%,25.8,OECD
+Greece,1991,births_by_birth_order,First birth,%,45.4,OECD
+Greece,1991,births_by_birth_order,Second birth,%,37.6,OECD
+Greece,1991,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Iceland,1991,births_by_birth_order,First birth,%,35.9,OECD
+Iceland,1991,births_by_birth_order,Second birth,%,30.7,OECD
+Iceland,1991,births_by_birth_order,Third birth or higher,%,33.4,OECD
+Latvia,1991,births_by_birth_order,First birth,%,49.0,OECD
+Latvia,1991,births_by_birth_order,Second birth,%,31.8,OECD
+Latvia,1991,births_by_birth_order,Third birth or higher,%,19.2,OECD
+Lithuania,1991,births_by_birth_order,First birth,%,49.6,OECD
+Lithuania,1991,births_by_birth_order,Second birth,%,34.8,OECD
+Lithuania,1991,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Luxembourg,1991,births_by_birth_order,First birth,%,39.7,OECD
+Luxembourg,1991,births_by_birth_order,Second birth,%,33.7,OECD
+Luxembourg,1991,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Netherlands,1991,births_by_birth_order,First birth,%,45.3,OECD
+Netherlands,1991,births_by_birth_order,Second birth,%,34.7,OECD
+Netherlands,1991,births_by_birth_order,Third birth or higher,%,20.0,OECD
+Norway,1991,births_by_birth_order,First birth,%,42.9,OECD
+Norway,1991,births_by_birth_order,Second birth,%,34.4,OECD
+Norway,1991,births_by_birth_order,Third birth or higher,%,22.7,OECD
+Poland,1991,births_by_birth_order,First birth,%,39.7,OECD
+Poland,1991,births_by_birth_order,Second birth,%,31.2,OECD
+Poland,1991,births_by_birth_order,Third birth or higher,%,29.1,OECD
+Slovenia,1991,births_by_birth_order,First birth,%,47.3,OECD
+Slovenia,1991,births_by_birth_order,Second birth,%,39.4,OECD
+Slovenia,1991,births_by_birth_order,Third birth or higher,%,13.3,OECD
+Spain,1991,births_by_birth_order,First birth,%,51.3,OECD
+Spain,1991,births_by_birth_order,Second birth,%,34.7,OECD
+Spain,1991,births_by_birth_order,Third birth or higher,%,14.0,OECD
+Switzerland,1991,births_by_birth_order,First birth,%,42.6,OECD
+Switzerland,1991,births_by_birth_order,Second birth,%,34.1,OECD
+Switzerland,1991,births_by_birth_order,Third birth or higher,%,16.8,OECD
+Romania,1991,births_by_birth_order,First birth,%,51.8,OECD
+Romania,1991,births_by_birth_order,Second birth,%,27.3,OECD
+Romania,1991,births_by_birth_order,Third birth or higher,%,20.9,OECD
+Austria,1992,births_by_birth_order,First birth,%,46.1,OECD
+Austria,1992,births_by_birth_order,Second birth,%,34.8,OECD
+Austria,1992,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Belgium,1992,births_by_birth_order,First birth,%,47.2,OECD
+Belgium,1992,births_by_birth_order,Second birth,%,32.8,OECD
+Belgium,1992,births_by_birth_order,Third birth or higher,%,20.0,OECD
+Czechia,1992,births_by_birth_order,First birth,%,49.8,OECD
+Czechia,1992,births_by_birth_order,Second birth,%,35.8,OECD
+Czechia,1992,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Estonia,1992,births_by_birth_order,First birth,%,50.3,OECD
+Estonia,1992,births_by_birth_order,Second birth,%,30.8,OECD
+Estonia,1992,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Finland,1992,births_by_birth_order,First birth,%,39.6,OECD
+Finland,1992,births_by_birth_order,Second birth,%,34.0,OECD
+Finland,1992,births_by_birth_order,Third birth or higher,%,26.3,OECD
+Greece,1992,births_by_birth_order,First birth,%,46.6,OECD
+Greece,1992,births_by_birth_order,Second birth,%,36.5,OECD
+Greece,1992,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Iceland,1992,births_by_birth_order,First birth,%,36.5,OECD
+Iceland,1992,births_by_birth_order,Second birth,%,31.0,OECD
+Iceland,1992,births_by_birth_order,Third birth or higher,%,32.5,OECD
+Latvia,1992,births_by_birth_order,First birth,%,49.5,OECD
+Latvia,1992,births_by_birth_order,Second birth,%,31.8,OECD
+Latvia,1992,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Lithuania,1992,births_by_birth_order,First birth,%,49.8,OECD
+Lithuania,1992,births_by_birth_order,Second birth,%,34.3,OECD
+Lithuania,1992,births_by_birth_order,Third birth or higher,%,15.8,OECD
+Luxembourg,1992,births_by_birth_order,First birth,%,39.7,OECD
+Luxembourg,1992,births_by_birth_order,Second birth,%,32.6,OECD
+Luxembourg,1992,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Netherlands,1992,births_by_birth_order,First birth,%,44.3,OECD
+Netherlands,1992,births_by_birth_order,Second birth,%,35.4,OECD
+Netherlands,1992,births_by_birth_order,Third birth or higher,%,20.3,OECD
+Norway,1992,births_by_birth_order,First birth,%,42.0,OECD
+Norway,1992,births_by_birth_order,Second birth,%,35.3,OECD
+Norway,1992,births_by_birth_order,Third birth or higher,%,22.7,OECD
+Poland,1992,births_by_birth_order,First birth,%,39.5,OECD
+Poland,1992,births_by_birth_order,Second birth,%,31.1,OECD
+Poland,1992,births_by_birth_order,Third birth or higher,%,29.4,OECD
+Slovenia,1992,births_by_birth_order,First birth,%,49.3,OECD
+Slovenia,1992,births_by_birth_order,Second birth,%,37.9,OECD
+Slovenia,1992,births_by_birth_order,Third birth or higher,%,12.8,OECD
+Spain,1992,births_by_birth_order,First birth,%,51.9,OECD
+Spain,1992,births_by_birth_order,Second birth,%,34.8,OECD
+Spain,1992,births_by_birth_order,Third birth or higher,%,13.3,OECD
+Switzerland,1992,births_by_birth_order,First birth,%,42.1,OECD
+Switzerland,1992,births_by_birth_order,Second birth,%,34.7,OECD
+Switzerland,1992,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Romania,1992,births_by_birth_order,First birth,%,53.9,OECD
+Romania,1992,births_by_birth_order,Second birth,%,26.3,OECD
+Romania,1992,births_by_birth_order,Third birth or higher,%,19.8,OECD
+Austria,1993,births_by_birth_order,First birth,%,45.2,OECD
+Austria,1993,births_by_birth_order,Second birth,%,35.8,OECD
+Austria,1993,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Belgium,1993,births_by_birth_order,First birth,%,46.9,OECD
+Belgium,1993,births_by_birth_order,Second birth,%,33.5,OECD
+Belgium,1993,births_by_birth_order,Third birth or higher,%,19.6,OECD
+Czechia,1993,births_by_birth_order,First birth,%,48.5,OECD
+Czechia,1993,births_by_birth_order,Second birth,%,36.8,OECD
+Czechia,1993,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Estonia,1993,births_by_birth_order,First birth,%,49.6,OECD
+Estonia,1993,births_by_birth_order,Second birth,%,31.2,OECD
+Estonia,1993,births_by_birth_order,Third birth or higher,%,19.2,OECD
+Finland,1993,births_by_birth_order,First birth,%,39.5,OECD
+Finland,1993,births_by_birth_order,Second birth,%,34.4,OECD
+Finland,1993,births_by_birth_order,Third birth or higher,%,26.1,OECD
+Greece,1993,births_by_birth_order,First birth,%,45.5,OECD
+Greece,1993,births_by_birth_order,Second birth,%,37.1,OECD
+Greece,1993,births_by_birth_order,Third birth or higher,%,17.4,OECD
+Iceland,1993,births_by_birth_order,First birth,%,35.0,OECD
+Iceland,1993,births_by_birth_order,Second birth,%,32.9,OECD
+Iceland,1993,births_by_birth_order,Third birth or higher,%,32.2,OECD
+Latvia,1993,births_by_birth_order,First birth,%,50.6,OECD
+Latvia,1993,births_by_birth_order,Second birth,%,30.5,OECD
+Latvia,1993,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Lithuania,1993,births_by_birth_order,First birth,%,49.7,OECD
+Lithuania,1993,births_by_birth_order,Second birth,%,34.7,OECD
+Lithuania,1993,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Luxembourg,1993,births_by_birth_order,First birth,%,39.5,OECD
+Luxembourg,1993,births_by_birth_order,Second birth,%,32.4,OECD
+Luxembourg,1993,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Netherlands,1993,births_by_birth_order,First birth,%,44.4,OECD
+Netherlands,1993,births_by_birth_order,Second birth,%,35.9,OECD
+Netherlands,1993,births_by_birth_order,Third birth or higher,%,19.7,OECD
+Norway,1993,births_by_birth_order,First birth,%,41.2,OECD
+Norway,1993,births_by_birth_order,Second birth,%,35.8,OECD
+Norway,1993,births_by_birth_order,Third birth or higher,%,23.0,OECD
+Poland,1993,births_by_birth_order,First birth,%,38.8,OECD
+Poland,1993,births_by_birth_order,Second birth,%,30.7,OECD
+Poland,1993,births_by_birth_order,Third birth or higher,%,30.5,OECD
+Slovenia,1993,births_by_birth_order,First birth,%,47.4,OECD
+Slovenia,1993,births_by_birth_order,Second birth,%,39.1,OECD
+Slovenia,1993,births_by_birth_order,Third birth or higher,%,13.4,OECD
+Spain,1993,births_by_birth_order,First birth,%,52.1,OECD
+Spain,1993,births_by_birth_order,Second birth,%,35.1,OECD
+Spain,1993,births_by_birth_order,Third birth or higher,%,12.8,OECD
+Switzerland,1993,births_by_birth_order,First birth,%,42.2,OECD
+Switzerland,1993,births_by_birth_order,Second birth,%,34.6,OECD
+Switzerland,1993,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Romania,1993,births_by_birth_order,First birth,%,56.0,OECD
+Romania,1993,births_by_birth_order,Second birth,%,26.0,OECD
+Romania,1993,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Austria,1994,births_by_birth_order,First birth,%,44.5,OECD
+Austria,1994,births_by_birth_order,Second birth,%,36.4,OECD
+Austria,1994,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Belgium,1994,births_by_birth_order,First birth,%,47.2,OECD
+Belgium,1994,births_by_birth_order,Second birth,%,33.0,OECD
+Belgium,1994,births_by_birth_order,Third birth or higher,%,19.8,OECD
+Czechia,1994,births_by_birth_order,First birth,%,47.7,OECD
+Czechia,1994,births_by_birth_order,Second birth,%,36.9,OECD
+Czechia,1994,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Estonia,1994,births_by_birth_order,First birth,%,49.6,OECD
+Estonia,1994,births_by_birth_order,Second birth,%,31.3,OECD
+Estonia,1994,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Finland,1994,births_by_birth_order,First birth,%,38.2,OECD
+Finland,1994,births_by_birth_order,Second birth,%,35.0,OECD
+Finland,1994,births_by_birth_order,Third birth or higher,%,26.8,OECD
+Greece,1994,births_by_birth_order,First birth,%,45.3,OECD
+Greece,1994,births_by_birth_order,Second birth,%,37.1,OECD
+Greece,1994,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Iceland,1994,births_by_birth_order,First birth,%,35.9,OECD
+Iceland,1994,births_by_birth_order,Second birth,%,31.6,OECD
+Iceland,1994,births_by_birth_order,Third birth or higher,%,32.5,OECD
+Latvia,1994,births_by_birth_order,First birth,%,50.9,OECD
+Latvia,1994,births_by_birth_order,Second birth,%,30.9,OECD
+Latvia,1994,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Lithuania,1994,births_by_birth_order,First birth,%,50.4,OECD
+Lithuania,1994,births_by_birth_order,Second birth,%,34.3,OECD
+Lithuania,1994,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Luxembourg,1994,births_by_birth_order,First birth,%,37.8,OECD
+Luxembourg,1994,births_by_birth_order,Second birth,%,33.7,OECD
+Luxembourg,1994,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Netherlands,1994,births_by_birth_order,First birth,%,44.5,OECD
+Netherlands,1994,births_by_birth_order,Second birth,%,35.7,OECD
+Netherlands,1994,births_by_birth_order,Third birth or higher,%,19.8,OECD
+Norway,1994,births_by_birth_order,First birth,%,40.6,OECD
+Norway,1994,births_by_birth_order,Second birth,%,36.3,OECD
+Norway,1994,births_by_birth_order,Third birth or higher,%,23.1,OECD
+Poland,1994,births_by_birth_order,First birth,%,39.3,OECD
+Poland,1994,births_by_birth_order,Second birth,%,30.3,OECD
+Poland,1994,births_by_birth_order,Third birth or higher,%,30.5,OECD
+Slovenia,1994,births_by_birth_order,First birth,%,46.8,OECD
+Slovenia,1994,births_by_birth_order,Second birth,%,39.6,OECD
+Slovenia,1994,births_by_birth_order,Third birth or higher,%,13.6,OECD
+Spain,1994,births_by_birth_order,First birth,%,51.8,OECD
+Spain,1994,births_by_birth_order,Second birth,%,35.7,OECD
+Spain,1994,births_by_birth_order,Third birth or higher,%,12.6,OECD
+Switzerland,1994,births_by_birth_order,First birth,%,41.2,OECD
+Switzerland,1994,births_by_birth_order,Second birth,%,35.6,OECD
+Switzerland,1994,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Romania,1994,births_by_birth_order,First birth,%,54.5,OECD
+Romania,1994,births_by_birth_order,Second birth,%,27.2,OECD
+Romania,1994,births_by_birth_order,Third birth or higher,%,18.3,OECD
+Austria,1995,births_by_birth_order,First birth,%,44.5,OECD
+Austria,1995,births_by_birth_order,Second birth,%,36.4,OECD
+Austria,1995,births_by_birth_order,Third birth or higher,%,19.2,OECD
+Belgium,1995,births_by_birth_order,First birth,%,47.3,OECD
+Belgium,1995,births_by_birth_order,Second birth,%,33.1,OECD
+Belgium,1995,births_by_birth_order,Third birth or higher,%,19.7,OECD
+Czechia,1995,births_by_birth_order,First birth,%,46.3,OECD
+Czechia,1995,births_by_birth_order,Second birth,%,38.5,OECD
+Czechia,1995,births_by_birth_order,Third birth or higher,%,15.1,OECD
+Estonia,1995,births_by_birth_order,First birth,%,49.6,OECD
+Estonia,1995,births_by_birth_order,Second birth,%,31.9,OECD
+Estonia,1995,births_by_birth_order,Third birth or higher,%,18.4,OECD
+Finland,1995,births_by_birth_order,First birth,%,38.7,OECD
+Finland,1995,births_by_birth_order,Second birth,%,34.4,OECD
+Finland,1995,births_by_birth_order,Third birth or higher,%,26.9,OECD
+Greece,1995,births_by_birth_order,First birth,%,46.4,OECD
+Greece,1995,births_by_birth_order,Second birth,%,37.3,OECD
+Greece,1995,births_by_birth_order,Third birth or higher,%,16.4,OECD
+Iceland,1995,births_by_birth_order,First birth,%,37.0,OECD
+Iceland,1995,births_by_birth_order,Second birth,%,31.1,OECD
+Iceland,1995,births_by_birth_order,Third birth or higher,%,32.0,OECD
+Latvia,1995,births_by_birth_order,First birth,%,52.1,OECD
+Latvia,1995,births_by_birth_order,Second birth,%,30.0,OECD
+Latvia,1995,births_by_birth_order,Third birth or higher,%,17.9,OECD
+Lithuania,1995,births_by_birth_order,First birth,%,50.2,OECD
+Lithuania,1995,births_by_birth_order,Second birth,%,34.6,OECD
+Lithuania,1995,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Luxembourg,1995,births_by_birth_order,First birth,%,36.7,OECD
+Luxembourg,1995,births_by_birth_order,Second birth,%,33.0,OECD
+Luxembourg,1995,births_by_birth_order,Third birth or higher,%,17.1,OECD
+Netherlands,1995,births_by_birth_order,First birth,%,44.6,OECD
+Netherlands,1995,births_by_birth_order,Second birth,%,36.5,OECD
+Netherlands,1995,births_by_birth_order,Third birth or higher,%,18.8,OECD
+Norway,1995,births_by_birth_order,First birth,%,40.6,OECD
+Norway,1995,births_by_birth_order,Second birth,%,36.3,OECD
+Norway,1995,births_by_birth_order,Third birth or higher,%,23.1,OECD
+Poland,1995,births_by_birth_order,First birth,%,40.8,OECD
+Poland,1995,births_by_birth_order,Second birth,%,30.6,OECD
+Poland,1995,births_by_birth_order,Third birth or higher,%,28.6,OECD
+Slovenia,1995,births_by_birth_order,First birth,%,46.3,OECD
+Slovenia,1995,births_by_birth_order,Second birth,%,39.4,OECD
+Slovenia,1995,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Spain,1995,births_by_birth_order,First birth,%,51.2,OECD
+Spain,1995,births_by_birth_order,Second birth,%,36.5,OECD
+Spain,1995,births_by_birth_order,Third birth or higher,%,12.2,OECD
+Switzerland,1995,births_by_birth_order,First birth,%,41.1,OECD
+Switzerland,1995,births_by_birth_order,Second birth,%,35.4,OECD
+Switzerland,1995,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Romania,1995,births_by_birth_order,First birth,%,54.4,OECD
+Romania,1995,births_by_birth_order,Second birth,%,27.7,OECD
+Romania,1995,births_by_birth_order,Third birth or higher,%,17.9,OECD
+Austria,1996,births_by_birth_order,First birth,%,44.4,OECD
+Austria,1996,births_by_birth_order,Second birth,%,36.5,OECD
+Austria,1996,births_by_birth_order,Third birth or higher,%,19.0,OECD
+Belgium,1996,births_by_birth_order,First birth,%,46.9,OECD
+Belgium,1996,births_by_birth_order,Second birth,%,33.1,OECD
+Belgium,1996,births_by_birth_order,Third birth or higher,%,20.0,OECD
+Czechia,1996,births_by_birth_order,First birth,%,46.6,OECD
+Czechia,1996,births_by_birth_order,Second birth,%,38.5,OECD
+Czechia,1996,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Estonia,1996,births_by_birth_order,First birth,%,50.2,OECD
+Estonia,1996,births_by_birth_order,Second birth,%,30.9,OECD
+Estonia,1996,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Finland,1996,births_by_birth_order,First birth,%,39.2,OECD
+Finland,1996,births_by_birth_order,Second birth,%,34.1,OECD
+Finland,1996,births_by_birth_order,Third birth or higher,%,26.7,OECD
+Greece,1996,births_by_birth_order,First birth,%,46.7,OECD
+Greece,1996,births_by_birth_order,Second birth,%,36.8,OECD
+Greece,1996,births_by_birth_order,Third birth or higher,%,16.5,OECD
+Iceland,1996,births_by_birth_order,First birth,%,35.5,OECD
+Iceland,1996,births_by_birth_order,Second birth,%,34.3,OECD
+Iceland,1996,births_by_birth_order,Third birth or higher,%,30.2,OECD
+Latvia,1996,births_by_birth_order,First birth,%,51.9,OECD
+Latvia,1996,births_by_birth_order,Second birth,%,30.0,OECD
+Latvia,1996,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Lithuania,1996,births_by_birth_order,First birth,%,49.2,OECD
+Lithuania,1996,births_by_birth_order,Second birth,%,35.2,OECD
+Lithuania,1996,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Luxembourg,1996,births_by_birth_order,First birth,%,35.0,OECD
+Luxembourg,1996,births_by_birth_order,Second birth,%,33.6,OECD
+Luxembourg,1996,births_by_birth_order,Third birth or higher,%,16.5,OECD
+Netherlands,1996,births_by_birth_order,First birth,%,45.3,OECD
+Netherlands,1996,births_by_birth_order,Second birth,%,36.1,OECD
+Netherlands,1996,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Norway,1996,births_by_birth_order,First birth,%,41.2,OECD
+Norway,1996,births_by_birth_order,Second birth,%,34.5,OECD
+Norway,1996,births_by_birth_order,Third birth or higher,%,24.3,OECD
+Poland,1996,births_by_birth_order,First birth,%,42.1,OECD
+Poland,1996,births_by_birth_order,Second birth,%,30.7,OECD
+Poland,1996,births_by_birth_order,Third birth or higher,%,27.2,OECD
+Slovenia,1996,births_by_birth_order,First birth,%,46.7,OECD
+Slovenia,1996,births_by_birth_order,Second birth,%,39.2,OECD
+Slovenia,1996,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Spain,1996,births_by_birth_order,First birth,%,49.7,OECD
+Spain,1996,births_by_birth_order,Second birth,%,37.8,OECD
+Spain,1996,births_by_birth_order,Third birth or higher,%,12.4,OECD
+Switzerland,1996,births_by_birth_order,First birth,%,41.3,OECD
+Switzerland,1996,births_by_birth_order,Second birth,%,35.0,OECD
+Switzerland,1996,births_by_birth_order,Third birth or higher,%,16.4,OECD
+Romania,1996,births_by_birth_order,First birth,%,54.2,OECD
+Romania,1996,births_by_birth_order,Second birth,%,28.2,OECD
+Romania,1996,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Austria,1997,births_by_birth_order,First birth,%,45.1,OECD
+Austria,1997,births_by_birth_order,Second birth,%,35.8,OECD
+Austria,1997,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Belgium,1997,births_by_birth_order,First birth,%,46.9,OECD
+Belgium,1997,births_by_birth_order,Second birth,%,32.8,OECD
+Belgium,1997,births_by_birth_order,Third birth or higher,%,20.3,OECD
+Czechia,1997,births_by_birth_order,First birth,%,47.2,OECD
+Czechia,1997,births_by_birth_order,Second birth,%,38.1,OECD
+Czechia,1997,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Estonia,1997,births_by_birth_order,First birth,%,49.3,OECD
+Estonia,1997,births_by_birth_order,Second birth,%,32.4,OECD
+Estonia,1997,births_by_birth_order,Third birth or higher,%,18.4,OECD
+Finland,1997,births_by_birth_order,First birth,%,39.8,OECD
+Finland,1997,births_by_birth_order,Second birth,%,34.1,OECD
+Finland,1997,births_by_birth_order,Third birth or higher,%,26.1,OECD
+Greece,1997,births_by_birth_order,First birth,%,46.2,OECD
+Greece,1997,births_by_birth_order,Second birth,%,37.5,OECD
+Greece,1997,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Iceland,1997,births_by_birth_order,First birth,%,39.1,OECD
+Iceland,1997,births_by_birth_order,Second birth,%,31.8,OECD
+Iceland,1997,births_by_birth_order,Third birth or higher,%,29.1,OECD
+Latvia,1997,births_by_birth_order,First birth,%,51.6,OECD
+Latvia,1997,births_by_birth_order,Second birth,%,30.6,OECD
+Latvia,1997,births_by_birth_order,Third birth or higher,%,17.8,OECD
+Lithuania,1997,births_by_birth_order,First birth,%,48.3,OECD
+Lithuania,1997,births_by_birth_order,Second birth,%,35.4,OECD
+Lithuania,1997,births_by_birth_order,Third birth or higher,%,16.4,OECD
+Luxembourg,1997,births_by_birth_order,First birth,%,35.2,OECD
+Luxembourg,1997,births_by_birth_order,Second birth,%,31.5,OECD
+Luxembourg,1997,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Netherlands,1997,births_by_birth_order,First birth,%,46.4,OECD
+Netherlands,1997,births_by_birth_order,Second birth,%,35.4,OECD
+Netherlands,1997,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Norway,1997,births_by_birth_order,First birth,%,41.2,OECD
+Norway,1997,births_by_birth_order,Second birth,%,33.3,OECD
+Norway,1997,births_by_birth_order,Third birth or higher,%,25.4,OECD
+Poland,1997,births_by_birth_order,First birth,%,43.8,OECD
+Poland,1997,births_by_birth_order,Second birth,%,30.7,OECD
+Poland,1997,births_by_birth_order,Third birth or higher,%,25.5,OECD
+Slovenia,1997,births_by_birth_order,First birth,%,47.7,OECD
+Slovenia,1997,births_by_birth_order,Second birth,%,37.7,OECD
+Slovenia,1997,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Spain,1997,births_by_birth_order,First birth,%,50.9,OECD
+Spain,1997,births_by_birth_order,Second birth,%,37.4,OECD
+Spain,1997,births_by_birth_order,Third birth or higher,%,11.7,OECD
+Switzerland,1997,births_by_birth_order,First birth,%,40.7,OECD
+Switzerland,1997,births_by_birth_order,Second birth,%,35.0,OECD
+Switzerland,1997,births_by_birth_order,Third birth or higher,%,16.2,OECD
+Romania,1997,births_by_birth_order,First birth,%,53.8,OECD
+Romania,1997,births_by_birth_order,Second birth,%,28.6,OECD
+Romania,1997,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Austria,1998,births_by_birth_order,First birth,%,44.8,OECD
+Austria,1998,births_by_birth_order,Second birth,%,36.3,OECD
+Austria,1998,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Belgium,1998,births_by_birth_order,First birth,%,46.6,OECD
+Belgium,1998,births_by_birth_order,Second birth,%,32.0,OECD
+Belgium,1998,births_by_birth_order,Third birth or higher,%,21.4,OECD
+Czechia,1998,births_by_birth_order,First birth,%,47.6,OECD
+Czechia,1998,births_by_birth_order,Second birth,%,38.0,OECD
+Czechia,1998,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Estonia,1998,births_by_birth_order,First birth,%,50.2,OECD
+Estonia,1998,births_by_birth_order,Second birth,%,31.3,OECD
+Estonia,1998,births_by_birth_order,Third birth or higher,%,18.6,OECD
+Finland,1998,births_by_birth_order,First birth,%,39.8,OECD
+Finland,1998,births_by_birth_order,Second birth,%,33.8,OECD
+Finland,1998,births_by_birth_order,Third birth or higher,%,26.4,OECD
+Greece,1998,births_by_birth_order,First birth,%,47.0,OECD
+Greece,1998,births_by_birth_order,Second birth,%,37.7,OECD
+Greece,1998,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Iceland,1998,births_by_birth_order,First birth,%,38.3,OECD
+Iceland,1998,births_by_birth_order,Second birth,%,33.5,OECD
+Iceland,1998,births_by_birth_order,Third birth or higher,%,28.2,OECD
+Latvia,1998,births_by_birth_order,First birth,%,50.3,OECD
+Latvia,1998,births_by_birth_order,Second birth,%,31.2,OECD
+Latvia,1998,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Lithuania,1998,births_by_birth_order,First birth,%,46.5,OECD
+Lithuania,1998,births_by_birth_order,Second birth,%,35.9,OECD
+Lithuania,1998,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Luxembourg,1998,births_by_birth_order,First birth,%,33.9,OECD
+Luxembourg,1998,births_by_birth_order,Second birth,%,32.5,OECD
+Luxembourg,1998,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Netherlands,1998,births_by_birth_order,First birth,%,47.1,OECD
+Netherlands,1998,births_by_birth_order,Second birth,%,35.0,OECD
+Netherlands,1998,births_by_birth_order,Third birth or higher,%,17.9,OECD
+Norway,1998,births_by_birth_order,First birth,%,41.7,OECD
+Norway,1998,births_by_birth_order,Second birth,%,33.8,OECD
+Norway,1998,births_by_birth_order,Third birth or higher,%,24.5,OECD
+Poland,1998,births_by_birth_order,First birth,%,45.3,OECD
+Poland,1998,births_by_birth_order,Second birth,%,30.6,OECD
+Poland,1998,births_by_birth_order,Third birth or higher,%,24.1,OECD
+Slovenia,1998,births_by_birth_order,First birth,%,48.5,OECD
+Slovenia,1998,births_by_birth_order,Second birth,%,37.4,OECD
+Slovenia,1998,births_by_birth_order,Third birth or higher,%,14.2,OECD
+Spain,1998,births_by_birth_order,First birth,%,51.5,OECD
+Spain,1998,births_by_birth_order,Second birth,%,37.1,OECD
+Spain,1998,births_by_birth_order,Third birth or higher,%,11.4,OECD
+Switzerland,1998,births_by_birth_order,First birth,%,40.0,OECD
+Switzerland,1998,births_by_birth_order,Second birth,%,34.8,OECD
+Switzerland,1998,births_by_birth_order,Third birth or higher,%,16.1,OECD
+Romania,1998,births_by_birth_order,First birth,%,53.1,OECD
+Romania,1998,births_by_birth_order,Second birth,%,29.2,OECD
+Romania,1998,births_by_birth_order,Third birth or higher,%,17.7,OECD
+Austria,1999,births_by_birth_order,First birth,%,45.4,OECD
+Austria,1999,births_by_birth_order,Second birth,%,35.7,OECD
+Austria,1999,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Belgium,1999,births_by_birth_order,First birth,%,43.5,OECD
+Belgium,1999,births_by_birth_order,Second birth,%,34.5,OECD
+Belgium,1999,births_by_birth_order,Third birth or higher,%,22.0,OECD
+Czechia,1999,births_by_birth_order,First birth,%,48.1,OECD
+Czechia,1999,births_by_birth_order,Second birth,%,37.6,OECD
+Czechia,1999,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Estonia,1999,births_by_birth_order,First birth,%,49.4,OECD
+Estonia,1999,births_by_birth_order,Second birth,%,32.4,OECD
+Estonia,1999,births_by_birth_order,Third birth or higher,%,18.3,OECD
+Finland,1999,births_by_birth_order,First birth,%,40.3,OECD
+Finland,1999,births_by_birth_order,Second birth,%,33.1,OECD
+Finland,1999,births_by_birth_order,Third birth or higher,%,26.6,OECD
+Greece,1999,births_by_birth_order,First birth,%,47.2,OECD
+Greece,1999,births_by_birth_order,Second birth,%,37.7,OECD
+Greece,1999,births_by_birth_order,Third birth or higher,%,15.1,OECD
+Iceland,1999,births_by_birth_order,First birth,%,39.0,OECD
+Iceland,1999,births_by_birth_order,Second birth,%,33.3,OECD
+Iceland,1999,births_by_birth_order,Third birth or higher,%,27.7,OECD
+Latvia,1999,births_by_birth_order,First birth,%,50.0,OECD
+Latvia,1999,births_by_birth_order,Second birth,%,31.9,OECD
+Latvia,1999,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Lithuania,1999,births_by_birth_order,First birth,%,46.4,OECD
+Lithuania,1999,births_by_birth_order,Second birth,%,34.9,OECD
+Lithuania,1999,births_by_birth_order,Third birth or higher,%,18.6,OECD
+Luxembourg,1999,births_by_birth_order,First birth,%,33.8,OECD
+Luxembourg,1999,births_by_birth_order,Second birth,%,31.2,OECD
+Luxembourg,1999,births_by_birth_order,Third birth or higher,%,16.2,OECD
+Netherlands,1999,births_by_birth_order,First birth,%,46.8,OECD
+Netherlands,1999,births_by_birth_order,Second birth,%,35.6,OECD
+Netherlands,1999,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Norway,1999,births_by_birth_order,First birth,%,40.3,OECD
+Norway,1999,births_by_birth_order,Second birth,%,35.8,OECD
+Norway,1999,births_by_birth_order,Third birth or higher,%,23.9,OECD
+Poland,1999,births_by_birth_order,First birth,%,46.5,OECD
+Poland,1999,births_by_birth_order,Second birth,%,30.3,OECD
+Poland,1999,births_by_birth_order,Third birth or higher,%,23.2,OECD
+Slovenia,1999,births_by_birth_order,First birth,%,49.5,OECD
+Slovenia,1999,births_by_birth_order,Second birth,%,36.5,OECD
+Slovenia,1999,births_by_birth_order,Third birth or higher,%,14.0,OECD
+Spain,1999,births_by_birth_order,First birth,%,52.1,OECD
+Spain,1999,births_by_birth_order,Second birth,%,36.9,OECD
+Spain,1999,births_by_birth_order,Third birth or higher,%,11.0,OECD
+Switzerland,1999,births_by_birth_order,First birth,%,40.3,OECD
+Switzerland,1999,births_by_birth_order,Second birth,%,34.1,OECD
+Switzerland,1999,births_by_birth_order,Third birth or higher,%,25.6,OECD
+Romania,1999,births_by_birth_order,First birth,%,52.3,OECD
+Romania,1999,births_by_birth_order,Second birth,%,29.5,OECD
+Romania,1999,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Austria,2000,births_by_birth_order,First birth,%,45.5,OECD
+Austria,2000,births_by_birth_order,Second birth,%,36.0,OECD
+Austria,2000,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Belgium,2000,births_by_birth_order,First birth,%,45.9,OECD
+Belgium,2000,births_by_birth_order,Second birth,%,33.2,OECD
+Belgium,2000,births_by_birth_order,Third birth or higher,%,20.9,OECD
+Czechia,2000,births_by_birth_order,First birth,%,48.3,OECD
+Czechia,2000,births_by_birth_order,Second birth,%,37.3,OECD
+Czechia,2000,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Estonia,2000,births_by_birth_order,First birth,%,48.4,OECD
+Estonia,2000,births_by_birth_order,Second birth,%,32.1,OECD
+Estonia,2000,births_by_birth_order,Third birth or higher,%,19.5,OECD
+Finland,2000,births_by_birth_order,First birth,%,40.2,OECD
+Finland,2000,births_by_birth_order,Second birth,%,33.4,OECD
+Finland,2000,births_by_birth_order,Third birth or higher,%,26.4,OECD
+Greece,2000,births_by_birth_order,First birth,%,47.7,OECD
+Greece,2000,births_by_birth_order,Second birth,%,37.3,OECD
+Greece,2000,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Iceland,2000,births_by_birth_order,First birth,%,41.1,OECD
+Iceland,2000,births_by_birth_order,Second birth,%,32.0,OECD
+Iceland,2000,births_by_birth_order,Third birth or higher,%,26.9,OECD
+Latvia,2000,births_by_birth_order,First birth,%,49.7,OECD
+Latvia,2000,births_by_birth_order,Second birth,%,32.0,OECD
+Latvia,2000,births_by_birth_order,Third birth or higher,%,18.3,OECD
+Lithuania,2000,births_by_birth_order,First birth,%,46.8,OECD
+Lithuania,2000,births_by_birth_order,Second birth,%,34.2,OECD
+Lithuania,2000,births_by_birth_order,Third birth or higher,%,19.0,OECD
+Luxembourg,2000,births_by_birth_order,First birth,%,31.4,OECD
+Luxembourg,2000,births_by_birth_order,Second birth,%,31.2,OECD
+Luxembourg,2000,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Netherlands,2000,births_by_birth_order,First birth,%,46.4,OECD
+Netherlands,2000,births_by_birth_order,Second birth,%,35.8,OECD
+Netherlands,2000,births_by_birth_order,Third birth or higher,%,17.7,OECD
+Norway,2000,births_by_birth_order,First birth,%,40.3,OECD
+Norway,2000,births_by_birth_order,Second birth,%,35.9,OECD
+Norway,2000,births_by_birth_order,Third birth or higher,%,23.8,OECD
+Poland,2000,births_by_birth_order,First birth,%,47.8,OECD
+Poland,2000,births_by_birth_order,Second birth,%,30.4,OECD
+Poland,2000,births_by_birth_order,Third birth or higher,%,21.8,OECD
+Slovenia,2000,births_by_birth_order,First birth,%,50.2,OECD
+Slovenia,2000,births_by_birth_order,Second birth,%,36.0,OECD
+Slovenia,2000,births_by_birth_order,Third birth or higher,%,13.8,OECD
+Spain,2000,births_by_birth_order,First birth,%,53.0,OECD
+Spain,2000,births_by_birth_order,Second birth,%,36.3,OECD
+Spain,2000,births_by_birth_order,Third birth or higher,%,10.7,OECD
+Switzerland,2000,births_by_birth_order,First birth,%,40.0,OECD
+Switzerland,2000,births_by_birth_order,Second birth,%,33.9,OECD
+Switzerland,2000,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Romania,2000,births_by_birth_order,First birth,%,51.6,OECD
+Romania,2000,births_by_birth_order,Second birth,%,29.4,OECD
+Romania,2000,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Austria,2001,births_by_birth_order,First birth,%,46.0,OECD
+Austria,2001,births_by_birth_order,Second birth,%,35.4,OECD
+Austria,2001,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Belgium,2001,births_by_birth_order,First birth,%,45.6,OECD
+Belgium,2001,births_by_birth_order,Second birth,%,33.5,OECD
+Belgium,2001,births_by_birth_order,Third birth or higher,%,21.0,OECD
+Czechia,2001,births_by_birth_order,First birth,%,47.8,OECD
+Czechia,2001,births_by_birth_order,Second birth,%,37.7,OECD
+Czechia,2001,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Estonia,2001,births_by_birth_order,First birth,%,48.3,OECD
+Estonia,2001,births_by_birth_order,Second birth,%,32.5,OECD
+Estonia,2001,births_by_birth_order,Third birth or higher,%,19.2,OECD
+Finland,2001,births_by_birth_order,First birth,%,40.6,OECD
+Finland,2001,births_by_birth_order,Second birth,%,33.0,OECD
+Finland,2001,births_by_birth_order,Third birth or higher,%,26.4,OECD
+Greece,2001,births_by_birth_order,First birth,%,47.2,OECD
+Greece,2001,births_by_birth_order,Second birth,%,38.2,OECD
+Greece,2001,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Iceland,2001,births_by_birth_order,First birth,%,41.1,OECD
+Iceland,2001,births_by_birth_order,Second birth,%,32.2,OECD
+Iceland,2001,births_by_birth_order,Third birth or higher,%,26.7,OECD
+Latvia,2001,births_by_birth_order,First birth,%,50.6,OECD
+Latvia,2001,births_by_birth_order,Second birth,%,31.6,OECD
+Latvia,2001,births_by_birth_order,Third birth or higher,%,17.7,OECD
+Lithuania,2001,births_by_birth_order,First birth,%,47.0,OECD
+Lithuania,2001,births_by_birth_order,Second birth,%,34.3,OECD
+Lithuania,2001,births_by_birth_order,Third birth or higher,%,18.8,OECD
+Luxembourg,2001,births_by_birth_order,First birth,%,31.2,OECD
+Luxembourg,2001,births_by_birth_order,Second birth,%,31.0,OECD
+Luxembourg,2001,births_by_birth_order,Third birth or higher,%,15.1,OECD
+Netherlands,2001,births_by_birth_order,First birth,%,46.2,OECD
+Netherlands,2001,births_by_birth_order,Second birth,%,36.3,OECD
+Netherlands,2001,births_by_birth_order,Third birth or higher,%,17.5,OECD
+Norway,2001,births_by_birth_order,First birth,%,40.5,OECD
+Norway,2001,births_by_birth_order,Second birth,%,36.2,OECD
+Norway,2001,births_by_birth_order,Third birth or higher,%,23.3,OECD
+Poland,2001,births_by_birth_order,First birth,%,48.1,OECD
+Poland,2001,births_by_birth_order,Second birth,%,30.8,OECD
+Poland,2001,births_by_birth_order,Third birth or higher,%,21.1,OECD
+Slovenia,2001,births_by_birth_order,First birth,%,49.2,OECD
+Slovenia,2001,births_by_birth_order,Second birth,%,36.5,OECD
+Slovenia,2001,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Spain,2001,births_by_birth_order,First birth,%,54.3,OECD
+Spain,2001,births_by_birth_order,Second birth,%,35.7,OECD
+Spain,2001,births_by_birth_order,Third birth or higher,%,10.0,OECD
+Switzerland,2001,births_by_birth_order,First birth,%,41.0,OECD
+Switzerland,2001,births_by_birth_order,Second birth,%,34.3,OECD
+Switzerland,2001,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Romania,2001,births_by_birth_order,First birth,%,51.1,OECD
+Romania,2001,births_by_birth_order,Second birth,%,29.6,OECD
+Romania,2001,births_by_birth_order,Third birth or higher,%,19.3,OECD
+Austria,2002,births_by_birth_order,First birth,%,45.7,OECD
+Austria,2002,births_by_birth_order,Second birth,%,35.3,OECD
+Austria,2002,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Belgium,2002,births_by_birth_order,First birth,%,45.9,OECD
+Belgium,2002,births_by_birth_order,Second birth,%,33.7,OECD
+Belgium,2002,births_by_birth_order,Third birth or higher,%,20.4,OECD
+Czechia,2002,births_by_birth_order,First birth,%,48.2,OECD
+Czechia,2002,births_by_birth_order,Second birth,%,37.1,OECD
+Czechia,2002,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Estonia,2002,births_by_birth_order,First birth,%,48.2,OECD
+Estonia,2002,births_by_birth_order,Second birth,%,33.1,OECD
+Estonia,2002,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Finland,2002,births_by_birth_order,First birth,%,41.2,OECD
+Finland,2002,births_by_birth_order,Second birth,%,32.9,OECD
+Finland,2002,births_by_birth_order,Third birth or higher,%,25.9,OECD
+Greece,2002,births_by_birth_order,First birth,%,47.2,OECD
+Greece,2002,births_by_birth_order,Second birth,%,38.2,OECD
+Greece,2002,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Iceland,2002,births_by_birth_order,First birth,%,39.0,OECD
+Iceland,2002,births_by_birth_order,Second birth,%,35.6,OECD
+Iceland,2002,births_by_birth_order,Third birth or higher,%,25.4,OECD
+Latvia,2002,births_by_birth_order,First birth,%,50.2,OECD
+Latvia,2002,births_by_birth_order,Second birth,%,32.3,OECD
+Latvia,2002,births_by_birth_order,Third birth or higher,%,17.5,OECD
+Lithuania,2002,births_by_birth_order,First birth,%,48.5,OECD
+Lithuania,2002,births_by_birth_order,Second birth,%,33.8,OECD
+Lithuania,2002,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Luxembourg,2002,births_by_birth_order,First birth,%,32.0,OECD
+Luxembourg,2002,births_by_birth_order,Second birth,%,29.5,OECD
+Luxembourg,2002,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Netherlands,2002,births_by_birth_order,First birth,%,45.8,OECD
+Netherlands,2002,births_by_birth_order,Second birth,%,36.7,OECD
+Netherlands,2002,births_by_birth_order,Third birth or higher,%,17.5,OECD
+Norway,2002,births_by_birth_order,First birth,%,40.8,OECD
+Norway,2002,births_by_birth_order,Second birth,%,36.8,OECD
+Norway,2002,births_by_birth_order,Third birth or higher,%,22.5,OECD
+Poland,2002,births_by_birth_order,First birth,%,48.7,OECD
+Poland,2002,births_by_birth_order,Second birth,%,31.1,OECD
+Poland,2002,births_by_birth_order,Third birth or higher,%,20.3,OECD
+Slovenia,2002,births_by_birth_order,First birth,%,51.2,OECD
+Slovenia,2002,births_by_birth_order,Second birth,%,34.9,OECD
+Slovenia,2002,births_by_birth_order,Third birth or higher,%,13.9,OECD
+Spain,2002,births_by_birth_order,First birth,%,55.3,OECD
+Spain,2002,births_by_birth_order,Second birth,%,34.9,OECD
+Spain,2002,births_by_birth_order,Third birth or higher,%,9.8,OECD
+Switzerland,2002,births_by_birth_order,First birth,%,40.5,OECD
+Switzerland,2002,births_by_birth_order,Second birth,%,33.8,OECD
+Switzerland,2002,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Romania,2002,births_by_birth_order,First birth,%,50.7,OECD
+Romania,2002,births_by_birth_order,Second birth,%,30.1,OECD
+Romania,2002,births_by_birth_order,Third birth or higher,%,19.2,OECD
+Austria,2003,births_by_birth_order,First birth,%,45.8,OECD
+Austria,2003,births_by_birth_order,Second birth,%,35.1,OECD
+Austria,2003,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Belgium,2003,births_by_birth_order,First birth,%,45.9,OECD
+Belgium,2003,births_by_birth_order,Second birth,%,33.6,OECD
+Belgium,2003,births_by_birth_order,Third birth or higher,%,20.5,OECD
+Czechia,2003,births_by_birth_order,First birth,%,48.4,OECD
+Czechia,2003,births_by_birth_order,Second birth,%,37.2,OECD
+Czechia,2003,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Estonia,2003,births_by_birth_order,First birth,%,49.3,OECD
+Estonia,2003,births_by_birth_order,Second birth,%,32.6,OECD
+Estonia,2003,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Finland,2003,births_by_birth_order,First birth,%,41.9,OECD
+Finland,2003,births_by_birth_order,Second birth,%,32.8,OECD
+Finland,2003,births_by_birth_order,Third birth or higher,%,25.3,OECD
+Greece,2003,births_by_birth_order,First birth,%,47.6,OECD
+Greece,2003,births_by_birth_order,Second birth,%,38.0,OECD
+Greece,2003,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Iceland,2003,births_by_birth_order,First birth,%,40.2,OECD
+Iceland,2003,births_by_birth_order,Second birth,%,34.6,OECD
+Iceland,2003,births_by_birth_order,Third birth or higher,%,25.2,OECD
+Latvia,2003,births_by_birth_order,First birth,%,51.5,OECD
+Latvia,2003,births_by_birth_order,Second birth,%,31.3,OECD
+Latvia,2003,births_by_birth_order,Third birth or higher,%,17.2,OECD
+Lithuania,2003,births_by_birth_order,First birth,%,48.7,OECD
+Lithuania,2003,births_by_birth_order,Second birth,%,33.3,OECD
+Lithuania,2003,births_by_birth_order,Third birth or higher,%,18.0,OECD
+Luxembourg,2003,births_by_birth_order,First birth,%,31.0,OECD
+Luxembourg,2003,births_by_birth_order,Second birth,%,28.2,OECD
+Luxembourg,2003,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Netherlands,2003,births_by_birth_order,First birth,%,45.5,OECD
+Netherlands,2003,births_by_birth_order,Second birth,%,36.9,OECD
+Netherlands,2003,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Norway,2003,births_by_birth_order,First birth,%,41.2,OECD
+Norway,2003,births_by_birth_order,Second birth,%,36.2,OECD
+Norway,2003,births_by_birth_order,Third birth or higher,%,22.6,OECD
+Poland,2003,births_by_birth_order,First birth,%,50.3,OECD
+Poland,2003,births_by_birth_order,Second birth,%,30.9,OECD
+Poland,2003,births_by_birth_order,Third birth or higher,%,18.8,OECD
+Slovenia,2003,births_by_birth_order,First birth,%,50.1,OECD
+Slovenia,2003,births_by_birth_order,Second birth,%,36.3,OECD
+Slovenia,2003,births_by_birth_order,Third birth or higher,%,13.6,OECD
+Spain,2003,births_by_birth_order,First birth,%,55.5,OECD
+Spain,2003,births_by_birth_order,Second birth,%,34.9,OECD
+Spain,2003,births_by_birth_order,Third birth or higher,%,9.6,OECD
+Switzerland,2003,births_by_birth_order,First birth,%,40.8,OECD
+Switzerland,2003,births_by_birth_order,Second birth,%,32.9,OECD
+Switzerland,2003,births_by_birth_order,Third birth or higher,%,13.8,OECD
+Romania,2003,births_by_birth_order,First birth,%,50.8,OECD
+Romania,2003,births_by_birth_order,Second birth,%,30.1,OECD
+Romania,2003,births_by_birth_order,Third birth or higher,%,19.0,OECD
+Austria,2004,births_by_birth_order,First birth,%,46.1,OECD
+Austria,2004,births_by_birth_order,Second birth,%,35.0,OECD
+Austria,2004,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Belgium,2004,births_by_birth_order,First birth,%,45.9,OECD
+Belgium,2004,births_by_birth_order,Second birth,%,33.1,OECD
+Belgium,2004,births_by_birth_order,Third birth or higher,%,21.0,OECD
+Czechia,2004,births_by_birth_order,First birth,%,49.2,OECD
+Czechia,2004,births_by_birth_order,Second birth,%,36.5,OECD
+Czechia,2004,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Estonia,2004,births_by_birth_order,First birth,%,49.3,OECD
+Estonia,2004,births_by_birth_order,Second birth,%,32.3,OECD
+Estonia,2004,births_by_birth_order,Third birth or higher,%,18.3,OECD
+Finland,2004,births_by_birth_order,First birth,%,42.0,OECD
+Finland,2004,births_by_birth_order,Second birth,%,32.6,OECD
+Finland,2004,births_by_birth_order,Third birth or higher,%,25.5,OECD
+Greece,2004,births_by_birth_order,First birth,%,47.7,OECD
+Greece,2004,births_by_birth_order,Second birth,%,37.7,OECD
+Greece,2004,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Iceland,2004,births_by_birth_order,First birth,%,38.3,OECD
+Iceland,2004,births_by_birth_order,Second birth,%,36.1,OECD
+Iceland,2004,births_by_birth_order,Third birth or higher,%,25.6,OECD
+Latvia,2004,births_by_birth_order,First birth,%,52.7,OECD
+Latvia,2004,births_by_birth_order,Second birth,%,31.0,OECD
+Latvia,2004,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Lithuania,2004,births_by_birth_order,First birth,%,49.8,OECD
+Lithuania,2004,births_by_birth_order,Second birth,%,33.3,OECD
+Lithuania,2004,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Luxembourg,2004,births_by_birth_order,First birth,%,30.4,OECD
+Luxembourg,2004,births_by_birth_order,Second birth,%,28.7,OECD
+Luxembourg,2004,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Netherlands,2004,births_by_birth_order,First birth,%,45.6,OECD
+Netherlands,2004,births_by_birth_order,Second birth,%,36.8,OECD
+Netherlands,2004,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Norway,2004,births_by_birth_order,First birth,%,41.8,OECD
+Norway,2004,births_by_birth_order,Second birth,%,35.9,OECD
+Norway,2004,births_by_birth_order,Third birth or higher,%,22.3,OECD
+Poland,2004,births_by_birth_order,First birth,%,50.7,OECD
+Poland,2004,births_by_birth_order,Second birth,%,31.4,OECD
+Poland,2004,births_by_birth_order,Third birth or higher,%,17.8,OECD
+Slovenia,2004,births_by_birth_order,First birth,%,49.9,OECD
+Slovenia,2004,births_by_birth_order,Second birth,%,35.8,OECD
+Slovenia,2004,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Spain,2004,births_by_birth_order,First birth,%,55.7,OECD
+Spain,2004,births_by_birth_order,Second birth,%,34.8,OECD
+Spain,2004,births_by_birth_order,Third birth or higher,%,9.5,OECD
+Switzerland,2004,births_by_birth_order,First birth,%,40.9,OECD
+Switzerland,2004,births_by_birth_order,Second birth,%,32.6,OECD
+Switzerland,2004,births_by_birth_order,Third birth or higher,%,13.2,OECD
+Romania,2004,births_by_birth_order,First birth,%,52.4,OECD
+Romania,2004,births_by_birth_order,Second birth,%,29.4,OECD
+Romania,2004,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Austria,2005,births_by_birth_order,First birth,%,46.3,OECD
+Austria,2005,births_by_birth_order,Second birth,%,34.8,OECD
+Austria,2005,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Belgium,2005,births_by_birth_order,First birth,%,45.6,OECD
+Belgium,2005,births_by_birth_order,Second birth,%,33.7,OECD
+Belgium,2005,births_by_birth_order,Third birth or higher,%,20.7,OECD
+Czechia,2005,births_by_birth_order,First birth,%,48.8,OECD
+Czechia,2005,births_by_birth_order,Second birth,%,37.2,OECD
+Czechia,2005,births_by_birth_order,Third birth or higher,%,14.0,OECD
+Estonia,2005,births_by_birth_order,First birth,%,48.4,OECD
+Estonia,2005,births_by_birth_order,Second birth,%,33.6,OECD
+Estonia,2005,births_by_birth_order,Third birth or higher,%,18.0,OECD
+Finland,2005,births_by_birth_order,First birth,%,42.2,OECD
+Finland,2005,births_by_birth_order,Second birth,%,32.8,OECD
+Finland,2005,births_by_birth_order,Third birth or higher,%,25.0,OECD
+Greece,2005,births_by_birth_order,First birth,%,47.0,OECD
+Greece,2005,births_by_birth_order,Second birth,%,38.5,OECD
+Greece,2005,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Iceland,2005,births_by_birth_order,First birth,%,38.9,OECD
+Iceland,2005,births_by_birth_order,Second birth,%,36.0,OECD
+Iceland,2005,births_by_birth_order,Third birth or higher,%,25.1,OECD
+Latvia,2005,births_by_birth_order,First birth,%,51.5,OECD
+Latvia,2005,births_by_birth_order,Second birth,%,31.8,OECD
+Latvia,2005,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Lithuania,2005,births_by_birth_order,First birth,%,48.9,OECD
+Lithuania,2005,births_by_birth_order,Second birth,%,34.1,OECD
+Lithuania,2005,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Luxembourg,2005,births_by_birth_order,First birth,%,31.0,OECD
+Luxembourg,2005,births_by_birth_order,Second birth,%,28.0,OECD
+Luxembourg,2005,births_by_birth_order,Third birth or higher,%,13.3,OECD
+Netherlands,2005,births_by_birth_order,First birth,%,45.2,OECD
+Netherlands,2005,births_by_birth_order,Second birth,%,37.1,OECD
+Netherlands,2005,births_by_birth_order,Third birth or higher,%,17.7,OECD
+Norway,2005,births_by_birth_order,First birth,%,41.6,OECD
+Norway,2005,births_by_birth_order,Second birth,%,36.3,OECD
+Norway,2005,births_by_birth_order,Third birth or higher,%,22.1,OECD
+Poland,2005,births_by_birth_order,First birth,%,51.2,OECD
+Poland,2005,births_by_birth_order,Second birth,%,32.1,OECD
+Poland,2005,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Slovenia,2005,births_by_birth_order,First birth,%,50.4,OECD
+Slovenia,2005,births_by_birth_order,Second birth,%,35.7,OECD
+Slovenia,2005,births_by_birth_order,Third birth or higher,%,13.8,OECD
+Spain,2005,births_by_birth_order,First birth,%,55.8,OECD
+Spain,2005,births_by_birth_order,Second birth,%,34.8,OECD
+Spain,2005,births_by_birth_order,Third birth or higher,%,9.4,OECD
+Switzerland,2005,births_by_birth_order,First birth,%,41.3,OECD
+Switzerland,2005,births_by_birth_order,Second birth,%,31.9,OECD
+Switzerland,2005,births_by_birth_order,Third birth or higher,%,13.0,OECD
+Romania,2005,births_by_birth_order,First birth,%,52.0,OECD
+Romania,2005,births_by_birth_order,Second birth,%,30.6,OECD
+Romania,2005,births_by_birth_order,Third birth or higher,%,17.3,OECD
+Austria,2006,births_by_birth_order,First birth,%,46.6,OECD
+Austria,2006,births_by_birth_order,Second birth,%,34.8,OECD
+Austria,2006,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Belgium,2006,births_by_birth_order,First birth,%,45.4,OECD
+Belgium,2006,births_by_birth_order,Second birth,%,34.2,OECD
+Belgium,2006,births_by_birth_order,Third birth or higher,%,20.4,OECD
+Czechia,2006,births_by_birth_order,First birth,%,49.0,OECD
+Czechia,2006,births_by_birth_order,Second birth,%,36.9,OECD
+Czechia,2006,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Estonia,2006,births_by_birth_order,First birth,%,48.2,OECD
+Estonia,2006,births_by_birth_order,Second birth,%,34.4,OECD
+Estonia,2006,births_by_birth_order,Third birth or higher,%,17.4,OECD
+Finland,2006,births_by_birth_order,First birth,%,42.1,OECD
+Finland,2006,births_by_birth_order,Second birth,%,33.2,OECD
+Finland,2006,births_by_birth_order,Third birth or higher,%,24.7,OECD
+Greece,2006,births_by_birth_order,First birth,%,47.6,OECD
+Greece,2006,births_by_birth_order,Second birth,%,37.8,OECD
+Greece,2006,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Iceland,2006,births_by_birth_order,First birth,%,40.4,OECD
+Iceland,2006,births_by_birth_order,Second birth,%,34.8,OECD
+Iceland,2006,births_by_birth_order,Third birth or higher,%,24.8,OECD
+Latvia,2006,births_by_birth_order,First birth,%,52.2,OECD
+Latvia,2006,births_by_birth_order,Second birth,%,31.8,OECD
+Latvia,2006,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Lithuania,2006,births_by_birth_order,First birth,%,50.5,OECD
+Lithuania,2006,births_by_birth_order,Second birth,%,34.0,OECD
+Lithuania,2006,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Luxembourg,2006,births_by_birth_order,First birth,%,50.3,OECD
+Luxembourg,2006,births_by_birth_order,Second birth,%,33.9,OECD
+Luxembourg,2006,births_by_birth_order,Third birth or higher,%,15.8,OECD
+Netherlands,2006,births_by_birth_order,First birth,%,44.8,OECD
+Netherlands,2006,births_by_birth_order,Second birth,%,37.4,OECD
+Netherlands,2006,births_by_birth_order,Third birth or higher,%,17.9,OECD
+Norway,2006,births_by_birth_order,First birth,%,42.3,OECD
+Norway,2006,births_by_birth_order,Second birth,%,36.5,OECD
+Norway,2006,births_by_birth_order,Third birth or higher,%,21.2,OECD
+Poland,2006,births_by_birth_order,First birth,%,51.3,OECD
+Poland,2006,births_by_birth_order,Second birth,%,32.7,OECD
+Poland,2006,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Slovenia,2006,births_by_birth_order,First birth,%,49.6,OECD
+Slovenia,2006,births_by_birth_order,Second birth,%,35.8,OECD
+Slovenia,2006,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Spain,2006,births_by_birth_order,First birth,%,55.7,OECD
+Spain,2006,births_by_birth_order,Second birth,%,34.9,OECD
+Spain,2006,births_by_birth_order,Third birth or higher,%,9.4,OECD
+Switzerland,2006,births_by_birth_order,First birth,%,49.9,OECD
+Switzerland,2006,births_by_birth_order,Second birth,%,35.4,OECD
+Switzerland,2006,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Romania,2006,births_by_birth_order,First birth,%,53.3,OECD
+Romania,2006,births_by_birth_order,Second birth,%,29.9,OECD
+Romania,2006,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Austria,2007,births_by_birth_order,First birth,%,46.2,OECD
+Austria,2007,births_by_birth_order,Second birth,%,35.1,OECD
+Austria,2007,births_by_birth_order,Third birth or higher,%,18.7,OECD
+Belgium,2007,births_by_birth_order,First birth,%,45.5,OECD
+Belgium,2007,births_by_birth_order,Second birth,%,34.1,OECD
+Belgium,2007,births_by_birth_order,Third birth or higher,%,20.4,OECD
+Czechia,2007,births_by_birth_order,First birth,%,47.2,OECD
+Czechia,2007,births_by_birth_order,Second birth,%,37.9,OECD
+Czechia,2007,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Estonia,2007,births_by_birth_order,First birth,%,47.7,OECD
+Estonia,2007,births_by_birth_order,Second birth,%,34.3,OECD
+Estonia,2007,births_by_birth_order,Third birth or higher,%,18.0,OECD
+Finland,2007,births_by_birth_order,First birth,%,41.9,OECD
+Finland,2007,births_by_birth_order,Second birth,%,33.3,OECD
+Finland,2007,births_by_birth_order,Third birth or higher,%,24.8,OECD
+Greece,2007,births_by_birth_order,First birth,%,47.3,OECD
+Greece,2007,births_by_birth_order,Second birth,%,38.2,OECD
+Greece,2007,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Iceland,2007,births_by_birth_order,First birth,%,40.3,OECD
+Iceland,2007,births_by_birth_order,Second birth,%,35.0,OECD
+Iceland,2007,births_by_birth_order,Third birth or higher,%,24.8,OECD
+Latvia,2007,births_by_birth_order,First birth,%,52.6,OECD
+Latvia,2007,births_by_birth_order,Second birth,%,32.6,OECD
+Latvia,2007,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Lithuania,2007,births_by_birth_order,First birth,%,51.5,OECD
+Lithuania,2007,births_by_birth_order,Second birth,%,33.6,OECD
+Lithuania,2007,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Luxembourg,2007,births_by_birth_order,First birth,%,50.3,OECD
+Luxembourg,2007,births_by_birth_order,Second birth,%,34.3,OECD
+Luxembourg,2007,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Netherlands,2007,births_by_birth_order,First birth,%,45.2,OECD
+Netherlands,2007,births_by_birth_order,Second birth,%,36.9,OECD
+Netherlands,2007,births_by_birth_order,Third birth or higher,%,18.0,OECD
+Norway,2007,births_by_birth_order,First birth,%,42.2,OECD
+Norway,2007,births_by_birth_order,Second birth,%,36.3,OECD
+Norway,2007,births_by_birth_order,Third birth or higher,%,21.6,OECD
+Poland,2007,births_by_birth_order,First birth,%,50.8,OECD
+Poland,2007,births_by_birth_order,Second birth,%,33.5,OECD
+Poland,2007,births_by_birth_order,Third birth or higher,%,15.7,OECD
+Slovenia,2007,births_by_birth_order,First birth,%,48.7,OECD
+Slovenia,2007,births_by_birth_order,Second birth,%,36.5,OECD
+Slovenia,2007,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Spain,2007,births_by_birth_order,First birth,%,57.4,OECD
+Spain,2007,births_by_birth_order,Second birth,%,32.5,OECD
+Spain,2007,births_by_birth_order,Third birth or higher,%,10.0,OECD
+Switzerland,2007,births_by_birth_order,First birth,%,49.2,OECD
+Switzerland,2007,births_by_birth_order,Second birth,%,36.3,OECD
+Switzerland,2007,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Romania,2007,births_by_birth_order,First birth,%,52.4,OECD
+Romania,2007,births_by_birth_order,Second birth,%,30.4,OECD
+Romania,2007,births_by_birth_order,Third birth or higher,%,17.2,OECD
+Austria,2008,births_by_birth_order,First birth,%,46.8,OECD
+Austria,2008,births_by_birth_order,Second birth,%,35.0,OECD
+Austria,2008,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Belgium,2008,births_by_birth_order,First birth,%,45.1,OECD
+Belgium,2008,births_by_birth_order,Second birth,%,34.3,OECD
+Belgium,2008,births_by_birth_order,Third birth or higher,%,20.6,OECD
+Czechia,2008,births_by_birth_order,First birth,%,47.6,OECD
+Czechia,2008,births_by_birth_order,Second birth,%,37.9,OECD
+Czechia,2008,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Estonia,2008,births_by_birth_order,First birth,%,47.5,OECD
+Estonia,2008,births_by_birth_order,Second birth,%,34.5,OECD
+Estonia,2008,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Finland,2008,births_by_birth_order,First birth,%,41.8,OECD
+Finland,2008,births_by_birth_order,Second birth,%,33.5,OECD
+Finland,2008,births_by_birth_order,Third birth or higher,%,24.7,OECD
+Greece,2008,births_by_birth_order,First birth,%,47.3,OECD
+Greece,2008,births_by_birth_order,Second birth,%,37.6,OECD
+Greece,2008,births_by_birth_order,Third birth or higher,%,15.1,OECD
+Iceland,2008,births_by_birth_order,First birth,%,40.0,OECD
+Iceland,2008,births_by_birth_order,Second birth,%,34.9,OECD
+Iceland,2008,births_by_birth_order,Third birth or higher,%,25.1,OECD
+Latvia,2008,births_by_birth_order,First birth,%,51.6,OECD
+Latvia,2008,births_by_birth_order,Second birth,%,33.2,OECD
+Latvia,2008,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Lithuania,2008,births_by_birth_order,First birth,%,51.0,OECD
+Lithuania,2008,births_by_birth_order,Second birth,%,34.8,OECD
+Lithuania,2008,births_by_birth_order,Third birth or higher,%,14.2,OECD
+Luxembourg,2008,births_by_birth_order,First birth,%,49.4,OECD
+Luxembourg,2008,births_by_birth_order,Second birth,%,34.4,OECD
+Luxembourg,2008,births_by_birth_order,Third birth or higher,%,16.2,OECD
+Netherlands,2008,births_by_birth_order,First birth,%,45.1,OECD
+Netherlands,2008,births_by_birth_order,Second birth,%,36.9,OECD
+Netherlands,2008,births_by_birth_order,Third birth or higher,%,18.0,OECD
+Norway,2008,births_by_birth_order,First birth,%,43.5,OECD
+Norway,2008,births_by_birth_order,Second birth,%,35.4,OECD
+Norway,2008,births_by_birth_order,Third birth or higher,%,21.2,OECD
+Poland,2008,births_by_birth_order,First birth,%,50.8,OECD
+Poland,2008,births_by_birth_order,Second birth,%,34.3,OECD
+Poland,2008,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Slovenia,2008,births_by_birth_order,First birth,%,49.5,OECD
+Slovenia,2008,births_by_birth_order,Second birth,%,36.3,OECD
+Slovenia,2008,births_by_birth_order,Third birth or higher,%,14.2,OECD
+Spain,2008,births_by_birth_order,First birth,%,53.3,OECD
+Spain,2008,births_by_birth_order,Second birth,%,36.4,OECD
+Spain,2008,births_by_birth_order,Third birth or higher,%,10.3,OECD
+Switzerland,2008,births_by_birth_order,First birth,%,48.8,OECD
+Switzerland,2008,births_by_birth_order,Second birth,%,36.3,OECD
+Switzerland,2008,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Romania,2008,births_by_birth_order,First birth,%,53.4,OECD
+Romania,2008,births_by_birth_order,Second birth,%,29.7,OECD
+Romania,2008,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Austria,2009,births_by_birth_order,First birth,%,47.1,OECD
+Austria,2009,births_by_birth_order,Second birth,%,34.7,OECD
+Austria,2009,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Belgium,2009,births_by_birth_order,First birth,%,47.8,OECD
+Belgium,2009,births_by_birth_order,Second birth,%,32.6,OECD
+Belgium,2009,births_by_birth_order,Third birth or higher,%,19.6,OECD
+Czechia,2009,births_by_birth_order,First birth,%,47.4,OECD
+Czechia,2009,births_by_birth_order,Second birth,%,38.2,OECD
+Czechia,2009,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Estonia,2009,births_by_birth_order,First birth,%,45.7,OECD
+Estonia,2009,births_by_birth_order,Second birth,%,35.2,OECD
+Estonia,2009,births_by_birth_order,Third birth or higher,%,19.0,OECD
+Finland,2009,births_by_birth_order,First birth,%,42.1,OECD
+Finland,2009,births_by_birth_order,Second birth,%,33.5,OECD
+Finland,2009,births_by_birth_order,Third birth or higher,%,24.5,OECD
+Greece,2009,births_by_birth_order,First birth,%,46.9,OECD
+Greece,2009,births_by_birth_order,Second birth,%,37.6,OECD
+Greece,2009,births_by_birth_order,Third birth or higher,%,15.5,OECD
+Iceland,2009,births_by_birth_order,First birth,%,39.9,OECD
+Iceland,2009,births_by_birth_order,Second birth,%,33.9,OECD
+Iceland,2009,births_by_birth_order,Third birth or higher,%,26.2,OECD
+Latvia,2009,births_by_birth_order,First birth,%,49.8,OECD
+Latvia,2009,births_by_birth_order,Second birth,%,34.0,OECD
+Latvia,2009,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Lithuania,2009,births_by_birth_order,First birth,%,49.3,OECD
+Lithuania,2009,births_by_birth_order,Second birth,%,35.9,OECD
+Lithuania,2009,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Luxembourg,2009,births_by_birth_order,First birth,%,50.4,OECD
+Luxembourg,2009,births_by_birth_order,Second birth,%,33.6,OECD
+Luxembourg,2009,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Netherlands,2009,births_by_birth_order,First birth,%,46.1,OECD
+Netherlands,2009,births_by_birth_order,Second birth,%,36.1,OECD
+Netherlands,2009,births_by_birth_order,Third birth or higher,%,17.8,OECD
+Norway,2009,births_by_birth_order,First birth,%,43.3,OECD
+Norway,2009,births_by_birth_order,Second birth,%,35.9,OECD
+Norway,2009,births_by_birth_order,Third birth or higher,%,20.8,OECD
+Poland,2009,births_by_birth_order,First birth,%,51.0,OECD
+Poland,2009,births_by_birth_order,Second birth,%,34.4,OECD
+Poland,2009,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Slovenia,2009,births_by_birth_order,First birth,%,49.1,OECD
+Slovenia,2009,births_by_birth_order,Second birth,%,36.4,OECD
+Slovenia,2009,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Spain,2009,births_by_birth_order,First birth,%,53.5,OECD
+Spain,2009,births_by_birth_order,Second birth,%,36.1,OECD
+Spain,2009,births_by_birth_order,Third birth or higher,%,10.5,OECD
+Switzerland,2009,births_by_birth_order,First birth,%,48.9,OECD
+Switzerland,2009,births_by_birth_order,Second birth,%,36.3,OECD
+Switzerland,2009,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Romania,2009,births_by_birth_order,First birth,%,53.0,OECD
+Romania,2009,births_by_birth_order,Second birth,%,30.3,OECD
+Romania,2009,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Austria,2010,births_by_birth_order,First birth,%,47.3,OECD
+Austria,2010,births_by_birth_order,Second birth,%,35.2,OECD
+Austria,2010,births_by_birth_order,Third birth or higher,%,17.5,OECD
+Belgium,2010,births_by_birth_order,First birth,%,44.6,OECD
+Belgium,2010,births_by_birth_order,Second birth,%,33.9,OECD
+Belgium,2010,births_by_birth_order,Third birth or higher,%,21.6,OECD
+Czechia,2010,births_by_birth_order,First birth,%,46.4,OECD
+Czechia,2010,births_by_birth_order,Second birth,%,38.9,OECD
+Czechia,2010,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Estonia,2010,births_by_birth_order,First birth,%,42.2,OECD
+Estonia,2010,births_by_birth_order,Second birth,%,37.5,OECD
+Estonia,2010,births_by_birth_order,Third birth or higher,%,20.3,OECD
+Finland,2010,births_by_birth_order,First birth,%,41.9,OECD
+Finland,2010,births_by_birth_order,Second birth,%,33.7,OECD
+Finland,2010,births_by_birth_order,Third birth or higher,%,24.4,OECD
+Greece,2010,births_by_birth_order,First birth,%,48.2,OECD
+Greece,2010,births_by_birth_order,Second birth,%,36.6,OECD
+Greece,2010,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Iceland,2010,births_by_birth_order,First birth,%,38.9,OECD
+Iceland,2010,births_by_birth_order,Second birth,%,33.3,OECD
+Iceland,2010,births_by_birth_order,Third birth or higher,%,27.8,OECD
+Latvia,2010,births_by_birth_order,First birth,%,48.7,OECD
+Latvia,2010,births_by_birth_order,Second birth,%,34.5,OECD
+Latvia,2010,births_by_birth_order,Third birth or higher,%,16.8,OECD
+Lithuania,2010,births_by_birth_order,First birth,%,46.6,OECD
+Lithuania,2010,births_by_birth_order,Second birth,%,38.1,OECD
+Lithuania,2010,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Luxembourg,2010,births_by_birth_order,First birth,%,51.6,OECD
+Luxembourg,2010,births_by_birth_order,Second birth,%,33.1,OECD
+Luxembourg,2010,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Netherlands,2010,births_by_birth_order,First birth,%,46.3,OECD
+Netherlands,2010,births_by_birth_order,Second birth,%,36.0,OECD
+Netherlands,2010,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Norway,2010,births_by_birth_order,First birth,%,43.6,OECD
+Norway,2010,births_by_birth_order,Second birth,%,35.9,OECD
+Norway,2010,births_by_birth_order,Third birth or higher,%,20.5,OECD
+Poland,2010,births_by_birth_order,First birth,%,50.1,OECD
+Poland,2010,births_by_birth_order,Second birth,%,35.1,OECD
+Poland,2010,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Slovenia,2010,births_by_birth_order,First birth,%,49.2,OECD
+Slovenia,2010,births_by_birth_order,Second birth,%,36.7,OECD
+Slovenia,2010,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Spain,2010,births_by_birth_order,First birth,%,52.6,OECD
+Spain,2010,births_by_birth_order,Second birth,%,36.8,OECD
+Spain,2010,births_by_birth_order,Third birth or higher,%,10.7,OECD
+Switzerland,2010,births_by_birth_order,First birth,%,49.3,OECD
+Switzerland,2010,births_by_birth_order,Second birth,%,36.2,OECD
+Switzerland,2010,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Romania,2010,births_by_birth_order,First birth,%,52.4,OECD
+Romania,2010,births_by_birth_order,Second birth,%,30.6,OECD
+Romania,2010,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Austria,2011,births_by_birth_order,First birth,%,48.0,OECD
+Austria,2011,births_by_birth_order,Second birth,%,34.8,OECD
+Austria,2011,births_by_birth_order,Third birth or higher,%,17.3,OECD
+Belgium,2011,births_by_birth_order,First birth,%,44.1,OECD
+Belgium,2011,births_by_birth_order,Second birth,%,34.4,OECD
+Belgium,2011,births_by_birth_order,Third birth or higher,%,21.5,OECD
+Czechia,2011,births_by_birth_order,First birth,%,46.9,OECD
+Czechia,2011,births_by_birth_order,Second birth,%,38.8,OECD
+Czechia,2011,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Estonia,2011,births_by_birth_order,First birth,%,40.2,OECD
+Estonia,2011,births_by_birth_order,Second birth,%,38.7,OECD
+Estonia,2011,births_by_birth_order,Third birth or higher,%,21.2,OECD
+Finland,2011,births_by_birth_order,First birth,%,41.0,OECD
+Finland,2011,births_by_birth_order,Second birth,%,34.0,OECD
+Finland,2011,births_by_birth_order,Third birth or higher,%,25.0,OECD
+Greece,2011,births_by_birth_order,First birth,%,50.4,OECD
+Greece,2011,births_by_birth_order,Second birth,%,35.8,OECD
+Greece,2011,births_by_birth_order,Third birth or higher,%,13.8,OECD
+Iceland,2011,births_by_birth_order,First birth,%,38.1,OECD
+Iceland,2011,births_by_birth_order,Second birth,%,34.9,OECD
+Iceland,2011,births_by_birth_order,Third birth or higher,%,27.0,OECD
+Latvia,2011,births_by_birth_order,First birth,%,47.3,OECD
+Latvia,2011,births_by_birth_order,Second birth,%,35.6,OECD
+Latvia,2011,births_by_birth_order,Third birth or higher,%,17.1,OECD
+Lithuania,2011,births_by_birth_order,First birth,%,46.5,OECD
+Lithuania,2011,births_by_birth_order,Second birth,%,38.2,OECD
+Lithuania,2011,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Luxembourg,2011,births_by_birth_order,First birth,%,51.7,OECD
+Luxembourg,2011,births_by_birth_order,Second birth,%,34.2,OECD
+Luxembourg,2011,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Netherlands,2011,births_by_birth_order,First birth,%,46.4,OECD
+Netherlands,2011,births_by_birth_order,Second birth,%,36.3,OECD
+Netherlands,2011,births_by_birth_order,Third birth or higher,%,17.3,OECD
+Norway,2011,births_by_birth_order,First birth,%,42.7,OECD
+Norway,2011,births_by_birth_order,Second birth,%,36.6,OECD
+Norway,2011,births_by_birth_order,Third birth or higher,%,20.7,OECD
+Poland,2011,births_by_birth_order,First birth,%,49.2,OECD
+Poland,2011,births_by_birth_order,Second birth,%,35.9,OECD
+Poland,2011,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Slovenia,2011,births_by_birth_order,First birth,%,48.5,OECD
+Slovenia,2011,births_by_birth_order,Second birth,%,37.9,OECD
+Slovenia,2011,births_by_birth_order,Third birth or higher,%,13.6,OECD
+Spain,2011,births_by_birth_order,First birth,%,52.4,OECD
+Spain,2011,births_by_birth_order,Second birth,%,37.3,OECD
+Spain,2011,births_by_birth_order,Third birth or higher,%,10.3,OECD
+Switzerland,2011,births_by_birth_order,First birth,%,49.2,OECD
+Switzerland,2011,births_by_birth_order,Second birth,%,36.4,OECD
+Switzerland,2011,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Romania,2011,births_by_birth_order,First birth,%,51.9,OECD
+Romania,2011,births_by_birth_order,Second birth,%,29.9,OECD
+Romania,2011,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Austria,2012,births_by_birth_order,First birth,%,48.1,OECD
+Austria,2012,births_by_birth_order,Second birth,%,35.1,OECD
+Austria,2012,births_by_birth_order,Third birth or higher,%,16.8,OECD
+Belgium,2012,births_by_birth_order,First birth,%,43.3,OECD
+Belgium,2012,births_by_birth_order,Second birth,%,34.8,OECD
+Belgium,2012,births_by_birth_order,Third birth or higher,%,21.9,OECD
+Czechia,2012,births_by_birth_order,First birth,%,47.4,OECD
+Czechia,2012,births_by_birth_order,Second birth,%,38.5,OECD
+Czechia,2012,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Estonia,2012,births_by_birth_order,First birth,%,41.1,OECD
+Estonia,2012,births_by_birth_order,Second birth,%,37.9,OECD
+Estonia,2012,births_by_birth_order,Third birth or higher,%,21.0,OECD
+Finland,2012,births_by_birth_order,First birth,%,41.1,OECD
+Finland,2012,births_by_birth_order,Second birth,%,34.0,OECD
+Finland,2012,births_by_birth_order,Third birth or higher,%,24.9,OECD
+Greece,2012,births_by_birth_order,First birth,%,51.1,OECD
+Greece,2012,births_by_birth_order,Second birth,%,36.0,OECD
+Greece,2012,births_by_birth_order,Third birth or higher,%,12.9,OECD
+Iceland,2012,births_by_birth_order,First birth,%,39.6,OECD
+Iceland,2012,births_by_birth_order,Second birth,%,34.1,OECD
+Iceland,2012,births_by_birth_order,Third birth or higher,%,26.2,OECD
+Latvia,2012,births_by_birth_order,First birth,%,46.2,OECD
+Latvia,2012,births_by_birth_order,Second birth,%,36.3,OECD
+Latvia,2012,births_by_birth_order,Third birth or higher,%,17.4,OECD
+Lithuania,2012,births_by_birth_order,First birth,%,46.9,OECD
+Lithuania,2012,births_by_birth_order,Second birth,%,37.5,OECD
+Lithuania,2012,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Luxembourg,2012,births_by_birth_order,First birth,%,51.5,OECD
+Luxembourg,2012,births_by_birth_order,Second birth,%,34.0,OECD
+Luxembourg,2012,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Netherlands,2012,births_by_birth_order,First birth,%,46.4,OECD
+Netherlands,2012,births_by_birth_order,Second birth,%,36.6,OECD
+Netherlands,2012,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Norway,2012,births_by_birth_order,First birth,%,42.6,OECD
+Norway,2012,births_by_birth_order,Second birth,%,37.3,OECD
+Norway,2012,births_by_birth_order,Third birth or higher,%,20.1,OECD
+Poland,2012,births_by_birth_order,First birth,%,48.7,OECD
+Poland,2012,births_by_birth_order,Second birth,%,36.3,OECD
+Poland,2012,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Slovenia,2012,births_by_birth_order,First birth,%,48.0,OECD
+Slovenia,2012,births_by_birth_order,Second birth,%,38.6,OECD
+Slovenia,2012,births_by_birth_order,Third birth or higher,%,13.4,OECD
+Spain,2012,births_by_birth_order,First birth,%,52.1,OECD
+Spain,2012,births_by_birth_order,Second birth,%,37.4,OECD
+Spain,2012,births_by_birth_order,Third birth or higher,%,10.5,OECD
+Switzerland,2012,births_by_birth_order,First birth,%,48.5,OECD
+Switzerland,2012,births_by_birth_order,Second birth,%,37.1,OECD
+Switzerland,2012,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Romania,2012,births_by_birth_order,First birth,%,51.0,OECD
+Romania,2012,births_by_birth_order,Second birth,%,30.5,OECD
+Romania,2012,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Austria,2013,births_by_birth_order,First birth,%,48.1,OECD
+Austria,2013,births_by_birth_order,Second birth,%,35.6,OECD
+Austria,2013,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Belgium,2013,births_by_birth_order,First birth,%,43.9,OECD
+Belgium,2013,births_by_birth_order,Second birth,%,34.9,OECD
+Belgium,2013,births_by_birth_order,Third birth or higher,%,21.2,OECD
+Czechia,2013,births_by_birth_order,First birth,%,48.0,OECD
+Czechia,2013,births_by_birth_order,Second birth,%,37.6,OECD
+Czechia,2013,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Estonia,2013,births_by_birth_order,First birth,%,41.6,OECD
+Estonia,2013,births_by_birth_order,Second birth,%,37.5,OECD
+Estonia,2013,births_by_birth_order,Third birth or higher,%,20.9,OECD
+Finland,2013,births_by_birth_order,First birth,%,40.5,OECD
+Finland,2013,births_by_birth_order,Second birth,%,34.2,OECD
+Finland,2013,births_by_birth_order,Third birth or higher,%,25.3,OECD
+Greece,2013,births_by_birth_order,First birth,%,50.6,OECD
+Greece,2013,births_by_birth_order,Second birth,%,36.8,OECD
+Greece,2013,births_by_birth_order,Third birth or higher,%,12.6,OECD
+Iceland,2013,births_by_birth_order,First birth,%,39.0,OECD
+Iceland,2013,births_by_birth_order,Second birth,%,34.2,OECD
+Iceland,2013,births_by_birth_order,Third birth or higher,%,26.7,OECD
+Latvia,2013,births_by_birth_order,First birth,%,44.6,OECD
+Latvia,2013,births_by_birth_order,Second birth,%,37.2,OECD
+Latvia,2013,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Lithuania,2013,births_by_birth_order,First birth,%,48.2,OECD
+Lithuania,2013,births_by_birth_order,Second birth,%,36.9,OECD
+Lithuania,2013,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Luxembourg,2013,births_by_birth_order,First birth,%,53.8,OECD
+Luxembourg,2013,births_by_birth_order,Second birth,%,32.9,OECD
+Luxembourg,2013,births_by_birth_order,Third birth or higher,%,13.3,OECD
+Netherlands,2013,births_by_birth_order,First birth,%,46.4,OECD
+Netherlands,2013,births_by_birth_order,Second birth,%,36.7,OECD
+Netherlands,2013,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Norway,2013,births_by_birth_order,First birth,%,43.1,OECD
+Norway,2013,births_by_birth_order,Second birth,%,37.4,OECD
+Norway,2013,births_by_birth_order,Third birth or higher,%,19.4,OECD
+Poland,2013,births_by_birth_order,First birth,%,48.6,OECD
+Poland,2013,births_by_birth_order,Second birth,%,36.4,OECD
+Poland,2013,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Slovenia,2013,births_by_birth_order,First birth,%,49.6,OECD
+Slovenia,2013,births_by_birth_order,Second birth,%,37.5,OECD
+Slovenia,2013,births_by_birth_order,Third birth or higher,%,12.9,OECD
+Spain,2013,births_by_birth_order,First birth,%,52.7,OECD
+Spain,2013,births_by_birth_order,Second birth,%,36.8,OECD
+Spain,2013,births_by_birth_order,Third birth or higher,%,10.5,OECD
+Switzerland,2013,births_by_birth_order,First birth,%,48.4,OECD
+Switzerland,2013,births_by_birth_order,Second birth,%,37.2,OECD
+Switzerland,2013,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Romania,2013,births_by_birth_order,First birth,%,51.0,OECD
+Romania,2013,births_by_birth_order,Second birth,%,30.4,OECD
+Romania,2013,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Austria,2014,births_by_birth_order,First birth,%,48.0,OECD
+Austria,2014,births_by_birth_order,Second birth,%,35.5,OECD
+Austria,2014,births_by_birth_order,Third birth or higher,%,16.5,OECD
+Belgium,2014,births_by_birth_order,First birth,%,42.3,OECD
+Belgium,2014,births_by_birth_order,Second birth,%,35.1,OECD
+Belgium,2014,births_by_birth_order,Third birth or higher,%,22.6,OECD
+Czechia,2014,births_by_birth_order,First birth,%,47.4,OECD
+Czechia,2014,births_by_birth_order,Second birth,%,37.5,OECD
+Czechia,2014,births_by_birth_order,Third birth or higher,%,15.1,OECD
+Estonia,2014,births_by_birth_order,First birth,%,41.9,OECD
+Estonia,2014,births_by_birth_order,Second birth,%,37.2,OECD
+Estonia,2014,births_by_birth_order,Third birth or higher,%,21.0,OECD
+Finland,2014,births_by_birth_order,First birth,%,40.8,OECD
+Finland,2014,births_by_birth_order,Second birth,%,34.3,OECD
+Finland,2014,births_by_birth_order,Third birth or higher,%,25.0,OECD
+Greece,2014,births_by_birth_order,First birth,%,49.8,OECD
+Greece,2014,births_by_birth_order,Second birth,%,37.8,OECD
+Greece,2014,births_by_birth_order,Third birth or higher,%,12.4,OECD
+Iceland,2014,births_by_birth_order,First birth,%,39.9,OECD
+Iceland,2014,births_by_birth_order,Second birth,%,36.1,OECD
+Iceland,2014,births_by_birth_order,Third birth or higher,%,24.0,OECD
+Latvia,2014,births_by_birth_order,First birth,%,44.2,OECD
+Latvia,2014,births_by_birth_order,Second birth,%,37.5,OECD
+Latvia,2014,births_by_birth_order,Third birth or higher,%,18.3,OECD
+Lithuania,2014,births_by_birth_order,First birth,%,47.7,OECD
+Lithuania,2014,births_by_birth_order,Second birth,%,37.0,OECD
+Lithuania,2014,births_by_birth_order,Third birth or higher,%,15.3,OECD
+Luxembourg,2014,births_by_birth_order,First birth,%,54.3,OECD
+Luxembourg,2014,births_by_birth_order,Second birth,%,32.7,OECD
+Luxembourg,2014,births_by_birth_order,Third birth or higher,%,13.1,OECD
+Netherlands,2014,births_by_birth_order,First birth,%,46.1,OECD
+Netherlands,2014,births_by_birth_order,Second birth,%,36.5,OECD
+Netherlands,2014,births_by_birth_order,Third birth or higher,%,17.4,OECD
+Norway,2014,births_by_birth_order,First birth,%,43.1,OECD
+Norway,2014,births_by_birth_order,Second birth,%,37.5,OECD
+Norway,2014,births_by_birth_order,Third birth or higher,%,19.4,OECD
+Poland,2014,births_by_birth_order,First birth,%,47.4,OECD
+Poland,2014,births_by_birth_order,Second birth,%,37.5,OECD
+Poland,2014,births_by_birth_order,Third birth or higher,%,15.1,OECD
+Slovenia,2014,births_by_birth_order,First birth,%,48.0,OECD
+Slovenia,2014,births_by_birth_order,Second birth,%,38.2,OECD
+Slovenia,2014,births_by_birth_order,Third birth or higher,%,13.8,OECD
+Spain,2014,births_by_birth_order,First birth,%,52.0,OECD
+Spain,2014,births_by_birth_order,Second birth,%,37.3,OECD
+Spain,2014,births_by_birth_order,Third birth or higher,%,10.7,OECD
+Switzerland,2014,births_by_birth_order,First birth,%,48.7,OECD
+Switzerland,2014,births_by_birth_order,Second birth,%,36.8,OECD
+Switzerland,2014,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Romania,2014,births_by_birth_order,First birth,%,53.5,OECD
+Romania,2014,births_by_birth_order,Second birth,%,29.6,OECD
+Romania,2014,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Austria,2015,births_by_birth_order,First birth,%,48.3,OECD
+Austria,2015,births_by_birth_order,Second birth,%,35.3,OECD
+Austria,2015,births_by_birth_order,Third birth or higher,%,16.4,OECD
+Belgium,2015,births_by_birth_order,First birth,%,43.5,OECD
+Belgium,2015,births_by_birth_order,Second birth,%,34.8,OECD
+Belgium,2015,births_by_birth_order,Third birth or higher,%,21.8,OECD
+Czechia,2015,births_by_birth_order,First birth,%,48.1,OECD
+Czechia,2015,births_by_birth_order,Second birth,%,37.3,OECD
+Czechia,2015,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Estonia,2015,births_by_birth_order,First birth,%,42.3,OECD
+Estonia,2015,births_by_birth_order,Second birth,%,37.0,OECD
+Estonia,2015,births_by_birth_order,Third birth or higher,%,20.7,OECD
+Finland,2015,births_by_birth_order,First birth,%,41.3,OECD
+Finland,2015,births_by_birth_order,Second birth,%,34.4,OECD
+Finland,2015,births_by_birth_order,Third birth or higher,%,24.3,OECD
+Greece,2015,births_by_birth_order,First birth,%,48.1,OECD
+Greece,2015,births_by_birth_order,Second birth,%,39.0,OECD
+Greece,2015,births_by_birth_order,Third birth or higher,%,12.9,OECD
+Iceland,2015,births_by_birth_order,First birth,%,39.4,OECD
+Iceland,2015,births_by_birth_order,Second birth,%,35.4,OECD
+Iceland,2015,births_by_birth_order,Third birth or higher,%,25.2,OECD
+Latvia,2015,births_by_birth_order,First birth,%,42.6,OECD
+Latvia,2015,births_by_birth_order,Second birth,%,37.5,OECD
+Latvia,2015,births_by_birth_order,Third birth or higher,%,19.9,OECD
+Lithuania,2015,births_by_birth_order,First birth,%,47.4,OECD
+Lithuania,2015,births_by_birth_order,Second birth,%,37.7,OECD
+Lithuania,2015,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Luxembourg,2015,births_by_birth_order,First birth,%,54.5,OECD
+Luxembourg,2015,births_by_birth_order,Second birth,%,32.9,OECD
+Luxembourg,2015,births_by_birth_order,Third birth or higher,%,12.6,OECD
+Netherlands,2015,births_by_birth_order,First birth,%,45.5,OECD
+Netherlands,2015,births_by_birth_order,Second birth,%,36.8,OECD
+Netherlands,2015,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Norway,2015,births_by_birth_order,First birth,%,43.2,OECD
+Norway,2015,births_by_birth_order,Second birth,%,37.4,OECD
+Norway,2015,births_by_birth_order,Third birth or higher,%,19.4,OECD
+Poland,2015,births_by_birth_order,First birth,%,47.3,OECD
+Poland,2015,births_by_birth_order,Second birth,%,37.8,OECD
+Poland,2015,births_by_birth_order,Third birth or higher,%,14.9,OECD
+Slovenia,2015,births_by_birth_order,First birth,%,47.9,OECD
+Slovenia,2015,births_by_birth_order,Second birth,%,38.0,OECD
+Slovenia,2015,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Spain,2015,births_by_birth_order,First birth,%,51.2,OECD
+Spain,2015,births_by_birth_order,Second birth,%,37.9,OECD
+Spain,2015,births_by_birth_order,Third birth or higher,%,10.9,OECD
+Switzerland,2015,births_by_birth_order,First birth,%,48.7,OECD
+Switzerland,2015,births_by_birth_order,Second birth,%,36.7,OECD
+Switzerland,2015,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Romania,2015,births_by_birth_order,First birth,%,54.6,OECD
+Romania,2015,births_by_birth_order,Second birth,%,29.2,OECD
+Romania,2015,births_by_birth_order,Third birth or higher,%,16.2,OECD
+Austria,2016,births_by_birth_order,First birth,%,47.3,OECD
+Austria,2016,births_by_birth_order,Second birth,%,35.6,OECD
+Austria,2016,births_by_birth_order,Third birth or higher,%,17.1,OECD
+Belgium,2016,births_by_birth_order,First birth,%,44.1,OECD
+Belgium,2016,births_by_birth_order,Second birth,%,34.5,OECD
+Belgium,2016,births_by_birth_order,Third birth or higher,%,21.4,OECD
+Czechia,2016,births_by_birth_order,First birth,%,48.7,OECD
+Czechia,2016,births_by_birth_order,Second birth,%,36.7,OECD
+Czechia,2016,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Estonia,2016,births_by_birth_order,First birth,%,40.8,OECD
+Estonia,2016,births_by_birth_order,Second birth,%,37.3,OECD
+Estonia,2016,births_by_birth_order,Third birth or higher,%,21.9,OECD
+Finland,2016,births_by_birth_order,First birth,%,41.4,OECD
+Finland,2016,births_by_birth_order,Second birth,%,34.0,OECD
+Finland,2016,births_by_birth_order,Third birth or higher,%,24.6,OECD
+Greece,2016,births_by_birth_order,First birth,%,48.7,OECD
+Greece,2016,births_by_birth_order,Second birth,%,38.2,OECD
+Greece,2016,births_by_birth_order,Third birth or higher,%,13.1,OECD
+Iceland,2016,births_by_birth_order,First birth,%,38.6,OECD
+Iceland,2016,births_by_birth_order,Second birth,%,35.1,OECD
+Iceland,2016,births_by_birth_order,Third birth or higher,%,26.3,OECD
+Latvia,2016,births_by_birth_order,First birth,%,41.1,OECD
+Latvia,2016,births_by_birth_order,Second birth,%,38.3,OECD
+Latvia,2016,births_by_birth_order,Third birth or higher,%,20.6,OECD
+Lithuania,2016,births_by_birth_order,First birth,%,47.0,OECD
+Lithuania,2016,births_by_birth_order,Second birth,%,37.8,OECD
+Lithuania,2016,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Luxembourg,2016,births_by_birth_order,First birth,%,54.6,OECD
+Luxembourg,2016,births_by_birth_order,Second birth,%,32.8,OECD
+Luxembourg,2016,births_by_birth_order,Third birth or higher,%,12.6,OECD
+Netherlands,2016,births_by_birth_order,First birth,%,45.3,OECD
+Netherlands,2016,births_by_birth_order,Second birth,%,36.7,OECD
+Netherlands,2016,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Norway,2016,births_by_birth_order,First birth,%,43.3,OECD
+Norway,2016,births_by_birth_order,Second birth,%,37.6,OECD
+Norway,2016,births_by_birth_order,Third birth or higher,%,19.1,OECD
+Poland,2016,births_by_birth_order,First birth,%,46.0,OECD
+Poland,2016,births_by_birth_order,Second birth,%,38.5,OECD
+Poland,2016,births_by_birth_order,Third birth or higher,%,15.5,OECD
+Slovenia,2016,births_by_birth_order,First birth,%,47.4,OECD
+Slovenia,2016,births_by_birth_order,Second birth,%,38.3,OECD
+Slovenia,2016,births_by_birth_order,Third birth or higher,%,14.3,OECD
+Spain,2016,births_by_birth_order,First birth,%,50.3,OECD
+Spain,2016,births_by_birth_order,Second birth,%,38.2,OECD
+Spain,2016,births_by_birth_order,Third birth or higher,%,11.6,OECD
+Switzerland,2016,births_by_birth_order,First birth,%,49.1,OECD
+Switzerland,2016,births_by_birth_order,Second birth,%,36.4,OECD
+Switzerland,2016,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Romania,2016,births_by_birth_order,First birth,%,53.7,OECD
+Romania,2016,births_by_birth_order,Second birth,%,30.0,OECD
+Romania,2016,births_by_birth_order,Third birth or higher,%,16.3,OECD
+Austria,2017,births_by_birth_order,First birth,%,47.5,OECD
+Austria,2017,births_by_birth_order,Second birth,%,35.3,OECD
+Austria,2017,births_by_birth_order,Third birth or higher,%,17.2,OECD
+Belgium,2017,births_by_birth_order,First birth,%,43.6,OECD
+Belgium,2017,births_by_birth_order,Second birth,%,34.6,OECD
+Belgium,2017,births_by_birth_order,Third birth or higher,%,21.9,OECD
+Czechia,2017,births_by_birth_order,First birth,%,48.7,OECD
+Czechia,2017,births_by_birth_order,Second birth,%,36.6,OECD
+Czechia,2017,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Estonia,2017,births_by_birth_order,First birth,%,40.2,OECD
+Estonia,2017,births_by_birth_order,Second birth,%,36.8,OECD
+Estonia,2017,births_by_birth_order,Third birth or higher,%,23.0,OECD
+Finland,2017,births_by_birth_order,First birth,%,40.6,OECD
+Finland,2017,births_by_birth_order,Second birth,%,34.0,OECD
+Finland,2017,births_by_birth_order,Third birth or higher,%,25.3,OECD
+Greece,2017,births_by_birth_order,First birth,%,47.7,OECD
+Greece,2017,births_by_birth_order,Second birth,%,38.4,OECD
+Greece,2017,births_by_birth_order,Third birth or higher,%,13.9,OECD
+Iceland,2017,births_by_birth_order,First birth,%,41.3,OECD
+Iceland,2017,births_by_birth_order,Second birth,%,34.6,OECD
+Iceland,2017,births_by_birth_order,Third birth or higher,%,24.1,OECD
+Latvia,2017,births_by_birth_order,First birth,%,40.1,OECD
+Latvia,2017,births_by_birth_order,Second birth,%,37.9,OECD
+Latvia,2017,births_by_birth_order,Third birth or higher,%,22.0,OECD
+Lithuania,2017,births_by_birth_order,First birth,%,46.4,OECD
+Lithuania,2017,births_by_birth_order,Second birth,%,38.2,OECD
+Lithuania,2017,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Luxembourg,2017,births_by_birth_order,First birth,%,53.4,OECD
+Luxembourg,2017,births_by_birth_order,Second birth,%,33.9,OECD
+Luxembourg,2017,births_by_birth_order,Third birth or higher,%,12.6,OECD
+Netherlands,2017,births_by_birth_order,First birth,%,45.0,OECD
+Netherlands,2017,births_by_birth_order,Second birth,%,36.7,OECD
+Netherlands,2017,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Norway,2017,births_by_birth_order,First birth,%,42.7,OECD
+Norway,2017,births_by_birth_order,Second birth,%,37.9,OECD
+Norway,2017,births_by_birth_order,Third birth or higher,%,19.4,OECD
+Poland,2017,births_by_birth_order,First birth,%,43.1,OECD
+Poland,2017,births_by_birth_order,Second birth,%,40.3,OECD
+Poland,2017,births_by_birth_order,Third birth or higher,%,16.6,OECD
+Slovenia,2017,births_by_birth_order,First birth,%,45.8,OECD
+Slovenia,2017,births_by_birth_order,Second birth,%,39.5,OECD
+Slovenia,2017,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Spain,2017,births_by_birth_order,First birth,%,49.7,OECD
+Spain,2017,births_by_birth_order,Second birth,%,38.1,OECD
+Spain,2017,births_by_birth_order,Third birth or higher,%,12.2,OECD
+Switzerland,2017,births_by_birth_order,First birth,%,48.5,OECD
+Switzerland,2017,births_by_birth_order,Second birth,%,36.9,OECD
+Switzerland,2017,births_by_birth_order,Third birth or higher,%,14.5,OECD
+Romania,2017,births_by_birth_order,First birth,%,54.4,OECD
+Romania,2017,births_by_birth_order,Second birth,%,29.6,OECD
+Romania,2017,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Austria,2018,births_by_birth_order,First birth,%,47.1,OECD
+Austria,2018,births_by_birth_order,Second birth,%,35.3,OECD
+Austria,2018,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Belgium,2018,births_by_birth_order,First birth,%,42.9,OECD
+Belgium,2018,births_by_birth_order,Second birth,%,34.5,OECD
+Belgium,2018,births_by_birth_order,Third birth or higher,%,22.6,OECD
+Czechia,2018,births_by_birth_order,First birth,%,48.0,OECD
+Czechia,2018,births_by_birth_order,Second birth,%,37.2,OECD
+Czechia,2018,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Estonia,2018,births_by_birth_order,First birth,%,36.7,OECD
+Estonia,2018,births_by_birth_order,Second birth,%,37.3,OECD
+Estonia,2018,births_by_birth_order,Third birth or higher,%,26.0,OECD
+Finland,2018,births_by_birth_order,First birth,%,40.7,OECD
+Finland,2018,births_by_birth_order,Second birth,%,34.2,OECD
+Finland,2018,births_by_birth_order,Third birth or higher,%,25.1,OECD
+Greece,2018,births_by_birth_order,First birth,%,47.0,OECD
+Greece,2018,births_by_birth_order,Second birth,%,38.6,OECD
+Greece,2018,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Iceland,2018,births_by_birth_order,First birth,%,44.7,OECD
+Iceland,2018,births_by_birth_order,Second birth,%,33.2,OECD
+Iceland,2018,births_by_birth_order,Third birth or higher,%,22.1,OECD
+Latvia,2018,births_by_birth_order,First birth,%,39.5,OECD
+Latvia,2018,births_by_birth_order,Second birth,%,37.8,OECD
+Latvia,2018,births_by_birth_order,Third birth or higher,%,22.6,OECD
+Lithuania,2018,births_by_birth_order,First birth,%,44.4,OECD
+Lithuania,2018,births_by_birth_order,Second birth,%,40.0,OECD
+Lithuania,2018,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Luxembourg,2018,births_by_birth_order,First birth,%,52.3,OECD
+Luxembourg,2018,births_by_birth_order,Second birth,%,35.7,OECD
+Luxembourg,2018,births_by_birth_order,Third birth or higher,%,12.0,OECD
+Netherlands,2018,births_by_birth_order,First birth,%,44.8,OECD
+Netherlands,2018,births_by_birth_order,Second birth,%,36.6,OECD
+Netherlands,2018,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Norway,2018,births_by_birth_order,First birth,%,43.0,OECD
+Norway,2018,births_by_birth_order,Second birth,%,38.2,OECD
+Norway,2018,births_by_birth_order,Third birth or higher,%,18.9,OECD
+Poland,2018,births_by_birth_order,First birth,%,42.7,OECD
+Poland,2018,births_by_birth_order,Second birth,%,38.0,OECD
+Poland,2018,births_by_birth_order,Third birth or higher,%,19.4,OECD
+Slovenia,2018,births_by_birth_order,First birth,%,45.5,OECD
+Slovenia,2018,births_by_birth_order,Second birth,%,39.2,OECD
+Slovenia,2018,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Spain,2018,births_by_birth_order,First birth,%,49.1,OECD
+Spain,2018,births_by_birth_order,Second birth,%,38.0,OECD
+Spain,2018,births_by_birth_order,Third birth or higher,%,12.9,OECD
+Switzerland,2018,births_by_birth_order,First birth,%,47.9,OECD
+Switzerland,2018,births_by_birth_order,Second birth,%,37.3,OECD
+Switzerland,2018,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Romania,2018,births_by_birth_order,First birth,%,53.6,OECD
+Romania,2018,births_by_birth_order,Second birth,%,30.4,OECD
+Romania,2018,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Austria,2019,births_by_birth_order,First birth,%,47.2,OECD
+Austria,2019,births_by_birth_order,Second birth,%,35.1,OECD
+Austria,2019,births_by_birth_order,Third birth or higher,%,17.7,OECD
+Belgium,2019,births_by_birth_order,First birth,%,42.6,OECD
+Belgium,2019,births_by_birth_order,Second birth,%,34.7,OECD
+Belgium,2019,births_by_birth_order,Third birth or higher,%,22.6,OECD
+Czechia,2019,births_by_birth_order,First birth,%,47.8,OECD
+Czechia,2019,births_by_birth_order,Second birth,%,37.6,OECD
+Czechia,2019,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Estonia,2019,births_by_birth_order,First birth,%,38.8,OECD
+Estonia,2019,births_by_birth_order,Second birth,%,34.6,OECD
+Estonia,2019,births_by_birth_order,Third birth or higher,%,26.6,OECD
+Finland,2019,births_by_birth_order,First birth,%,42.1,OECD
+Finland,2019,births_by_birth_order,Second birth,%,33.7,OECD
+Finland,2019,births_by_birth_order,Third birth or higher,%,24.2,OECD
+Greece,2019,births_by_birth_order,First birth,%,46.6,OECD
+Greece,2019,births_by_birth_order,Second birth,%,38.5,OECD
+Greece,2019,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Iceland,2019,births_by_birth_order,First birth,%,45.7,OECD
+Iceland,2019,births_by_birth_order,Second birth,%,33.4,OECD
+Iceland,2019,births_by_birth_order,Third birth or higher,%,20.8,OECD
+Latvia,2019,births_by_birth_order,First birth,%,39.0,OECD
+Latvia,2019,births_by_birth_order,Second birth,%,37.7,OECD
+Latvia,2019,births_by_birth_order,Third birth or higher,%,23.3,OECD
+Lithuania,2019,births_by_birth_order,First birth,%,45.7,OECD
+Lithuania,2019,births_by_birth_order,Second birth,%,38.9,OECD
+Lithuania,2019,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Luxembourg,2019,births_by_birth_order,First birth,%,52.6,OECD
+Luxembourg,2019,births_by_birth_order,Second birth,%,34.8,OECD
+Luxembourg,2019,births_by_birth_order,Third birth or higher,%,12.6,OECD
+Netherlands,2019,births_by_birth_order,First birth,%,45.5,OECD
+Netherlands,2019,births_by_birth_order,Second birth,%,36.1,OECD
+Netherlands,2019,births_by_birth_order,Third birth or higher,%,18.4,OECD
+Norway,2019,births_by_birth_order,First birth,%,43.2,OECD
+Norway,2019,births_by_birth_order,Second birth,%,38.2,OECD
+Norway,2019,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Poland,2019,births_by_birth_order,First birth,%,42.9,OECD
+Poland,2019,births_by_birth_order,Second birth,%,35.9,OECD
+Poland,2019,births_by_birth_order,Third birth or higher,%,21.3,OECD
+Slovenia,2019,births_by_birth_order,First birth,%,46.0,OECD
+Slovenia,2019,births_by_birth_order,Second birth,%,38.5,OECD
+Slovenia,2019,births_by_birth_order,Third birth or higher,%,15.5,OECD
+Spain,2019,births_by_birth_order,First birth,%,49.5,OECD
+Spain,2019,births_by_birth_order,Second birth,%,37.0,OECD
+Spain,2019,births_by_birth_order,Third birth or higher,%,13.4,OECD
+Switzerland,2019,births_by_birth_order,First birth,%,48.5,OECD
+Switzerland,2019,births_by_birth_order,Second birth,%,36.8,OECD
+Switzerland,2019,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Romania,2019,births_by_birth_order,First birth,%,54.1,OECD
+Romania,2019,births_by_birth_order,Second birth,%,30.1,OECD
+Romania,2019,births_by_birth_order,Third birth or higher,%,15.8,OECD
+Austria,2020,births_by_birth_order,First birth,%,47.7,OECD
+Austria,2020,births_by_birth_order,Second birth,%,35.3,OECD
+Austria,2020,births_by_birth_order,Third birth or higher,%,17.0,OECD
+Belgium,2020,births_by_birth_order,First birth,%,45.0,OECD
+Belgium,2020,births_by_birth_order,Second birth,%,34.2,OECD
+Belgium,2020,births_by_birth_order,Third birth or higher,%,20.8,OECD
+Czechia,2020,births_by_birth_order,First birth,%,47.6,OECD
+Czechia,2020,births_by_birth_order,Second birth,%,37.6,OECD
+Czechia,2020,births_by_birth_order,Third birth or higher,%,14.8,OECD
+Estonia,2020,births_by_birth_order,First birth,%,38.0,OECD
+Estonia,2020,births_by_birth_order,Second birth,%,34.9,OECD
+Estonia,2020,births_by_birth_order,Third birth or higher,%,27.1,OECD
+Finland,2020,births_by_birth_order,First birth,%,42.1,OECD
+Finland,2020,births_by_birth_order,Second birth,%,34.1,OECD
+Finland,2020,births_by_birth_order,Third birth or higher,%,23.9,OECD
+Greece,2020,births_by_birth_order,First birth,%,46.3,OECD
+Greece,2020,births_by_birth_order,Second birth,%,38.3,OECD
+Greece,2020,births_by_birth_order,Third birth or higher,%,15.4,OECD
+Iceland,2020,births_by_birth_order,First birth,%,47.1,OECD
+Iceland,2020,births_by_birth_order,Second birth,%,33.6,OECD
+Iceland,2020,births_by_birth_order,Third birth or higher,%,19.2,OECD
+Latvia,2020,births_by_birth_order,First birth,%,38.7,OECD
+Latvia,2020,births_by_birth_order,Second birth,%,37.3,OECD
+Latvia,2020,births_by_birth_order,Third birth or higher,%,24.1,OECD
+Lithuania,2020,births_by_birth_order,First birth,%,44.4,OECD
+Lithuania,2020,births_by_birth_order,Second birth,%,39.2,OECD
+Lithuania,2020,births_by_birth_order,Third birth or higher,%,16.5,OECD
+Luxembourg,2020,births_by_birth_order,First birth,%,53.4,OECD
+Luxembourg,2020,births_by_birth_order,Second birth,%,33.8,OECD
+Luxembourg,2020,births_by_birth_order,Third birth or higher,%,12.8,OECD
+Netherlands,2020,births_by_birth_order,First birth,%,45.5,OECD
+Netherlands,2020,births_by_birth_order,Second birth,%,36.4,OECD
+Netherlands,2020,births_by_birth_order,Third birth or higher,%,18.1,OECD
+Norway,2020,births_by_birth_order,First birth,%,43.5,OECD
+Norway,2020,births_by_birth_order,Second birth,%,38.0,OECD
+Norway,2020,births_by_birth_order,Third birth or higher,%,18.4,OECD
+Poland,2020,births_by_birth_order,First birth,%,44.3,OECD
+Poland,2020,births_by_birth_order,Second birth,%,35.1,OECD
+Poland,2020,births_by_birth_order,Third birth or higher,%,20.6,OECD
+Slovenia,2020,births_by_birth_order,First birth,%,46.6,OECD
+Slovenia,2020,births_by_birth_order,Second birth,%,38.2,OECD
+Slovenia,2020,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Spain,2020,births_by_birth_order,First birth,%,50.8,OECD
+Spain,2020,births_by_birth_order,Second birth,%,35.7,OECD
+Spain,2020,births_by_birth_order,Third birth or higher,%,13.5,OECD
+Switzerland,2020,births_by_birth_order,First birth,%,48.3,OECD
+Switzerland,2020,births_by_birth_order,Second birth,%,36.6,OECD
+Switzerland,2020,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Romania,2020,births_by_birth_order,First birth,%,53.9,OECD
+Romania,2020,births_by_birth_order,Second birth,%,29.5,OECD
+Romania,2020,births_by_birth_order,Third birth or higher,%,16.6,OECD
+Austria,2021,births_by_birth_order,First birth,%,47.6,OECD
+Austria,2021,births_by_birth_order,Second birth,%,35.5,OECD
+Austria,2021,births_by_birth_order,Third birth or higher,%,16.9,OECD
+Belgium,2021,births_by_birth_order,First birth,%,44.0,OECD
+Belgium,2021,births_by_birth_order,Second birth,%,35.1,OECD
+Belgium,2021,births_by_birth_order,Third birth or higher,%,20.9,OECD
+Czechia,2021,births_by_birth_order,First birth,%,46.4,OECD
+Czechia,2021,births_by_birth_order,Second birth,%,39.0,OECD
+Czechia,2021,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Estonia,2021,births_by_birth_order,First birth,%,37.2,OECD
+Estonia,2021,births_by_birth_order,Second birth,%,35.9,OECD
+Estonia,2021,births_by_birth_order,Third birth or higher,%,26.9,OECD
+Finland,2021,births_by_birth_order,First birth,%,42.3,OECD
+Finland,2021,births_by_birth_order,Second birth,%,33.9,OECD
+Finland,2021,births_by_birth_order,Third birth or higher,%,23.8,OECD
+Greece,2021,births_by_birth_order,First birth,%,45.8,OECD
+Greece,2021,births_by_birth_order,Second birth,%,38.7,OECD
+Greece,2021,births_by_birth_order,Third birth or higher,%,15.6,OECD
+Iceland,2021,births_by_birth_order,First birth,%,40.0,OECD
+Iceland,2021,births_by_birth_order,Second birth,%,36.2,OECD
+Iceland,2021,births_by_birth_order,Third birth or higher,%,23.8,OECD
+Latvia,2021,births_by_birth_order,First birth,%,38.2,OECD
+Latvia,2021,births_by_birth_order,Second birth,%,37.6,OECD
+Latvia,2021,births_by_birth_order,Third birth or higher,%,24.2,OECD
+Lithuania,2021,births_by_birth_order,First birth,%,43.7,OECD
+Lithuania,2021,births_by_birth_order,Second birth,%,39.7,OECD
+Lithuania,2021,births_by_birth_order,Third birth or higher,%,16.6,OECD
+Luxembourg,2021,births_by_birth_order,First birth,%,53.2,OECD
+Luxembourg,2021,births_by_birth_order,Second birth,%,34.1,OECD
+Luxembourg,2021,births_by_birth_order,Third birth or higher,%,12.7,OECD
+Netherlands,2021,births_by_birth_order,First birth,%,45.4,OECD
+Netherlands,2021,births_by_birth_order,Second birth,%,36.3,OECD
+Netherlands,2021,births_by_birth_order,Third birth or higher,%,18.2,OECD
+Norway,2021,births_by_birth_order,First birth,%,42.8,OECD
+Norway,2021,births_by_birth_order,Second birth,%,38.4,OECD
+Norway,2021,births_by_birth_order,Third birth or higher,%,18.8,OECD
+Poland,2021,births_by_birth_order,First birth,%,44.2,OECD
+Poland,2021,births_by_birth_order,Second birth,%,34.3,OECD
+Poland,2021,births_by_birth_order,Third birth or higher,%,21.5,OECD
+Slovenia,2021,births_by_birth_order,First birth,%,45.1,OECD
+Slovenia,2021,births_by_birth_order,Second birth,%,39.4,OECD
+Slovenia,2021,births_by_birth_order,Third birth or higher,%,15.5,OECD
+Spain,2021,births_by_birth_order,First birth,%,49.9,OECD
+Spain,2021,births_by_birth_order,Second birth,%,36.2,OECD
+Spain,2021,births_by_birth_order,Third birth or higher,%,13.9,OECD
+Switzerland,2021,births_by_birth_order,First birth,%,47.6,OECD
+Switzerland,2021,births_by_birth_order,Second birth,%,37.4,OECD
+Switzerland,2021,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Romania,2021,births_by_birth_order,First birth,%,52.4,OECD
+Romania,2021,births_by_birth_order,Second birth,%,30.3,OECD
+Romania,2021,births_by_birth_order,Third birth or higher,%,17.3,OECD
+Austria,2022,births_by_birth_order,First birth,%,48.4,OECD
+Austria,2022,births_by_birth_order,Second birth,%,34.9,OECD
+Austria,2022,births_by_birth_order,Third birth or higher,%,16.7,OECD
+Belgium,2022,births_by_birth_order,First birth,%,44.7,OECD
+Belgium,2022,births_by_birth_order,Second birth,%,34.3,OECD
+Belgium,2022,births_by_birth_order,Third birth or higher,%,20.9,OECD
+Czechia,2022,births_by_birth_order,First birth,%,46.3,OECD
+Czechia,2022,births_by_birth_order,Second birth,%,38.6,OECD
+Czechia,2022,births_by_birth_order,Third birth or higher,%,15.0,OECD
+Estonia,2022,births_by_birth_order,First birth,%,39.8,OECD
+Estonia,2022,births_by_birth_order,Second birth,%,33.8,OECD
+Estonia,2022,births_by_birth_order,Third birth or higher,%,26.4,OECD
+Finland,2022,births_by_birth_order,First birth,%,43.4,OECD
+Finland,2022,births_by_birth_order,Second birth,%,33.2,OECD
+Finland,2022,births_by_birth_order,Third birth or higher,%,23.5,OECD
+Greece,2022,births_by_birth_order,First birth,%,47.2,OECD
+Greece,2022,births_by_birth_order,Second birth,%,37.6,OECD
+Greece,2022,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Iceland,2022,births_by_birth_order,First birth,%,41.5,OECD
+Iceland,2022,births_by_birth_order,Second birth,%,36.0,OECD
+Iceland,2022,births_by_birth_order,Third birth or higher,%,22.4,OECD
+Latvia,2022,births_by_birth_order,First birth,%,37.9,OECD
+Latvia,2022,births_by_birth_order,Second birth,%,36.6,OECD
+Latvia,2022,births_by_birth_order,Third birth or higher,%,25.5,OECD
+Lithuania,2022,births_by_birth_order,First birth,%,45.4,OECD
+Lithuania,2022,births_by_birth_order,Second birth,%,38.4,OECD
+Lithuania,2022,births_by_birth_order,Third birth or higher,%,16.2,OECD
+Luxembourg,2022,births_by_birth_order,First birth,%,54.4,OECD
+Luxembourg,2022,births_by_birth_order,Second birth,%,32.8,OECD
+Luxembourg,2022,births_by_birth_order,Third birth or higher,%,12.8,OECD
+Netherlands,2022,births_by_birth_order,First birth,%,46.7,OECD
+Netherlands,2022,births_by_birth_order,Second birth,%,35.3,OECD
+Netherlands,2022,births_by_birth_order,Third birth or higher,%,18.0,OECD
+Norway,2022,births_by_birth_order,First birth,%,43.7,OECD
+Norway,2022,births_by_birth_order,Second birth,%,37.8,OECD
+Norway,2022,births_by_birth_order,Third birth or higher,%,18.5,OECD
+Poland,2022,births_by_birth_order,First birth,%,44.5,OECD
+Poland,2022,births_by_birth_order,Second birth,%,33.3,OECD
+Poland,2022,births_by_birth_order,Third birth or higher,%,22.2,OECD
+Slovenia,2022,births_by_birth_order,First birth,%,46.8,OECD
+Slovenia,2022,births_by_birth_order,Second birth,%,37.7,OECD
+Slovenia,2022,births_by_birth_order,Third birth or higher,%,15.5,OECD
+Spain,2022,births_by_birth_order,First birth,%,50.5,OECD
+Spain,2022,births_by_birth_order,Second birth,%,35.4,OECD
+Spain,2022,births_by_birth_order,Third birth or higher,%,14.1,OECD
+Switzerland,2022,births_by_birth_order,First birth,%,48.2,OECD
+Switzerland,2022,births_by_birth_order,Second birth,%,37.1,OECD
+Switzerland,2022,births_by_birth_order,Third birth or higher,%,14.7,OECD
+Romania,2022,births_by_birth_order,First birth,%,51.6,OECD
+Romania,2022,births_by_birth_order,Second birth,%,30.5,OECD
+Romania,2022,births_by_birth_order,Third birth or higher,%,17.9,OECD
+Austria,2023,births_by_birth_order,First birth,%,48.1,OECD
+Austria,2023,births_by_birth_order,Second birth,%,35.1,OECD
+Austria,2023,births_by_birth_order,Third birth or higher,%,16.8,OECD
+Belgium,2023,births_by_birth_order,First birth,%,45.5,OECD
+Belgium,2023,births_by_birth_order,Second birth,%,34.1,OECD
+Belgium,2023,births_by_birth_order,Third birth or higher,%,20.4,OECD
+Czechia,2023,births_by_birth_order,First birth,%,46.3,OECD
+Czechia,2023,births_by_birth_order,Second birth,%,39.1,OECD
+Czechia,2023,births_by_birth_order,Third birth or higher,%,14.6,OECD
+Estonia,2023,births_by_birth_order,First birth,%,39.7,OECD
+Estonia,2023,births_by_birth_order,Second birth,%,33.9,OECD
+Estonia,2023,births_by_birth_order,Third birth or higher,%,26.4,OECD
+Finland,2023,births_by_birth_order,First birth,%,43.4,OECD
+Finland,2023,births_by_birth_order,Second birth,%,33.9,OECD
+Finland,2023,births_by_birth_order,Third birth or higher,%,22.6,OECD
+Greece,2023,births_by_birth_order,First birth,%,47.5,OECD
+Greece,2023,births_by_birth_order,Second birth,%,37.3,OECD
+Greece,2023,births_by_birth_order,Third birth or higher,%,15.2,OECD
+Iceland,2023,births_by_birth_order,First birth,%,41.9,OECD
+Iceland,2023,births_by_birth_order,Second birth,%,38.3,OECD
+Iceland,2023,births_by_birth_order,Third birth or higher,%,19.8,OECD
+Latvia,2023,births_by_birth_order,First birth,%,39.2,OECD
+Latvia,2023,births_by_birth_order,Second birth,%,35.3,OECD
+Latvia,2023,births_by_birth_order,Third birth or higher,%,25.5,OECD
+Lithuania,2023,births_by_birth_order,First birth,%,46.4,OECD
+Lithuania,2023,births_by_birth_order,Second birth,%,37.6,OECD
+Lithuania,2023,births_by_birth_order,Third birth or higher,%,16.0,OECD
+Luxembourg,2023,births_by_birth_order,First birth,%,54.5,OECD
+Luxembourg,2023,births_by_birth_order,Second birth,%,31.8,OECD
+Luxembourg,2023,births_by_birth_order,Third birth or higher,%,13.7,OECD
+Netherlands,2023,births_by_birth_order,First birth,%,46.0,OECD
+Netherlands,2023,births_by_birth_order,Second birth,%,36.5,OECD
+Netherlands,2023,births_by_birth_order,Third birth or higher,%,17.6,OECD
+Norway,2023,births_by_birth_order,First birth,%,44.1,OECD
+Norway,2023,births_by_birth_order,Second birth,%,38.3,OECD
+Norway,2023,births_by_birth_order,Third birth or higher,%,17.7,OECD
+Poland,2023,births_by_birth_order,First birth,%,44.8,OECD
+Poland,2023,births_by_birth_order,Second birth,%,33.5,OECD
+Poland,2023,births_by_birth_order,Third birth or higher,%,21.7,OECD
+Slovenia,2023,births_by_birth_order,First birth,%,46.4,OECD
+Slovenia,2023,births_by_birth_order,Second birth,%,37.6,OECD
+Slovenia,2023,births_by_birth_order,Third birth or higher,%,15.9,OECD
+Spain,2023,births_by_birth_order,First birth,%,50.3,OECD
+Spain,2023,births_by_birth_order,Second birth,%,36.1,OECD
+Spain,2023,births_by_birth_order,Third birth or higher,%,13.6,OECD
+Switzerland,2023,births_by_birth_order,First birth,%,48.5,OECD
+Switzerland,2023,births_by_birth_order,Second birth,%,37.1,OECD
+Switzerland,2023,births_by_birth_order,Third birth or higher,%,14.4,OECD
+Romania,2023,births_by_birth_order,First birth,%,49.9,OECD
+Romania,2023,births_by_birth_order,Second birth,%,30.8,OECD
+Romania,2023,births_by_birth_order,Third birth or higher,%,19.3,OECD
