@@ -1,19 +1,559 @@
-country,gender,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
-Australia,Male,26.5,26.7,26.9,27.0,27.2,27.3,27.6,27.8,27.9,28.2,28.5,28.7,29.0,29.2,29.4,29.5,29.6,29.6,29.6,29.6,29.6,29.7,29.8,29.9,30.0,30.1,30.3,30.4,30.7,30.7,30.6
-Australia,Female,24.3,24.5,24.7,24.8,25.1,25.3,25.7,25.9,26.2,26.4,26.7,26.9,27.1,27.3,27.5,27.6,27.6,27.6,27.7,27.7,27.9,28.0,28.1,28.3,28.4,28.5,28.7,28.8,29.2,29.3,29.2
-Czechia,Male,24.3,24.3,24.5,24.7,25.1,25.5,25.9,26.5,26.8,27.2,27.6,27.9,28.4,28.8,29.1,29.4,29.7,30.0,30.2,30.6,30.8,31.0,31.2,31.3,31.4,31.6,31.7,31.8,31.9,32.0,32.4
-Czechia,Female,21.6,21.6,21.9,22.1,22.4,22.8,23.1,23.6,23.8,24.2,24.6,25.0,25.4,25.8,26.1,26.4,26.8,27.0,27.2,27.6,27.9,28.1,28.3,28.5,28.7,28.8,29.0,29.1,29.2,29.4,29.7
-Denmark,Male,30.5,30.6,31.0,31.4,31.8,31.9,32.5,32.2,32.4,32.5,32.5,32.6,32.7,33.2,33.4,33.4,33.4,33.6,33.8,33.5,33.6,33.8,34.3,34.4,34.4,34.3,34.7,34.8,34.9,35.1,35.3
-Denmark,Female,27.8,28.0,28.3,28.8,29.2,29.2,29.9,30.1,29.8,30.0,29.9,29.9,30.1,30.6,30.9,30.9,30.9,31.3,31.4,31.1,31.2,31.4,31.8,31.9,31.9,31.9,32.2,32.4,32.5,32.8,33.0
-Greece,Male,29.0,29.3,29.6,29.7,29.9,30.1,30.2,30.6,30.8,31.0,31.1,31.2,31.5,31.7,31.8,32.0,32.2,32.4,32.4,32.5,32.6,32.7,32.8,32.9,33.0,33.2,33.2,33.3,33.4,33.7,33.8
-Greece,Female,24.9,25.2,25.5,25.5,25.8,26.0,26.3,26.6,26.8,26.9,27.2,27.3,27.6,27.9,28.0,28.3,28.6,28.8,28.9,29.0,29.3,29.4,29.5,29.7,29.9,30.1,30.1,30.3,30.3,30.7,30.7
-Japan,Male,28.4,28.4,28.4,28.4,28.5,28.5,28.5,28.5,28.6,28.7,28.8,29.0,29.1,29.4,29.6,29.8,30.0,30.1,30.2,30.4,30.5,30.7,30.8,30.9,31.1,31.1,31.1,31.1,31.1,31.2,31.0
-Japan,Female,25.9,25.9,26.0,26.1,26.2,26.3,26.4,26.6,26.7,26.8,27.0,27.2,27.4,27.6,27.8,28.0,28.2,28.3,28.5,28.6,28.8,29.0,29.2,29.3,29.4,29.4,29.4,29.4,29.4,29.6,29.4
-Korea,Male,27.8,27.9,28.0,28.1,28.2,28.4,28.4,28.6,28.8,29.1,29.3,29.6,29.8,30.1,30.5,30.9,31.0,31.1,31.4,31.6,31.8,31.9,32.1,32.2,32.4,32.6,32.8,32.9,33.2,33.4,33.2
-Korea,Female,24.8,24.8,24.9,25.0,25.1,25.3,25.5,25.7,26.0,26.3,26.5,26.8,27.0,27.3,27.5,27.7,27.8,28.1,28.3,28.7,28.9,29.1,29.4,29.6,29.8,30.0,30.1,30.2,30.4,30.6,30.8
-New Zealand,Male,26.8,26.9,27.0,27.3,27.5,27.8,28.1,28.3,28.6,28.9,29.2,29.3,29.4,29.5,29.9,30.1,30.0,30.0,30.0,29.8,29.9,29.9,30.0,30.1,30.2,30.2,30.3,30.2,30.4,30.6,30.6
-New Zealand,Female,24.5,24.6,24.9,25.2,25.5,25.8,26.1,26.5,26.7,27.0,27.4,27.5,27.6,27.7,28.1,28.2,28.3,28.2,28.2,28.2,28.2,28.4,28.5,28.6,28.7,28.8,29.0,29.0,29.2,29.4,29.5
-Slovenia,Male,26.9,26.9,27.4,27.8,28.0,28.1,28.4,28.8,29.2,29.6,29.9,30.3,30.7,30.7,30.9,31.5,31.1,31.2,31.3,31.2,31.7,32.0,32.1,32.3,32.2,32.3,32.6,32.9,33.7,33.9,33.6
-Slovenia,Female,23.9,24.1,24.4,24.8,25.1,25.3,25.6,25.9,26.2,26.5,27.0,27.3,27.7,27.8,28.1,28.7,28.4,28.6,28.6,28.5,29.0,29.4,29.4,29.6,29.7,30.0,30.3,30.4,31.2,31.2,31.1
-United States,Male,26.1,26.3,26.5,26.5,26.7,26.9,27.1,26.8,26.7,26.9,26.8,26.9,26.9,27.1,27.4,27.1,27.5,27.5,27.6,28.1,28.2,28.4,28.6,29.0,29.3,29.2,29.5,29.5,29.8,29.8,30.5
-United States,Female,23.9,24.1,24.4,24.5,24.5,24.5,24.8,25.0,25.0,25.1,25.1,25.1,25.3,25.3,25.3,25.3,25.5,25.6,25.9,25.9,26.1,26.4,26.6,26.6,27.0,27.1,27.4,27.4,27.8,28.0,28.1
+country,year,value,category,sex,indicator,unit,source
+Australia,1990,26.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1990,24.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1990,24.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1990,21.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1990,30.5,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1990,27.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1990,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1990,24.9,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1990,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1990,25.9,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1990,27.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1990,24.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1990,26.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1990,24.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1990,26.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1990,23.9,total,all,divorce_rates_per_1000,‰,OECD
+United States,1990,26.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,1990,23.9,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1991,26.7,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1991,24.5,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1991,24.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1991,21.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1991,30.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1991,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1991,29.3,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1991,25.2,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1991,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1991,25.9,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1991,27.9,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1991,24.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1991,26.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1991,24.6,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1991,26.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1991,24.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,1991,26.3,total,all,divorce_rates_per_1000,‰,OECD
+United States,1991,24.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1992,26.9,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1992,24.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1992,24.5,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1992,21.9,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1992,31.0,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1992,28.3,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1992,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1992,25.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1992,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1992,26.0,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1992,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1992,24.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1992,27.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1992,24.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1992,27.4,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1992,24.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,1992,26.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,1992,24.4,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1993,27.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1993,24.8,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1993,24.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1993,22.1,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1993,31.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1993,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1993,29.7,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1993,25.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1993,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1993,26.1,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1993,28.1,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1993,25.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1993,27.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1993,25.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1993,27.8,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1993,24.8,total,all,divorce_rates_per_1000,‰,OECD
+United States,1993,26.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,1993,24.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1994,27.2,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1994,25.1,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1994,25.1,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1994,22.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1994,31.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1994,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1994,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1994,25.8,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1994,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1994,26.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1994,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1994,25.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1994,27.5,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1994,25.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1994,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1994,25.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,1994,26.7,total,all,divorce_rates_per_1000,‰,OECD
+United States,1994,24.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1995,27.3,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1995,25.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1995,25.5,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1995,22.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1995,31.9,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1995,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1995,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1995,26.0,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1995,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1995,26.3,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1995,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1995,25.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1995,27.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1995,25.8,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1995,28.1,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1995,25.3,total,all,divorce_rates_per_1000,‰,OECD
+United States,1995,26.9,total,all,divorce_rates_per_1000,‰,OECD
+United States,1995,24.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1996,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1996,25.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1996,25.9,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1996,23.1,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1996,32.5,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1996,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1996,30.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1996,26.3,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1996,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1996,26.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1996,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1996,25.5,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1996,28.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1996,26.1,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1996,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1996,25.6,total,all,divorce_rates_per_1000,‰,OECD
+United States,1996,27.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,1996,24.8,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1997,27.8,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1997,25.9,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1997,26.5,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1997,23.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1997,32.2,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1997,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1997,30.6,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1997,26.6,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1997,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1997,26.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1997,28.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1997,25.7,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1997,28.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1997,26.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1997,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1997,25.9,total,all,divorce_rates_per_1000,‰,OECD
+United States,1997,26.8,total,all,divorce_rates_per_1000,‰,OECD
+United States,1997,25.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1998,27.9,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1998,26.2,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1998,26.8,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1998,23.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1998,32.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1998,29.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1998,30.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1998,26.8,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1998,28.6,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1998,26.7,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1998,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1998,26.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1998,28.6,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1998,26.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1998,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1998,26.2,total,all,divorce_rates_per_1000,‰,OECD
+United States,1998,26.7,total,all,divorce_rates_per_1000,‰,OECD
+United States,1998,25.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1999,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Australia,1999,26.4,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1999,27.2,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,1999,24.2,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1999,32.5,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,1999,30.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1999,31.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,1999,26.9,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1999,28.7,total,all,divorce_rates_per_1000,‰,OECD
+Japan,1999,26.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1999,29.1,total,all,divorce_rates_per_1000,‰,OECD
+Korea,1999,26.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1999,28.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,1999,27.0,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1999,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,1999,26.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,1999,26.9,total,all,divorce_rates_per_1000,‰,OECD
+United States,1999,25.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2000,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2000,26.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2000,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2000,24.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2000,32.5,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2000,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2000,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2000,27.2,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2000,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2000,27.0,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2000,29.3,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2000,26.5,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2000,29.2,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2000,27.4,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2000,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2000,27.0,total,all,divorce_rates_per_1000,‰,OECD
+United States,2000,26.8,total,all,divorce_rates_per_1000,‰,OECD
+United States,2000,25.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2001,28.7,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2001,26.9,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2001,27.9,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2001,25.0,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2001,32.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2001,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2001,31.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2001,27.3,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2001,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2001,27.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2001,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2001,26.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2001,29.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2001,27.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2001,30.3,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2001,27.3,total,all,divorce_rates_per_1000,‰,OECD
+United States,2001,26.9,total,all,divorce_rates_per_1000,‰,OECD
+United States,2001,25.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2002,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2002,27.1,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2002,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2002,25.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2002,32.7,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2002,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2002,31.5,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2002,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2002,29.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2002,27.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2002,29.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2002,27.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2002,29.4,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2002,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2002,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2002,27.7,total,all,divorce_rates_per_1000,‰,OECD
+United States,2002,26.9,total,all,divorce_rates_per_1000,‰,OECD
+United States,2002,25.3,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2003,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2003,27.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2003,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2003,25.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2003,33.2,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2003,30.6,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2003,31.7,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2003,27.9,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2003,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2003,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2003,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2003,27.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2003,29.5,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2003,27.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2003,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2003,27.8,total,all,divorce_rates_per_1000,‰,OECD
+United States,2003,27.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,2003,25.3,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2004,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2004,27.5,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2004,29.1,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2004,26.1,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2004,33.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2004,30.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2004,31.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2004,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2004,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2004,27.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2004,30.5,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2004,27.5,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2004,29.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2004,28.1,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2004,30.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2004,28.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,2004,27.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,2004,25.3,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2005,29.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2005,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2005,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2005,26.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2005,33.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2005,30.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2005,32.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2005,28.3,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2005,29.8,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2005,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2005,30.9,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2005,27.7,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2005,30.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2005,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2005,31.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2005,28.7,total,all,divorce_rates_per_1000,‰,OECD
+United States,2005,27.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,2005,25.3,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2006,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2006,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2006,29.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2006,26.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2006,33.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2006,30.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2006,32.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2006,28.6,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2006,30.0,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2006,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2006,31.0,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2006,27.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2006,30.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2006,28.3,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2006,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2006,28.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,2006,27.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,2006,25.5,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2007,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2007,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2007,30.0,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2007,27.0,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2007,33.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2007,31.3,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2007,32.4,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2007,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2007,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2007,28.3,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2007,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2007,28.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2007,30.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2007,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2007,31.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2007,28.6,total,all,divorce_rates_per_1000,‰,OECD
+United States,2007,27.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,2007,25.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2008,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2008,27.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2008,30.2,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2008,27.2,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2008,33.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2008,31.4,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2008,32.4,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2008,28.9,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2008,30.2,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2008,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2008,31.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2008,28.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2008,30.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2008,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2008,31.3,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2008,28.6,total,all,divorce_rates_per_1000,‰,OECD
+United States,2008,27.6,total,all,divorce_rates_per_1000,‰,OECD
+United States,2008,25.9,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2009,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2009,27.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2009,30.6,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2009,27.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2009,33.5,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2009,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2009,32.5,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2009,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2009,30.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2009,28.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2009,31.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2009,28.7,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2009,29.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2009,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2009,31.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2009,28.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,2009,28.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,2009,25.9,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2010,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2010,27.9,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2010,30.8,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2010,27.9,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2010,33.6,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2010,31.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2010,32.6,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2010,29.3,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2010,30.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2010,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2010,31.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2010,28.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2010,29.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2010,28.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2010,31.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2010,29.0,total,all,divorce_rates_per_1000,‰,OECD
+United States,2010,28.2,total,all,divorce_rates_per_1000,‰,OECD
+United States,2010,26.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2011,29.7,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2011,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2011,31.0,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2011,28.1,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2011,33.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2011,31.4,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2011,32.7,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2011,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2011,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2011,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2011,31.9,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2011,29.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2011,29.9,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2011,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2011,32.0,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2011,29.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,2011,28.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,2011,26.4,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2012,29.8,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2012,28.1,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2012,31.2,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2012,28.3,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2012,34.3,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2012,31.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2012,32.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2012,29.5,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2012,30.8,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2012,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2012,32.1,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2012,29.4,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2012,30.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2012,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2012,32.1,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2012,29.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,2012,28.6,total,all,divorce_rates_per_1000,‰,OECD
+United States,2012,26.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2013,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2013,28.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2013,31.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2013,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2013,34.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2013,31.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2013,32.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2013,29.7,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2013,30.9,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2013,29.3,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2013,32.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2013,29.6,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2013,30.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2013,28.6,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2013,32.3,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2013,29.6,total,all,divorce_rates_per_1000,‰,OECD
+United States,2013,29.0,total,all,divorce_rates_per_1000,‰,OECD
+United States,2013,26.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2014,30.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2014,28.4,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2014,31.4,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2014,28.7,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2014,34.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2014,31.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2014,33.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2014,29.9,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2014,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2014,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2014,32.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2014,29.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2014,30.2,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2014,28.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2014,32.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2014,29.7,total,all,divorce_rates_per_1000,‰,OECD
+United States,2014,29.3,total,all,divorce_rates_per_1000,‰,OECD
+United States,2014,27.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2015,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2015,28.5,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2015,31.6,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2015,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2015,34.3,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2015,31.9,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2015,33.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2015,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2015,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2015,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2015,32.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2015,30.0,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2015,30.2,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2015,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2015,32.3,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2015,30.0,total,all,divorce_rates_per_1000,‰,OECD
+United States,2015,29.2,total,all,divorce_rates_per_1000,‰,OECD
+United States,2015,27.1,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2016,30.3,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2016,28.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2016,31.7,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2016,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2016,34.7,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2016,32.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2016,33.2,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2016,30.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2016,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2016,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2016,32.8,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2016,30.1,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2016,30.3,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2016,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2016,32.6,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2016,30.3,total,all,divorce_rates_per_1000,‰,OECD
+United States,2016,29.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,2016,27.4,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2017,30.4,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2017,28.8,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2017,31.8,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2017,29.1,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2017,34.8,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2017,32.4,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2017,33.3,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2017,30.3,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2017,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2017,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2017,32.9,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2017,30.2,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2017,30.2,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2017,29.0,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2017,32.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2017,30.4,total,all,divorce_rates_per_1000,‰,OECD
+United States,2017,29.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,2017,27.4,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2018,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2018,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2018,31.9,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2018,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2018,34.9,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2018,32.5,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2018,33.4,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2018,30.3,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2018,31.1,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2018,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2018,33.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2018,30.4,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2018,30.4,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2018,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2018,33.7,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2018,31.2,total,all,divorce_rates_per_1000,‰,OECD
+United States,2018,29.8,total,all,divorce_rates_per_1000,‰,OECD
+United States,2018,27.8,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2019,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2019,29.3,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2019,32.0,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2019,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2019,35.1,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2019,32.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2019,33.7,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2019,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2019,31.2,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2019,29.6,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2019,33.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2019,30.6,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2019,30.6,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2019,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2019,33.9,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2019,31.2,total,all,divorce_rates_per_1000,‰,OECD
+United States,2019,29.8,total,all,divorce_rates_per_1000,‰,OECD
+United States,2019,28.0,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2020,30.6,total,all,divorce_rates_per_1000,‰,OECD
+Australia,2020,29.2,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2020,32.4,total,all,divorce_rates_per_1000,‰,OECD
+Czechia,2020,29.7,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2020,35.3,total,all,divorce_rates_per_1000,‰,OECD
+Denmark,2020,33.0,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2020,33.8,total,all,divorce_rates_per_1000,‰,OECD
+Greece,2020,30.7,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2020,31.0,total,all,divorce_rates_per_1000,‰,OECD
+Japan,2020,29.4,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2020,33.2,total,all,divorce_rates_per_1000,‰,OECD
+Korea,2020,30.8,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2020,30.6,total,all,divorce_rates_per_1000,‰,OECD
+New Zealand,2020,29.5,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2020,33.6,total,all,divorce_rates_per_1000,‰,OECD
+Slovenia,2020,31.1,total,all,divorce_rates_per_1000,‰,OECD
+United States,2020,30.5,total,all,divorce_rates_per_1000,‰,OECD
+United States,2020,28.1,total,all,divorce_rates_per_1000,‰,OECD
