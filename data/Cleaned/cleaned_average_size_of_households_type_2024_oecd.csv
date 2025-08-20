@@ -1,40 +1,40 @@
-country,all_households,couple_households_with_children,single_parent_households_with_children
-Mexico,3.56,4.08,2.76
-Costa Rica,3.46,4.37,3.44
-Türkiye,3.2,4.1,2.8
-Israel,3.19,4.65,2.86
-Slovak Republic,3.1,3.8,2.5
-Iceland,2.7,4.12,2.61
-New Zealand,2.61,3.88,2.67
-Greece,2.6,3.8,2.5
-Croatia,2.6,3.9,2.6
-Australia,2.53,3.93,2.78
-Spain,2.5,3.7,2.4
-Cyprus,2.5,3.7,2.4
-Malta,2.5,3.7,2.5
-Romania,2.5,3.8,2.4
-Ireland,2.4,4.0,2.7
-Portugal,2.4,3.5,2.4
-Slovenia,2.4,3.9,2.5
-Czechia,2.3,3.7,2.4
-Hungary,2.3,3.7,2.4
-Luxembourg,2.3,3.7,2.5
-Poland,2.3,3.7,2.5
-United Kingdom,2.3,3.9,2.8
-Switzerland,2.21,4.02,2.58
-Korea,2.21,3.55,2.34
-Japan,2.21,3.85,2.73
-Austria,2.2,3.8,2.5
-Belgium,2.2,3.9,2.6
-Italy,2.2,3.6,2.4
-Bulgaria,2.2,3.5,2.3
-France,2.1,3.9,2.6
-Latvia,2.1,3.7,2.5
-Sweden,2.1,3.9,2.6
-Germany,2.0,3.8,2.5
-Netherlands,2.0,3.9,2.6
-Norway,2.0,3.9,2.4
-Denmark,1.9,3.9,2.5
-Finland,1.9,4.0,2.6
-Estonia,1.8,3.8,2.6
-Lithuania,1.7,3.7,2.4
+country,all_households,couple_households_with_children,single_parent_households_with_children,year
+Mexico,3.56,4.08,2.76,2024
+Costa Rica,3.46,4.37,3.44,2024
+Türkiye,3.2,4.1,2.8,2024
+Israel,3.19,4.65,2.86,2024
+Slovak Republic,3.1,3.8,2.5,2024
+Iceland,2.7,4.12,2.61,2024
+New Zealand,2.61,3.88,2.67,2024
+Greece,2.6,3.8,2.5,2024
+Croatia,2.6,3.9,2.6,2024
+Australia,2.53,3.93,2.78,2024
+Spain,2.5,3.7,2.4,2024
+Cyprus,2.5,3.7,2.4,2024
+Malta,2.5,3.7,2.5,2024
+Romania,2.5,3.8,2.4,2024
+Ireland,2.4,4.0,2.7,2024
+Portugal,2.4,3.5,2.4,2024
+Slovenia,2.4,3.9,2.5,2024
+Czechia,2.3,3.7,2.4,2024
+Hungary,2.3,3.7,2.4,2024
+Luxembourg,2.3,3.7,2.5,2024
+Poland,2.3,3.7,2.5,2024
+United Kingdom,2.3,3.9,2.8,2024
+Switzerland,2.21,4.02,2.58,2024
+Korea,2.21,3.55,2.34,2024
+Japan,2.21,3.85,2.73,2024
+Austria,2.2,3.8,2.5,2024
+Belgium,2.2,3.9,2.6,2024
+Italy,2.2,3.6,2.4,2024
+Bulgaria,2.2,3.5,2.3,2024
+France,2.1,3.9,2.6,2024
+Latvia,2.1,3.7,2.5,2024
+Sweden,2.1,3.9,2.6,2024
+Germany,2.0,3.8,2.5,2024
+Netherlands,2.0,3.9,2.6,2024
+Norway,2.0,3.9,2.4,2024
+Denmark,1.9,3.9,2.5,2024
+Finland,1.9,4.0,2.6,2024
+Estonia,1.8,3.8,2.6,2024
+Lithuania,1.7,3.7,2.4,2024
