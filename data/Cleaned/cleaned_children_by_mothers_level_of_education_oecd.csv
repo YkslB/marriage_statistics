@@ -1,289 +1,289 @@
-country,mothers_education,living_arrangement,value,unit,source
-Austria,low,married,75.09,%,OECD
-Belgium,low,married,48.73,%,OECD
-Czech Republic,low,married,41.37,%,OECD
-Estonia,low,married,36.65,%,OECD
-Finland,low,married,53.44,%,OECD
-France,low,married,56.08,%,OECD
-Greece,low,married,92.25,%,OECD
-Hungary,low,married,43.95,%,OECD
-Iceland,low,married,49.56,%,OECD
-Ireland,low,married,57.55,%,OECD
-Italy,low,married,84.6,%,OECD
-Latvia,low,married,26.92,%,OECD
-Lithuania,low,married,47.37,%,OECD
-Luxembourg,low,married,70.85,%,OECD
-Netherlands,low,married,73.72,%,OECD
-Norway,low,married,41.24,%,OECD
-Poland,low,married,63.43,%,OECD
-Portugal,low,married,61.61,%,OECD
-Slovak Republic,low,married,60.21,%,OECD
-Slovenia,low,married,71.04,%,OECD
-Spain,low,married,68.51,%,OECD
-Sweden,low,married,54.03,%,OECD
-Switzerland,low,married,88.14,%,OECD
-United Kingdom,low,married,46.29,%,OECD
-United States,low,married,58.11,%,OECD
-OECD average,low,married,59.77,%,OECD
-Bulgaria,low,married,33.77,%,OECD
-Croatia,low,married,84.93,%,OECD
-Cyprus,low,married,74.27,%,OECD
-Malta,low,married,74.03,%,OECD
-Romania,low,married,75.84,%,OECD
-EU average,low,married,61.75,%,OECD
-Austria,low,cohabiting,6.83,%,OECD
-Belgium,low,cohabiting,19.87,%,OECD
-Czech Republic,low,cohabiting,37.64,%,OECD
-Estonia,low,cohabiting,46.16,%,OECD
-Finland,low,cohabiting,23.43,%,OECD
-France,low,cohabiting,19.9,%,OECD
-Greece,low,cohabiting,1.48,%,OECD
-Hungary,low,cohabiting,30.85,%,OECD
-Iceland,low,cohabiting,28.69,%,OECD
-Ireland,low,cohabiting,13.78,%,OECD
-Italy,low,cohabiting,6.33,%,OECD
-Latvia,low,cohabiting,34.61,%,OECD
-Lithuania,low,cohabiting,28.21,%,OECD
-Luxembourg,low,cohabiting,9.87,%,OECD
-Netherlands,low,cohabiting,7.25,%,OECD
-Norway,low,cohabiting,20.84,%,OECD
-Poland,low,cohabiting,13.4,%,OECD
-Portugal,low,cohabiting,15.5,%,OECD
-Slovak Republic,low,cohabiting,15.51,%,OECD
-Slovenia,low,cohabiting,18.5,%,OECD
-Spain,low,cohabiting,12.85,%,OECD
-Sweden,low,cohabiting,15.78,%,OECD
-Switzerland,low,cohabiting,7.23,%,OECD
-United Kingdom,low,cohabiting,20.9,%,OECD
-United States,low,cohabiting,7.76,%,OECD
-OECD average,low,cohabiting,18.28,%,OECD
-Bulgaria,low,cohabiting,49.2,%,OECD
-Croatia,low,cohabiting,5.96,%,OECD
-Cyprus,low,cohabiting,9.58,%,OECD
-Malta,low,cohabiting,1.35,%,OECD
-Romania,low,cohabiting,13.64,%,OECD
-EU average,low,cohabiting,18.23,%,OECD
-Austria,low,mother,18.08,%,OECD
-Belgium,low,mother,31.39,%,OECD
-Czech Republic,low,mother,20.99,%,OECD
-Estonia,low,mother,17.19,%,OECD
-Finland,low,mother,23.13,%,OECD
-France,low,mother,24.01,%,OECD
-Greece,low,mother,6.27,%,OECD
-Hungary,low,mother,25.2,%,OECD
-Iceland,low,mother,21.75,%,OECD
-Ireland,low,mother,28.67,%,OECD
-Italy,low,mother,9.06,%,OECD
-Latvia,low,mother,38.47,%,OECD
-Lithuania,low,mother,24.42,%,OECD
-Luxembourg,low,mother,19.28,%,OECD
-Netherlands,low,mother,19.02,%,OECD
-Norway,low,mother,37.92,%,OECD
-Poland,low,mother,23.17,%,OECD
-Portugal,low,mother,22.89,%,OECD
-Slovak Republic,low,mother,24.28,%,OECD
-Slovenia,low,mother,10.46,%,OECD
-Spain,low,mother,18.63,%,OECD
-Sweden,low,mother,30.19,%,OECD
-Switzerland,low,mother,4.63,%,OECD
-United Kingdom,low,mother,32.8,%,OECD
-United States,low,mother,34.12,%,OECD
-OECD average,low,mother,21.95,%,OECD
-Bulgaria,low,mother,17.02,%,OECD
-Croatia,low,mother,9.11,%,OECD
-Cyprus,low,mother,16.15,%,OECD
-Malta,low,mother,24.63,%,OECD
-Romania,low,mother,10.52,%,OECD
-EU average,low,mother,20.01,%,OECD
-Austria,medium,married,71.38,%,OECD
-Belgium,medium,married,55.17,%,OECD
-Czech Republic,medium,married,68.66,%,OECD
-Estonia,medium,married,51.28,%,OECD
-Finland,medium,married,62.39,%,OECD
-France,medium,married,50.01,%,OECD
-Greece,medium,married,91.73,%,OECD
-Hungary,medium,married,61.27,%,OECD
-Iceland,medium,married,52.61,%,OECD
-Ireland,medium,married,64.3,%,OECD
-Italy,medium,married,77.97,%,OECD
-Latvia,medium,married,48.92,%,OECD
-Lithuania,medium,married,64.73,%,OECD
-Luxembourg,medium,married,80.42,%,OECD
-Netherlands,medium,married,74.66,%,OECD
-Norway,medium,married,52.26,%,OECD
-Poland,medium,married,73.41,%,OECD
-Portugal,medium,married,67.5,%,OECD
-Slovak Republic,medium,married,79.66,%,OECD
-Slovenia,medium,married,51.56,%,OECD
-Spain,medium,married,71.68,%,OECD
-Sweden,medium,married,55.78,%,OECD
-Switzerland,medium,married,79.09,%,OECD
-United Kingdom,medium,married,51.69,%,OECD
-United States,medium,married,61.04,%,OECD
-OECD average,medium,married,66.41,%,OECD
-Bulgaria,medium,married,70.31,%,OECD
-Croatia,medium,married,90.67,%,OECD
-Cyprus,medium,married,84.09,%,OECD
-Malta,medium,married,87.72,%,OECD
-Romania,medium,married,87.57,%,OECD
-EU average,medium,married,70.49,%,OECD
-Austria,medium,cohabiting,14.19,%,OECD
-Belgium,medium,cohabiting,20.82,%,OECD
-Czech Republic,medium,cohabiting,18.88,%,OECD
-Estonia,medium,cohabiting,30.84,%,OECD
-Finland,medium,cohabiting,22.57,%,OECD
-France,medium,cohabiting,29.15,%,OECD
-Greece,medium,cohabiting,0.21,%,OECD
-Hungary,medium,cohabiting,14.94,%,OECD
-Iceland,medium,cohabiting,29.14,%,OECD
-Ireland,medium,cohabiting,13.24,%,OECD
-Italy,medium,cohabiting,8.75,%,OECD
-Latvia,medium,cohabiting,19.53,%,OECD
-Lithuania,medium,cohabiting,9.59,%,OECD
-Luxembourg,medium,cohabiting,6.2,%,OECD
-Netherlands,medium,cohabiting,14.12,%,OECD
-Norway,medium,cohabiting,25.79,%,OECD
-Poland,medium,cohabiting,16.47,%,OECD
-Portugal,medium,cohabiting,16.31,%,OECD
-Slovak Republic,medium,cohabiting,6.17,%,OECD
-Slovenia,medium,cohabiting,33.65,%,OECD
-Spain,medium,cohabiting,11.48,%,OECD
-Sweden,medium,cohabiting,32.54,%,OECD
-Switzerland,medium,cohabiting,8.64,%,OECD
-United Kingdom,medium,cohabiting,20.33,%,OECD
-United States,medium,cohabiting,5.83,%,OECD
-OECD average,medium,cohabiting,15.26,%,OECD
-Bulgaria,medium,cohabiting,15.86,%,OECD
-Croatia,medium,cohabiting,2.24,%,OECD
-Cyprus,medium,cohabiting,2.98,%,OECD
-Malta,medium,cohabiting,1.96,%,OECD
-Romania,medium,cohabiting,5.14,%,OECD
-EU average,medium,cohabiting,13.58,%,OECD
-Austria,medium,mother,14.44,%,OECD
-Belgium,medium,mother,24.01,%,OECD
-Czech Republic,medium,mother,12.47,%,OECD
-Estonia,medium,mother,17.88,%,OECD
-Finland,medium,mother,15.04,%,OECD
-France,medium,mother,20.84,%,OECD
-Greece,medium,mother,8.06,%,OECD
-Hungary,medium,mother,23.8,%,OECD
-Iceland,medium,mother,18.25,%,OECD
-Ireland,medium,mother,22.46,%,OECD
-Italy,medium,mother,13.27,%,OECD
-Latvia,medium,mother,31.55,%,OECD
-Lithuania,medium,mother,25.68,%,OECD
-Luxembourg,medium,mother,13.38,%,OECD
-Netherlands,medium,mother,11.22,%,OECD
-Norway,medium,mother,21.95,%,OECD
-Poland,medium,mother,10.13,%,OECD
-Portugal,medium,mother,16.19,%,OECD
-Slovak Republic,medium,mother,14.17,%,OECD
-Slovenia,medium,mother,14.79,%,OECD
-Spain,medium,mother,16.84,%,OECD
-Sweden,medium,mother,11.68,%,OECD
-Switzerland,medium,mother,12.27,%,OECD
-United Kingdom,medium,mother,27.98,%,OECD
-United States,medium,mother,33.13,%,OECD
-OECD average,medium,mother,18.33,%,OECD
-Bulgaria,medium,mother,13.83,%,OECD
-Croatia,medium,mother,7.09,%,OECD
-Cyprus,medium,mother,12.93,%,OECD
-Malta,medium,mother,10.32,%,OECD
-Romania,medium,mother,7.28,%,OECD
-EU average,medium,mother,15.94,%,OECD
-Austria,high,married,74.76,%,OECD
-Belgium,high,married,64.22,%,OECD
-Czech Republic,high,married,80.04,%,OECD
-Estonia,high,married,59.41,%,OECD
-Finland,high,married,77.02,%,OECD
-France,high,married,61.01,%,OECD
-Greece,high,married,93.62,%,OECD
-Hungary,high,married,81.07,%,OECD
-Iceland,high,married,63.7,%,OECD
-Ireland,high,married,79.16,%,OECD
-Italy,high,married,81.7,%,OECD
-Latvia,high,married,66.42,%,OECD
-Lithuania,high,married,79.06,%,OECD
-Luxembourg,high,married,86.17,%,OECD
-Netherlands,high,married,73.79,%,OECD
-Norway,high,married,66.2,%,OECD
-Poland,high,married,80.1,%,OECD
-Portugal,high,married,78.34,%,OECD
-Slovak Republic,high,married,85.77,%,OECD
-Slovenia,high,married,61.76,%,OECD
-Spain,high,married,83.48,%,OECD
-Sweden,high,married,65.09,%,OECD
-Switzerland,high,married,80.38,%,OECD
-United Kingdom,high,married,78.63,%,OECD
-United States,high,married,81.91,%,OECD
-OECD average,high,married,77.17,%,OECD
-Bulgaria,high,married,81.24,%,OECD
-Croatia,high,married,90.12,%,OECD
-Cyprus,high,married,91.58,%,OECD
-Malta,high,married,87.89,%,OECD
-Romania,high,married,91.88,%,OECD
-EU average,high,married,79.44,%,OECD
-Austria,high,cohabiting,13.8,%,OECD
-Belgium,high,cohabiting,23.75,%,OECD
-Czech Republic,high,cohabiting,13.1,%,OECD
-Estonia,high,cohabiting,28.64,%,OECD
-Finland,high,cohabiting,15.31,%,OECD
-France,high,cohabiting,27.65,%,OECD
-Greece,high,cohabiting,0.69,%,OECD
-Hungary,high,cohabiting,7.57,%,OECD
-Iceland,high,cohabiting,23.26,%,OECD
-Ireland,high,cohabiting,9.23,%,OECD
-Italy,high,cohabiting,8.56,%,OECD
-Latvia,high,cohabiting,13.67,%,OECD
-Lithuania,high,cohabiting,3.62,%,OECD
-Luxembourg,high,cohabiting,6.63,%,OECD
-Netherlands,high,cohabiting,17.91,%,OECD
-Norway,high,cohabiting,23.45,%,OECD
-Poland,high,cohabiting,14.16,%,OECD
-Portugal,high,cohabiting,11.2,%,OECD
-Slovak Republic,high,cohabiting,7.77,%,OECD
-Slovenia,high,cohabiting,29.3,%,OECD
-Spain,high,cohabiting,7.49,%,OECD
-Sweden,high,cohabiting,26.01,%,OECD
-Switzerland,high,cohabiting,7.64,%,OECD
-United Kingdom,high,cohabiting,8.97,%,OECD
-United States,high,cohabiting,1.88,%,OECD
-OECD average,high,cohabiting,12.2,%,OECD
-Bulgaria,high,cohabiting,9.25,%,OECD
-Croatia,high,cohabiting,3.75,%,OECD
-Cyprus,high,cohabiting,1.75,%,OECD
-Malta,high,cohabiting,2.49,%,OECD
-Romania,high,cohabiting,0.44,%,OECD
-EU average,high,cohabiting,10.77,%,OECD
-Austria,high,mother,11.44,%,OECD
-Belgium,high,mother,12.02,%,OECD
-Czech Republic,high,mother,6.85,%,OECD
-Estonia,high,mother,11.95,%,OECD
-Finland,high,mother,7.67,%,OECD
-France,high,mother,11.34,%,OECD
-Greece,high,mother,5.69,%,OECD
-Hungary,high,mother,11.36,%,OECD
-Iceland,high,mother,13.04,%,OECD
-Ireland,high,mother,11.61,%,OECD
-Italy,high,mother,9.74,%,OECD
-Latvia,high,mother,19.91,%,OECD
-Lithuania,high,mother,17.32,%,OECD
-Luxembourg,high,mother,7.2,%,OECD
-Netherlands,high,mother,8.31,%,OECD
-Norway,high,mother,10.36,%,OECD
-Poland,high,mother,5.74,%,OECD
-Portugal,high,mother,10.46,%,OECD
-Slovak Republic,high,mother,6.45,%,OECD
-Slovenia,high,mother,8.94,%,OECD
-Spain,high,mother,9.03,%,OECD
-Sweden,high,mother,8.9,%,OECD
-Switzerland,high,mother,11.98,%,OECD
-United Kingdom,high,mother,12.4,%,OECD
-United States,high,mother,16.21,%,OECD
-OECD average,high,mother,10.63,%,OECD
-Bulgaria,high,mother,9.51,%,OECD
-Croatia,high,mother,6.13,%,OECD
-Cyprus,high,mother,6.67,%,OECD
-Malta,high,mother,9.62,%,OECD
-Romania,high,mother,7.67,%,OECD
-EU average,high,mother,9.8,%,OECD
+country,mothers_education,living_arrangement,value,unit,source,indicator,year
+Austria,low,married,75.09,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,low,married,48.73,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,low,married,41.37,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,low,married,36.65,%,OECD,children_by_mothers_level_of_education,2016
+Finland,low,married,53.44,%,OECD,children_by_mothers_level_of_education,2016
+France,low,married,56.08,%,OECD,children_by_mothers_level_of_education,2016
+Greece,low,married,92.25,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,low,married,43.95,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,low,married,49.56,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,low,married,57.55,%,OECD,children_by_mothers_level_of_education,2016
+Italy,low,married,84.6,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,low,married,26.92,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,low,married,47.37,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,low,married,70.85,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,low,married,73.72,%,OECD,children_by_mothers_level_of_education,2016
+Norway,low,married,41.24,%,OECD,children_by_mothers_level_of_education,2016
+Poland,low,married,63.43,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,low,married,61.61,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,low,married,60.21,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,low,married,71.04,%,OECD,children_by_mothers_level_of_education,2016
+Spain,low,married,68.51,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,low,married,54.03,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,low,married,88.14,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,low,married,46.29,%,OECD,children_by_mothers_level_of_education,2016
+United States,low,married,58.11,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,low,married,59.77,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,low,married,33.77,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,low,married,84.93,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,low,married,74.27,%,OECD,children_by_mothers_level_of_education,2016
+Malta,low,married,74.03,%,OECD,children_by_mothers_level_of_education,2016
+Romania,low,married,75.84,%,OECD,children_by_mothers_level_of_education,2016
+EU average,low,married,61.75,%,OECD,children_by_mothers_level_of_education,2016
+Austria,low,cohabiting,6.83,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,low,cohabiting,19.87,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,low,cohabiting,37.64,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,low,cohabiting,46.16,%,OECD,children_by_mothers_level_of_education,2016
+Finland,low,cohabiting,23.43,%,OECD,children_by_mothers_level_of_education,2016
+France,low,cohabiting,19.9,%,OECD,children_by_mothers_level_of_education,2016
+Greece,low,cohabiting,1.48,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,low,cohabiting,30.85,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,low,cohabiting,28.69,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,low,cohabiting,13.78,%,OECD,children_by_mothers_level_of_education,2016
+Italy,low,cohabiting,6.33,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,low,cohabiting,34.61,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,low,cohabiting,28.21,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,low,cohabiting,9.87,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,low,cohabiting,7.25,%,OECD,children_by_mothers_level_of_education,2016
+Norway,low,cohabiting,20.84,%,OECD,children_by_mothers_level_of_education,2016
+Poland,low,cohabiting,13.4,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,low,cohabiting,15.5,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,low,cohabiting,15.51,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,low,cohabiting,18.5,%,OECD,children_by_mothers_level_of_education,2016
+Spain,low,cohabiting,12.85,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,low,cohabiting,15.78,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,low,cohabiting,7.23,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,low,cohabiting,20.9,%,OECD,children_by_mothers_level_of_education,2016
+United States,low,cohabiting,7.76,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,low,cohabiting,18.28,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,low,cohabiting,49.2,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,low,cohabiting,5.96,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,low,cohabiting,9.58,%,OECD,children_by_mothers_level_of_education,2016
+Malta,low,cohabiting,1.35,%,OECD,children_by_mothers_level_of_education,2016
+Romania,low,cohabiting,13.64,%,OECD,children_by_mothers_level_of_education,2016
+EU average,low,cohabiting,18.23,%,OECD,children_by_mothers_level_of_education,2016
+Austria,low,mother,18.08,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,low,mother,31.39,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,low,mother,20.99,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,low,mother,17.19,%,OECD,children_by_mothers_level_of_education,2016
+Finland,low,mother,23.13,%,OECD,children_by_mothers_level_of_education,2016
+France,low,mother,24.01,%,OECD,children_by_mothers_level_of_education,2016
+Greece,low,mother,6.27,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,low,mother,25.2,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,low,mother,21.75,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,low,mother,28.67,%,OECD,children_by_mothers_level_of_education,2016
+Italy,low,mother,9.06,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,low,mother,38.47,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,low,mother,24.42,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,low,mother,19.28,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,low,mother,19.02,%,OECD,children_by_mothers_level_of_education,2016
+Norway,low,mother,37.92,%,OECD,children_by_mothers_level_of_education,2016
+Poland,low,mother,23.17,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,low,mother,22.89,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,low,mother,24.28,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,low,mother,10.46,%,OECD,children_by_mothers_level_of_education,2016
+Spain,low,mother,18.63,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,low,mother,30.19,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,low,mother,4.63,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,low,mother,32.8,%,OECD,children_by_mothers_level_of_education,2016
+United States,low,mother,34.12,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,low,mother,21.95,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,low,mother,17.02,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,low,mother,9.11,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,low,mother,16.15,%,OECD,children_by_mothers_level_of_education,2016
+Malta,low,mother,24.63,%,OECD,children_by_mothers_level_of_education,2016
+Romania,low,mother,10.52,%,OECD,children_by_mothers_level_of_education,2016
+EU average,low,mother,20.01,%,OECD,children_by_mothers_level_of_education,2016
+Austria,medium,married,71.38,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,medium,married,55.17,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,medium,married,68.66,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,medium,married,51.28,%,OECD,children_by_mothers_level_of_education,2016
+Finland,medium,married,62.39,%,OECD,children_by_mothers_level_of_education,2016
+France,medium,married,50.01,%,OECD,children_by_mothers_level_of_education,2016
+Greece,medium,married,91.73,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,medium,married,61.27,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,medium,married,52.61,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,medium,married,64.3,%,OECD,children_by_mothers_level_of_education,2016
+Italy,medium,married,77.97,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,medium,married,48.92,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,medium,married,64.73,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,medium,married,80.42,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,medium,married,74.66,%,OECD,children_by_mothers_level_of_education,2016
+Norway,medium,married,52.26,%,OECD,children_by_mothers_level_of_education,2016
+Poland,medium,married,73.41,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,medium,married,67.5,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,medium,married,79.66,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,medium,married,51.56,%,OECD,children_by_mothers_level_of_education,2016
+Spain,medium,married,71.68,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,medium,married,55.78,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,medium,married,79.09,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,medium,married,51.69,%,OECD,children_by_mothers_level_of_education,2016
+United States,medium,married,61.04,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,medium,married,66.41,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,medium,married,70.31,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,medium,married,90.67,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,medium,married,84.09,%,OECD,children_by_mothers_level_of_education,2016
+Malta,medium,married,87.72,%,OECD,children_by_mothers_level_of_education,2016
+Romania,medium,married,87.57,%,OECD,children_by_mothers_level_of_education,2016
+EU average,medium,married,70.49,%,OECD,children_by_mothers_level_of_education,2016
+Austria,medium,cohabiting,14.19,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,medium,cohabiting,20.82,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,medium,cohabiting,18.88,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,medium,cohabiting,30.84,%,OECD,children_by_mothers_level_of_education,2016
+Finland,medium,cohabiting,22.57,%,OECD,children_by_mothers_level_of_education,2016
+France,medium,cohabiting,29.15,%,OECD,children_by_mothers_level_of_education,2016
+Greece,medium,cohabiting,0.21,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,medium,cohabiting,14.94,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,medium,cohabiting,29.14,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,medium,cohabiting,13.24,%,OECD,children_by_mothers_level_of_education,2016
+Italy,medium,cohabiting,8.75,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,medium,cohabiting,19.53,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,medium,cohabiting,9.59,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,medium,cohabiting,6.2,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,medium,cohabiting,14.12,%,OECD,children_by_mothers_level_of_education,2016
+Norway,medium,cohabiting,25.79,%,OECD,children_by_mothers_level_of_education,2016
+Poland,medium,cohabiting,16.47,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,medium,cohabiting,16.31,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,medium,cohabiting,6.17,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,medium,cohabiting,33.65,%,OECD,children_by_mothers_level_of_education,2016
+Spain,medium,cohabiting,11.48,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,medium,cohabiting,32.54,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,medium,cohabiting,8.64,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,medium,cohabiting,20.33,%,OECD,children_by_mothers_level_of_education,2016
+United States,medium,cohabiting,5.83,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,medium,cohabiting,15.26,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,medium,cohabiting,15.86,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,medium,cohabiting,2.24,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,medium,cohabiting,2.98,%,OECD,children_by_mothers_level_of_education,2016
+Malta,medium,cohabiting,1.96,%,OECD,children_by_mothers_level_of_education,2016
+Romania,medium,cohabiting,5.14,%,OECD,children_by_mothers_level_of_education,2016
+EU average,medium,cohabiting,13.58,%,OECD,children_by_mothers_level_of_education,2016
+Austria,medium,mother,14.44,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,medium,mother,24.01,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,medium,mother,12.47,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,medium,mother,17.88,%,OECD,children_by_mothers_level_of_education,2016
+Finland,medium,mother,15.04,%,OECD,children_by_mothers_level_of_education,2016
+France,medium,mother,20.84,%,OECD,children_by_mothers_level_of_education,2016
+Greece,medium,mother,8.06,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,medium,mother,23.8,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,medium,mother,18.25,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,medium,mother,22.46,%,OECD,children_by_mothers_level_of_education,2016
+Italy,medium,mother,13.27,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,medium,mother,31.55,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,medium,mother,25.68,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,medium,mother,13.38,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,medium,mother,11.22,%,OECD,children_by_mothers_level_of_education,2016
+Norway,medium,mother,21.95,%,OECD,children_by_mothers_level_of_education,2016
+Poland,medium,mother,10.13,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,medium,mother,16.19,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,medium,mother,14.17,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,medium,mother,14.79,%,OECD,children_by_mothers_level_of_education,2016
+Spain,medium,mother,16.84,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,medium,mother,11.68,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,medium,mother,12.27,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,medium,mother,27.98,%,OECD,children_by_mothers_level_of_education,2016
+United States,medium,mother,33.13,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,medium,mother,18.33,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,medium,mother,13.83,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,medium,mother,7.09,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,medium,mother,12.93,%,OECD,children_by_mothers_level_of_education,2016
+Malta,medium,mother,10.32,%,OECD,children_by_mothers_level_of_education,2016
+Romania,medium,mother,7.28,%,OECD,children_by_mothers_level_of_education,2016
+EU average,medium,mother,15.94,%,OECD,children_by_mothers_level_of_education,2016
+Austria,high,married,74.76,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,high,married,64.22,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,high,married,80.04,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,high,married,59.41,%,OECD,children_by_mothers_level_of_education,2016
+Finland,high,married,77.02,%,OECD,children_by_mothers_level_of_education,2016
+France,high,married,61.01,%,OECD,children_by_mothers_level_of_education,2016
+Greece,high,married,93.62,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,high,married,81.07,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,high,married,63.7,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,high,married,79.16,%,OECD,children_by_mothers_level_of_education,2016
+Italy,high,married,81.7,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,high,married,66.42,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,high,married,79.06,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,high,married,86.17,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,high,married,73.79,%,OECD,children_by_mothers_level_of_education,2016
+Norway,high,married,66.2,%,OECD,children_by_mothers_level_of_education,2016
+Poland,high,married,80.1,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,high,married,78.34,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,high,married,85.77,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,high,married,61.76,%,OECD,children_by_mothers_level_of_education,2016
+Spain,high,married,83.48,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,high,married,65.09,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,high,married,80.38,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,high,married,78.63,%,OECD,children_by_mothers_level_of_education,2016
+United States,high,married,81.91,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,high,married,77.17,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,high,married,81.24,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,high,married,90.12,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,high,married,91.58,%,OECD,children_by_mothers_level_of_education,2016
+Malta,high,married,87.89,%,OECD,children_by_mothers_level_of_education,2016
+Romania,high,married,91.88,%,OECD,children_by_mothers_level_of_education,2016
+EU average,high,married,79.44,%,OECD,children_by_mothers_level_of_education,2016
+Austria,high,cohabiting,13.8,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,high,cohabiting,23.75,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,high,cohabiting,13.1,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,high,cohabiting,28.64,%,OECD,children_by_mothers_level_of_education,2016
+Finland,high,cohabiting,15.31,%,OECD,children_by_mothers_level_of_education,2016
+France,high,cohabiting,27.65,%,OECD,children_by_mothers_level_of_education,2016
+Greece,high,cohabiting,0.69,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,high,cohabiting,7.57,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,high,cohabiting,23.26,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,high,cohabiting,9.23,%,OECD,children_by_mothers_level_of_education,2016
+Italy,high,cohabiting,8.56,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,high,cohabiting,13.67,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,high,cohabiting,3.62,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,high,cohabiting,6.63,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,high,cohabiting,17.91,%,OECD,children_by_mothers_level_of_education,2016
+Norway,high,cohabiting,23.45,%,OECD,children_by_mothers_level_of_education,2016
+Poland,high,cohabiting,14.16,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,high,cohabiting,11.2,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,high,cohabiting,7.77,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,high,cohabiting,29.3,%,OECD,children_by_mothers_level_of_education,2016
+Spain,high,cohabiting,7.49,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,high,cohabiting,26.01,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,high,cohabiting,7.64,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,high,cohabiting,8.97,%,OECD,children_by_mothers_level_of_education,2016
+United States,high,cohabiting,1.88,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,high,cohabiting,12.2,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,high,cohabiting,9.25,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,high,cohabiting,3.75,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,high,cohabiting,1.75,%,OECD,children_by_mothers_level_of_education,2016
+Malta,high,cohabiting,2.49,%,OECD,children_by_mothers_level_of_education,2016
+Romania,high,cohabiting,0.44,%,OECD,children_by_mothers_level_of_education,2016
+EU average,high,cohabiting,10.77,%,OECD,children_by_mothers_level_of_education,2016
+Austria,high,mother,11.44,%,OECD,children_by_mothers_level_of_education,2016
+Belgium,high,mother,12.02,%,OECD,children_by_mothers_level_of_education,2016
+Czech Republic,high,mother,6.85,%,OECD,children_by_mothers_level_of_education,2016
+Estonia,high,mother,11.95,%,OECD,children_by_mothers_level_of_education,2016
+Finland,high,mother,7.67,%,OECD,children_by_mothers_level_of_education,2016
+France,high,mother,11.34,%,OECD,children_by_mothers_level_of_education,2016
+Greece,high,mother,5.69,%,OECD,children_by_mothers_level_of_education,2016
+Hungary,high,mother,11.36,%,OECD,children_by_mothers_level_of_education,2016
+Iceland,high,mother,13.04,%,OECD,children_by_mothers_level_of_education,2016
+Ireland,high,mother,11.61,%,OECD,children_by_mothers_level_of_education,2016
+Italy,high,mother,9.74,%,OECD,children_by_mothers_level_of_education,2016
+Latvia,high,mother,19.91,%,OECD,children_by_mothers_level_of_education,2016
+Lithuania,high,mother,17.32,%,OECD,children_by_mothers_level_of_education,2016
+Luxembourg,high,mother,7.2,%,OECD,children_by_mothers_level_of_education,2016
+Netherlands,high,mother,8.31,%,OECD,children_by_mothers_level_of_education,2016
+Norway,high,mother,10.36,%,OECD,children_by_mothers_level_of_education,2016
+Poland,high,mother,5.74,%,OECD,children_by_mothers_level_of_education,2016
+Portugal,high,mother,10.46,%,OECD,children_by_mothers_level_of_education,2016
+Slovak Republic,high,mother,6.45,%,OECD,children_by_mothers_level_of_education,2016
+Slovenia,high,mother,8.94,%,OECD,children_by_mothers_level_of_education,2016
+Spain,high,mother,9.03,%,OECD,children_by_mothers_level_of_education,2016
+Sweden,high,mother,8.9,%,OECD,children_by_mothers_level_of_education,2016
+Switzerland,high,mother,11.98,%,OECD,children_by_mothers_level_of_education,2016
+United Kingdom,high,mother,12.4,%,OECD,children_by_mothers_level_of_education,2016
+United States,high,mother,16.21,%,OECD,children_by_mothers_level_of_education,2016
+OECD average,high,mother,10.63,%,OECD,children_by_mothers_level_of_education,2016
+Bulgaria,high,mother,9.51,%,OECD,children_by_mothers_level_of_education,2016
+Croatia,high,mother,6.13,%,OECD,children_by_mothers_level_of_education,2016
+Cyprus,high,mother,6.67,%,OECD,children_by_mothers_level_of_education,2016
+Malta,high,mother,9.62,%,OECD,children_by_mothers_level_of_education,2016
+Romania,high,mother,7.67,%,OECD,children_by_mothers_level_of_education,2016
+EU average,high,mother,9.8,%,OECD,children_by_mothers_level_of_education,2016

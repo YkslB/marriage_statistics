@@ -1,301 +1,301 @@
-country,indicator,living_arrangement,value,unit,source
-Austria,living_in_poverty,married_living_with_two_parents,67.12,%,OECD
-Belgium,living_in_poverty,married_living_with_two_parents,28.24,%,OECD
-Czech Republic,living_in_poverty,married_living_with_two_parents,29.54,%,OECD
-Estonia,living_in_poverty,married_living_with_two_parents,41.98,%,OECD
-Finland,living_in_poverty,married_living_with_two_parents,32.93,%,OECD
-France,living_in_poverty,married_living_with_two_parents,32.0,%,OECD
-Greece,living_in_poverty,married_living_with_two_parents,85.64,%,OECD
-Hungary,living_in_poverty,married_living_with_two_parents,40.02,%,OECD
-Iceland,living_in_poverty,married_living_with_two_parents,21.46,%,OECD
-Ireland,living_in_poverty,married_living_with_two_parents,32.61,%,OECD
-Italy,living_in_poverty,married_living_with_two_parents,73.7,%,OECD
-Latvia,living_in_poverty,married_living_with_two_parents,27.4,%,OECD
-Lithuania,living_in_poverty,married_living_with_two_parents,37.33,%,OECD
-Luxembourg,living_in_poverty,married_living_with_two_parents,55.51,%,OECD
-Netherlands,living_in_poverty,married_living_with_two_parents,57.67,%,OECD
-Norway,living_in_poverty,married_living_with_two_parents,19.47,%,OECD
-Poland,living_in_poverty,married_living_with_two_parents,62.81,%,OECD
-Portugal,living_in_poverty,married_living_with_two_parents,44.79,%,OECD
-Slovak Republic,living_in_poverty,married_living_with_two_parents,65.94,%,OECD
-Slovenia,living_in_poverty,married_living_with_two_parents,35.38,%,OECD
-Spain,living_in_poverty,married_living_with_two_parents,60.24,%,OECD
-Sweden,living_in_poverty,married_living_with_two_parents,44.98,%,OECD
-Switzerland,living_in_poverty,married_living_with_two_parents,65.26,%,OECD
-United Kingdom,living_in_poverty,married_living_with_two_parents,40.12,%,OECD
-Bulgaria,living_in_poverty,married_living_with_two_parents,28.89,%,OECD
-Croatia,living_in_poverty,married_living_with_two_parents,76.68,%,OECD
-Cyprus,living_in_poverty,married_living_with_two_parents,62.38,%,OECD
-Malta,living_in_poverty,married_living_with_two_parents,60.02,%,OECD
-Romania,living_in_poverty,married_living_with_two_parents,64.65,%,OECD
-EU average,living_in_poverty,married_living_with_two_parents,50.05,%,OECD
-Austria,living_in_poverty,cohabiting_living_with_two_parents,3.47,%,OECD
-Belgium,living_in_poverty,cohabiting_living_with_two_parents,15.59,%,OECD
-Czech Republic,living_in_poverty,cohabiting_living_with_two_parents,29.58,%,OECD
-Estonia,living_in_poverty,cohabiting_living_with_two_parents,26.25,%,OECD
-Finland,living_in_poverty,cohabiting_living_with_two_parents,13.3,%,OECD
-France,living_in_poverty,cohabiting_living_with_two_parents,15.66,%,OECD
-Greece,living_in_poverty,cohabiting_living_with_two_parents,2.1,%,OECD
-Hungary,living_in_poverty,cohabiting_living_with_two_parents,21.87,%,OECD
-Iceland,living_in_poverty,cohabiting_living_with_two_parents,17.26,%,OECD
-Ireland,living_in_poverty,cohabiting_living_with_two_parents,11.07,%,OECD
-Italy,living_in_poverty,cohabiting_living_with_two_parents,6.69,%,OECD
-Latvia,living_in_poverty,cohabiting_living_with_two_parents,17.18,%,OECD
-Lithuania,living_in_poverty,cohabiting_living_with_two_parents,19.47,%,OECD
-Luxembourg,living_in_poverty,cohabiting_living_with_two_parents,8.05,%,OECD
-Netherlands,living_in_poverty,cohabiting_living_with_two_parents,3.78,%,OECD
-Norway,living_in_poverty,cohabiting_living_with_two_parents,4.64,%,OECD
-Poland,living_in_poverty,cohabiting_living_with_two_parents,20.06,%,OECD
-Portugal,living_in_poverty,cohabiting_living_with_two_parents,17.38,%,OECD
-Slovak Republic,living_in_poverty,cohabiting_living_with_two_parents,13.14,%,OECD
-Slovenia,living_in_poverty,cohabiting_living_with_two_parents,28.11,%,OECD
-Spain,living_in_poverty,cohabiting_living_with_two_parents,12.08,%,OECD
-Sweden,living_in_poverty,cohabiting_living_with_two_parents,12.26,%,OECD
-Switzerland,living_in_poverty,cohabiting_living_with_two_parents,8.2,%,OECD
-United Kingdom,living_in_poverty,cohabiting_living_with_two_parents,15.02,%,OECD
-Bulgaria,living_in_poverty,cohabiting_living_with_two_parents,42.34,%,OECD
-Croatia,living_in_poverty,cohabiting_living_with_two_parents,5.77,%,OECD
-Cyprus,living_in_poverty,cohabiting_living_with_two_parents,7.58,%,OECD
-Malta,living_in_poverty,cohabiting_living_with_two_parents,2.82,%,OECD
-Romania,living_in_poverty,cohabiting_living_with_two_parents,20.38,%,OECD
-EU average,living_in_poverty,cohabiting_living_with_two_parents,14.86,%,OECD
-Austria,living_in_poverty,mother_living_with_one_parent,27.1,%,OECD
-Belgium,living_in_poverty,mother_living_with_one_parent,47.27,%,OECD
-Czech Republic,living_in_poverty,mother_living_with_one_parent,37.56,%,OECD
-Estonia,living_in_poverty,mother_living_with_one_parent,30.19,%,OECD
-Finland,living_in_poverty,mother_living_with_one_parent,38.92,%,OECD
-France,living_in_poverty,mother_living_with_one_parent,43.5,%,OECD
-Greece,living_in_poverty,mother_living_with_one_parent,10.05,%,OECD
-Hungary,living_in_poverty,mother_living_with_one_parent,32.78,%,OECD
-Iceland,living_in_poverty,mother_living_with_one_parent,48.02,%,OECD
-Ireland,living_in_poverty,mother_living_with_one_parent,50.74,%,OECD
-Italy,living_in_poverty,mother_living_with_one_parent,18.47,%,OECD
-Latvia,living_in_poverty,mother_living_with_one_parent,46.55,%,OECD
-Lithuania,living_in_poverty,mother_living_with_one_parent,39.29,%,OECD
-Luxembourg,living_in_poverty,mother_living_with_one_parent,32.91,%,OECD
-Netherlands,living_in_poverty,mother_living_with_one_parent,33.68,%,OECD
-Norway,living_in_poverty,mother_living_with_one_parent,65.33,%,OECD
-Poland,living_in_poverty,mother_living_with_one_parent,15.89,%,OECD
-Portugal,living_in_poverty,mother_living_with_one_parent,31.16,%,OECD
-Slovak Republic,living_in_poverty,mother_living_with_one_parent,18.01,%,OECD
-Slovenia,living_in_poverty,mother_living_with_one_parent,27.85,%,OECD
-Spain,living_in_poverty,mother_living_with_one_parent,23.94,%,OECD
-Sweden,living_in_poverty,mother_living_with_one_parent,27.91,%,OECD
-Switzerland,living_in_poverty,mother_living_with_one_parent,25.44,%,OECD
-United Kingdom,living_in_poverty,mother_living_with_one_parent,38.25,%,OECD
-Bulgaria,living_in_poverty,mother_living_with_one_parent,21.64,%,OECD
-Croatia,living_in_poverty,mother_living_with_one_parent,13.86,%,OECD
-Cyprus,living_in_poverty,mother_living_with_one_parent,27.71,%,OECD
-Malta,living_in_poverty,mother_living_with_one_parent,32.79,%,OECD
-Romania,living_in_poverty,mother_living_with_one_parent,9.21,%,OECD
-EU average,living_in_poverty,mother_living_with_one_parent,29.52,%,OECD
-Austria,living_in_poverty,father_living_with_one_parent,1.69,%,OECD
-Belgium,living_in_poverty,father_living_with_one_parent,6.46,%,OECD
-Czech Republic,living_in_poverty,father_living_with_one_parent,2.38,%,OECD
-Estonia,living_in_poverty,father_living_with_one_parent,0.33,%,OECD
-Finland,living_in_poverty,father_living_with_one_parent,12.61,%,OECD
-France,living_in_poverty,father_living_with_one_parent,6.71,%,OECD
-Greece,living_in_poverty,father_living_with_one_parent,1.38,%,OECD
-Hungary,living_in_poverty,father_living_with_one_parent,2.99,%,OECD
-Iceland,living_in_poverty,father_living_with_one_parent,9.51,%,OECD
-Ireland,living_in_poverty,father_living_with_one_parent,5.58,%,OECD
-Italy,living_in_poverty,father_living_with_one_parent,1.11,%,OECD
-Latvia,living_in_poverty,father_living_with_one_parent,2.38,%,OECD
-Lithuania,living_in_poverty,father_living_with_one_parent,3.17,%,OECD
-Luxembourg,living_in_poverty,father_living_with_one_parent,2.0,%,OECD
-Netherlands,living_in_poverty,father_living_with_one_parent,1.74,%,OECD
-Norway,living_in_poverty,father_living_with_one_parent,2.57,%,OECD
-Poland,living_in_poverty,father_living_with_one_parent,0.81,%,OECD
-Portugal,living_in_poverty,father_living_with_one_parent,3.08,%,OECD
-Slovak Republic,living_in_poverty,father_living_with_one_parent,1.9,%,OECD
-Slovenia,living_in_poverty,father_living_with_one_parent,6.1,%,OECD
-Spain,living_in_poverty,father_living_with_one_parent,2.45,%,OECD
-Sweden,living_in_poverty,father_living_with_one_parent,10.49,%,OECD
-Switzerland,living_in_poverty,father_living_with_one_parent,1.11,%,OECD
-United Kingdom,living_in_poverty,father_living_with_one_parent,5.59,%,OECD
-Bulgaria,living_in_poverty,father_living_with_one_parent,4.56,%,OECD
-Croatia,living_in_poverty,father_living_with_one_parent,2.49,%,OECD
-Cyprus,living_in_poverty,father_living_with_one_parent,1.95,%,OECD
-Malta,living_in_poverty,father_living_with_one_parent,2.01,%,OECD
-Romania,living_in_poverty,father_living_with_one_parent,2.92,%,OECD
-EU average,living_in_poverty,father_living_with_one_parent,3.67,%,OECD
-Austria,living_in_poverty,other,0.62,%,OECD
-Belgium,living_in_poverty,other,2.45,%,OECD
-Czech Republic,living_in_poverty,other,0.94,%,OECD
-Estonia,living_in_poverty,other,1.25,%,OECD
-Finland,living_in_poverty,other,2.24,%,OECD
-France,living_in_poverty,other,2.13,%,OECD
-Greece,living_in_poverty,other,0.83,%,OECD
-Hungary,living_in_poverty,other,2.33,%,OECD
-Iceland,living_in_poverty,other,3.74,%,OECD
-Ireland,living_in_poverty,other,0.0,%,OECD
-Italy,living_in_poverty,other,0.03,%,OECD
-Latvia,living_in_poverty,other,6.49,%,OECD
-Lithuania,living_in_poverty,other,0.74,%,OECD
-Luxembourg,living_in_poverty,other,1.53,%,OECD
-Netherlands,living_in_poverty,other,3.13,%,OECD
-Norway,living_in_poverty,other,8.0,%,OECD
-Poland,living_in_poverty,other,0.43,%,OECD
-Portugal,living_in_poverty,other,3.59,%,OECD
-Slovak Republic,living_in_poverty,other,1.02,%,OECD
-Slovenia,living_in_poverty,other,2.55,%,OECD
-Spain,living_in_poverty,other,1.3,%,OECD
-Sweden,living_in_poverty,other,4.35,%,OECD
-Switzerland,living_in_poverty,other,0.0,%,OECD
-United Kingdom,living_in_poverty,other,1.01,%,OECD
-Bulgaria,living_in_poverty,other,2.57,%,OECD
-Croatia,living_in_poverty,other,1.2,%,OECD
-Cyprus,living_in_poverty,other,0.37,%,OECD
-Malta,living_in_poverty,other,2.36,%,OECD
-Romania,living_in_poverty,other,2.84,%,OECD
-EU average,living_in_poverty,other,1.9,%,OECD
-Austria,living_in_poverty,married_living_with_two_parents1,70.93,%,OECD
-Belgium,living_in_poverty,married_living_with_two_parents1,58.17,%,OECD
-Czech Republic,living_in_poverty,married_living_with_two_parents1,71.82,%,OECD
-Estonia,living_in_poverty,married_living_with_two_parents1,54.47,%,OECD
-Finland,living_in_poverty,married_living_with_two_parents1,70.11,%,OECD
-France,living_in_poverty,married_living_with_two_parents1,52.67,%,OECD
-Greece,living_in_poverty,married_living_with_two_parents1,92.23,%,OECD
-Hungary,living_in_poverty,married_living_with_two_parents1,62.41,%,OECD
-Iceland,living_in_poverty,married_living_with_two_parents1,58.49,%,OECD
-Ireland,living_in_poverty,married_living_with_two_parents1,74.78,%,OECD
-Italy,living_in_poverty,married_living_with_two_parents1,80.93,%,OECD
-Latvia,living_in_poverty,married_living_with_two_parents1,54.47,%,OECD
-Lithuania,living_in_poverty,married_living_with_two_parents1,74.74,%,OECD
-Luxembourg,living_in_poverty,married_living_with_two_parents1,80.59,%,OECD
-Netherlands,living_in_poverty,married_living_with_two_parents1,73.73,%,OECD
-Norway,living_in_poverty,married_living_with_two_parents1,57.59,%,OECD
-Poland,living_in_poverty,married_living_with_two_parents1,69.63,%,OECD
-Portugal,living_in_poverty,married_living_with_two_parents1,68.46,%,OECD
-Slovak Republic,living_in_poverty,married_living_with_two_parents1,80.31,%,OECD
-Slovenia,living_in_poverty,married_living_with_two_parents1,57.09,%,OECD
-Spain,living_in_poverty,married_living_with_two_parents1,75.93,%,OECD
-Sweden,living_in_poverty,married_living_with_two_parents1,56.43,%,OECD
-Switzerland,living_in_poverty,married_living_with_two_parents1,81.62,%,OECD
-United Kingdom,living_in_poverty,married_living_with_two_parents1,63.92,%,OECD
-Bulgaria,living_in_poverty,married_living_with_two_parents1,69.17,%,OECD
-Croatia,living_in_poverty,married_living_with_two_parents1,90.31,%,OECD
-Cyprus,living_in_poverty,married_living_with_two_parents1,86.88,%,OECD
-Malta,living_in_poverty,married_living_with_two_parents1,80.4,%,OECD
-Romania,living_in_poverty,married_living_with_two_parents1,82.99,%,OECD
-EU average,living_in_poverty,married_living_with_two_parents1,71.15,%,OECD
-Austria,living_in_poverty,cohabiting_living_with_two_parents1,13.68,%,OECD
-Belgium,living_in_poverty,cohabiting_living_with_two_parents1,21.64,%,OECD
-Czech Republic,living_in_poverty,cohabiting_living_with_two_parents1,17.85,%,OECD
-Estonia,living_in_poverty,cohabiting_living_with_two_parents1,31.95,%,OECD
-Finland,living_in_poverty,cohabiting_living_with_two_parents1,17.91,%,OECD
-France,living_in_poverty,cohabiting_living_with_two_parents1,27.51,%,OECD
-Greece,living_in_poverty,cohabiting_living_with_two_parents1,0.44,%,OECD
-Hungary,living_in_poverty,cohabiting_living_with_two_parents1,15.37,%,OECD
-Iceland,living_in_poverty,cohabiting_living_with_two_parents1,25.43,%,OECD
-Ireland,living_in_poverty,cohabiting_living_with_two_parents1,10.85,%,OECD
-Italy,living_in_poverty,cohabiting_living_with_two_parents1,7.98,%,OECD
-Latvia,living_in_poverty,cohabiting_living_with_two_parents1,17.67,%,OECD
-Lithuania,living_in_poverty,cohabiting_living_with_two_parents1,5.71,%,OECD
-Luxembourg,living_in_poverty,cohabiting_living_with_two_parents1,7.17,%,OECD
-Netherlands,living_in_poverty,cohabiting_living_with_two_parents1,15.22,%,OECD
-Norway,living_in_poverty,cohabiting_living_with_two_parents1,23.87,%,OECD
-Poland,living_in_poverty,cohabiting_living_with_two_parents1,21.0,%,OECD
-Portugal,living_in_poverty,cohabiting_living_with_two_parents1,13.16,%,OECD
-Slovak Republic,living_in_poverty,cohabiting_living_with_two_parents1,6.25,%,OECD
-Slovenia,living_in_poverty,cohabiting_living_with_two_parents1,29.59,%,OECD
-Spain,living_in_poverty,cohabiting_living_with_two_parents1,10.04,%,OECD
-Sweden,living_in_poverty,cohabiting_living_with_two_parents1,26.79,%,OECD
-Switzerland,living_in_poverty,cohabiting_living_with_two_parents1,7.91,%,OECD
-United Kingdom,living_in_poverty,cohabiting_living_with_two_parents1,14.93,%,OECD
-Bulgaria,living_in_poverty,cohabiting_living_with_two_parents1,16.94,%,OECD
-Croatia,living_in_poverty,cohabiting_living_with_two_parents1,2.72,%,OECD
-Cyprus,living_in_poverty,cohabiting_living_with_two_parents1,2.6,%,OECD
-Malta,living_in_poverty,cohabiting_living_with_two_parents1,1.51,%,OECD
-Romania,living_in_poverty,cohabiting_living_with_two_parents1,2.61,%,OECD
-EU average,living_in_poverty,cohabiting_living_with_two_parents1,14.13,%,OECD
-Austria,living_in_poverty,mother_living_with_one_parent1,13.2,%,OECD
-Belgium,living_in_poverty,mother_living_with_one_parent1,15.09,%,OECD
-Czech Republic,living_in_poverty,mother_living_with_one_parent1,8.84,%,OECD
-Estonia,living_in_poverty,mother_living_with_one_parent1,12.26,%,OECD
-Finland,living_in_poverty,mother_living_with_one_parent1,9.89,%,OECD
-France,living_in_poverty,mother_living_with_one_parent1,14.56,%,OECD
-Greece,living_in_poverty,mother_living_with_one_parent1,6.07,%,OECD
-Hungary,living_in_poverty,mother_living_with_one_parent1,18.21,%,OECD
-Iceland,living_in_poverty,mother_living_with_one_parent1,12.65,%,OECD
-Ireland,living_in_poverty,mother_living_with_one_parent1,13.29,%,OECD
-Italy,living_in_poverty,mother_living_with_one_parent1,9.15,%,OECD
-Latvia,living_in_poverty,mother_living_with_one_parent1,23.05,%,OECD
-Lithuania,living_in_poverty,mother_living_with_one_parent1,16.24,%,OECD
-Luxembourg,living_in_poverty,mother_living_with_one_parent1,9.42,%,OECD
-Netherlands,living_in_poverty,mother_living_with_one_parent1,9.48,%,OECD
-Norway,living_in_poverty,mother_living_with_one_parent1,13.52,%,OECD
-Poland,living_in_poverty,mother_living_with_one_parent1,8.25,%,OECD
-Portugal,living_in_poverty,mother_living_with_one_parent1,14.23,%,OECD
-Slovak Republic,living_in_poverty,mother_living_with_one_parent1,11.53,%,OECD
-Slovenia,living_in_poverty,mother_living_with_one_parent1,10.11,%,OECD
-Spain,living_in_poverty,mother_living_with_one_parent1,11.73,%,OECD
-Sweden,living_in_poverty,mother_living_with_one_parent1,10.39,%,OECD
-Switzerland,living_in_poverty,mother_living_with_one_parent1,9.09,%,OECD
-United Kingdom,living_in_poverty,mother_living_with_one_parent1,19.32,%,OECD
-Bulgaria,living_in_poverty,mother_living_with_one_parent1,10.46,%,OECD
-Croatia,living_in_poverty,mother_living_with_one_parent1,6.05,%,OECD
-Cyprus,living_in_poverty,mother_living_with_one_parent1,8.18,%,OECD
-Malta,living_in_poverty,mother_living_with_one_parent1,15.12,%,OECD
-Romania,living_in_poverty,mother_living_with_one_parent1,7.9,%,OECD
-EU average,living_in_poverty,mother_living_with_one_parent1,11.83,%,OECD
-Austria,living_in_poverty,father_living_with_one_parent1,1.44,%,OECD
-Belgium,living_in_poverty,father_living_with_one_parent1,4.32,%,OECD
-Czech Republic,living_in_poverty,father_living_with_one_parent1,0.91,%,OECD
-Estonia,living_in_poverty,father_living_with_one_parent1,0.91,%,OECD
-Finland,living_in_poverty,father_living_with_one_parent1,1.71,%,OECD
-France,living_in_poverty,father_living_with_one_parent1,4.82,%,OECD
-Greece,living_in_poverty,father_living_with_one_parent1,0.89,%,OECD
-Hungary,living_in_poverty,father_living_with_one_parent1,1.8,%,OECD
-Iceland,living_in_poverty,father_living_with_one_parent1,2.79,%,OECD
-Ireland,living_in_poverty,father_living_with_one_parent1,0.87,%,OECD
-Italy,living_in_poverty,father_living_with_one_parent1,1.85,%,OECD
-Latvia,living_in_poverty,father_living_with_one_parent1,3.38,%,OECD
-Lithuania,living_in_poverty,father_living_with_one_parent1,1.93,%,OECD
-Luxembourg,living_in_poverty,father_living_with_one_parent1,1.72,%,OECD
-Netherlands,living_in_poverty,father_living_with_one_parent1,1.52,%,OECD
-Norway,living_in_poverty,father_living_with_one_parent1,4.26,%,OECD
-Poland,living_in_poverty,father_living_with_one_parent1,0.5,%,OECD
-Portugal,living_in_poverty,father_living_with_one_parent1,3.05,%,OECD
-Slovak Republic,living_in_poverty,father_living_with_one_parent1,0.95,%,OECD
-Slovenia,living_in_poverty,father_living_with_one_parent1,2.62,%,OECD
-Spain,living_in_poverty,father_living_with_one_parent1,1.48,%,OECD
-Sweden,living_in_poverty,father_living_with_one_parent1,5.95,%,OECD
-Switzerland,living_in_poverty,father_living_with_one_parent1,1.15,%,OECD
-United Kingdom,living_in_poverty,father_living_with_one_parent1,1.41,%,OECD
-Bulgaria,living_in_poverty,father_living_with_one_parent1,1.99,%,OECD
-Croatia,living_in_poverty,father_living_with_one_parent1,0.63,%,OECD
-Cyprus,living_in_poverty,father_living_with_one_parent1,1.88,%,OECD
-Malta,living_in_poverty,father_living_with_one_parent1,2.66,%,OECD
-Romania,living_in_poverty,father_living_with_one_parent1,1.7,%,OECD
-EU average,living_in_poverty,father_living_with_one_parent1,2.04,%,OECD
-Austria,living_in_poverty,other1,0.75,%,OECD
-Belgium,living_in_poverty,other1,0.78,%,OECD
-Czech Republic,living_in_poverty,other1,0.58,%,OECD
-Estonia,living_in_poverty,other1,0.41,%,OECD
-Finland,living_in_poverty,other1,0.37,%,OECD
-France,living_in_poverty,other1,0.44,%,OECD
-Greece,living_in_poverty,other1,0.37,%,OECD
-Hungary,living_in_poverty,other1,2.22,%,OECD
-Iceland,living_in_poverty,other1,0.63,%,OECD
-Ireland,living_in_poverty,other1,0.2,%,OECD
-Italy,living_in_poverty,other1,0.08,%,OECD
-Latvia,living_in_poverty,other1,1.42,%,OECD
-Lithuania,living_in_poverty,other1,1.39,%,OECD
-Luxembourg,living_in_poverty,other1,1.1,%,OECD
-Netherlands,living_in_poverty,other1,0.05,%,OECD
-Norway,living_in_poverty,other1,0.77,%,OECD
-Poland,living_in_poverty,other1,0.61,%,OECD
-Portugal,living_in_poverty,other1,1.09,%,OECD
-Slovak Republic,living_in_poverty,other1,0.96,%,OECD
-Slovenia,living_in_poverty,other1,0.6,%,OECD
-Spain,living_in_poverty,other1,0.81,%,OECD
-Sweden,living_in_poverty,other1,0.44,%,OECD
-Switzerland,living_in_poverty,other1,0.23,%,OECD
-United Kingdom,living_in_poverty,other1,0.42,%,OECD
-Bulgaria,living_in_poverty,other1,1.44,%,OECD
-Croatia,living_in_poverty,other1,0.29,%,OECD
-Cyprus,living_in_poverty,other1,0.47,%,OECD
-Malta,living_in_poverty,other1,0.32,%,OECD
-Romania,living_in_poverty,other1,4.8,%,OECD
-EU average,living_in_poverty,other1,0.84,%,OECD
+country,indicator,living_arrangement,value,unit,source,year
+Austria,children_by_income_status,married_living_with_two_parents,67.12,%,OECD,2016
+Belgium,children_by_income_status,married_living_with_two_parents,28.24,%,OECD,2016
+Czech Republic,children_by_income_status,married_living_with_two_parents,29.54,%,OECD,2016
+Estonia,children_by_income_status,married_living_with_two_parents,41.98,%,OECD,2016
+Finland,children_by_income_status,married_living_with_two_parents,32.93,%,OECD,2016
+France,children_by_income_status,married_living_with_two_parents,32.0,%,OECD,2016
+Greece,children_by_income_status,married_living_with_two_parents,85.64,%,OECD,2016
+Hungary,children_by_income_status,married_living_with_two_parents,40.02,%,OECD,2016
+Iceland,children_by_income_status,married_living_with_two_parents,21.46,%,OECD,2016
+Ireland,children_by_income_status,married_living_with_two_parents,32.61,%,OECD,2016
+Italy,children_by_income_status,married_living_with_two_parents,73.7,%,OECD,2016
+Latvia,children_by_income_status,married_living_with_two_parents,27.4,%,OECD,2016
+Lithuania,children_by_income_status,married_living_with_two_parents,37.33,%,OECD,2016
+Luxembourg,children_by_income_status,married_living_with_two_parents,55.51,%,OECD,2016
+Netherlands,children_by_income_status,married_living_with_two_parents,57.67,%,OECD,2016
+Norway,children_by_income_status,married_living_with_two_parents,19.47,%,OECD,2016
+Poland,children_by_income_status,married_living_with_two_parents,62.81,%,OECD,2016
+Portugal,children_by_income_status,married_living_with_two_parents,44.79,%,OECD,2016
+Slovak Republic,children_by_income_status,married_living_with_two_parents,65.94,%,OECD,2016
+Slovenia,children_by_income_status,married_living_with_two_parents,35.38,%,OECD,2016
+Spain,children_by_income_status,married_living_with_two_parents,60.24,%,OECD,2016
+Sweden,children_by_income_status,married_living_with_two_parents,44.98,%,OECD,2016
+Switzerland,children_by_income_status,married_living_with_two_parents,65.26,%,OECD,2016
+United Kingdom,children_by_income_status,married_living_with_two_parents,40.12,%,OECD,2016
+Bulgaria,children_by_income_status,married_living_with_two_parents,28.89,%,OECD,2016
+Croatia,children_by_income_status,married_living_with_two_parents,76.68,%,OECD,2016
+Cyprus,children_by_income_status,married_living_with_two_parents,62.38,%,OECD,2016
+Malta,children_by_income_status,married_living_with_two_parents,60.02,%,OECD,2016
+Romania,children_by_income_status,married_living_with_two_parents,64.65,%,OECD,2016
+EU average,children_by_income_status,married_living_with_two_parents,50.05,%,OECD,2016
+Austria,children_by_income_status,cohabiting_living_with_two_parents,3.47,%,OECD,2016
+Belgium,children_by_income_status,cohabiting_living_with_two_parents,15.59,%,OECD,2016
+Czech Republic,children_by_income_status,cohabiting_living_with_two_parents,29.58,%,OECD,2016
+Estonia,children_by_income_status,cohabiting_living_with_two_parents,26.25,%,OECD,2016
+Finland,children_by_income_status,cohabiting_living_with_two_parents,13.3,%,OECD,2016
+France,children_by_income_status,cohabiting_living_with_two_parents,15.66,%,OECD,2016
+Greece,children_by_income_status,cohabiting_living_with_two_parents,2.1,%,OECD,2016
+Hungary,children_by_income_status,cohabiting_living_with_two_parents,21.87,%,OECD,2016
+Iceland,children_by_income_status,cohabiting_living_with_two_parents,17.26,%,OECD,2016
+Ireland,children_by_income_status,cohabiting_living_with_two_parents,11.07,%,OECD,2016
+Italy,children_by_income_status,cohabiting_living_with_two_parents,6.69,%,OECD,2016
+Latvia,children_by_income_status,cohabiting_living_with_two_parents,17.18,%,OECD,2016
+Lithuania,children_by_income_status,cohabiting_living_with_two_parents,19.47,%,OECD,2016
+Luxembourg,children_by_income_status,cohabiting_living_with_two_parents,8.05,%,OECD,2016
+Netherlands,children_by_income_status,cohabiting_living_with_two_parents,3.78,%,OECD,2016
+Norway,children_by_income_status,cohabiting_living_with_two_parents,4.64,%,OECD,2016
+Poland,children_by_income_status,cohabiting_living_with_two_parents,20.06,%,OECD,2016
+Portugal,children_by_income_status,cohabiting_living_with_two_parents,17.38,%,OECD,2016
+Slovak Republic,children_by_income_status,cohabiting_living_with_two_parents,13.14,%,OECD,2016
+Slovenia,children_by_income_status,cohabiting_living_with_two_parents,28.11,%,OECD,2016
+Spain,children_by_income_status,cohabiting_living_with_two_parents,12.08,%,OECD,2016
+Sweden,children_by_income_status,cohabiting_living_with_two_parents,12.26,%,OECD,2016
+Switzerland,children_by_income_status,cohabiting_living_with_two_parents,8.2,%,OECD,2016
+United Kingdom,children_by_income_status,cohabiting_living_with_two_parents,15.02,%,OECD,2016
+Bulgaria,children_by_income_status,cohabiting_living_with_two_parents,42.34,%,OECD,2016
+Croatia,children_by_income_status,cohabiting_living_with_two_parents,5.77,%,OECD,2016
+Cyprus,children_by_income_status,cohabiting_living_with_two_parents,7.58,%,OECD,2016
+Malta,children_by_income_status,cohabiting_living_with_two_parents,2.82,%,OECD,2016
+Romania,children_by_income_status,cohabiting_living_with_two_parents,20.38,%,OECD,2016
+EU average,children_by_income_status,cohabiting_living_with_two_parents,14.86,%,OECD,2016
+Austria,children_by_income_status,mother_living_with_one_parent,27.1,%,OECD,2016
+Belgium,children_by_income_status,mother_living_with_one_parent,47.27,%,OECD,2016
+Czech Republic,children_by_income_status,mother_living_with_one_parent,37.56,%,OECD,2016
+Estonia,children_by_income_status,mother_living_with_one_parent,30.19,%,OECD,2016
+Finland,children_by_income_status,mother_living_with_one_parent,38.92,%,OECD,2016
+France,children_by_income_status,mother_living_with_one_parent,43.5,%,OECD,2016
+Greece,children_by_income_status,mother_living_with_one_parent,10.05,%,OECD,2016
+Hungary,children_by_income_status,mother_living_with_one_parent,32.78,%,OECD,2016
+Iceland,children_by_income_status,mother_living_with_one_parent,48.02,%,OECD,2016
+Ireland,children_by_income_status,mother_living_with_one_parent,50.74,%,OECD,2016
+Italy,children_by_income_status,mother_living_with_one_parent,18.47,%,OECD,2016
+Latvia,children_by_income_status,mother_living_with_one_parent,46.55,%,OECD,2016
+Lithuania,children_by_income_status,mother_living_with_one_parent,39.29,%,OECD,2016
+Luxembourg,children_by_income_status,mother_living_with_one_parent,32.91,%,OECD,2016
+Netherlands,children_by_income_status,mother_living_with_one_parent,33.68,%,OECD,2016
+Norway,children_by_income_status,mother_living_with_one_parent,65.33,%,OECD,2016
+Poland,children_by_income_status,mother_living_with_one_parent,15.89,%,OECD,2016
+Portugal,children_by_income_status,mother_living_with_one_parent,31.16,%,OECD,2016
+Slovak Republic,children_by_income_status,mother_living_with_one_parent,18.01,%,OECD,2016
+Slovenia,children_by_income_status,mother_living_with_one_parent,27.85,%,OECD,2016
+Spain,children_by_income_status,mother_living_with_one_parent,23.94,%,OECD,2016
+Sweden,children_by_income_status,mother_living_with_one_parent,27.91,%,OECD,2016
+Switzerland,children_by_income_status,mother_living_with_one_parent,25.44,%,OECD,2016
+United Kingdom,children_by_income_status,mother_living_with_one_parent,38.25,%,OECD,2016
+Bulgaria,children_by_income_status,mother_living_with_one_parent,21.64,%,OECD,2016
+Croatia,children_by_income_status,mother_living_with_one_parent,13.86,%,OECD,2016
+Cyprus,children_by_income_status,mother_living_with_one_parent,27.71,%,OECD,2016
+Malta,children_by_income_status,mother_living_with_one_parent,32.79,%,OECD,2016
+Romania,children_by_income_status,mother_living_with_one_parent,9.21,%,OECD,2016
+EU average,children_by_income_status,mother_living_with_one_parent,29.52,%,OECD,2016
+Austria,children_by_income_status,father_living_with_one_parent,1.69,%,OECD,2016
+Belgium,children_by_income_status,father_living_with_one_parent,6.46,%,OECD,2016
+Czech Republic,children_by_income_status,father_living_with_one_parent,2.38,%,OECD,2016
+Estonia,children_by_income_status,father_living_with_one_parent,0.33,%,OECD,2016
+Finland,children_by_income_status,father_living_with_one_parent,12.61,%,OECD,2016
+France,children_by_income_status,father_living_with_one_parent,6.71,%,OECD,2016
+Greece,children_by_income_status,father_living_with_one_parent,1.38,%,OECD,2016
+Hungary,children_by_income_status,father_living_with_one_parent,2.99,%,OECD,2016
+Iceland,children_by_income_status,father_living_with_one_parent,9.51,%,OECD,2016
+Ireland,children_by_income_status,father_living_with_one_parent,5.58,%,OECD,2016
+Italy,children_by_income_status,father_living_with_one_parent,1.11,%,OECD,2016
+Latvia,children_by_income_status,father_living_with_one_parent,2.38,%,OECD,2016
+Lithuania,children_by_income_status,father_living_with_one_parent,3.17,%,OECD,2016
+Luxembourg,children_by_income_status,father_living_with_one_parent,2.0,%,OECD,2016
+Netherlands,children_by_income_status,father_living_with_one_parent,1.74,%,OECD,2016
+Norway,children_by_income_status,father_living_with_one_parent,2.57,%,OECD,2016
+Poland,children_by_income_status,father_living_with_one_parent,0.81,%,OECD,2016
+Portugal,children_by_income_status,father_living_with_one_parent,3.08,%,OECD,2016
+Slovak Republic,children_by_income_status,father_living_with_one_parent,1.9,%,OECD,2016
+Slovenia,children_by_income_status,father_living_with_one_parent,6.1,%,OECD,2016
+Spain,children_by_income_status,father_living_with_one_parent,2.45,%,OECD,2016
+Sweden,children_by_income_status,father_living_with_one_parent,10.49,%,OECD,2016
+Switzerland,children_by_income_status,father_living_with_one_parent,1.11,%,OECD,2016
+United Kingdom,children_by_income_status,father_living_with_one_parent,5.59,%,OECD,2016
+Bulgaria,children_by_income_status,father_living_with_one_parent,4.56,%,OECD,2016
+Croatia,children_by_income_status,father_living_with_one_parent,2.49,%,OECD,2016
+Cyprus,children_by_income_status,father_living_with_one_parent,1.95,%,OECD,2016
+Malta,children_by_income_status,father_living_with_one_parent,2.01,%,OECD,2016
+Romania,children_by_income_status,father_living_with_one_parent,2.92,%,OECD,2016
+EU average,children_by_income_status,father_living_with_one_parent,3.67,%,OECD,2016
+Austria,children_by_income_status,other,0.62,%,OECD,2016
+Belgium,children_by_income_status,other,2.45,%,OECD,2016
+Czech Republic,children_by_income_status,other,0.94,%,OECD,2016
+Estonia,children_by_income_status,other,1.25,%,OECD,2016
+Finland,children_by_income_status,other,2.24,%,OECD,2016
+France,children_by_income_status,other,2.13,%,OECD,2016
+Greece,children_by_income_status,other,0.83,%,OECD,2016
+Hungary,children_by_income_status,other,2.33,%,OECD,2016
+Iceland,children_by_income_status,other,3.74,%,OECD,2016
+Ireland,children_by_income_status,other,0.0,%,OECD,2016
+Italy,children_by_income_status,other,0.03,%,OECD,2016
+Latvia,children_by_income_status,other,6.49,%,OECD,2016
+Lithuania,children_by_income_status,other,0.74,%,OECD,2016
+Luxembourg,children_by_income_status,other,1.53,%,OECD,2016
+Netherlands,children_by_income_status,other,3.13,%,OECD,2016
+Norway,children_by_income_status,other,8.0,%,OECD,2016
+Poland,children_by_income_status,other,0.43,%,OECD,2016
+Portugal,children_by_income_status,other,3.59,%,OECD,2016
+Slovak Republic,children_by_income_status,other,1.02,%,OECD,2016
+Slovenia,children_by_income_status,other,2.55,%,OECD,2016
+Spain,children_by_income_status,other,1.3,%,OECD,2016
+Sweden,children_by_income_status,other,4.35,%,OECD,2016
+Switzerland,children_by_income_status,other,0.0,%,OECD,2016
+United Kingdom,children_by_income_status,other,1.01,%,OECD,2016
+Bulgaria,children_by_income_status,other,2.57,%,OECD,2016
+Croatia,children_by_income_status,other,1.2,%,OECD,2016
+Cyprus,children_by_income_status,other,0.37,%,OECD,2016
+Malta,children_by_income_status,other,2.36,%,OECD,2016
+Romania,children_by_income_status,other,2.84,%,OECD,2016
+EU average,children_by_income_status,other,1.9,%,OECD,2016
+Austria,children_by_income_status,married_living_with_two_parents1,70.93,%,OECD,2016
+Belgium,children_by_income_status,married_living_with_two_parents1,58.17,%,OECD,2016
+Czech Republic,children_by_income_status,married_living_with_two_parents1,71.82,%,OECD,2016
+Estonia,children_by_income_status,married_living_with_two_parents1,54.47,%,OECD,2016
+Finland,children_by_income_status,married_living_with_two_parents1,70.11,%,OECD,2016
+France,children_by_income_status,married_living_with_two_parents1,52.67,%,OECD,2016
+Greece,children_by_income_status,married_living_with_two_parents1,92.23,%,OECD,2016
+Hungary,children_by_income_status,married_living_with_two_parents1,62.41,%,OECD,2016
+Iceland,children_by_income_status,married_living_with_two_parents1,58.49,%,OECD,2016
+Ireland,children_by_income_status,married_living_with_two_parents1,74.78,%,OECD,2016
+Italy,children_by_income_status,married_living_with_two_parents1,80.93,%,OECD,2016
+Latvia,children_by_income_status,married_living_with_two_parents1,54.47,%,OECD,2016
+Lithuania,children_by_income_status,married_living_with_two_parents1,74.74,%,OECD,2016
+Luxembourg,children_by_income_status,married_living_with_two_parents1,80.59,%,OECD,2016
+Netherlands,children_by_income_status,married_living_with_two_parents1,73.73,%,OECD,2016
+Norway,children_by_income_status,married_living_with_two_parents1,57.59,%,OECD,2016
+Poland,children_by_income_status,married_living_with_two_parents1,69.63,%,OECD,2016
+Portugal,children_by_income_status,married_living_with_two_parents1,68.46,%,OECD,2016
+Slovak Republic,children_by_income_status,married_living_with_two_parents1,80.31,%,OECD,2016
+Slovenia,children_by_income_status,married_living_with_two_parents1,57.09,%,OECD,2016
+Spain,children_by_income_status,married_living_with_two_parents1,75.93,%,OECD,2016
+Sweden,children_by_income_status,married_living_with_two_parents1,56.43,%,OECD,2016
+Switzerland,children_by_income_status,married_living_with_two_parents1,81.62,%,OECD,2016
+United Kingdom,children_by_income_status,married_living_with_two_parents1,63.92,%,OECD,2016
+Bulgaria,children_by_income_status,married_living_with_two_parents1,69.17,%,OECD,2016
+Croatia,children_by_income_status,married_living_with_two_parents1,90.31,%,OECD,2016
+Cyprus,children_by_income_status,married_living_with_two_parents1,86.88,%,OECD,2016
+Malta,children_by_income_status,married_living_with_two_parents1,80.4,%,OECD,2016
+Romania,children_by_income_status,married_living_with_two_parents1,82.99,%,OECD,2016
+EU average,children_by_income_status,married_living_with_two_parents1,71.15,%,OECD,2016
+Austria,children_by_income_status,cohabiting_living_with_two_parents1,13.68,%,OECD,2016
+Belgium,children_by_income_status,cohabiting_living_with_two_parents1,21.64,%,OECD,2016
+Czech Republic,children_by_income_status,cohabiting_living_with_two_parents1,17.85,%,OECD,2016
+Estonia,children_by_income_status,cohabiting_living_with_two_parents1,31.95,%,OECD,2016
+Finland,children_by_income_status,cohabiting_living_with_two_parents1,17.91,%,OECD,2016
+France,children_by_income_status,cohabiting_living_with_two_parents1,27.51,%,OECD,2016
+Greece,children_by_income_status,cohabiting_living_with_two_parents1,0.44,%,OECD,2016
+Hungary,children_by_income_status,cohabiting_living_with_two_parents1,15.37,%,OECD,2016
+Iceland,children_by_income_status,cohabiting_living_with_two_parents1,25.43,%,OECD,2016
+Ireland,children_by_income_status,cohabiting_living_with_two_parents1,10.85,%,OECD,2016
+Italy,children_by_income_status,cohabiting_living_with_two_parents1,7.98,%,OECD,2016
+Latvia,children_by_income_status,cohabiting_living_with_two_parents1,17.67,%,OECD,2016
+Lithuania,children_by_income_status,cohabiting_living_with_two_parents1,5.71,%,OECD,2016
+Luxembourg,children_by_income_status,cohabiting_living_with_two_parents1,7.17,%,OECD,2016
+Netherlands,children_by_income_status,cohabiting_living_with_two_parents1,15.22,%,OECD,2016
+Norway,children_by_income_status,cohabiting_living_with_two_parents1,23.87,%,OECD,2016
+Poland,children_by_income_status,cohabiting_living_with_two_parents1,21.0,%,OECD,2016
+Portugal,children_by_income_status,cohabiting_living_with_two_parents1,13.16,%,OECD,2016
+Slovak Republic,children_by_income_status,cohabiting_living_with_two_parents1,6.25,%,OECD,2016
+Slovenia,children_by_income_status,cohabiting_living_with_two_parents1,29.59,%,OECD,2016
+Spain,children_by_income_status,cohabiting_living_with_two_parents1,10.04,%,OECD,2016
+Sweden,children_by_income_status,cohabiting_living_with_two_parents1,26.79,%,OECD,2016
+Switzerland,children_by_income_status,cohabiting_living_with_two_parents1,7.91,%,OECD,2016
+United Kingdom,children_by_income_status,cohabiting_living_with_two_parents1,14.93,%,OECD,2016
+Bulgaria,children_by_income_status,cohabiting_living_with_two_parents1,16.94,%,OECD,2016
+Croatia,children_by_income_status,cohabiting_living_with_two_parents1,2.72,%,OECD,2016
+Cyprus,children_by_income_status,cohabiting_living_with_two_parents1,2.6,%,OECD,2016
+Malta,children_by_income_status,cohabiting_living_with_two_parents1,1.51,%,OECD,2016
+Romania,children_by_income_status,cohabiting_living_with_two_parents1,2.61,%,OECD,2016
+EU average,children_by_income_status,cohabiting_living_with_two_parents1,14.13,%,OECD,2016
+Austria,children_by_income_status,mother_living_with_one_parent1,13.2,%,OECD,2016
+Belgium,children_by_income_status,mother_living_with_one_parent1,15.09,%,OECD,2016
+Czech Republic,children_by_income_status,mother_living_with_one_parent1,8.84,%,OECD,2016
+Estonia,children_by_income_status,mother_living_with_one_parent1,12.26,%,OECD,2016
+Finland,children_by_income_status,mother_living_with_one_parent1,9.89,%,OECD,2016
+France,children_by_income_status,mother_living_with_one_parent1,14.56,%,OECD,2016
+Greece,children_by_income_status,mother_living_with_one_parent1,6.07,%,OECD,2016
+Hungary,children_by_income_status,mother_living_with_one_parent1,18.21,%,OECD,2016
+Iceland,children_by_income_status,mother_living_with_one_parent1,12.65,%,OECD,2016
+Ireland,children_by_income_status,mother_living_with_one_parent1,13.29,%,OECD,2016
+Italy,children_by_income_status,mother_living_with_one_parent1,9.15,%,OECD,2016
+Latvia,children_by_income_status,mother_living_with_one_parent1,23.05,%,OECD,2016
+Lithuania,children_by_income_status,mother_living_with_one_parent1,16.24,%,OECD,2016
+Luxembourg,children_by_income_status,mother_living_with_one_parent1,9.42,%,OECD,2016
+Netherlands,children_by_income_status,mother_living_with_one_parent1,9.48,%,OECD,2016
+Norway,children_by_income_status,mother_living_with_one_parent1,13.52,%,OECD,2016
+Poland,children_by_income_status,mother_living_with_one_parent1,8.25,%,OECD,2016
+Portugal,children_by_income_status,mother_living_with_one_parent1,14.23,%,OECD,2016
+Slovak Republic,children_by_income_status,mother_living_with_one_parent1,11.53,%,OECD,2016
+Slovenia,children_by_income_status,mother_living_with_one_parent1,10.11,%,OECD,2016
+Spain,children_by_income_status,mother_living_with_one_parent1,11.73,%,OECD,2016
+Sweden,children_by_income_status,mother_living_with_one_parent1,10.39,%,OECD,2016
+Switzerland,children_by_income_status,mother_living_with_one_parent1,9.09,%,OECD,2016
+United Kingdom,children_by_income_status,mother_living_with_one_parent1,19.32,%,OECD,2016
+Bulgaria,children_by_income_status,mother_living_with_one_parent1,10.46,%,OECD,2016
+Croatia,children_by_income_status,mother_living_with_one_parent1,6.05,%,OECD,2016
+Cyprus,children_by_income_status,mother_living_with_one_parent1,8.18,%,OECD,2016
+Malta,children_by_income_status,mother_living_with_one_parent1,15.12,%,OECD,2016
+Romania,children_by_income_status,mother_living_with_one_parent1,7.9,%,OECD,2016
+EU average,children_by_income_status,mother_living_with_one_parent1,11.83,%,OECD,2016
+Austria,children_by_income_status,father_living_with_one_parent1,1.44,%,OECD,2016
+Belgium,children_by_income_status,father_living_with_one_parent1,4.32,%,OECD,2016
+Czech Republic,children_by_income_status,father_living_with_one_parent1,0.91,%,OECD,2016
+Estonia,children_by_income_status,father_living_with_one_parent1,0.91,%,OECD,2016
+Finland,children_by_income_status,father_living_with_one_parent1,1.71,%,OECD,2016
+France,children_by_income_status,father_living_with_one_parent1,4.82,%,OECD,2016
+Greece,children_by_income_status,father_living_with_one_parent1,0.89,%,OECD,2016
+Hungary,children_by_income_status,father_living_with_one_parent1,1.8,%,OECD,2016
+Iceland,children_by_income_status,father_living_with_one_parent1,2.79,%,OECD,2016
+Ireland,children_by_income_status,father_living_with_one_parent1,0.87,%,OECD,2016
+Italy,children_by_income_status,father_living_with_one_parent1,1.85,%,OECD,2016
+Latvia,children_by_income_status,father_living_with_one_parent1,3.38,%,OECD,2016
+Lithuania,children_by_income_status,father_living_with_one_parent1,1.93,%,OECD,2016
+Luxembourg,children_by_income_status,father_living_with_one_parent1,1.72,%,OECD,2016
+Netherlands,children_by_income_status,father_living_with_one_parent1,1.52,%,OECD,2016
+Norway,children_by_income_status,father_living_with_one_parent1,4.26,%,OECD,2016
+Poland,children_by_income_status,father_living_with_one_parent1,0.5,%,OECD,2016
+Portugal,children_by_income_status,father_living_with_one_parent1,3.05,%,OECD,2016
+Slovak Republic,children_by_income_status,father_living_with_one_parent1,0.95,%,OECD,2016
+Slovenia,children_by_income_status,father_living_with_one_parent1,2.62,%,OECD,2016
+Spain,children_by_income_status,father_living_with_one_parent1,1.48,%,OECD,2016
+Sweden,children_by_income_status,father_living_with_one_parent1,5.95,%,OECD,2016
+Switzerland,children_by_income_status,father_living_with_one_parent1,1.15,%,OECD,2016
+United Kingdom,children_by_income_status,father_living_with_one_parent1,1.41,%,OECD,2016
+Bulgaria,children_by_income_status,father_living_with_one_parent1,1.99,%,OECD,2016
+Croatia,children_by_income_status,father_living_with_one_parent1,0.63,%,OECD,2016
+Cyprus,children_by_income_status,father_living_with_one_parent1,1.88,%,OECD,2016
+Malta,children_by_income_status,father_living_with_one_parent1,2.66,%,OECD,2016
+Romania,children_by_income_status,father_living_with_one_parent1,1.7,%,OECD,2016
+EU average,children_by_income_status,father_living_with_one_parent1,2.04,%,OECD,2016
+Austria,children_by_income_status,other1,0.75,%,OECD,2016
+Belgium,children_by_income_status,other1,0.78,%,OECD,2016
+Czech Republic,children_by_income_status,other1,0.58,%,OECD,2016
+Estonia,children_by_income_status,other1,0.41,%,OECD,2016
+Finland,children_by_income_status,other1,0.37,%,OECD,2016
+France,children_by_income_status,other1,0.44,%,OECD,2016
+Greece,children_by_income_status,other1,0.37,%,OECD,2016
+Hungary,children_by_income_status,other1,2.22,%,OECD,2016
+Iceland,children_by_income_status,other1,0.63,%,OECD,2016
+Ireland,children_by_income_status,other1,0.2,%,OECD,2016
+Italy,children_by_income_status,other1,0.08,%,OECD,2016
+Latvia,children_by_income_status,other1,1.42,%,OECD,2016
+Lithuania,children_by_income_status,other1,1.39,%,OECD,2016
+Luxembourg,children_by_income_status,other1,1.1,%,OECD,2016
+Netherlands,children_by_income_status,other1,0.05,%,OECD,2016
+Norway,children_by_income_status,other1,0.77,%,OECD,2016
+Poland,children_by_income_status,other1,0.61,%,OECD,2016
+Portugal,children_by_income_status,other1,1.09,%,OECD,2016
+Slovak Republic,children_by_income_status,other1,0.96,%,OECD,2016
+Slovenia,children_by_income_status,other1,0.6,%,OECD,2016
+Spain,children_by_income_status,other1,0.81,%,OECD,2016
+Sweden,children_by_income_status,other1,0.44,%,OECD,2016
+Switzerland,children_by_income_status,other1,0.23,%,OECD,2016
+United Kingdom,children_by_income_status,other1,0.42,%,OECD,2016
+Bulgaria,children_by_income_status,other1,1.44,%,OECD,2016
+Croatia,children_by_income_status,other1,0.29,%,OECD,2016
+Cyprus,children_by_income_status,other1,0.47,%,OECD,2016
+Malta,children_by_income_status,other1,0.32,%,OECD,2016
+Romania,children_by_income_status,other1,4.8,%,OECD,2016
+EU average,children_by_income_status,other1,0.84,%,OECD,2016
